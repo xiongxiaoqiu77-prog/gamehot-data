@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-08-11T11:30:34",
+  "updated_at": "2026-08-11T12:03:02",
   "articles": [
+    {
+      "id": "06476d30d5",
+      "title": "《Halloween: The Game》因涉及药物描写在澳大利亚和新西兰被拒绝分级",
+      "zh_desc": "IllFonic 的不对称恐怖游戏《Halloween: The Game》被澳大利亚分级委员会拒绝分级，因而无法在澳大利亚和新西兰销售。该案例提示从业者需关注不同市场的分级标准，特别是药物描写等敏感内容的合规风险。",
+      "url": "https://www.gamesindustry.biz/halloween-the-game-denied-classification-in-australia-and-new-zealand-over-drug-depiction",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T19:20:17",
+      "fetched_at": "2026-08-11T12:03:02",
+      "lang": "en"
+    },
+    {
+      "id": "6536225ee0",
+      "title": "Valve 确认 Steam 硬件买家数据在 CEVA Logistics 网络攻击中泄露",
+      "zh_desc": "Valve 已开始向欧洲地区订购 Steam 硬件的客户发出通知，称其个人信息可能因物流商 CEVA Logistics 遭受网络攻击而被暴露。事件提醒游戏公司在供应链和第三方合作中需重视数据安全与合规披露。",
+      "url": "https://www.gamesindustry.biz/valve-confirms-steam-hardware-buyers-data-exposed-in-ceva-logistics-cyberattack",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T17:46:04",
+      "fetched_at": "2026-08-11T12:03:02",
+      "lang": "en"
+    },
+    {
+      "id": "e67219b0f7",
+      "title": "Xbox 将于 8 月下旬在澳大利亚主机和 PC 平台实施年龄验证",
+      "zh_desc": "Xbox 计划在本月晚些时候面向澳大利亚的主机和 PC 用户推行年龄验证。该措施反映平台合规与未成年保护的新趋势，对多平台发行的团队有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/xbox-to-implement-age-verification-in-australia-on-console-and-pc-in-late-august",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T13:50:22",
+      "fetched_at": "2026-08-11T12:03:02",
+      "lang": "en"
+    },
+    {
+      "id": "3e94e97adf",
+      "title": "前 Ubisoft Barcelona 员工成立 Dark Ritual Studios，专注“工艺而非规模”",
+      "zh_desc": "在推出《Assassin's Creed Black Flag Resynced》后，Ubisoft 裁撤了巴塞罗那工作室的 51 个职位；如今以 Myles Kerwin 为首的一批前员工成立了 Dark Ritual Studios。这家独立工作室强调“工艺而非规模”，对关注团队精简与独立游戏开发的从业者具有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/former-ubisoft-barcelona-workers-launch-dark-ritual-studios-an-indie-developer-focused-on-craftsmanship-over-scale",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T12:39:11",
+      "fetched_at": "2026-08-11T12:03:02",
+      "lang": "en"
+    },
+    {
+      "id": "3e8a7e9a5f",
+      "title": "2026 年值得关注的美国顶尖游戏开发公司",
+      "zh_desc": "文章盘点了 2026 年美国值得关注的主要游戏开发公司，为从业者了解行业格局和潜在合作/择业机会提供参考。内容属于公司盘点类资讯，未涉及休闲游戏玩法或变现的深入分析。",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQW01S3o1MjhBMGRXdDE2Mmc5UXFUQW10Um1UQXRESWVxWi0wWmtjN1JNR3p0bTV1RzMtZkJCVjhnWUNfSTVsa3VfSWVocjBJYU13YkhzdG03YkNJTEdJeEptTjR5SjN1ajVDOF9xeUxxZGJfLU1ReVpnNXlOb0NNNVcwS3otMjc1S1Y1SEsxb2ZFejZG?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T10:01:04",
+      "fetched_at": "2026-08-11T12:03:02",
+      "lang": "en"
+    },
     {
       "id": "b8185962b5",
       "title": "游戏行业跳槽与晋升动态：EA、Nazara、Unity、Epic、Scopely、Kabam等",
