@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-11T20:39:34",
+  "updated_at": "2026-08-11T21:12:14",
   "articles": [
+    {
+      "id": "2841e79043",
+      "title": "Supermassive Games 宣布裁员，最多 75 名员工或受影响",
+      "zh_desc": "Supermassive Games 宣布三年内第三轮裁员，最多可能影响75个岗位。这是一条海外游戏公司动态，对关注行业裁员与团队调整的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/supermassive-games-announces-layoffs-up-to-75-workers-may-be-affected",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-11T13:05:23",
+      "fetched_at": "2026-08-11T21:12:14",
+      "lang": "en"
+    },
     {
       "id": "3bc9f41c51",
       "title": "Reforj 开发商 4J Studios 发布 Rixels：改良像素可将纹理内存需求降低 98%",
