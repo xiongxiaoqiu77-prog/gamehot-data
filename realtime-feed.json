@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-12T02:32:36",
+  "updated_at": "2026-08-12T04:07:27",
   "articles": [
+    {
+      "id": "60496fa2dd",
+      "title": "Remedy Entertainment 宣称 Control Resonant 定价“对 3A 游戏有吸引力”",
+      "zh_desc": "Remedy Entertainment 正尝试以 60 美元为 Control Resonant 定价，并借助积极的前瞻评测来应对自主发行风险。对关注 3A 定价策略与发行模式的从业者有一定参考价值，但与休闲/消除手游关联度有限。",
+      "url": "https://www.gamedeveloper.com/business/remedy-entertainment-touts-pricing-control-resonant-attractively-for-an-aaa-title-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-11T14:30:18",
+      "fetched_at": "2026-08-12T04:07:27",
+      "lang": "en"
+    },
     {
       "id": "8b6e60d015",
       "title": "三家独立恐怖游戏发行商面临性骚扰指控——接下来会发生什么？",
