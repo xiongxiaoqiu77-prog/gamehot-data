@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-08-11T19:02:42",
+  "updated_at": "2026-08-11T19:35:09",
   "articles": [
+    {
+      "id": "ac06b3488c",
+      "title": "Ukie称‘限制性’订阅提案可能损害英国游戏业务",
+      "zh_desc": "英国游戏行业协会Ukie警告，针对订阅服务的限制性新规可能抑制企业对订阅产品的投资，并给游戏公司带来财务风险。这篇文章适合关注英国市场订阅政策与游戏商业模式的从业者了解潜在监管变化。",
+      "url": "https://www.gamedeveloper.com/business/ukie-claims-restrictive-subscription-proposals-could-harm-uk-game-businesses-in-the-uk",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-11T11:11:33",
+      "fetched_at": "2026-08-11T19:35:09",
+      "lang": "en"
+    },
+    {
+      "id": "6f19fdef3c",
+      "title": "Remedy报告Q2及上半年营收下滑，准备推出Control Resonant",
+      "zh_desc": "Remedy在2026年第二季度和上半年收入同比下降，同时正为Control Resonant的上市加大营销投入。文章提供了Remedy近期财务表现与新作筹备情况，可帮助从业者了解核心向厂商在重要产品发布前的市场节奏。",
+      "url": "https://www.gamesindustry.biz/remedy-reports-revenue-declines-in-q2-and-h1-as-it-prepares-for-control-resonant-launch",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-11T11:08:45",
+      "fetched_at": "2026-08-11T19:35:09",
+      "lang": "en"
+    },
+    {
+      "id": "df4055192c",
+      "title": "MTG公布中核游戏部门新品牌Playamp",
+      "zh_desc": "MTG将其中核游戏部门更名为Playamp，覆盖旗下六家工作室，这些工作室去年贡献了MTG集团78%的收入。对于关注中核/休闲手游厂商品牌整合与集团策略的从业者，这是一条简短但明确的行业动态。",
+      "url": "https://mobilegamer.biz/mtg-unveils-playamp-brand-for-midcore-games-division/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-11T11:20:01",
+      "fetched_at": "2026-08-11T19:35:09",
+      "lang": "en"
+    },
     {
       "id": "40638f6fda",
       "title": "GamesAid 任命六位新受托人，2025/26 年度筹集 8.2 万英镑",
