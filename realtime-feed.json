@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-11T13:08:51",
+  "updated_at": "2026-08-11T13:42:00",
   "articles": [
+    {
+      "id": "cdc9731957",
+      "title": "2004年的RuneScape如何将多人RPG塞进56k拨号网络",
+      "zh_desc": "通过反编译2004年的RuneScape 2客户端，本文揭示了其极致压缩网络通信字节的细节，例如仅发送路径角点坐标增量、用600ms tick同步状态。对多人游戏开发者理解低带宽网络优化有很强参考价值。",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vkqfug/how_2004_runescape_fit_a_multiplayer_rpg_into_56k/",
+      "source": "r/gamedev",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-08-10T16:54:59",
+      "fetched_at": "2026-08-11T13:42:00",
+      "lang": "en"
+    },
     {
       "id": "206acf7e4e",
       "title": "我如何用语义搜索从 17,000 个音效中快速匹配约 100 个游戏事件",
