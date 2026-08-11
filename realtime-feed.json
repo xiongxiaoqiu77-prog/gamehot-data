@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-11T18:29:32",
+  "updated_at": "2026-08-11T19:02:42",
   "articles": [
+    {
+      "id": "40638f6fda",
+      "title": "GamesAid 任命六位新受托人，2025/26 年度筹集 8.2 万英镑",
+      "zh_desc": "GamesAid 宣布六位新受托人加入董事会，并在 2025/26 年度为四家慈善机构筹集了 8.2 万英镑。这是一条英国游戏行业公益动态，对休闲游戏从业者的直接参考价值有限。",
+      "url": "https://www.gamesindustry.biz/gamesaid-appoints-six-new-trustees-as-it-raises-82000-in-funding-during-202526",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-11T10:00:44",
+      "fetched_at": "2026-08-11T19:02:42",
+      "lang": "en"
+    },
     {
       "id": "c7bb27d143",
       "title": "Big Walk 全球销量超 100 万份",
