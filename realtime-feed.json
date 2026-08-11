@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-11T20:07:24",
+  "updated_at": "2026-08-11T20:39:34",
   "articles": [
+    {
+      "id": "3bc9f41c51",
+      "title": "Reforj 开发商 4J Studios 发布 Rixels：改良像素可将纹理内存需求降低 98%",
+      "zh_desc": "4J Studios 为 Reforj 推出名为 Rixels 的纹理替代技术，可将纹理内存占用降低 98%，并已申请专利。该技术对游戏开发者有参考价值，但并非针对休闲游戏设计，属于行业技术资讯。",
+      "url": "https://www.gamesindustry.biz/reforj-developer-4j-studios-unveils-rixels-modified-pixels-that-reduce-texture-memory-requirements-by-98",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-11T12:26:32",
+      "fetched_at": "2026-08-11T20:39:34",
+      "lang": "en"
+    },
     {
       "id": "4ceb5c6289",
       "title": "SciPlay Games 以色列部门裁员20人",
