@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-11T10:58:39",
+  "updated_at": "2026-08-11T11:30:34",
   "articles": [
+    {
+      "id": "b8185962b5",
+      "title": "游戏行业跳槽与晋升动态：EA、Nazara、Unity、Epic、Scopely、Kabam等",
+      "zh_desc": "汇总了多家游戏公司的人事变动与晋升消息，涵盖EA、Nazara、Unity、Epic、Scopely、Kabam、Xsolla、Tactile Games和Moon Active等厂商。对关注手游及休闲游戏人才流向的从业者有一定参考价值，但缺乏对具体游戏设计或变现的深入拆解。",
+      "url": "https://mobilegamer.biz/jobs-digest-moves-and-promotions-at-ea-nazara-unity-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T13:49:58",
+      "fetched_at": "2026-08-11T11:30:34",
+      "lang": "en"
+    },
     {
       "id": "5e680dce49",
       "title": "最优秀的创始人为什么既非美国人也非欧洲人",
