@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-12T05:10:34",
+  "updated_at": "2026-08-12T05:42:50",
   "articles": [
+    {
+      "id": "fd52170826",
+      "title": "前 Ubisoft Barcelona 开发者成立 Dark Ritual Studios",
+      "zh_desc": "文章报道了 Ubisoft 巴塞罗那工作室裁员后，前员工宣布成立新工作室 Dark Ritual Studios。属于游戏行业人才流动与创业动态，对关注欧洲市场团队变化的人有一定参考。",
+      "url": "https://www.gamedeveloper.com/business/former-ubisoft-barcelona-devs-launch-dark-ritual-studios",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-11T16:40:19",
+      "fetched_at": "2026-08-12T05:42:50",
+      "lang": "en"
+    },
     {
       "id": "06bbd6d35a",
       "title": "报道：Crossfire 开发商 That's No Moon 裁员 14 人",
