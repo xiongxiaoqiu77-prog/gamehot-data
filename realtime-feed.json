@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-11T19:35:09",
+  "updated_at": "2026-08-11T20:07:24",
   "articles": [
+    {
+      "id": "4ceb5c6289",
+      "title": "SciPlay Games 以色列部门裁员20人",
+      "zh_desc": "据报告，SciPlay Games 以色列分支裁减约20个职位，约占当地员工总数的7%。作为休闲游戏公司，SciPlay 的人员调整反映了其当前的降本动作，值得关注休闲游戏行业动态的从业者留意。",
+      "url": "https://mobilegamer.biz/sciplay-games-israel-cuts-20-jobs-says-report/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-11T11:38:07",
+      "fetched_at": "2026-08-11T20:07:24",
+      "lang": "en"
+    },
     {
       "id": "ac06b3488c",
       "title": "Ukie称‘限制性’订阅提案可能损害英国游戏业务",
