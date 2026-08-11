@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-11T16:53:54",
+  "updated_at": "2026-08-11T18:29:32",
   "articles": [
+    {
+      "id": "c7bb27d143",
+      "title": "Big Walk 全球销量超 100 万份",
+      "zh_desc": "据游戏开发者媒体报道，游戏《Big Walk》全球销量已突破100万份。该消息属于商业销售里程碑新闻，与三消/消除类休闲游戏的设计和变现关联度较低。",
+      "url": "https://www.gamedeveloper.com/business/big-walk-has-sold-over-1-million-copies-worldwide",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-11T10:06:36",
+      "fetched_at": "2026-08-11T18:29:31",
+      "lang": "en"
+    },
     {
       "id": "582c9e8c04",
       "title": "Square Enix第一季度利润飙升，得益于Final Fantasy 7 Rebirth在Switch 2和Xbox上发布",
