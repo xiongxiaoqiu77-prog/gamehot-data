@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-11T22:18:00",
+  "updated_at": "2026-08-12T02:32:36",
   "articles": [
+    {
+      "id": "8b6e60d015",
+      "title": "三家独立恐怖游戏发行商面临性骚扰指控——接下来会发生什么？",
+      "zh_desc": "报道了三家 indie horror 发行商遭遇性骚扰指控的事件，并探讨独立游戏圈缺乏保护机制与问责难的问题。对从业者而言，可作为了解行业道德风险和工作室管理教训的参考。",
+      "url": "https://www.gamedeveloper.com/production/three-indie-horror-publishers-faced-sexual-harassment-claims-what-comes-next-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-11T17:35:23",
+      "fetched_at": "2026-08-12T02:32:36",
+      "lang": "en"
+    },
     {
       "id": "88dddd6cb6",
       "title": "Gamescom Dev 演讲者调查揭示 AI 对团队结构和生产力的潜在影响",
