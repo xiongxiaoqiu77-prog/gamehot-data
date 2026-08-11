@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-12T04:07:27",
+  "updated_at": "2026-08-12T05:10:34",
   "articles": [
+    {
+      "id": "06bbd6d35a",
+      "title": "报道：Crossfire 开发商 That's No Moon 裁员 14 人",
+      "zh_desc": "据 Game Developer 报道，Crossfire 开发商 That's No Moon 近期裁员 14 人。该作由 Smilegate 与腾讯子公司 Team K1 联合发行，此次变动反映大型项目团队调整，但对休闲游戏从业者参考价值有限。",
+      "url": "https://www.gamedeveloper.com/business/report-crossfire-dev-that-s-no-moon-lays-off-14-staff",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-11T20:30:00",
+      "fetched_at": "2026-08-12T05:10:34",
+      "lang": "en"
+    },
     {
       "id": "60496fa2dd",
       "title": "Remedy Entertainment 宣称 Control Resonant 定价“对 3A 游戏有吸引力”",
