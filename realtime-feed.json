@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-08-11T12:03:02",
+  "updated_at": "2026-08-11T12:39:57",
   "articles": [
+    {
+      "id": "bfc791ecd6",
+      "title": "我该不该在 Steam 上使用 match-3 标签？",
+      "zh_desc": "作者开发了一款老式地牢探索游戏，战斗基于在棋盘上连线匹配资源，但对是否使用 match-3 标签感到纠结，担心误导期望。涉及 Steam 品类标签与玩家预期管理，对休闲/三消游戏上线选品策略有参考。",
+      "url": "https://www.reddit.com/r/gamedev/comments/1vl0ueo/i_am_confused_if_i_should_be_using_the_match3_tag/",
+      "source": "r/gamedev",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-10T23:25:58",
+      "fetched_at": "2026-08-11T12:39:57",
+      "lang": "en"
+    },
     {
       "id": "06476d30d5",
       "title": "《Halloween: The Game》因涉及药物描写在澳大利亚和新西兰被拒绝分级",
