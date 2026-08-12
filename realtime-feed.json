@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-13T03:45:18",
+  "updated_at": "2026-08-13T04:17:18",
   "articles": [
+    {
+      "id": "cedaca5a17",
+      "title": "Amazon 最迟 2027 年初放弃《Lost Ark》和《Throne and Liberty》的发行商角色",
+      "zh_desc": "Amazon Games 宣布将在 2027 年初前把 Lost Ark 与 Throne and Liberty 的发行权交还开发商，结束其发行商角色。这则行业新闻反映了大型在线游戏发行权调整趋势，但对休闲游戏领域参考价值有限。",
+      "url": "https://www.gamedeveloper.com/business/amazon-to-rescind-its-publisher-role-on-lost-ark-and-throne-and-liberty-by-early-2027",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-12T16:38:37",
+      "fetched_at": "2026-08-13T04:17:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Lost Ark",
+          "desc": "一款MMO，Amazon将于2027年初停止发行服务，归还给开发商Smilegate。"
+        },
+        {
+          "name": "Throne and Liberty",
+          "desc": "一款MMO，Amazon将全球发行服务转交给NC的在线发行服务。"
+        },
+        {
+          "name": "New World: Aeternum",
+          "desc": "一款MMO，Amazon已于去年底停止积极开发。"
+        },
+        {
+          "name": "King of Meat",
+          "desc": "一款UGC地牢搏击游戏，上线六个月后关闭。"
+        }
+      ]
+    },
     {
       "id": "ba0a356e6c",
       "title": "开发者预期生成式 AI 将在未来三年内影响岗位与团队规模",
