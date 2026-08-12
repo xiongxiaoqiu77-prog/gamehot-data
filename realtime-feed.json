@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-13T00:34:24",
+  "updated_at": "2026-08-13T01:06:32",
   "articles": [
+    {
+      "id": "8928b5fa0c",
+      "title": "Witcher 多人衍生作 Project Sirius 遭遇新一轮裁员",
+      "zh_desc": "CD Projekt Red 旗下 Witcher 多人衍生作 Project Sirius 再次裁员，反映该项目开发团队持续变动。属于一般性游戏行业动态，与三消/休闲手游的设计或变现无直接关联。",
+      "url": "https://www.gamesindustry.biz/witcher-multiplayer-spin-off-project-sirius-hit-by-fresh-layoffs",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-12T16:33:08",
+      "fetched_at": "2026-08-13T01:06:32",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Project Sirius",
+          "desc": "CD Projekt Red开发的Witcher多人合作及单人衍生游戏，经历了裁员和重新调整。"
+        }
+      ]
+    },
     {
       "id": "04f5c1469f",
       "title": "Meccha Chameleon 两个月销量突破 2000 万",
