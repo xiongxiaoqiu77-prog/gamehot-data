@@ -1,6 +1,102 @@
 {
-  "updated_at": "2026-08-12T05:42:50",
+  "updated_at": "2026-08-12T09:43:33",
   "articles": [
+    {
+      "id": "40434cf294",
+      "title": "玩家为游戏付费时，大脑里发生了什么变化？",
+      "zh_desc": "从认知科学和消费心理学角度分析玩家付费时的大脑反应，拆解动机、情绪与决策路径；对休闲游戏的内购设计、付费点设置和变现策略有借鉴价值。",
+      "url": "https://mp.weixin.qq.com/s/ivHuNLHgDdR4k8dCTyNR8w",
+      "source": "微信-无界游戏学社",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-08-11T17:00:52",
+      "fetched_at": "2026-08-12T09:43:33",
+      "lang": "zh"
+    },
+    {
+      "id": "b32723f8a9",
+      "title": "【一周游语Vol.154】软绳结益智消除玩出下",
+      "zh_desc": "盘点一周值得关注的休闲益智消除玩法，并判断其是否具备成为下一代爆款的潜力；适合关注休闲创意方向和玩法迭代的从业者参考。",
+      "url": "https://mp.weixin.qq.com/s/RmzbNw6CFd-QV9L6kQIPDw",
+      "source": "微信-GAME游意思",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-11T11:00:14",
+      "fetched_at": "2026-08-12T09:43:33",
+      "lang": "zh"
+    },
+    {
+      "id": "6c7fcc4940",
+      "title": "【一周游语Vol.154】软绳结益智消除玩出下一款Color Block Jam模拟经营表现是经典休闲玩法下个版本的答案？",
+      "zh_desc": "一周休闲游戏观察合集，重点拆解软绳结益智消除与 Color Block Jam 的关联，并提问模拟经营表现是否代表经典休闲玩法下个版本的方向；对休闲游戏创意和玩法迭代有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/CR203nbUzxhjlQx0Ihlp2Q",
+      "source": "微信-GAME游意思",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-11T09:58:18",
+      "fetched_at": "2026-08-12T09:43:33",
+      "lang": "zh"
+    },
+    {
+      "id": "47d90e28c2",
+      "title": "近期slg和休闲puzzle测试产品汇总",
+      "zh_desc": "汇总近期 SLG 与休闲 Puzzle 品类的测试产品，帮助从业者快速了解中轻度手游市场的新品动向和测试信号；适合立项调研与竞品观察。",
+      "url": "https://mp.weixin.qq.com/s/K9Mxt9II76nxDlDhFQ0j7g",
+      "source": "微信-王董的新游戏",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-11T09:46:36",
+      "fetched_at": "2026-08-12T09:43:33",
+      "lang": "zh"
+    },
+    {
+      "id": "08eab62e39",
+      "title": "搜狐财报扭亏，但还能靠一款老游戏养多久？",
+      "zh_desc": "分析搜狐最新财报扭亏的原因，并讨论其对单款老游戏的依赖与可持续性；属于公司经营新闻，与休闲游戏玩法无直接关联。",
+      "url": "https://mp.weixin.qq.com/s/1vt73PHR5bNZFYs5W0zaxg",
+      "source": "微信-橙了个橘",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-11T09:42:13",
+      "fetched_at": "2026-08-12T09:43:33",
+      "lang": "zh"
+    },
+    {
+      "id": "f024633247",
+      "title": "跳出传统COK框架？海外新游《Blue Castaways: Global》——冰海荒岛生存SLG：六边形填海拓地经营建造，用填海重构SLG种田体验",
+      "zh_desc": "拆解海外新游《Blue Castaways: Global》的六边形填海拓地、经营建造等机制，分析其如何在 SLG 框架上重构种田体验；对关注中重度手游玩法融合的从业者有参考价值，但与休闲消除品类关联较弱。",
+      "url": "https://mp.weixin.qq.com/s/aNlPvEcuSG-ANLdyZfcmXQ",
+      "source": "微信-阿杜聊游戏",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-08-11T08:39:32",
+      "fetched_at": "2026-08-12T09:43:33",
+      "lang": "zh"
+    },
+    {
+      "id": "be4217d088",
+      "title": "借助AI工具高效拆解点点最新二合爆款《Hotel Legacy》的发行策略",
+      "zh_desc": "以点点互动《Hotel Legacy》为例，展示如何借助 AI 工具拆解二合休闲品类的发行策略，涵盖买量素材、商店页与营销链条；对休闲游戏发行和产品分析有实操价值。",
+      "url": "https://mp.weixin.qq.com/s/KUWnaeuNYWd4gJ8SOeUgzg",
+      "source": "微信-游戏本稚",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-11T08:32:37",
+      "fetched_at": "2026-08-12T09:43:33",
+      "lang": "zh"
+    },
+    {
+      "id": "39facd303a",
+      "title": "闲徕互娱要被卖了...",
+      "zh_desc": "消息称闲徕互娱将被出售，涉及棋牌/地方性休闲游戏公司变动；属于公司动态与并购新闻，对三消玩法设计无直接帮助。",
+      "url": "https://mp.weixin.qq.com/s/VnZq3OqU57hbCkxS6t24tA",
+      "source": "微信-GameQuest",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-11T06:18:40",
+      "fetched_at": "2026-08-12T09:43:33",
+      "lang": "zh"
+    },
     {
       "id": "fd52170826",
       "title": "前 Ubisoft Barcelona 开发者成立 Dark Ritual Studios",
