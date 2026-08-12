@@ -1,6 +1,330 @@
 {
-  "updated_at": "2026-08-12T11:00:09",
+  "updated_at": "2026-08-13T00:34:24",
   "articles": [
+    {
+      "id": "04f5c1469f",
+      "title": "Meccha Chameleon 两个月销量突破 2000 万",
+      "zh_desc": "这款捉迷藏式游戏上线两个月销量突破 2000 万，继续刷新商业里程碑。对从业者而言，这是一个观察病毒式休闲/聚会游戏快速起量及跨平台发行的市场案例。",
+      "url": "https://www.gamedeveloper.com/business/meccha-chameleon-tops-20m-sales-in-two-months",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-12T14:09:41",
+      "fetched_at": "2026-08-13T00:34:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Meccha Chameleon",
+          "desc": "一款通过涂画卡通身体来伪装的捉迷藏游戏。"
+        }
+      ]
+    },
+    {
+      "id": "8a7e7889fa",
+      "title": "Epic Games 将 ArtStation 与 Sketchfab 出售给 KitBash",
+      "zh_desc": "Epic Games 将 2021 年收购的两个创作者平台 ArtStation 和 Sketchfab 出售给 KitBash。该交易反映游戏公司在非核心资产上的调整，对关注开发工具链与创作者平台的从业者有参考意义。",
+      "url": "https://www.gamedeveloper.com/business/epics-sells-artstation-and-sketchfab-to-kitbash",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-12T13:54:15",
+      "fetched_at": "2026-08-13T00:34:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic Games旗下的大逃杀游戏。"
+        }
+      ]
+    },
+    {
+      "id": "afb87652f2",
+      "title": "工会成员在 Xbox 负责人 Asha Sharma 办公室外举行醒目抗议：每名被裁开发者一面旗帜",
+      "zh_desc": "针对 Xbox 裁员的工会抗议升级，现场出现充气老鼠和旗帜等醒目元素。事件反映游戏行业劳资矛盾与工会行动，值得从业者关注裁员公关风险与团队管理议题。",
+      "url": "https://www.gamedeveloper.com/business/-one-flag-for-each-laid-off-dev-union-members-stage-unmissable-protest-for-xbox-boss-asha-sharma",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-12T08:45:10",
+      "fetched_at": "2026-08-13T00:34:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Elder Scrolls VI",
+          "desc": "Bethesda正在开发中的角色扮演游戏。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "第一人称射击游戏系列。"
+        },
+        {
+          "name": "Overwatch",
+          "desc": "团队射击游戏。"
+        },
+        {
+          "name": "World of Warcraft",
+          "desc": "大型多人在线角色扮演游戏。"
+        }
+      ]
+    },
+    {
+      "id": "1562d167bc",
+      "title": "Saber Interactive 否认用 AI 取代编剧",
+      "zh_desc": "Saber Interactive 否认在竞速游戏 Rideshare Stimulator 的剧本工作中使用 ChatGPT 取代人类编剧。这起争议涉及生成式 AI 在游戏开发中的应用边界，对内容团队与外包流程具有参考价值。",
+      "url": "https://www.gamesindustry.biz/saber-interactive-denies-replacing-writer-with-ai",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-12T15:45:01",
+      "fetched_at": "2026-08-13T00:34:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Rideshare Stimulator",
+          "desc": "Saber Interactive开发的驾驶游戏。"
+        }
+      ]
+    },
+    {
+      "id": "b89a78120f",
+      "title": "CodeDev Group 成立新开发工作室 Full Spectrum Interactive",
+      "zh_desc": "CodeDev Group（又称 The Unreal Guys）宣布成立新工作室 Full Spectrum Interactive。该动态属于游戏开发服务商的组织扩张，可作为行业并购、团队拓展与外包服务趋势的背景信息。",
+      "url": "https://www.gamesindustry.biz/codedev-group-launches-dev-studio-full-spectrum-interactive",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-12T13:58:09",
+      "fetched_at": "2026-08-13T00:34:24",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "be77d8b2fd",
+      "title": "MMORPG《Throne and Liberty》发行服务从 Amazon Game Studios 转移至 NC",
+      "zh_desc": "《Throne and Liberty》的全球发行服务将从 Amazon Game Studios 移交至 NC（原 NCSoft）。这是大型多人在线游戏发行权的重大变动，对关注长线运营与发行合作模式的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/mmorpg-throne-and-liberty-transitions-from-amazon-game-studios-to-nc-formerly-ncsoft",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-12T13:07:48",
+      "fetched_at": "2026-08-13T00:34:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Throne and Liberty",
+          "desc": "NC（原NCSoft）开发并运营的MMORPG。"
+        },
+        {
+          "name": "New World: Aeternum",
+          "desc": "亚马逊发行的MMORPG，已宣布停运。"
+        },
+        {
+          "name": "King of Meat",
+          "desc": "Glowmade开发的在线多人合作地下城爬行游戏，将被关闭。"
+        },
+        {
+          "name": "Lord of the Rings MMO",
+          "desc": "亚马逊与Embracer合作开发的《指环王》主题MMO，已被取消。"
+        }
+      ]
+    },
+    {
+      "id": "567153dac4",
+      "title": "《Planet of Lana》被拒绝“数百次”后，靠顽强决心成为爆款",
+      "zh_desc": "报道《Planet of Lana》在屡遭拒绝后最终成功的开发故事，开发者坦承早期缺乏经验。对独立开发者而言，这是一段关于坚持、发行策略与项目复盘的内容。",
+      "url": "https://www.gamesindustry.biz/how-planet-of-lana-became-a-hit-through-dogged-determination-after-being-rejected-hundreds-of-times",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-12T11:00:00",
+      "fetched_at": "2026-08-13T00:34:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Planet of Lana",
+          "desc": "Wishfully Studios开发的电影化冒险平台游戏，于2023年发售。"
+        }
+      ]
+    },
+    {
+      "id": "22ccc261a7",
+      "title": "BAFTA Games Awards 更新投票要求与参赛费用，开放 2027 年奖项报名",
+      "zh_desc": "BAFTA Games Awards 已开放 2027 年奖项报名，并调整参赛要求、费用结构及 AI 政策。对游戏发行和公关团队而言，这是参评与宣传节奏的重要信息。",
+      "url": "https://www.gamesindustry.biz/bafta-games-awards-updates-voting-requirements-and-entry-fees-as-it-opens-entries-for-2027-ceremony",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-12T10:46:01",
+      "fetched_at": "2026-08-13T00:34:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Clair Obscur: Expedition 33",
+          "desc": "Sandfall Interactive开发的游戏，曾获三项BAFTA奖。"
+        }
+      ]
+    },
+    {
+      "id": "2ad4282160",
+      "title": "Pearl Abyss 二季度业绩下滑，Crimson Desert 发售红利减弱",
+      "zh_desc": "Pearl Abyss 发布二季度财报，显示在 3 月《Crimson Desert》发售带来短期高峰后，业绩明显回落。该案例可用于观察大作上线后的流水衰减节奏及上市公司业绩波动。",
+      "url": "https://www.gamesindustry.biz/pearl-abyss-q2-earnings-decline-as-impact-of-crimson-deserts-launch-period-subsides",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-12T09:51:42",
+      "fetched_at": "2026-08-13T00:34:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Crimson Desert",
+          "desc": "Pearl Abyss开发的开放世界RPG，2026年3月发售。"
+        },
+        {
+          "name": "Black Desert",
+          "desc": "Pearl Abyss旗下的MMORPG系列。"
+        },
+        {
+          "name": "DokeV",
+          "desc": "Pearl Abyss正在开发的新作，预计2028年下半年发售。"
+        },
+        {
+          "name": "Plan 8",
+          "desc": "Pearl Abyss正在开发的新作。"
+        }
+      ]
+    },
+    {
+      "id": "7b85e8bc54",
+      "title": "UKIE 支持的 Digital Schoolhouse 与 Roblox 合作，为学生提供课堂内开发 Roblox 游戏的工具",
+      "zh_desc": "教育公益组织 Digital Schoolhouse 与 Roblox 合作，推出面向中小学课堂的免费 Roblox 游戏开发工具。对关注游戏教育、UGC 生态和低龄用户培养的从业者有参考意义。",
+      "url": "https://www.gamesindustry.biz/ukie-backed-digital-schoolhouse-partners-with-roblox-to-provide-suite-of-tools-for-students-to-develop-roblox-games-in-class",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-12T08:59:53",
+      "fetched_at": "2026-08-13T00:34:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "在线游戏平台，允许用户创建和游玩用户生成内容。"
+        }
+      ]
+    },
+    {
+      "id": "7b86494bea",
+      "title": "Hungry Studio 热门益智游戏 Block Blast 将登陆 Apple Arcade",
+      "zh_desc": "热门类俄罗斯方块益智游戏 Block Blast 将于 9 月 3 日登陆 Apple Arcade，并以无广告形式出现在苹果订阅服务中。对休闲和超休闲发行商而言，这是观察益智游戏从广告变现转向订阅分发的重要信号。",
+      "url": "https://mobilegamer.biz/hungry-studios-hit-puzzler-block-blast-is-heading-to-apple-arcade/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-12T12:23:34",
+      "fetched_at": "2026-08-13T00:34:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Block Blast",
+          "desc": "Hungry Studio开发的类似俄罗斯方块的网格消除益智游戏。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "在线游戏平台，在下载量比较中被提及。"
+        },
+        {
+          "name": "Art of Fauna: Cozy Puzzles+",
+          "desc": "Klemens Strasser的拼图式自然游戏，获2025年App Store文化影响奖。"
+        },
+        {
+          "name": "NFL Retro Bowl ’27",
+          "desc": "加入Apple Arcade的美式橄榄球游戏。"
+        },
+        {
+          "name": "Coloring Games for Families+",
+          "desc": "加入Apple Arcade的家庭涂色游戏。"
+        },
+        {
+          "name": "Let’s Play Oink Games+",
+          "desc": "加入Apple Arcade的派对游戏。"
+        }
+      ]
+    },
+    {
+      "id": "e7c681d7c7",
+      "title": "数据摘要：Monopoly Go 网页商店势头强劲、Pokémon Go 回暖、Love and Deepspace 收入下滑等",
+      "zh_desc": "本期数据盘点涵盖 Monopoly Go 网页商店、Pokémon Go 数据峰值、Love and Deepspace 收入下滑，以及混合休闲市场与多家厂商财报。对休闲和手游运营者而言，这是快速掌握一周市场热点的数据汇总。",
+      "url": "https://mobilegamer.biz/data-digest-monopoly-gos-booming-webstore-pokemon-go-spikes-love-and-deepspace-revenue-crashes-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-12T11:03:08",
+      "fetched_at": "2026-08-13T00:34:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "Scopely的移动端大富翁游戏，网页商店收入表现突出。"
+        },
+        {
+          "name": "Pokémon Go",
+          "desc": "AR移动游戏，十周年活动带动收入大幅增长。"
+        },
+        {
+          "name": "Disney Solitaire",
+          "desc": "迪士尼主题纸牌游戏。"
+        },
+        {
+          "name": "Raid: Shadow Legends",
+          "desc": "Plarium的角色扮演游戏，玩家更多通过网页商店消费。"
+        },
+        {
+          "name": "Slotomania Slots",
+          "desc": "老虎机社交赌场游戏。"
+        },
+        {
+          "name": "Love and Deepspace",
+          "desc": "Papergames的恋爱手游，7月收入大幅下降。"
+        },
+        {
+          "name": "Pixel Flow",
+          "desc": "混合休闲益智游戏，H1 2026全球IAP收入领先。"
+        },
+        {
+          "name": "Screwdom",
+          "desc": "螺丝题材益智游戏。"
+        },
+        {
+          "name": "Color Block Jam",
+          "desc": "方块益智游戏。"
+        },
+        {
+          "name": "Sort: Yarn Loop",
+          "desc": "毛线循环分类解谜游戏。"
+        },
+        {
+          "name": "Marble Sort",
+          "desc": "大理石分类益智游戏。"
+        },
+        {
+          "name": "Knit Out",
+          "desc": "编织题材益智游戏。"
+        }
+      ]
+    },
+    {
+      "id": "b4c4062907",
+      "title": "Stop Killing Games 发起方决定加入对索尼 PlayStation Store 加价的诉讼",
+      "zh_desc": "荷兰消费者权益组织与 Stop Killing Games 发起方联合，决定就 PlayStation Store 价格问题起诉索尼。这起法律行动涉及数字商店价格政策与消费者权益，对发行和平台运营者有行业影响。",
+      "url": "https://gameworldobserver.com/2026/08/12/the-authors-of-the-stop-killing-games-initiative-have-decided-to-sue-sony-over-markups-in-the-playstation-store",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-12T14:34:56",
+      "fetched_at": "2026-08-13T00:34:24",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "8666ac00c9",
       "title": "数据摘要：Sensor Tower 上半年分析、Hay Day 回归、7 月热门游戏、Krafton 重大数据等",
