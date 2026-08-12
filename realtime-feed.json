@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-13T01:06:32",
+  "updated_at": "2026-08-13T03:45:18",
   "articles": [
+    {
+      "id": "ba0a356e6c",
+      "title": "开发者预期生成式 AI 将在未来三年内影响岗位与团队规模",
+      "zh_desc": "据 Gamescom Dev Conference 上 100 位演讲者的调查，开发者对生成式 AI 在游戏行业的应用持犹豫和复杂态度，并预期未来三年将影响岗位配置与团队规模。对关注游戏研发与团队管理的从业者有一定行业趋势参考价值，但未涉及休闲游戏具体玩法或变现设计。",
+      "url": "https://www.gamedeveloper.com/business/developers-expect-generative-ai-to-impact-roles-and-team-sizes-in-the-next-three-years",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-12T14:42:54",
+      "fetched_at": "2026-08-13T03:45:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Meccha Chameleon",
+          "desc": "一款在两个月内销量突破2000万的游戏（类型未在文中详述，从销售成绩看为热门作品）"
+        },
+        {
+          "name": "Crimson Desert",
+          "desc": "Pearl Abyss开发的游戏，因未披露生成式AI使用而受到玩家抗议并公开道歉"
+        },
+        {
+          "name": "Anno 117: Pax Romana",
+          "desc": "Ubisoft的游戏，此前因未披露生成式AI使用而引发类似争议"
+        },
+        {
+          "name": "The Alters",
+          "desc": "11 Bit Studios的游戏，同样因未披露生成式AI使用而受到质疑"
+        }
+      ]
+    },
     {
       "id": "8928b5fa0c",
       "title": "Witcher 多人衍生作 Project Sirius 遭遇新一轮裁员",
