@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-12T09:43:33",
+  "updated_at": "2026-08-12T10:28:18",
   "articles": [
+    {
+      "id": "8666ac00c9",
+      "title": "数据摘要：Sensor Tower上半年分析、Hay Day回归、七月顶级游戏、Krafton大数字等",
+      "zh_desc": "汇总Sensor Tower上半年手游数据分析、Hay Day的复苏表现、七月热门游戏榜单及Krafton的业绩数据，为休闲游戏从业者提供市场趋势和竞品动态参考。来自高权重渠道，具有行业参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTFidWp1T1luNDVWTEdXSlRzZmRjS3IwdmphaEhOQ1NJRnVoNUZQd05Dd0Z2SEdYYjc1MERKekNMdURqNmJmcFc5QlpGSE5SVC1SdDdEOWI4Q0FUSDRsZzNSaGYyQWZwQWdJU1RXY0w0RnNkaVZmb3NraHV0SU9IbDI0NmdjRzZIUkJGeThuRWNNVV9LTlREVFpBa1ZCRWlQYWRJTDlFbjFTMzE0TFhkU0VZR0ZtU2ItZ1k2TU1VcU1jY2c?oc=5",
+      "source": "重点游戏-MONOPOLY GO",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-08-05T15:24:54",
+      "fetched_at": "2026-08-12T10:28:18",
+      "lang": "en"
+    },
+    {
+      "id": "01f67c59b0",
+      "title": "每周游戏报告回顾：2026年8月3日至8月7日",
+      "zh_desc": "回顾2026年8月3日至7日的每周游戏报告，涵盖多款游戏的市场表现与行业动态。作为周度汇总，为从业者提供快速了解近期游戏行业变化的窗口。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRUw5Tjlpd3pnQXpPdVJNMWc1c2l5VnZtX09uY3cwQjl0eU15eHJtRmc1Mm9jVHl3M0hTNnVXSXdKVmJUWnBjVTZXek50cVJwZXF6NVR5cUFIWEE3SWFNNnpIZjBDQVRhM1BPSFl1eVd2YUtLOVdaLXk1a2xhbVVpcnNn?oc=5",
+      "source": "重点游戏-Tasty Travels",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-07T20:22:09",
+      "fetched_at": "2026-08-12T10:28:18",
+      "lang": "en"
+    },
     {
       "id": "40434cf294",
       "title": "玩家为游戏付费时，大脑里发生了什么变化？",
