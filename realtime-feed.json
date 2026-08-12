@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-12T10:44:13",
+  "updated_at": "2026-08-12T11:00:09",
   "articles": [
+    {
+      "id": "8666ac00c9",
+      "title": "数据摘要：Sensor Tower 上半年分析、Hay Day 回归、7 月热门游戏、Krafton 重大数据等",
+      "zh_desc": "汇总了 Sensor Tower 上半年数据、Hay Day 的回暖表现、7 月全球热门游戏榜单以及 Krafton 的业绩亮点。为休闲游戏从业者提供近期移动游戏市场动态和热门产品表现参考。",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTFidWp1T1luNDVWTEdXSlRzZmRjS3IwdmphaEhOQ1NJRnVoNUZQd05Dd0Z2SEdYYjc1MERKekNMdURqNmJmcFc5QlpGSE5SVC1SdDdEOWI4Q0FUSDRsZzNSaGYyQWZwQWdJU1RXY0w0RnNkaVZmb3NraHV0SU9IbDI0NmdjRzZIUkJGeThuRWNNVV9LTlREVFpBa1ZCRWlQYWRJTDlFbjFTMzE0TFhkU0VZR0ZtU2ItZ1k2TU1VcU1jY2c?oc=5",
+      "source": "重点游戏-MONOPOLY GO",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-05T15:24:54",
+      "fetched_at": "2026-08-12T11:00:09",
+      "lang": "en"
+    },
+    {
+      "id": "01f67c59b0",
+      "title": "每周游戏报告回顾：8月3日-8月7日（2026）",
+      "zh_desc": "对 2026 年 8 月 3 日至 8 月 7 日期间游戏行业重要报告和数据进行周度回顾，涵盖多款产品的市场表现与趋势。适合从业者快速获取行业信息，但缺乏深度单品类拆解。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRUw5Tjlpd3pnQXpPdVJNMWc1c2l5VnZtX09uY3cwQjl0eU15eHJtRmc1Mm9jVHl3M0hTNnVXSXdKVmJUWnBjVTZXek50cVJwZXF6NVR5cUFIWEE3SWFNNnpIZjBDQVRhM1BPSFl1eVd2YUtLOVdaLXk1a2xhbVVpcnNn?oc=5",
+      "source": "重点游戏-Tasty Travels",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-07T20:22:09",
+      "fetched_at": "2026-08-12T11:00:09",
+      "lang": "en"
+    },
     {
       "id": "06bbd6d35a",
       "title": "报道：Crossfire 开发商 That's No Moon 裁员 14 人",
