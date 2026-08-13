@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-08-14T01:18:20",
+  "updated_at": "2026-08-14T01:50:43",
   "articles": [
+    {
+      "id": "7022cc623e",
+      "title": "观点：去职业化可能在小团队中催生有毒工作环境",
+      "zh_desc": "文章讨论游戏行业团队规模变小但成功后，如何继续维护职业行为标准，避免去职业化导致职场文化恶化。对手游团队管理者关注组织文化与用工风险有参考价值。",
+      "url": "https://www.gamedeveloper.com/production/opinion-deprofessionalization-could-foster-toxic-work-environments-on-small-teams",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T13:36:46",
+      "fetched_at": "2026-08-14T01:50:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Balatro",
+          "desc": "一款以扑克牌为基础的卡牌构筑Roguelike游戏"
+        }
+      ]
+    },
+    {
+      "id": "94dc006cf1",
+      "title": "Testronic 任命 Sonia Kerr 为 CEO，Sharon Baylay-Bell 出任公司主席",
+      "zh_desc": "游戏质量保证与本地化服务商 Testronic 完成高层交接，Sonia Kerr 接任 CEO，原 CEO Sharon Baylay-Bell 转任主席。这一公司动态可作为游戏服务商市场观察参考。",
+      "url": "https://www.gamesindustry.biz/testronic-appoints-sonia-kerr-as-ceo-sharon-baylay-bell-becomes-company-chair",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T13:06:36",
+      "fetched_at": "2026-08-14T01:50:43",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "009a13a29f",
       "title": "美泰成立新全球工作室业务，基于自有 IP 开发游戏",
