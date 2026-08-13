@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-08-13T04:17:18",
+  "updated_at": "2026-08-13T08:36:52",
   "articles": [
+    {
+      "id": "eeb8f89e8e",
+      "title": "播客：Sega-Rovio 新闻、Tripledot 收购 Supersonic、Take-Two 移动业务、Playtika 小动作、Block Blast、AppLovin、MTG、SciPlay 等",
+      "zh_desc": "本期 Mobile Gamer Biz 播客盘点移动游戏行业本周重要动态，包括 Sega 与 Rovio 的新进展、Tripledot 收购 Supersonic、Take-Two 在移动端的布局，以及 Playtika 的相关操作，并涉及 Block Blast、AppLovin、MTG、SciPlay 等公司动向。对了解休闲/移动游戏市场格局和并购趋势有参考价值。",
+      "url": "https://mobilegamer.biz/subscribe-to-the-mobilegamer-biz-podcast-now/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-12T23:30:00",
+      "fetched_at": "2026-08-13T08:36:52",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Disney Solitaire",
+          "desc": "Playtika旗下的迪士尼主题纸牌游戏"
+        },
+        {
+          "name": "Block Blast",
+          "desc": "全球流行的益智方块消除游戏"
+        },
+        {
+          "name": "Pokémon Go",
+          "desc": "增强现实宠物收集手游"
+        },
+        {
+          "name": "Love and Deepspace",
+          "desc": "恋爱主题手游"
+        }
+      ]
+    },
     {
       "id": "cedaca5a17",
       "title": "Amazon 最迟 2027 年初放弃《Lost Ark》和《Throne and Liberty》的发行商角色",
