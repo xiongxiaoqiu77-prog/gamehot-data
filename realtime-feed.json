@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-14T00:45:18",
+  "updated_at": "2026-08-14T01:18:20",
   "articles": [
+    {
+      "id": "009a13a29f",
+      "title": "美泰成立新全球工作室业务，基于自有 IP 开发游戏",
+      "zh_desc": "美泰宣布成立 Mattel Game Studios，作为全球开发组织将基于公司 IP 制作游戏，此前已收购与网易合资的 Mattel163 全部股权。对休闲游戏从业者而言，这是玩具 IP 巨头加码手游与授权游戏开发的行业动态。",
+      "url": "https://www.gamesindustry.biz/mattel-launches-new-global-studios-business-to-develop-games-based-on-its-ip",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-13T16:55:14",
+      "fetched_at": "2026-08-14T01:18:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "UNO!",
+          "desc": "经典卡牌游戏的移动版本"
+        },
+        {
+          "name": "UNO Wonder",
+          "desc": "UNO系列移动游戏之一"
+        },
+        {
+          "name": "Phase 10",
+          "desc": "数字版纸牌游戏"
+        },
+        {
+          "name": "Skip-Bo",
+          "desc": "移动端纸牌游戏"
+        },
+        {
+          "name": "Skeletor: Until Next Time!",
+          "desc": "基于《宇宙的巨人》IP的无尽跑酷游戏"
+        },
+        {
+          "name": "UNO Wild",
+          "desc": "UNO系列新作，已开始软启动"
+        },
+        {
+          "name": "Hot Wheels title",
+          "desc": "未命名的风火轮IP游戏"
+        },
+        {
+          "name": "Monopoly Go",
+          "desc": "孩之宝推出的大富翁主题移动游戏"
+        },
+        {
+          "name": "Baldur's Gate 3",
+          "desc": "孩之宝旗下的角色扮演游戏"
+        }
+      ]
+    },
     {
       "id": "17cb4a389c",
       "title": "Saber Interactive将在公众争议后添加Rideshare 'Stimulator' AI披露声明",
