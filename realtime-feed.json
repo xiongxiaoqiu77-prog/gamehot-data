@@ -1,6 +1,86 @@
 {
-  "updated_at": "2026-08-14T04:00:19",
+  "updated_at": "2026-08-14T04:32:54",
   "articles": [
+    {
+      "id": "57bf326572",
+      "title": "Netflix关闭《Oxenfree》开发商Night School Studio和Moonloot Games",
+      "zh_desc": "据Game Developer报道，Netflix在游戏业务调整中关闭了《Oxenfree》开发商Night School Studio和Moonloot Games，并削减部分游戏岗位。这反映了大厂在游戏部门成本控制与项目筛选上的收紧趋势，对休闲游戏从业者了解行业环境有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/netflix-closing-oxenfree-developer-night-school-studio-and-moonloot-games",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T19:54:15",
+      "fetched_at": "2026-08-14T04:32:54",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Oxenfree",
+          "desc": "Night School Studio于2016年推出的获奖悬疑冒险游戏，后由Netflix发行续作。"
+        },
+        {
+          "name": "Oxenfree 2: Lost Signals",
+          "desc": "Netflix发行的《Oxenfree》续作。"
+        },
+        {
+          "name": "Unhinged",
+          "desc": "Night School Studio开发的恐怖游戏，玩家通过浏览器或电视游玩，以智能手机作为控制器。"
+        },
+        {
+          "name": "Marvel Rivals",
+          "desc": "漫威主题游戏，Troy Baker在其中为角色配音。"
+        },
+        {
+          "name": "Netflix Minigolf",
+          "desc": "Netflix近期发布的派对迷你高尔夫游戏。"
+        },
+        {
+          "name": "FIFA World Cup: Launch Edition",
+          "desc": "Netflix发布的体育游戏，由外部工作室Refactor Games开发。"
+        },
+        {
+          "name": "Animal Crossing",
+          "desc": "社交模拟游戏，文中提到Moonloot在开发类似该作的游戏。"
+        }
+      ]
+    },
+    {
+      "id": "f01ca75930",
+      "title": "2K宣布成立由EA老将领导的温哥华AAA工作室",
+      "zh_desc": "2K宣布在温哥华成立新的AAA工作室Small Axe Studios，由在EA任职近二十年的Aaron McHardy担任副总裁、执行制作人和负责人。该消息属于传统3A厂商扩张动态，与休闲/消除类手游的直接关联较低，但可帮助从业者观察大厂布局方向。",
+      "url": "https://www.gamedeveloper.com/business/2k-announces-new-vancouver-based-studio-led-by-ea-veteran",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T16:38:33",
+      "fetched_at": "2026-08-14T04:32:54",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Madden",
+          "desc": "EA旗下橄榄球游戏系列，Aaron McHardy曾担任执行制作人。"
+        },
+        {
+          "name": "College Football",
+          "desc": "EA旗下的大学橄榄球游戏系列，McHardy也曾担任执行制作人。"
+        },
+        {
+          "name": "FIFA",
+          "desc": "EA旗下足球游戏系列，McHardy曾参与FIFA团队。"
+        },
+        {
+          "name": "Perfect Dark",
+          "desc": "一款重启作品，相关开发者被Take-Two雇佣组建新工作室。"
+        },
+        {
+          "name": "Project Ethos",
+          "desc": "31st Union开发的免费射击游戏。"
+        },
+        {
+          "name": "WWE 2K26",
+          "desc": "Visual Concepts开发的摔跤游戏，该工作室曾经历裁员。"
+        }
+      ]
+    },
     {
       "id": "15f4683b41",
       "title": "Xsolla 推出发行工具，帮助游戏厂商在首次购买后保持玩家参与度",
