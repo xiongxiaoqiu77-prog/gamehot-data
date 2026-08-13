@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-14T01:50:43",
+  "updated_at": "2026-08-14T02:22:40",
   "articles": [
+    {
+      "id": "dbeaaa76af",
+      "title": "UNC Greensboro 游戏保存项目在特朗普削减资金后重回正轨",
+      "zh_desc": "报道 UNC Greensboro 的游戏保存项目在经历特朗普政府削减资金后重新恢复运转。项目团队认为不能依赖索尼、微软等商业公司来保存游戏历史。这篇文章能帮助行业从业者了解游戏保存的基础设施与政策风险。",
+      "url": "https://www.gamedeveloper.com/production/library-video-game-preservation-project-back-on-track-after-trump-funding-cuts",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T10:01:23",
+      "fetched_at": "2026-08-14T02:22:40",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "7022cc623e",
       "title": "观点：去职业化可能在小团队中催生有毒工作环境",
