@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-14T02:22:40",
+  "updated_at": "2026-08-14T04:00:19",
   "articles": [
+    {
+      "id": "15f4683b41",
+      "title": "Xsolla 推出发行工具，帮助游戏厂商在首次购买后保持玩家参与度",
+      "zh_desc": "Xsolla 推出新的发行工具，目标是帮助游戏厂商在玩家首次付费后继续推动重复购买。对关注手游内购、长线留存的从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/xsolla-rolls-out-publishing-tools-to-keep-players-engaged-after-the-first-purchase",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-13T15:16:47",
+      "fetched_at": "2026-08-14T04:00:19",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "b19a2c5889",
+      "title": "Netflix 将关闭洛杉矶工作室 Night School、赫尔辛基 Moonloot 并削减内部游戏团队",
+      "zh_desc": "Netflix 宣布关闭部分内部游戏工作室并缩减团队，称将更聚焦于执行。这反映出流媒体平台在游戏业务上的战略收缩，值得出海厂商关注。",
+      "url": "https://mobilegamer.biz/netflix-to-close-la-studio-night-school-helsinkis-moonloot-and-cut-internal-game-teams/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T19:36:41",
+      "fetched_at": "2026-08-14T04:00:19",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Oxenfree",
+          "desc": "叙事冒险游戏，由Night School Studio开发"
+        },
+        {
+          "name": "Squid Game: Unleashed",
+          "desc": "免费游玩的类《糖豆人》派对平台游戏"
+        }
+      ]
+    },
     {
       "id": "dbeaaa76af",
       "title": "UNC Greensboro 游戏保存项目在特朗普削减资金后重回正轨",
