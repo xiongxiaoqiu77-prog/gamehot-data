@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-08-13T19:53:50",
+  "updated_at": "2026-08-14T00:45:18",
   "articles": [
+    {
+      "id": "17cb4a389c",
+      "title": "Saber Interactive将在公众争议后添加Rideshare 'Stimulator' AI披露声明",
+      "zh_desc": "本文报道Saber Interactive因Rideshare游戏涉及AI使用的争议，决定添加AI披露声明，并否认用AI替代编剧。对从业者而言，了解AI使用透明化在公关和合规方面的启示具有参考价值。",
+      "url": "https://www.gamedeveloper.com/business/saber-interactive-denies-replacing-writers-with-ai-on-rideshare-stimulator-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T14:31:00",
+      "fetched_at": "2026-08-14T00:45:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Rideshare 'Stimulator'",
+          "desc": "Saber Interactive与Unigine开发的网约车模拟游戏，将加入使用AI生成无限乘客的实验性免费搭车模式。"
+        }
+      ]
+    },
+    {
+      "id": "c72fc6f876",
+      "title": "Twitch将默认把你的一切内容献给AI，无论你是否愿意",
+      "zh_desc": "报道Twitch默认将用户内容用于训练Amazon生成式AI模型，选择退出也无法完全避免。提醒游戏创作者关注平台条款对内容权益的影响。",
+      "url": "https://www.gamedeveloper.com/marketing/twitch-will-sacrifice-you-to-its-ai-overlord-whether-you-like-it-or-not",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T13:19:47",
+      "fetched_at": "2026-08-14T00:45:18",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "f08d8e2620",
+      "title": "CD Projekt Red已裁员九名Project Sirius开发人员",
+      "zh_desc": "据报道CD Projekt Red在两个地点裁员九人，另有九名开发者可能被调往其他项目。这是行业裁员动态，也透露出Project Sirius的调整情况。",
+      "url": "https://www.gamedeveloper.com/business/report-cd-projekt-red-has-laid-off-some-project-sirius-developers",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T10:48:43",
+      "fetched_at": "2026-08-14T00:45:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Witcher",
+          "desc": "CD Projekt Red开发的经典角色扮演游戏系列。"
+        },
+        {
+          "name": "Cyberpunk",
+          "desc": "CD Projekt Red开发的赛博朋克题材角色扮演游戏，通常指《Cyberpunk 2077》。"
+        },
+        {
+          "name": "Project Sirius",
+          "desc": "CD Projekt Red正在开发的《巫师》多人游戏，代号Project Sirius。"
+        },
+        {
+          "name": "The Flame in the Flood",
+          "desc": "The Molasses Flood开发的生存冒险游戏。"
+        },
+        {
+          "name": "The Witcher 4",
+          "desc": "CD Projekt Red正在开发的《巫师》系列新作。"
+        },
+        {
+          "name": "Destiny 2",
+          "desc": "Bungie开发的多人射击游戏，文中提及该游戏的一位叙事设计师加入了Project Sirius项目。"
+        }
+      ]
+    },
+    {
+      "id": "cf8c4a81f7",
+      "title": "Sensor Tower：89%的GTA6预购订单为100美元终极版",
+      "zh_desc": "数据机构Sensor Tower报告GTA6预购中89%选择了100美元终极版而非80美元标准版。这反映出高端定价策略在预售市场的接受度，可为商业决策提供参考。",
+      "url": "https://www.gamesindustry.biz/sensor-tower-89-of-gta6-preorders-are-for-the-100-ultimate-edition",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T14:00:44",
+      "fetched_at": "2026-08-14T00:45:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA6",
+          "desc": "Rockstar Games开发的开放世界动作冒险游戏，预购中有89%为100美元终极版。"
+        }
+      ]
+    },
+    {
+      "id": "3ab9e2441a",
+      "title": "Liftoff自IPO以来首份财报：营收2.2亿美元",
+      "zh_desc": "移动广告平台Liftoff发布上市后首份财报，营收达2.2亿美元，调整后EBITDA利润率60%，自由现金流同比增长142%。对移动游戏买量和变现从业者具有参考意义。",
+      "url": "https://mobilegamer.biz/liftoff-posts-220m-q2-revenue-in-first-results-since-ipo/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-13T13:56:06",
+      "fetched_at": "2026-08-14T00:45:18",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "45b3d1c8dd",
+      "title": "Supercell称Mo Co表现不佳将再次重启，但关闭“不太可能”",
+      "zh_desc": "Supercell表示怪物狩猎游戏Mo Co在重启后未达预期，仍会继续迭代，但也承认找不到市场定位的游戏有被关停风险。对休闲游戏团队评估产品迭代策略有借鉴意义。",
+      "url": "https://mobilegamer.biz/supercell-says-mo-co-is-underperforming-and-will-be-rebooted-again-but-killing-it-is-an-unlikely-scenario/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-13T08:26:31",
+      "fetched_at": "2026-08-14T00:45:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mo Co",
+          "desc": "Supercell开发的怪物狩猎游戏，目前表现不佳并计划再次重启。"
+        },
+        {
+          "name": "Squad Busters",
+          "desc": "Supercell推出的多人竞技游戏，上线约一年多后被关闭。"
+        },
+        {
+          "name": "Clash of Clans",
+          "desc": "Supercell开发的策略游戏，文中以“Clash of Clans maker”指代Supercell。"
+        }
+      ]
+    },
+    {
+      "id": "816975c90e",
+      "title": "《Gothic 1 Remake》几乎已收回开发和营销成本",
+      "zh_desc": "据Embracer财报，Gothic 1 Remake已接近盈亏平衡，预计很快盈利。显示经典重制版的市场成功，对行业有参考价值。",
+      "url": "https://gameworldobserver.com/2026/08/13/gothic-1-remake-has-almost-recouped-its-development-and-marketing-costs-already",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-13T14:28:03",
+      "fetched_at": "2026-08-14T00:45:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Gothic 1 Remake",
+          "desc": "Alkimia Interactive开发、THQ Nordic发行的动作角色扮演游戏重制版，已几乎收回开发和营销成本。"
+        }
+      ]
+    },
     {
       "id": "8fdb29e9db",
       "title": "完美世界半年度预亏损近亿，为什么还要拿5亿投向新科技？",
