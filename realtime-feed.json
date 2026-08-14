@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-14T11:00:55",
+  "updated_at": "2026-08-14T11:29:25",
   "articles": [
+    {
+      "id": "49f4277daf",
+      "title": "玩家分层：SegmentIQ 引入 Segments 功能",
+      "zh_desc": "GameAnalytics 发布 SegmentIQ 的 Segments 功能，允许团队基于行为和人口属性构建玩家分组，并在平台中复用。对休闲游戏运营人员理解用户分层和精细化运营有参考价值。",
+      "url": "https://www.gameanalytics.com/blog/player-segmentation-segmentiq",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-12T11:20:24",
+      "fetched_at": "2026-08-14T11:29:25",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "499f4322d7",
       "title": "海外新游 | 《CrownRise》——奇幻王权SLG：滑动手势指挥军团，城堡重建养成，巨龙觉醒战争策略新品",
