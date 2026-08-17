@@ -1,6 +1,328 @@
 {
-  "updated_at": "2026-08-17T16:02:16",
+  "updated_at": "2026-08-18T00:19:43",
   "articles": [
+    {
+      "id": "881c17a689",
+      "title": "为游戏行业顶级交易提供建议的人：Affan Butt",
+      "zh_desc": "文章介绍了Affan Butt如何通过长期关系积累，参与促成Loom Games以10亿美元出售给Scopely、Supercell向软银融资等重大交易。对关注游戏公司并购、投融资与资本关系建立的从业者有参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/the-man-who-advises-on-gamings-biggest-deals",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-17T13:28:00",
+      "fetched_at": "2026-08-18T00:19:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hay Day",
+          "desc": "Supercell推出的农场模拟经营游戏。"
+        },
+        {
+          "name": "Clash",
+          "desc": "Supercell的策略游戏（Clash of Clans系列）。"
+        }
+      ]
+    },
+    {
+      "id": "b2196ea78e",
+      "title": "Forbidden Solitaire 如何让纸牌游戏重回聚光灯",
+      "zh_desc": "文章拆解了Forbidden Solitaire的成功路径，分析其如何让Steam上的纸牌类游戏获得更大关注。对休闲和独立开发者理解内容型纸牌游戏的设计与市场切入点有借鉴意义。",
+      "url": "https://www.gamedeveloper.com/design/how-forbidden-solitaire-brought-solitaire-games-to-the-forefront",
+      "source": "Game Developer",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-17T14:51:26",
+      "fetched_at": "2026-08-18T00:19:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Forbidden Solitaire",
+          "desc": "Grey Alien Games开发的带有90年代模拟恐怖风格的纸牌游戏。"
+        },
+        {
+          "name": "Microsoft Solitaire",
+          "desc": "Windows自带的Klondike纸牌游戏，是纸牌游戏类型的代名词。"
+        },
+        {
+          "name": "Regency Solitaire II",
+          "desc": "Grey Alien Games开发的纸牌游戏。"
+        },
+        {
+          "name": "Shadowhand Solitaire",
+          "desc": "Grey Alien Games开发的一款纸牌游戏。"
+        },
+        {
+          "name": "Fairway Solitaire",
+          "desc": "结合高尔夫机制的纸牌游戏，由Big Fish Games发行。"
+        },
+        {
+          "name": "Regency Solitaire",
+          "desc": "受Eurogamer称赞的纸牌游戏。"
+        }
+      ]
+    },
+    {
+      "id": "20387e5a41",
+      "title": "Inner Pocket：新独立发行商专注“好奇心游戏”",
+      "zh_desc": "由Critical Reflex、Gaijin Entertainment和Nozomu Games等背景的成员成立了新独立发行商Inner Pocket，目标是扶持差异化、探索型作品。该消息属于行业动态，对了解独立游戏发行格局有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/inner-pocket-is-a-new-indie-publishing-label-that-wants-to-champion-intimate-experiences",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T14:15:46",
+      "fetched_at": "2026-08-18T00:19:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Burn With Me",
+          "desc": "Nozomu Games开发的occult deck-burner（神秘卡牌）游戏。"
+        }
+      ]
+    },
+    {
+      "id": "c06861aeab",
+      "title": "Pokemon Pokopia 全球销量突破500万份",
+      "zh_desc": "Pokemon Pokopia的全球销量已达到500万份，官方以“我选你”庆祝这一里程碑。该消息反映了宝可梦衍生游戏的市场表现，但内容本身与休闲游戏设计和运营关联有限。",
+      "url": "https://www.gamedeveloper.com/business/pokemon-pokopia-has-topped-5-million-sales-worldwide",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T13:14:14",
+      "fetched_at": "2026-08-18T00:19:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Pokémon Pokopia",
+          "desc": "Nintendo Switch 2独占的生活模拟游戏，全球销量已突破500万。"
+        }
+      ]
+    },
+    {
+      "id": "0b26889f4d",
+      "title": "美泰成立 Mattel Game Studios，发力芭比、风火轮等IP游戏",
+      "zh_desc": "玩具公司美泰宣布成立Mattel Game Studios，计划基于Barbie、Hot Wheels等品牌矩阵开发、发行和运营游戏。对关注IP授权及休闲向品牌游戏机会的从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/barbie-and-hot-wheels-owner-mattel-launches-mattel-game-studios",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T11:15:50",
+      "fetched_at": "2026-08-18T00:19:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "UNO!",
+          "desc": "Mattel163开发的经典卡牌游戏移动版。"
+        },
+        {
+          "name": "UNO Wonder",
+          "desc": "Mattel163的UNO系列移动游戏。"
+        },
+        {
+          "name": "Phase 10",
+          "desc": "Mattel163的卡牌游戏。"
+        },
+        {
+          "name": "Skip",
+          "desc": "Mattel163的移动游戏。"
+        },
+        {
+          "name": "UNO Wild",
+          "desc": "Mattel Game Studios即将推出的新UNO体验。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "流行的用户生成内容游戏平台。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "流行的用户生成内容游戏平台。"
+        }
+      ]
+    },
+    {
+      "id": "0cc9726c23",
+      "title": "美国参议院将调查 Roblox：被指优先考虑收入和参与度而非儿童安全",
+      "zh_desc": "美国参议院司法委员会宣布调查Roblox，认为平台可能在儿童安全问题上优先考虑营收和参与指标。该事件可能影响UGC平台的运营、内容治理与合规策略，值得游戏从业者关注。",
+      "url": "https://www.gamesindustry.biz/us-senate-to-investigate-roblox-following-claims-it-prioritises-revenue-and-engagement-over-child-safety",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T12:47:28",
+      "fetched_at": "2026-08-18T00:19:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "在线游戏平台，因优先考虑收入和参与度而非儿童安全而受到调查。"
+        }
+      ]
+    },
+    {
+      "id": "704731ffde",
+      "title": "Saber Interactive 为 Rideshare 添加 AI 免责声明，CEO向原主笔道歉",
+      "zh_desc": "围绕Rideshare Simulator使用AI撰写文本的争议，Saber Interactive在Steam页面添加AI免责声明，CEO Matt Karch也向前主笔道歉。该事件属于AI应用与行业伦理热点，与休闲游戏无直接关系。",
+      "url": "https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T10:24:45",
+      "fetched_at": "2026-08-18T00:19:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Rideshare Simulator",
+          "desc": "Saber Interactive开发的低价游戏，因使用AI生成内容引发争议。"
+        }
+      ]
+    },
+    {
+      "id": "7693b43a70",
+      "title": "Apple 和 Google 计划加大 Gamescom 2026 投入，法院诉讼仍在继续",
+      "zh_desc": "Google Play将开展十年来最大规模的区域消费者活动，Apple也将在展会开幕前举办开发者活动。文章反映移动平台方在欧洲市场加大存在感，对手游发行和渠道策略有一定参考意义。",
+      "url": "https://mobilegamer.biz/apple-and-google-look-set-to-up-their-presence-for-gamescom-2026/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T15:12:24",
+      "fetched_at": "2026-08-18T00:19:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fruit Ninja",
+          "desc": "Halfbrick开发的水果切割游戏。"
+        },
+        {
+          "name": "Dave the Diver",
+          "desc": "Mintrocket开发的潜水冒险游戏。"
+        },
+        {
+          "name": "Subway Surfers City",
+          "desc": "Sybo开发的跑酷游戏Subway Surfers的城市版本。"
+        },
+        {
+          "name": "eFootball",
+          "desc": "Konami开发的足球游戏。"
+        },
+        {
+          "name": "Wobbly Life",
+          "desc": "RubberBandGames/Curve Games开发的物理沙盒游戏。"
+        },
+        {
+          "name": "Asphalt Legends",
+          "desc": "Gameloft开发的赛车游戏。"
+        },
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "CD Projekt Red开发的开放世界角色扮演游戏。"
+        }
+      ]
+    },
+    {
+      "id": "3e08aa1527",
+      "title": "值得关注的软启动游戏：EA、腾讯、Moon Active、Take-Two 等厂商",
+      "zh_desc": "文章汇总了来自EA、腾讯、Moon Active、Take-Two等头部厂商正在测试的软启动游戏。对休闲手游从业者观察新品玩法、留存和商业化测试方向具有直接参考价值。",
+      "url": "https://mobilegamer.biz/the-soft-launch-games-you-need-to-know-about/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-17T12:00:00",
+      "fetched_at": "2026-08-18T00:19:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "SoulTerra Odyssey",
+          "desc": "Bandai Namco的中核match 3D roguelite RPG。"
+        },
+        {
+          "name": "Overwatch Rush",
+          "desc": "Blizzard开发的俯视角手机独占英雄射击游戏。"
+        },
+        {
+          "name": "Plants vs. Zombies 3: Evolved",
+          "desc": "PopCap开发的基于合并玩法的植物大战僵尸系列游戏。"
+        },
+        {
+          "name": "小冰冰斗蛐蛐",
+          "desc": "上海莉莉丝Farlight品牌的中核自动战斗游戏。"
+        },
+        {
+          "name": "Hill Climb Racing 3",
+          "desc": "Fingersoft开发的物理驱动赛车游戏，首次引入实时多人。"
+        },
+        {
+          "name": "Garena Free City",
+          "desc": "Garena开发的类似GTA的游戏。"
+        },
+        {
+          "name": "Petit Planet",
+          "desc": "Hoyoverse开发的温馨生活模拟游戏。"
+        },
+        {
+          "name": "Minecraft Blast",
+          "desc": "King和Mojang开发的益智游戏。"
+        },
+        {
+          "name": "Crownstone Survival",
+          "desc": "腾讯开发的生存游戏。"
+        }
+      ]
+    },
+    {
+      "id": "5379ac50a8",
+      "title": "PUBG Mobile Light：低占用版吃鸡手游",
+      "zh_desc": "PUBG Mobile Light 开启预注册，计划今年晚些时候上线，面向低配置设备提供更低存储和性能占用。该消息主要涉及战术竞技手游，与三消和休闲品类相关度有限。",
+      "url": "https://mobilegamer.biz/pubg-mobile-light-is-a-lower-footprint-version-of-the-battle-royale-hit/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T09:19:10",
+      "fetched_at": "2026-08-18T00:19:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "PUBG Mobile Light",
+          "desc": "PUBG Mobile的降低存储和配置要求的版本。"
+        },
+        {
+          "name": "PUBG Mobile",
+          "desc": "腾讯和Krafton开发的大逃杀手游。"
+        },
+        {
+          "name": "BGMI Lite",
+          "desc": "Battlegrounds Mobile India的轻量版。"
+        },
+        {
+          "name": "Battlegrounds Mobile India",
+          "desc": "Krafton India开发的印度版大逃杀游戏。"
+        },
+        {
+          "name": "Peacekeeper Elite",
+          "desc": "Krafton旗下的大逃杀手游（和平精英）。"
+        },
+        {
+          "name": "Subnautica 2",
+          "desc": "Krafton发行的水下生存游戏，Early Access已售出超500万份。"
+        }
+      ]
+    },
+    {
+      "id": "bd0b9b3ab7",
+      "title": "消息称阿里巴巴将以超20亿美元出售游戏部门",
+      "zh_desc": "据报道，阿里巴巴游戏部门可能被投资公司Trustar Capital以超过20亿美元收购。这笔交易将影响中国游戏市场资本格局，对了解行业动向有参考价值，但并非玩法或运营拆解。",
+      "url": "https://gameworldobserver.com/2026/08/17/report-alibaba-to-sell-gaming-division-for-over-2-billion",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T11:44:12",
+      "fetched_at": "2026-08-18T00:19:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Three Kingdoms Tactics",
+          "desc": "设置在古代中国的移动策略游戏，是Lingxi Games的旗舰游戏。"
+        }
+      ]
+    },
     {
       "id": "e21cde6944",
       "title": "匹配平台 Sail.game 在 Gamescom 前为开发者推出免费层级",
