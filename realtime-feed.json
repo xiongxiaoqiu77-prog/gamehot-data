@@ -1,6 +1,464 @@
 {
-  "updated_at": "2026-08-14T11:29:25",
+  "updated_at": "2026-08-17T16:02:16",
   "articles": [
+    {
+      "id": "e21cde6944",
+      "title": "匹配平台 Sail.game 在 Gamescom 前为开发者推出免费层级",
+      "zh_desc": "Sail.game 宣布面向 PC 与主机游戏开发者推出免费套餐，以在 Gamescom 前吸引更多团队使用其匹配服务。该新闻属于后端服务动态，对休闲游戏开发者了解第三方匹配工具有一定参考，但与消除类玩法关联不强。",
+      "url": "https://www.gamesindustry.biz/matchmaking-platform-sailgame-launches-free-tier-for-devs-ahead-of-gamescom",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-17T07:33:37",
+      "fetched_at": "2026-08-17T16:02:16",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "3d2373f9d5",
+      "title": "本周 iOS 美区新游 Top 10｜2026W33",
+      "zh_desc": "盘点 2026 年第 33 周 iOS 美区新游 Top 10，为海外新游发行和休闲游戏市场观察提供快速导览。适合关注 App Store 新品和品类趋势的从业者。",
+      "url": "https://mp.weixin.qq.com/s/5YaHTIblzjJNz4r7HIqDqw",
+      "source": "微信-熊猫游戏出海",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-16T17:38:41",
+      "fetched_at": "2026-08-17T10:11:52",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "81aa2b7519",
+      "title": "腾网快手新游下周隔空大战；杭州北京厂商出售游戏业务丨 HOT 周报",
+      "zh_desc": "本周热点周报汇总了腾讯、网易、快手等大厂的新游排期，以及杭州、北京厂商出售游戏业务的动态。帮助从业者快速了解国内手游市场近期竞争与资本动向。",
+      "url": "https://mp.weixin.qq.com/s/sTdRzOn3u575F8GXWfqPOg",
+      "source": "微信-竞核",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-16T13:04:03",
+      "fetched_at": "2026-08-17T10:11:52",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "67da5a601d",
+      "title": "对话拿到腾讯投资的制作人：黑神话之后，为何还做西幻单机",
+      "zh_desc": "通过与获得腾讯投资的制作人对话，探讨《黑神话：悟空》之后继续选择西幻单机的市场与创作逻辑。属于泛单机游戏行业内容，与休闲游戏关联较弱。",
+      "url": "https://mp.weixin.qq.com/s/7oEOvWkThPZHuGnx1aukuQ",
+      "source": "微信-游戏日报",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-16T10:02:52",
+      "fetched_at": "2026-08-17T10:11:52",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "fc50eedc56",
+      "title": "游戏公司老板，如何判断 AI 时代的人才标准",
+      "zh_desc": "文章从游戏公司管理视角讨论 AI 时代的人才判断标准，涉及用人理念与行业变化。与休闲游戏无直接关系，但可供团队管理者参考。",
+      "url": "https://mp.weixin.qq.com/s/d0dKwq1JVC5HW6gYSMEIeg",
+      "source": "微信-Hao的游戏PM笔记",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-16T08:50:40",
+      "fetched_at": "2026-08-17T10:11:52",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "48c0a3f7d5",
+      "title": "货柜消除月入 7 万美金｜Talefun 继续加码这个品类",
+      "zh_desc": "文章聚焦货柜消除类游戏月收入 7 万美金的表现，以及 Talefun 在该品类上的持续加码。对于关注休闲/消除类目机会的从业者有一定数据参考价值。",
+      "url": "https://mp.weixin.qq.com/s/xdw6VC27TUgAMXHO1BVdQA",
+      "source": "微信-熊猫游戏出海",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-15T16:58:54",
+      "fetched_at": "2026-08-17T10:11:52",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "864152ea1d",
+      "title": "从“濒死”二游到 Steam 热销，韩国“原神”删除抽卡获得好评！",
+      "zh_desc": "讲述一款韩国“原神”类游戏从濒临停运到登录 Steam 热销，并通过删除抽卡模式获得好评的转变。涉及抽卡/商业化策略，可作为二游变现讨论的参考，但与休闲游戏无关。",
+      "url": "https://mp.weixin.qq.com/s/ySterorGO0DmKeEJSlWh-Q",
+      "source": "微信-游创工坊",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-15T12:31:09",
+      "fetched_at": "2026-08-17T10:11:52",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "6d9d35ed1b",
+      "title": "101 亿卖掉游戏业务，阿里这波操作你看懂了吗？",
+      "zh_desc": "文章解读阿里巴巴以 101 亿元出售游戏业务的交易逻辑与行业影响。属于重大公司动态，对了解国内游戏资本格局有参考价值，但不涉及休闲游戏具体设计。",
+      "url": "https://mp.weixin.qq.com/s/tjzMhMZEPia0wYeLPmf4-g",
+      "source": "微信-游讯先锋",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-15T08:56:00",
+      "fetched_at": "2026-08-17T10:11:52",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "b0262d831b",
+      "title": "Roblox 善意之举代价高昂的一年",
+      "zh_desc": "Roblox 发布 2026 年 Q2 财报后股价大跌近三分之一，过去一年市值蒸发约 700 亿美元。文章复盘了公司在战略与社区信任方面的失误，以及由此带来的市场反应。对关注平台型游戏公司风险和用户增长压力的从业者有一定参考价值。",
+      "url": "https://naavik.co/digest/robloxs-expensive-year-of-good-intentions/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-16T17:30:00",
+      "fetched_at": "2026-08-17T01:50:01",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "1b66f67c88",
+      "title": "迪士尼扩大游戏业务：能否成为主要增长催化剂？",
+      "zh_desc": "报道迪士尼在游戏业务上的扩张动作和增长潜力，属于公司战略与行业动态。对于休闲游戏从业者了解大厂布局有一定参考价值，但未涉及具体玩法或变现拆解。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lZDdINFNQQXNraUZPaGZHcUx1Y2tTdmRIQTZQMWd3bHJFZEhXSlRPMzViLVpWeVdOb0xaQ2VPZnF0eUlpWlF0S0h1cjVqRGU2SFZjSGZtXzdib09jak8zbg?oc=5",
+      "source": "重点游戏-Disney Solitaire",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-14T07:00:00",
+      "fetched_at": "2026-08-16T13:12:40",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "de341fe461",
+      "title": "迪士尼扩大游戏业务：能否成为主要增长催化剂？",
+      "zh_desc": "报道迪士尼扩大游戏业务布局，讨论其能否成为关键增长引擎，涉及 Disney Solitaire 等休闲游戏相关动向。适合从业者了解大厂在休闲游戏领域的战略方向，但缺少玩法与变现的深度拆解。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5iS3oxRWtxSnlOS2NXMC1zWHl1OFU4ZFRRZW10YXJLZ3VSNllwaGFkUU9McUtIX0dwdWJUX0U1TU9hWlRRRlVKT18xSWx6a3c0MEtTUEpnT0Q2MEc1X2RzZ01B?oc=5",
+      "source": "重点游戏-Disney Solitaire",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-14T07:00:00",
+      "fetched_at": "2026-08-16T04:34:32",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "130e1c1f1b",
+      "title": "“我不明白人们为什么害怕它”——ShipShaper 开发者 Tomas Sala 谈独立开发者为何不必为 GTA6 紧张",
+      "zh_desc": "Tomas Sala 原本计划今年早些时候上线 ShipShaper，但因生活原因推迟；他看到许多独立开发者因 GTA6 而焦虑，认为没必要赶在 9 月前发售。对从业者而言，这篇文章提供了一种独立游戏与 3A 大作档期共存的冷静视角。",
+      "url": "https://www.gamesindustry.biz/i-dont-see-why-people-are-scared-of-it-why-shipshaper-developer-tomas-sala-doesnt-think-indies-should-be-stressing-about-gta6",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-14T08:58:19",
+      "fetched_at": "2026-08-15T04:36:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "ShipShaper",
+          "desc": "独立开发者Tomas Sala开发的游戏，计划于9月2日进入Early Access。"
+        },
+        {
+          "name": "GTA6",
+          "desc": "即将于11月19日发售的游戏，不在PC平台推出。"
+        },
+        {
+          "name": "Meccha Chameleon",
+          "desc": "被提及为当前媒体关注的热门独立游戏。"
+        },
+        {
+          "name": "The Falconeer",
+          "desc": "2020年发布的第三人称空中战斗游戏。"
+        },
+        {
+          "name": "Bulwark: Falconeer Chronicles",
+          "desc": "2024年发布的休闲沙盒建造游戏，设定在The Falconeer的同一宇宙中。"
+        }
+      ]
+    },
+    {
+      "id": "7edb30e860",
+      "title": "2K 成立 AAA 体育游戏开发商 Small Axe Studios",
+      "zh_desc": "2K 在加拿大温哥华成立新工作室 Small Axe Studios，专注于 AAA 级体育游戏开发。该消息反映了大型发行商在体育品类上的投入动向，但对三消/休闲赛道从业者参考价值有限。",
+      "url": "https://www.gamesindustry.biz/2k-establishes-aaa-sports-developer-small-axe-studios",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-14T11:06:51",
+      "fetched_at": "2026-08-15T04:04:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "NBA 2K",
+          "desc": "2K旗下旗舰篮球模拟游戏系列。"
+        },
+        {
+          "name": "WWE 2K",
+          "desc": "2K发行的职业摔角游戏系列。"
+        },
+        {
+          "name": "PGA Tour 2K",
+          "desc": "2K出品的高尔夫模拟游戏系列。"
+        }
+      ]
+    },
+    {
+      "id": "24ee6c486f",
+      "title": "Arc Raiders 在 Nexon Q2 期间创收 1.149 亿美元，额外售出 80 万份",
+      "zh_desc": "Nexon 公布 Q2 财报，业绩超预期，主要由《MapleStory》系列和 Embark Studios 的《Arc Raiders》推动。该数据表明付费买断制射击游戏仍有强劲市场表现，与休闲游戏关联度较低，但可作为行业大盘参考。",
+      "url": "https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-units",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-14T10:28:03",
+      "fetched_at": "2026-08-15T04:04:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Arc Raiders",
+          "desc": "Embark Studios开发的射击游戏，Q2售出约80万份并持续创收。"
+        },
+        {
+          "name": "MapleStory",
+          "desc": "Nexon的横版MMORPG，本季度收入同比增长63%。"
+        },
+        {
+          "name": "MapleStory Worlds",
+          "desc": "基于MapleStory世界观、包含用户生成内容的平台，收入同比增长123%。"
+        },
+        {
+          "name": "Dungeon & Fighter",
+          "desc": "Nexon的经典动作RPG，本季度收入同比下降44%。"
+        },
+        {
+          "name": "FC",
+          "desc": "Nexon旗下足球游戏系列，本季度收入未达预期。"
+        },
+        {
+          "name": "FC Online",
+          "desc": "在线足球游戏，货币化和流量表现低于预期。"
+        },
+        {
+          "name": "Arad: Idle RPG",
+          "desc": "Nexon计划于2026年Q4推出的放置类RPG。"
+        },
+        {
+          "name": "Dave the Diver",
+          "desc": "海洋冒险题材游戏，移动版将于9月下旬推出。"
+        },
+        {
+          "name": "Azur Promilia",
+          "desc": "Nexon计划于2026年推出的新游戏之一。"
+        },
+        {
+          "name": "Temppal: Overgeared",
+          "desc": "Nexon计划于2026年推出的新游戏之一。"
+        }
+      ]
+    },
+    {
+      "id": "e4813a4170",
+      "title": "Netflix 关闭 Night School Studio 和 Moonloot Games",
+      "zh_desc": "Netflix 关闭了旗下两家游戏工作室：Night School Studio 和位于赫尔辛基的 Moonloot Games。此举表明 Netflix 在游戏业务上正在收缩或调整，属于行业公司动态，与三消/休闲领域关联不大。",
+      "url": "https://www.gamesindustry.biz/netflix-shutters-night-school-studio-and-moonloot-games",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-14T08:11:46",
+      "fetched_at": "2026-08-15T04:04:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Unhinged",
+          "desc": "Night School Studio近期推出的游戏，被Netflix视为最成功的云游戏首发之一。"
+        },
+        {
+          "name": "Oxenfree",
+          "desc": "Night School Studio于2016年推出的超自然冒险游戏。"
+        },
+        {
+          "name": "Oxenfree 2: Lost Signals",
+          "desc": "《Oxenfree》的续作，于2023年发售。"
+        },
+        {
+          "name": "FIFA World Cup: Launch Edition",
+          "desc": "Refactor Games开发的足球游戏，被Netflix列为云发布成功案例之一。"
+        },
+        {
+          "name": "Animal Crossing",
+          "desc": "任天堂生活模拟游戏系列，此处被用作Moonloot未公布项目的参考风格。"
+        }
+      ]
+    },
+    {
+      "id": "bc33e3fbea",
+      "title": "Patch Notes #65：Scabby 与 Sharma 之争、Twitch 的 GenAI 坦白、Netflix 关闭更多工作室",
+      "zh_desc": "本期游戏行业周报涵盖 Twitch 对 GenAI 的使用争议、Netflix 继续关闭工作室，以及 Big Walk 的销售成绩和游戏保存方面的消息。适合快速了解近期行业动态，但与休闲游戏直接关联有限。",
+      "url": "https://www.gamedeveloper.com/business/scabby-versus-sharma-twitch-s-genai-admission-and-netflix-shutters-more-studios-patch-notes-65",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-14T10:51:43",
+      "fetched_at": "2026-08-15T03:31:30",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Unhinged",
+          "desc": "Night School Studio开发的恐怖游戏"
+        },
+        {
+          "name": "Oxenfree",
+          "desc": "Night School Studio开发的超自然悬疑冒险游戏"
+        },
+        {
+          "name": "Big Walk",
+          "desc": "感官漫步游戏"
+        }
+      ]
+    },
+    {
+      "id": "3d039f83b0",
+      "title": "现代消费者渴望“事件”，游戏行业需要提供它们 | 观点",
+      "zh_desc": "文章认为游戏行业不能只靠续作节奏，更要为消费者创造类似演唱会、赛事等的“事件感”来维持品牌热度。对休闲游戏做内容营销和 LiveOps 有一定启发，但并非方法拆解。",
+      "url": "https://www.gamesindustry.biz/modern-consumers-crave-events-and-the-games-industry-needs-to-provide-them-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-14T16:39:59",
+      "fetched_at": "2026-08-15T03:31:30",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Call of Duty",
+          "desc": "第一人称射击游戏系列，几乎是最后一个年度化发行的系列"
+        }
+      ]
+    },
+    {
+      "id": "43aaa1a177",
+      "title": "Niko Partners：印度游戏市场突破 10 亿美元，预计 2026 年底达 12 亿美元",
+      "zh_desc": "Niko Partners 数据显示印度游戏市场 2025 年首次超过 10 亿美元，同比增长 14.8%，并预计 2026 年底达到 12 亿美元。对关注印度市场或考虑出海的休闲游戏从业者具有参考价值。",
+      "url": "https://www.gamesindustry.biz/niko-partners-india-games-market-exceeds-1bn-forecast-to-reach-12bn-by-end-of-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-14T13:47:08",
+      "fetched_at": "2026-08-15T03:31:30",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容的在线游戏平台"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "沙盒建造游戏"
+        }
+      ]
+    },
+    {
+      "id": "3a46dcbb04",
+      "title": "新游摘要：Supercell 的 Project Rise、Epic Mickey、Dave the Diver、Goat Simulator、Little Kitty Big City 等",
+      "zh_desc": "本期新游摘要包含 Supercell 的 Project Rise、Epic Mickey、Dave the Diver、Goat Simulator、Little Kitty Big City，以及 Nexon 和 Farlight 的软启动产品。适合休闲手游从业者快速了解新品测试和发行动态。",
+      "url": "https://mobilegamer.biz/new-game-digest-supercells-project-rise-epic-mickey-dave-the-diver-goat-simulator-little-kitty-big-city-soulterra-odyssey-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-14T10:19:50",
+      "fetched_at": "2026-08-15T03:31:30",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Project Rise",
+          "desc": "Supercell的《部落冲突》衍生动作RPG"
+        },
+        {
+          "name": "Disney Epic Mickey: Rebrushed",
+          "desc": "Purple Lamp开发的3D平台游戏重制版"
+        },
+        {
+          "name": "Dave the Diver",
+          "desc": "Mintrocket开发的RPG管理模拟游戏"
+        },
+        {
+          "name": "Dredge",
+          "desc": "钓鱼冒险游戏，与Dave the Diver联动"
+        },
+        {
+          "name": "Goat Simulator 3",
+          "desc": "Coffee Stain North开发的开放世界沙盒模拟游戏"
+        },
+        {
+          "name": "Little Kitty, Big City",
+          "desc": "Double Dagger Studio开发的猫咪冒险游戏"
+        },
+        {
+          "name": "SoulTerra Odyssey",
+          "desc": "Bandai Namco发行的中核3D roguelite RPG"
+        },
+        {
+          "name": "Slots & Daggers",
+          "desc": "基于老虎机的roguelike游戏"
+        },
+        {
+          "name": "Greedy Greedy Gnomes",
+          "desc": "增量式打罐子RPG"
+        },
+        {
+          "name": "Azur Promilia",
+          "desc": "Nexon的开放世界动漫RPG"
+        },
+        {
+          "name": "小冰冰斗蛐蛐",
+          "desc": "Farlight发行的中核自动战斗游戏"
+        },
+        {
+          "name": "Kaboomania",
+          "desc": "Fancy Factory的复古迷宫炸弹人游戏"
+        }
+      ]
+    },
+    {
+      "id": "9d20d774b8",
+      "title": "Apple 希望在美国 App Store 之外的购买中收取最高 15% 佣金",
+      "zh_desc": "Apple 在 Epic 诉讼中请求法院推翻部分禁令，拟对 App Store 以外的 iOS 应用购买收取最高 15% 佣金。该案直接影响游戏内购与外部分发/支付，对休闲手游定价和渠道策略有参考价值。",
+      "url": "https://gameworldobserver.com/2026/08/14/apple-wants-to-charge-up-to-a-15-commission-on-purchases-outside-the-app-store-in-the-u-s",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-14T13:28:16",
+      "fetched_at": "2026-08-15T03:31:30",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "6c78edbac1",
+      "title": "WN Conference Cyprus ’26 议程公布：Owlcat Games、Nexters、Playrix、Deconstructor of Fun 等参加",
+      "zh_desc": "WN Conference Cyprus 将于 9 月 17-18 日在利马索尔举办，官方发布完整议程，包含 Playrix、Nexters 等休闲厂商。对计划参会或关注行业交流的从业者有一定参考价值。",
+      "url": "https://gameworldobserver.com/2026/08/14/the-program-for-the-wn-conference-cyprus-26-has-been-released-among-the-participants-are-owlcat-games-nexters-playrix-deconstructor-of-fun-and-many-others",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-14T09:09:36",
+      "fetched_at": "2026-08-15T03:31:30",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "fb63922d78",
+      "title": "Disney 扩大游戏业务：能否成为主要增长催化剂？ - TradingView",
+      "zh_desc": "文章分析迪士尼扩大游戏业务的战略，探讨其能否成为新的增长引擎，并结合 Disney Solitaire 等休闲产品观察大厂在手游/授权游戏领域的押注。对休闲游戏从业者了解大厂动向有参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeDRISkNqd1FaY2tPNzlIQVA2aEZQMHVyV1dSSzgzN0RMY0VPOFk2STMwV1NuY21zVDJmQUdpR3lfdDVPTmJNV2Z1M2hPR1d3a0tXbEpydkhTVnRjdVlON3BENURwbURva2ZUZE52VHZMLTNBZ1FZa3oybGhYcUFZd0x5V2ViOF9YSGZNRTBZZ1M4TExBdmtJa0VLQ05Cc094bFBHSWlRLTNubkVJMk9zMzE5T3BaRDdITnVjVlJqT3pzZw?oc=5",
+      "source": "重点游戏-Disney Solitaire",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-14T14:42:00",
+      "fetched_at": "2026-08-15T03:31:30",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "49f4277daf",
       "title": "玩家分层：SegmentIQ 引入 Segments 功能",
