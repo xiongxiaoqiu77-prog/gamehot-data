@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-18T00:19:43",
+  "updated_at": "2026-08-18T01:55:42",
   "articles": [
+    {
+      "id": "646a410c5b",
+      "title": "好莱坞颠覆者用12人团队制作大型游戏——不使用生成式AI",
+      "zh_desc": "文章介绍了Wolf Haus Games工作室及其新作Join Us，该工作室由好莱坞背景人士组成，以12人小团队制作大型合作游戏，并明确不使用生成式AI。对从业者而言，可了解独立团队如何以精干人手进行大型游戏开发。",
+      "url": "https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-17T17:43:23",
+      "fetched_at": "2026-08-18T01:55:42",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Join Us",
+          "desc": "黑暗喜剧风格的多人合作邪教模拟器，包含骑猪射击等混乱玩法。"
+        }
+      ]
+    },
     {
       "id": "881c17a689",
       "title": "为游戏行业顶级交易提供建议的人：Affan Butt",
