@@ -1,6 +1,1121 @@
 {
-  "updated_at": "2026-08-18T09:43:24",
+  "updated_at": "2026-08-20T09:48:41",
   "articles": [
+    {
+      "id": "5f588f084f",
+      "title": "WEBTOON 比 Monopoly Go 更庞大：一个新兴游戏营销渠道的内幕",
+      "zh_desc": "文章探讨漫画应用 WEBTOON 作为游戏营销渠道的潜力，Square Enix 等厂商分享如何借助其触达新玩家。对休闲游戏买量和品牌营销有参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/webtoon-is-bigger-than-monopoly-go-inside-a-new-game-marketing-channel",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-19T14:55:22",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go!",
+          "desc": "桌面棋类游戏改编的休闲手游"
+        },
+        {
+          "name": "Visions of Mana",
+          "desc": "动作角色扮演游戏（《圣剑传说》系列新作）"
+        },
+        {
+          "name": "Dragon Quest VII Reimagined",
+          "desc": "经典JRPG的重制/改编作品"
+        },
+        {
+          "name": "Candy Crush",
+          "desc": "三消休闲游戏"
+        }
+      ]
+    },
+    {
+      "id": "af6246617c",
+      "title": "大多数游戏交易背后的男人",
+      "zh_desc": "介绍游戏并购撮合者 Affan Butt 如何在交易发生前多年建立关系，案例包括 Loom Games 出售给 Scopely 和 Supercell 的 SoftBank 融资。对理解游戏行业资本运作与合作有参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/the-man-behind-most-gaming-deals",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-18T09:00:56",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hay Day",
+          "desc": "农场模拟经营手游"
+        },
+        {
+          "name": "Clash",
+          "desc": "策略手游《部落冲突》（Clash of Clans）的简称"
+        }
+      ]
+    },
+    {
+      "id": "0ddf4307fb",
+      "title": "报道：PlayStation 缩减 Horizon Hunters Gathering 实时服务野心并调整开发者",
+      "zh_desc": "据报道，因玩家反馈不佳，Guerrilla Games 正移除《Horizon Hunters Gathering》的实时服务要素，PlayStation 已重新分配部分开发者。反映大厂对 live-service 策略的收缩，值得手游运营关注。",
+      "url": "https://www.gamedeveloper.com/business/report-playstation-reworks-horizon-live-service-game-after-negative-feedback",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-19T13:43:14",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Horizon Hunters Gathering",
+          "desc": "合作狩猎动作游戏，原计划实时服务"
+        },
+        {
+          "name": "The Last of Us Online",
+          "desc": "《最后生还者》多人线上版，被取消"
+        },
+        {
+          "name": "Concord",
+          "desc": "科幻英雄射击游戏"
+        },
+        {
+          "name": "Destiny 2",
+          "desc": "射击MMO游戏"
+        }
+      ]
+    },
+    {
+      "id": "aa288af313",
+      "title": "Roblox 在 2025 年报告 65,381 起疑似儿童虐待事件后遭美国参议院调查",
+      "zh_desc": "美国参议院对 Roblox 展开调查，因其 2025 年报告大量疑似儿童虐待内容。Roblox 是重要 UGC 平台，对移动游戏平台安全和审核策略有警示意义。",
+      "url": "https://www.gamedeveloper.com/business/roblox-being-investigated-by-u-s-senate-after-reporting-65-381-instances-of-suspected-child-abuse-in-2025",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-18T10:22:11",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台"
+        }
+      ]
+    },
+    {
+      "id": "4795438551",
+      "title": "报告：Horizon Hunters Gathering 因玩家负面反馈移除实时服务",
+      "zh_desc": "据报道，Guerrilla Games 根据玩家反馈全面移除《Horizon Hunters Gathering》的实时服务玩法。这是大厂调整 live-service 策略的最新信号，对游戏运营团队有参考价值。",
+      "url": "https://www.gamesindustry.biz/report-live-service-removed-from-horizon-hunters-gathering-following-negative-player-feedback",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-19T13:55:38",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Horizon Hunters Gathering",
+          "desc": "合作狩猎动作游戏，移除实时服务改为传统多人"
+        },
+        {
+          "name": "Horizon Forbidden West",
+          "desc": "《地平线：西之绝境》，开放世界动作冒险游戏"
+        },
+        {
+          "name": "Concord",
+          "desc": "科幻英雄射击游戏"
+        },
+        {
+          "name": "Destiny 2",
+          "desc": "射击MMO游戏"
+        },
+        {
+          "name": "Marathon",
+          "desc": "科幻PvP撤离射击游戏"
+        },
+        {
+          "name": "God of War",
+          "desc": "动作冒险游戏"
+        },
+        {
+          "name": "Spider-Man",
+          "desc": "漫威超级英雄动作游戏"
+        },
+        {
+          "name": "The Last of Us",
+          "desc": "生存动作冒险游戏"
+        }
+      ]
+    },
+    {
+      "id": "e32f1832e8",
+      "title": "Konami 的 Castlevania: Grimoire of Souls 将于下月停服",
+      "zh_desc": "Konami 宣布《Castlevania: Grimoire of Souls》下月停运。移动游戏生命周期管理案例，提醒开发者注意长线运营与停服策略。",
+      "url": "https://www.gamesindustry.biz/konamis-castlevania-grimoire-of-souls-to-be-taken-offline-next-month",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-19T07:50:27",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Castlevania: Grimoire of Souls",
+          "desc": "动作冒险游戏（《恶魔城》系列，Apple Arcade独占）"
+        },
+        {
+          "name": "Mario Kart Tour",
+          "desc": "赛车竞速手游"
+        },
+        {
+          "name": "Looney Tunes: World of Mayhem",
+          "desc": "卡通角色对战/策略游戏"
+        },
+        {
+          "name": "Destruction AllStars",
+          "desc": "车辆战斗竞技游戏"
+        }
+      ]
+    },
+    {
+      "id": "3ae7a3226c",
+      "title": "Bain & Co 研究：只有五分之一的玩家会主动寻找新游戏",
+      "zh_desc": "研究显示全球游戏软件收入过去四年复合年增长 3%，三分之二玩家偏好熟悉作品或续作，仅五分之一玩家主动寻找新作。对理解存量市场和新游获客挑战很有参考价值。",
+      "url": "https://www.gamesindustry.biz/bain-co-research-shows-only-one-in-five-players-seek-out-new-titles",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-18T13:00:00",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Baldur's Gate 3",
+          "desc": "CRPG角色扮演游戏"
+        },
+        {
+          "name": "Concord",
+          "desc": "英雄射击游戏"
+        },
+        {
+          "name": "Roblox",
+          "desc": "UGC游戏平台"
+        }
+      ]
+    },
+    {
+      "id": "c14a58c8c1",
+      "title": "7 月收入最高的移动游戏：Honor of Kings、Roblox、Gossip Harbor、PUBG Mobile、Pokémon Go 等",
+      "zh_desc": "AppMagic 公布 7 月手游收入预估，Gossip Harbor 升至第三，eFootball 与 EA FC 拉开差距，并解释 LastWar 为何突然下滑。对休闲游戏市场判断和竞品监测有参考价值。",
+      "url": "https://mobilegamer.biz/julys-top-grossing-mobile-games-honor-of-kings-roblox-gossip-harbor-pubg-mobile-pokemon-go-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-19T13:58:12",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Honor of Kings",
+          "desc": "多人在线战术竞技（MOBA）手游"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台"
+        },
+        {
+          "name": "Gossip Harbor",
+          "desc": "剧情向合成/休闲游戏"
+        },
+        {
+          "name": "PUBG Mobile",
+          "desc": "大逃杀射击手游"
+        },
+        {
+          "name": "Pokémon Go",
+          "desc": "增强现实（AR）抓宝手游"
+        },
+        {
+          "name": "Royal Match",
+          "desc": "三消益智游戏"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "冰雪末日生存SLG"
+        },
+        {
+          "name": "Monopoly Go",
+          "desc": "桌面棋类改编的休闲手游"
+        },
+        {
+          "name": "Candy Crush Saga",
+          "desc": "经典三消游戏"
+        },
+        {
+          "name": "Kingshot",
+          "desc": "策略战争SLG手游"
+        },
+        {
+          "name": "eFootball",
+          "desc": "足球模拟体育游戏"
+        },
+        {
+          "name": "LastWar: Survival",
+          "desc": "末日生存策略手游"
+        },
+        {
+          "name": "Coin Master",
+          "desc": "老虎机+建设休闲游戏"
+        },
+        {
+          "name": "Township",
+          "desc": "农场模拟经营手游"
+        },
+        {
+          "name": "Free Fire Max",
+          "desc": "大逃杀射击手游"
+        },
+        {
+          "name": "Delta Force",
+          "desc": "现代军事射击游戏"
+        },
+        {
+          "name": "Gardenscapes",
+          "desc": "三消+花园装修游戏"
+        },
+        {
+          "name": "Royal Kingdom",
+          "desc": "三消益智游戏（《Royal Match》续作）"
+        },
+        {
+          "name": "Toon Blast",
+          "desc": "卡通风格消除游戏"
+        },
+        {
+          "name": "Genshin Impact",
+          "desc": "开放世界动作RPG"
+        }
+      ]
+    },
+    {
+      "id": "a377a5060c",
+      "title": "7 月移动游戏下载量 Top：Roblox、Free Fire、Arrows、Block Blast、Soccer Superstar 等",
+      "zh_desc": "AppMagic 7 月下载量预估显示 Roblox、Free Fire 领跑，三款 Arrows 游戏出现升降，世界杯效应带动多款足球游戏增长。对休闲游戏发行和买量有参考价值。",
+      "url": "https://mobilegamer.biz/julys-top-mobile-game-downloads-roblox-free-fire-arrows-block-blast-soccer-superstar-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-19T13:34:19",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "UGC游戏平台"
+        },
+        {
+          "name": "Free Fire Max",
+          "desc": "大逃杀射击手游"
+        },
+        {
+          "name": "Arrows Go",
+          "desc": "休闲益智游戏（射箭解谜）"
+        },
+        {
+          "name": "Arrows – Puzzle Escape",
+          "desc": "休闲解谜游戏"
+        },
+        {
+          "name": "Arrows Puzzle: Tap Puzzle Games",
+          "desc": "休闲解谜游戏（Arrows系列）"
+        },
+        {
+          "name": "Block Blast",
+          "desc": "方块消除益智游戏"
+        },
+        {
+          "name": "Ludo King",
+          "desc": "飞行棋（Ludo）多人棋盘游戏"
+        },
+        {
+          "name": "Subway Surfers",
+          "desc": "跑酷手游"
+        },
+        {
+          "name": "Soccer Superstar",
+          "desc": "足球题材休闲游戏"
+        },
+        {
+          "name": "Football League 2026",
+          "desc": "足球模拟/管理游戏"
+        },
+        {
+          "name": "EA FC Mobile",
+          "desc": "足球体育手游"
+        },
+        {
+          "name": "eFootball",
+          "desc": "足球模拟游戏"
+        },
+        {
+          "name": "Meowdoku",
+          "desc": "数独/逻辑益智游戏"
+        },
+        {
+          "name": "Vita Mahjong",
+          "desc": "麻将主题益智游戏"
+        },
+        {
+          "name": "Block Crazy Robo World Craft",
+          "desc": "沙盒建造游戏"
+        },
+        {
+          "name": "Smash Fest",
+          "desc": "物理破坏类休闲游戏"
+        },
+        {
+          "name": "Paper.io 2",
+          "desc": "io类多边形占领游戏"
+        },
+        {
+          "name": "Level Devil",
+          "desc": "平台跳跃/陷阱游戏"
+        },
+        {
+          "name": "Bus Traffic Driver",
+          "desc": "巴士驾驶模拟游戏"
+        },
+        {
+          "name": "Gossip Harbor",
+          "desc": "剧情合成游戏"
+        }
+      ]
+    },
+    {
+      "id": "9855fb9cef",
+      "title": "数据摘要：Pokémon TCG Pocket、Sled Surfers、My Hero Academia、MapleStory、中核数据等",
+      "zh_desc": "本周数据摘要涵盖多款移动游戏表现与中核品类统计，并更新 4X 新游 Last Asylum。适合快速掌握手游市场动态，辅助日常情报收集。",
+      "url": "https://mobilegamer.biz/data-digest-pokemon-tcg-pocket-sled-surfers-my-hero-academia-maplestory-midcore-stats-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-19T11:12:41",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Pokémon TCG Pocket",
+          "desc": "宝可梦卡牌对战手游"
+        },
+        {
+          "name": "Sled Surfers",
+          "desc": "滑雪/滑行休闲游戏"
+        },
+        {
+          "name": "My Hero Academia: United Survival",
+          "desc": "英雄学院IP roguelite动作游戏"
+        },
+        {
+          "name": "MapleStory",
+          "desc": "横版卷轴MMORPG"
+        },
+        {
+          "name": "Arc Raiders",
+          "desc": "科幻合作射击游戏"
+        },
+        {
+          "name": "Kingdom Come: Deliverance",
+          "desc": "中世纪开放世界RPG"
+        },
+        {
+          "name": "Tomb Raider",
+          "desc": "动作冒险解谜游戏"
+        },
+        {
+          "name": "Metro",
+          "desc": "末日生存射击游戏（系列）"
+        }
+      ]
+    },
+    {
+      "id": "8ab149fba2",
+      "title": "Apple 公布修订后的欧盟 App Store 条款与费用",
+      "zh_desc": "苹果更新欧盟 App Store 政策，包括 App Store 外分发抽成 5%、原生内购抽成 26%、替代支付 20%、链接购买 15% 等。对手游团队尤其休闲游戏厂商的欧盟商业化策略有直接影响。",
+      "url": "https://mobilegamer.biz/apple-reveals-revised-eu-app-store-terms-and-commission-fees/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-18T17:26:33",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "e3b75f51f7",
+      "title": "MTG 的 Playamp 部门全面押注 AI，覆盖开发、美术、营销等环节",
+      "zh_desc": "Playamp CEO Oliver Bulloss 称，AI 支持下三人团队即可运营 InnoGames 的 Sunrise Village，而过去约需 25 人。展示了 AI 对休闲游戏研发与发行成本结构的潜在冲击。",
+      "url": "https://mobilegamer.biz/mtgs-playamp-division-is-all-in-on-ai-across-development-art-marketing-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-18T13:15:38",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Sunrise Village",
+          "desc": "农场模拟经营游戏"
+        },
+        {
+          "name": "Cozy Coast",
+          "desc": "休闲经营游戏"
+        },
+        {
+          "name": "Forge of Empires",
+          "desc": "帝国建造策略游戏"
+        },
+        {
+          "name": "Elvenar",
+          "desc": "奇幻城市建造游戏"
+        },
+        {
+          "name": "Heroes of History",
+          "desc": "历史题材策略游戏"
+        },
+        {
+          "name": "Raid: Shadow Legends",
+          "desc": "黑暗奇幻RPG"
+        }
+      ]
+    },
+    {
+      "id": "235930bad7",
+      "title": "独立作者 Ojiro Fumoto 谈复活 Poinpy、Netflix 合作与任天堂工作经历",
+      "zh_desc": "邮件访谈《Downwell》作者 Ojiro Fumoto，回顾其从独立游戏到任天堂再回归独立、并与 Netflix 合作推出 Poinpy 的经历。对独立开发者了解平台合作与职业路径有参考。",
+      "url": "https://mobilegamer.biz/indie-auteur-ojiro-fumoto-on-reviving-poinpy-his-netflix-deal-and-working-at-nintendo/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-18T09:43:59",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Poinpy",
+          "desc": "垂直平台跳跃游戏"
+        },
+        {
+          "name": "Downwell",
+          "desc": "垂直向下弹幕平台游戏"
+        },
+        {
+          "name": "Ring Fit Adventure",
+          "desc": "体感健身冒险游戏"
+        },
+        {
+          "name": "Donkey Kong Bananza",
+          "desc": "大金刚系列平台动作游戏"
+        }
+      ]
+    },
+    {
+      "id": "5f721ecd93",
+      "title": "苹果将降低欧盟 App Store 佣金，以解决与欧盟委员会的分歧",
+      "zh_desc": "苹果再次更新欧盟 App Store 政策以应对“看门人”监管压力，包括降低佣金等。对在欧盟发行手游的团队有直接商业化影响。",
+      "url": "https://gameworldobserver.com/2026/08/19/apple-will-reduce-the-app-store-commission-in-the-eu-to-resolve-disagreements-with-the-european-commission",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-19T14:49:33",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "39d2808b10",
+      "title": "移动游戏变现的 42 种方法",
+      "zh_desc": "文章整理 42 条移动游戏变现技巧，涵盖广告、内购、订阅等多种策略。对休闲游戏商业化和营收设计有直接参考价值。",
+      "url": "https://www.gameanalytics.com/blog/42-ways-to-monetize-your-mobile-game",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-08-19T14:44:00",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "308bdd09fa",
+      "title": "2026 年移动游戏最佳广告情报工具",
+      "zh_desc": "对比 2026 年移动游戏广告情报工具的定价、功能与适用场景，帮助发行商选择买量创意研究平台。对休闲游戏买量团队有实用价值。",
+      "url": "https://www.gameanalytics.com/blog/best-ad-intelligence-tools-mobile-gaming-2026",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-19T08:18:28",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "155e895da6",
+      "title": "如何在游戏原型阶段开展用户研究",
+      "zh_desc": "讲解在原型阶段用用户研究、A/B 测试和问卷验证游戏概念的方法，以提升市场成功率。对休闲游戏早期立项和体验优化有实践参考。",
+      "url": "https://www.gameanalytics.com/blog/user-research-prototype-stage-game",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-08-19T08:10:56",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "e19dcb4285",
+      "title": "新增创新高，“三幻神”齐聚：逆水寒又让 MMO 再次伟大了？",
+      "zh_desc": "文章讨论《逆水寒》带动 MMO 品类热度与创新高，分析“三幻神”等产品表现。对关注中国手游市场与 MMO 运营的人有一定参考，但与消除/休闲品类关系不大。",
+      "url": "https://mp.weixin.qq.com/s/lM7gPNmeijF0iGkahKfxUg",
+      "source": "微信-游戏陀螺",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-19T18:08:38",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "逆水寒",
+          "desc": "大型多人在线角色扮演游戏（MMORPG）"
+        }
+      ]
+    },
+    {
+      "id": "65992bd6c1",
+      "title": "国乙大战的第三年，咋卷不动了？",
+      "zh_desc": "文章回顾中国乙女游戏赛道三年来的竞争变化，分析为何增长放缓、玩家留存与内容内卷问题。对女性向手游从业者有借鉴意义。",
+      "url": "https://mp.weixin.qq.com/s/y4Wqa2u7QouTDrXpkojvvA",
+      "source": "微信-竞核",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-19T13:09:45",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "恋与制作人",
+          "desc": "恋爱模拟/卡牌剧情手游"
+        },
+        {
+          "name": "光与夜之恋",
+          "desc": "恋爱剧情手游"
+        },
+        {
+          "name": "时空中的绘旅人",
+          "desc": "女性向恋爱RPG"
+        },
+        {
+          "name": "未定事件簿",
+          "desc": "女性向推理恋爱游戏"
+        },
+        {
+          "name": "恋与深空",
+          "desc": "3D恋爱互动手游"
+        },
+        {
+          "name": "世界之外",
+          "desc": "女性向恋爱手游"
+        }
+      ]
+    },
+    {
+      "id": "60db2ab3a3",
+      "title": "Crystal Drop 月入 3 万美金｜土耳其 Craft 又做了一款 3D 沙画产品",
+      "zh_desc": "介绍土耳其团队 Craft 推出的 3D 沙画产品 Crystal Drop，结合月收入 3 万美金的表现分析玩法与买量。对休闲/超休闲产品出海有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/8-UBSzyKzoZ4Z2QI7hy5Iw",
+      "source": "微信-熊猫游戏出海",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-19T11:59:05",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "Sand Drop! - Color Sort Puzzle",
+          "desc": "3D沙画颜色归类解谜游戏"
+        },
+        {
+          "name": "Crystal Drop!",
+          "desc": "2D沙画/颜色归类解谜游戏"
+        },
+        {
+          "name": "Knit Flow",
+          "desc": "编织主题休闲游戏"
+        },
+        {
+          "name": "MatchVille: Find and Match",
+          "desc": "找物/匹配休闲游戏"
+        }
+      ]
+    },
+    {
+      "id": "ad644f0ec7",
+      "title": "不少人逃离游戏行业，那留下来坚持的人靠的是什么？",
+      "zh_desc": "文章探讨游戏行业人员流失背景下，仍在坚持的从业者的动力与信念。适合从业者共鸣与职业思考，专业分析价值一般。",
+      "url": "https://mp.weixin.qq.com/s/tH13zy1IWB4frmV6mvZPkw",
+      "source": "微信-一枚游戏干饭人",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-19T08:26:17",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "36093f602d",
+      "title": "新游上线只是开始，中国 PC/主机游戏正在 Twitch 上重做海外营销",
+      "zh_desc": "文章分析中国 PC/主机游戏如何借助 Twitch 做长线海外营销，强调上线后的内容传播。对游戏出海营销策略有启发，但非休闲品类。",
+      "url": "https://mp.weixin.qq.com/s/bgvHPxPL5b411ouOhKvC_w",
+      "source": "微信-罗斯基",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-18T23:23:29",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "黑神话：悟空",
+          "desc": "动作角色扮演游戏"
+        },
+        {
+          "name": "鸣潮",
+          "desc": "开放世界动作RPG"
+        },
+        {
+          "name": "明日方舟：终末地",
+          "desc": "策略RPG"
+        },
+        {
+          "name": "使命召唤：黑色行动 6",
+          "desc": "第一人称射击游戏"
+        },
+        {
+          "name": "我的世界",
+          "desc": "沙盒建造游戏"
+        }
+      ]
+    },
+    {
+      "id": "3e7c47d84a",
+      "title": "出海增长的新逻辑：AI 时代，你的团队还在“拼投手”吗？",
+      "zh_desc": "讨论 AI 时代游戏出海买量逻辑变化，从依赖投放优化师转向工具化、AI 驱动。对出海发行商调整增长团队配置有实操参考。",
+      "url": "https://mp.weixin.qq.com/s/Cr6rRsqniN3wvAixg4WZ_g",
+      "source": "微信-罗斯基",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-18T23:23:29",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "8ebc6df773",
+      "title": "连测 5 款新游，SLG 与 Merge 双线出击，巴别时代还在找下一个爆款",
+      "zh_desc": "文章盘点巴别时代连续测试的 5 款新产品，覆盖 SLG 与 Merge 两条赛道，观察其在寻找下一个爆款上的策略。对关注合并/休闲品类出海团队的立项方向有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/kN3FiHt6XFdDttABAn3Erg",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-18T18:43:57",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "放开那三国",
+          "desc": "三国题材卡牌RPG"
+        },
+        {
+          "name": "Cold Dawn: Survival",
+          "desc": "冰雪末日生存SLG"
+        },
+        {
+          "name": "救赎之道 Freedom War",
+          "desc": "监狱题材SLG"
+        },
+        {
+          "name": "深海纪元 (Tide Kings)",
+          "desc": "深海题材SLG"
+        },
+        {
+          "name": "Chickov War",
+          "desc": "萌系小鸡主题SLG"
+        },
+        {
+          "name": "Rich Revenge: Merge & Match",
+          "desc": "剧情向合成游戏"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "冰雪末日SLG"
+        },
+        {
+          "name": "Kingshot",
+          "desc": "策略SLG"
+        },
+        {
+          "name": "Lands of Jail",
+          "desc": "监狱题材SLG（参考）"
+        },
+        {
+          "name": "Duck Survival",
+          "desc": "鸭题材生存SLG"
+        },
+        {
+          "name": "梦幻花园 (Gardenscapes)",
+          "desc": "三消+装修游戏"
+        },
+        {
+          "name": "Merge Mansion",
+          "desc": "剧情向合成游戏"
+        }
+      ]
+    },
+    {
+      "id": "301ffa4215",
+      "title": "联合创始人牵头，莉莉丝丧尸生存新游冲入畅销 Top20",
+      "zh_desc": "文章介绍莉莉丝在丧尸生存品类的新游表现，以及联合创始人主导的投资和发行策略。对了解中国厂商出海和题材选品有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/OLNJioZ0gM56IjdKS-q1Pg",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-18T18:43:57",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "生存日志",
+          "desc": "丧尸末日生存游戏"
+        },
+        {
+          "name": "诺托里阿之书",
+          "desc": "开放世界生存建造游戏"
+        },
+        {
+          "name": "喵岛雄心",
+          "desc": "猫咪题材模拟经营+跑商游戏"
+        },
+        {
+          "name": "艾彼",
+          "desc": "末世废土横版解谜冒险游戏"
+        },
+        {
+          "name": "虚妄轮回",
+          "desc": "牌组构筑+自走棋策略RPG"
+        },
+        {
+          "name": "虚妄之盒",
+          "desc": "下落式肉鸽卡牌游戏"
+        },
+        {
+          "name": "小冰冰传奇",
+          "desc": "卡牌RPG手游"
+        },
+        {
+          "name": "万国觉醒",
+          "desc": "策略SLG手游"
+        },
+        {
+          "name": "剑与远征",
+          "desc": "放置卡牌RPG"
+        },
+        {
+          "name": "妄想破绽",
+          "desc": "文字AVG/视觉小说"
+        },
+        {
+          "name": "碳酸危机",
+          "desc": "横版平台射击游戏"
+        },
+        {
+          "name": "风帆纪元",
+          "desc": "航海经营冒险游戏"
+        },
+        {
+          "name": "魔法工艺",
+          "desc": "动作肉鸽游戏"
+        },
+        {
+          "name": "绝世好武功",
+          "desc": "武侠RPG"
+        },
+        {
+          "name": "暖雪",
+          "desc": "动作肉鸽游戏"
+        },
+        {
+          "name": "逃离鸭科夫",
+          "desc": "2.5D搜打撤射击游戏"
+        },
+        {
+          "name": "硬核机甲",
+          "desc": "2D机甲动作游戏"
+        },
+        {
+          "name": "鬼谷八荒",
+          "desc": "沙盒修仙游戏"
+        },
+        {
+          "name": "失落城堡",
+          "desc": "横版动作冒险游戏"
+        },
+        {
+          "name": "黑神话：悟空",
+          "desc": "动作角色扮演游戏（作为不投资方向被提及）"
+        },
+        {
+          "name": "迷失岛",
+          "desc": "2D解谜游戏"
+        },
+        {
+          "name": "南瓜先生",
+          "desc": "2D解谜游戏系列"
+        }
+      ]
+    },
+    {
+      "id": "f39a50cc36",
+      "title": "网易《归唐》制作人接受英国杂志采访，14 页访谈披露游戏内容",
+      "zh_desc": "网易《归唐》制作人在英国杂志访谈中披露大量游戏内容与设计理念。对关注中式题材出海和开放世界产品的人有参考，但与休闲品类关系不大。",
+      "url": "https://mp.weixin.qq.com/s/kRnRP4YzHNeKsaAq2B_PDA",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-18T18:43:57",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "归唐",
+          "desc": "唐朝题材3A动作冒险游戏"
+        },
+        {
+          "name": "Sifu",
+          "desc": "功夫动作游戏"
+        },
+        {
+          "name": "生化奇兵",
+          "desc": "第一人称射击/动作冒险游戏"
+        },
+        {
+          "name": "无主之地",
+          "desc": "刷宝射击游戏"
+        },
+        {
+          "name": "席德梅尔的海盗",
+          "desc": "策略冒险游戏"
+        },
+        {
+          "name": "XCOM",
+          "desc": "回合制策略游戏"
+        },
+        {
+          "name": "演灭",
+          "desc": "第三人称潜行游戏"
+        }
+      ]
+    },
+    {
+      "id": "596d54a48c",
+      "title": "线上研讨会 | 从买量到支付，拆解 Merge 合成游戏的出海生意",
+      "zh_desc": "研讨会内容围绕 Merge 合成类游戏出海全链路，涵盖买量投放、变现与支付环节。对休闲游戏尤其是 Merge 品类从业者有较高实操价值。",
+      "url": "https://mp.weixin.qq.com/s/5OnfFahFBrX-OsA2y6QIhA",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-18T18:43:57",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "1c2d94002b",
+      "title": "首次出海！东映游戏携 3 款新作登陆 BIC 2026 釜山，日本大厂为何盯上韩国？",
+      "zh_desc": "东映游戏首次携三款新作参加 BIC 2026 釜山展会，文章分析日本厂商选择韩国市场的原因。对出海发行和展会获客有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/ynQp5rUK9QHmg8UIWdQDOg",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-18T18:43:57",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "2dd16a18e7",
+      "title": "DeepSeek 百万年薪来游戏圈抢人，盘点七大龙头企业的“AI+游戏”布局",
+      "zh_desc": "文章梳理 DeepSeek 等 AI 企业进军游戏行业的高薪抢人现象，以及七大龙头公司的 AI+游戏布局。对关注 AI 在游戏领域应用与人才趋势的人有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/27AhINFLAtiahEGQCAhA3A",
+      "source": "微信-游戏陀螺",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-18T18:05:29",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "王者荣耀",
+          "desc": "MOBA手游"
+        },
+        {
+          "name": "和平精英",
+          "desc": "战术竞技射击手游"
+        },
+        {
+          "name": "洛克王国：世界",
+          "desc": "精灵收集/角色扮演游戏"
+        },
+        {
+          "name": "彩虹六号：攻势",
+          "desc": "第一人称战术射击游戏"
+        },
+        {
+          "name": "舞力全开：派对",
+          "desc": "音乐舞蹈游戏"
+        }
+      ]
+    },
+    {
+      "id": "9f9db5203d",
+      "title": "游戏叙事中，“好选择”的衡量标准是什么？",
+      "zh_desc": "文章探讨游戏叙事设计中“好选择”的评价标准，分析选择如何影响玩家体验与叙事深度。对剧情驱动型游戏策划有参考，但与休闲玩法关联较弱。",
+      "url": "https://mp.weixin.qq.com/s/MUIni7AfLEf9lfMiX6I_bA",
+      "source": "微信-无界游戏学社",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-18T17:01:07",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "神界：原罪2",
+          "desc": "CRPG角色扮演游戏"
+        },
+        {
+          "name": "辐射：新维加斯",
+          "desc": "开放世界RPG"
+        }
+      ]
+    },
+    {
+      "id": "dedb86b98d",
+      "title": "月入 30 万美金｜BRAINWORKS 又上了一款切割消除",
+      "zh_desc": "介绍 BRAINWORKS 新上线的切割消除产品，结合月收入 30 万美金的表现拆解其玩法与商业化。对休闲消除类开发者有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/kpfrwEokT7hVm0LBRoPgUA",
+      "source": "微信-熊猫游戏出海",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-18T11:58:45",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "Slice Away",
+          "desc": "切割消除休闲游戏"
+        },
+        {
+          "name": "Hole Em All: Collect Master",
+          "desc": "黑洞吞噬休闲游戏"
+        },
+        {
+          "name": "NumMatch",
+          "desc": "数字匹配游戏"
+        },
+        {
+          "name": "HoleCraft",
+          "desc": "黑洞题材休闲游戏"
+        },
+        {
+          "name": "Color Flow",
+          "desc": "颜色流动解谜游戏"
+        },
+        {
+          "name": "Blockanza",
+          "desc": "方块益智游戏"
+        },
+        {
+          "name": "Zen Blossom",
+          "desc": "禅意花朵题材休闲游戏"
+        }
+      ]
+    },
+    {
+      "id": "94e44f213c",
+      "title": "腾讯新作探索 AI Agent，对话制作组：做一款玩家喜欢的女性向游戏",
+      "zh_desc": "腾讯新作尝试用 AI Agent 推动女性向游戏体验，制作组分享设计思路。对关注女性向手游和 AI 应用的人有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/t3_EQeAcRav6_p0wv_4Npw",
+      "source": "微信-竞核",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-18T11:56:09",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "猫仙札",
+          "desc": "多AI Agent女性向叙事RPG"
+        }
+      ]
+    },
+    {
+      "id": "cc12a201f1",
+      "title": "【一周游语 Vol.155】把超级变色龙做成单机版找东西好玩吗？战车弹壳、积木规划、物理消除……",
+      "zh_desc": "每周休闲游戏观察，围绕把超级变色龙改成单机找物等创意，讨论战车弹壳、积木规划、物理消除等玩法的乐趣点。对休闲游戏原型设计与创意激发有直接帮助。",
+      "url": "https://mp.weixin.qq.com/s/4W8q4b3ret2evx6d-RQPOA",
+      "source": "微信-GAME游意思",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-18T09:58:56",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "Junkyard Survival",
+          "desc": "战车驾驶+僵尸射击生存游戏"
+        },
+        {
+          "name": "Balance Jam!",
+          "desc": "物理平衡三消游戏"
+        },
+        {
+          "name": "Unpack Match",
+          "desc": "打包+3D匹配物理消除游戏"
+        },
+        {
+          "name": "BounceToHole",
+          "desc": "弹球物理反射解谜游戏"
+        },
+        {
+          "name": "Find Guys",
+          "desc": "超级变色龙单机版找东西游戏"
+        }
+      ]
+    },
+    {
+      "id": "208636d456",
+      "title": "沉寂一个月之后，《恋与深空》新版本有点让人意外",
+      "zh_desc": "文章评论《恋与深空》沉寂一个月后推出的新版本内容和意外变化。对关注女性向手游运营与内容更新节奏的人有一定参考。",
+      "url": "https://mp.weixin.qq.com/s/USL0o0Cg6X_KQO8IrRklDQ",
+      "source": "微信-游讯先锋",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-18T08:55:05",
+      "fetched_at": "2026-08-20T09:48:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "恋与深空",
+          "desc": "3D恋爱互动手游"
+        }
+      ]
+    },
     {
       "id": "9125568b44",
       "title": "新游录《沙金工业 Sandustry》——像素工厂自动化游戏",
