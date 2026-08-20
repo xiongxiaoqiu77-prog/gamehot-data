@@ -1,6 +1,276 @@
 {
-  "updated_at": "2026-08-20T10:37:19",
+  "updated_at": "2026-08-21T00:26:12",
   "articles": [
+    {
+      "id": "a35d54b3ef",
+      "title": "Makers Fund 完成 2.5 亿美元募资，扩大游戏行业投资版图",
+      "zh_desc": "Makers Fund 宣布完成新一轮 2.5 亿美元募资，继续支持游戏与互动娱乐领域的初创公司。该事件反映出资本市场对游戏创作者和创业团队的持续关注，适合从业者了解行业融资趋势。",
+      "url": "https://www.gamedeveloper.com/business/makers-fund-expands-game-industry-footprint-after-closing-250-million-investment-round",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-20T15:39:24",
+      "fetched_at": "2026-08-21T00:26:12",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "327eeb4aa3",
+      "title": "数百名工会工人在北美集会抗议 Xbox 裁员",
+      "zh_desc": "微软本财年计划在 Xbox 部门裁减 3200 个岗位，CWA 工会成员在北美多地集会施压。该新闻反映了游戏行业裁员潮和劳工权益议题，有助于从业者感知大厂组织变动风险。",
+      "url": "https://www.gamedeveloper.com/business/hundreds-of-union-workers-rally-across-north-america-to-protest-xbox-layoffs",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-20T08:57:26",
+      "fetched_at": "2026-08-21T00:26:12",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "3eacc55164",
+      "title": "美国实体游戏销量降至 1995 年以来最低 | 美国月度榜单",
+      "zh_desc": "Circana 数据显示，美国 7 月实体软件销售额仅 8500 万美元，创 1995 年有记录以来新低。这是观察实体游戏向数字迁移趋势以及美国游戏市场整体表现的重要信号。",
+      "url": "https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-20T15:20:49",
+      "fetched_at": "2026-08-21T00:26:12",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Call of Duty: Black Ops II",
+          "desc": "第一人称射击游戏，因PS4/PS5移植版发售而登顶七月美国付费游戏销量榜。"
+        },
+        {
+          "name": "Call of Duty: Black Ops I",
+          "desc": "经典第一人称射击游戏，PS4/PS5移植版助其位列七月销量榜第五。"
+        },
+        {
+          "name": "EA Sports College Football 27",
+          "desc": "大学美式足球体育模拟游戏，七月全价游戏销量排名第二。"
+        },
+        {
+          "name": "Assassin's Creed: Black Flag Resynced",
+          "desc": "动作冒险游戏，《刺客信条》系列新作，七月新发售。"
+        },
+        {
+          "name": "Halo: Campaign Evolved",
+          "desc": "第一人称射击游戏，光环系列新作，七月新发售。"
+        },
+        {
+          "name": "Splatoon Raiders",
+          "desc": "第三人称涂鸦射击游戏，斯普拉遁系列新作，七月新发售。"
+        },
+        {
+          "name": "Echoes of Aincrad: Sword Art Online",
+          "desc": "基于《刀剑神域》IP的角色扮演游戏，七月新发售。"
+        },
+        {
+          "name": "Tomodachi Life: Living the Dream",
+          "desc": "生活模拟类游戏，任天堂作品。"
+        },
+        {
+          "name": "007 First Light",
+          "desc": "以007为题材的动作射击游戏。"
+        },
+        {
+          "name": "Pokémon Go",
+          "desc": "增强现实手机游戏，十周年活动促使其收入环比大涨230%。"
+        }
+      ]
+    },
+    {
+      "id": "e725d29c51",
+      "title": "GamesIndustry.biz HR 峰会聚焦“人与职场”，塑造游戏行业职场未来",
+      "zh_desc": "今年 10 月 1 日举办的 GamesIndustry.biz HR 峰会将新增“人与职场”主题，邀请 HR 与业务负责人讨论动荡期游戏公司需要怎样的职场环境。对游戏公司管理者和人力资源从业者有直接参考价值。",
+      "url": "https://www.gamesindustry.biz/gamesindustrybiz-hr-summit-reveals-new-people-and-workplace-focus-dedicated-to-shaping-the-future-of-games-workplaces",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-20T14:33:37",
+      "fetched_at": "2026-08-21T00:26:12",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "7291e78199",
+      "title": "Makers Fund 第四轮募资 2.5 亿美元，支持互动娱乐初创企业",
+      "zh_desc": "风投机构 Makers Fund 完成第四轮 2.5 亿美元募资，总管理资产达到 15 亿美元。该消息展示了资本对游戏和互动娱乐创业公司的兴趣，适合关注融资趋势的从业者。",
+      "url": "https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-support-interactive-entertainment-startups",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-20T13:00:00",
+      "fetched_at": "2026-08-21T00:26:12",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "efcc8b1ee4",
+      "title": "Rockstar 再遭泄露：GTA 6 实机与资源在社交媒体流传",
+      "zh_desc": "有黑客组织持续发布疑似 GTA 6 开发版本的内容，包括玩法机制、素材和完整地图。该事件涉及大型游戏项目的保密与安全风险，对从业者具有警示意义。",
+      "url": "https://www.gamesindustry.biz/rockstar-hit-with-more-leaks-as-gta-6-gameplay-and-assets-appear-to-circulate-on-social-media",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-20T11:09:56",
+      "fetched_at": "2026-08-21T00:26:12",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar开发的开放世界动作冒险游戏，近日疑似开发版本游戏玩法与素材遭泄露。"
+        }
+      ]
+    },
+    {
+      "id": "fd7cfbbb2b",
+      "title": "为什么一家你可能没听过的发行商在 Gamescom 上花费数百万美元？",
+      "zh_desc": "文章介绍发行商 4Divinity 在 Gamescom 大举投入展位，试图通过高调线下曝光建立品牌认知。对游戏发行和营销从业者而言，这是观察线下展会投放策略的案例。",
+      "url": "https://www.gamesindustry.biz/why-a-publisher-youve-probably-not-heard-of-is-spending-millions-of-dollars-on-its-gamescom-presence",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-20T11:02:20",
+      "fetched_at": "2026-08-21T00:26:12",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Showa American Story",
+          "desc": "以“日本殖民美国”的架空1980年代为背景的流行文化RPG。"
+        }
+      ]
+    },
+    {
+      "id": "4847af9f44",
+      "title": "Inner Pocket Publishing：为热爱深度单人游戏的玩家打造一个安静角落",
+      "zh_desc": "来自 Critical Reflex、Gaijin Entertainment 和 Nozomu Games 的行业老兵成立独立发行品牌 Inner Pocket Publishing，专注优质单人游戏。对独立游戏开发者和发行方来说，这是一个新合作渠道的信号。",
+      "url": "https://www.gamesindustry.biz/inner-pocket-publishing-is-building-a-quiet-corner-for-people-who-love-thoughtful-single-player-games",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-20T10:21:28",
+      "fetched_at": "2026-08-21T00:26:12",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Burn With Me",
+          "desc": "神秘学题材的卡牌“烧牌”游戏，玩家牺牲卡牌换取力量。"
+        },
+        {
+          "name": "Outcast Tales",
+          "desc": "Inner Pocket发行的独立游戏。"
+        },
+        {
+          "name": "Nonolith",
+          "desc": "Inner Pocket发行的独立游戏。"
+        },
+        {
+          "name": "The Archives of Trevosa",
+          "desc": "Inner Pocket发行的独立游戏。"
+        }
+      ]
+    },
+    {
+      "id": "b7f45070ad",
+      "title": "腾讯《Gangstar Mirage City》今日开始上线：GTA 遇上赛博朋克",
+      "zh_desc": "腾讯开放世界犯罪游戏《Gangstar Mirage City》今日在拉丁美洲、MENA 和东南亚等地区上线，欧美玩家仍需等待。对移动游戏从业者而言，该产品的区域发行策略和开放世界移动化表现值得关注。",
+      "url": "https://mobilegamer.biz/gangstar-mirage-city-tencents-gta-meets-cyberpunk-game-starts-rolling-out-today/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-20T14:27:31",
+      "fetched_at": "2026-08-21T00:26:12",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Gangstar Mirage City",
+          "desc": "开放世界犯罪RPG，融合GTA与赛博朋克风格，腾讯Level Infinite发行。"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar的开放世界大作，文中作为行业背景提及。"
+        }
+      ]
+    },
+    {
+      "id": "e9042d19bd",
+      "title": "Sensor Tower 收购 AppMagic 后，VC 公司 Gem 寻找资深创始人、先行者与独立开发者",
+      "zh_desc": "Gem 联合管理合伙人 Kirill Gurskiy 在 AppMagic 被 Sensor Tower 收购后，阐述了公司偏好的投资对象。对移动游戏创业者和寻求融资的团队来说，这是一份了解投资人思路的参考。",
+      "url": "https://mobilegamer.biz/after-that-sensor-tower-appmagic-deal-vc-firm-gem-seeks-veteran-founders-first-movers-and-indies/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-20T12:01:34",
+      "fetched_at": "2026-08-21T00:26:12",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Indika",
+          "desc": "Odd Meter开发的独特独立游戏。"
+        },
+        {
+          "name": "Solitaire Cruise",
+          "desc": "Belka Games开发的纸牌游戏。"
+        },
+        {
+          "name": "Clockmaker",
+          "desc": "Belka Games开发的解谜游戏。"
+        }
+      ]
+    },
+    {
+      "id": "1a9943c95e",
+      "title": "美国游戏市场七月全面下滑",
+      "zh_desc": "Circana 分析师 Mat Piscatella 报告称，美国玩家在 7 月缩减了游戏、主机及硬件支出。对从业者来说，这是判断美国市场短期消费趋势的重要数据参考。",
+      "url": "https://gameworldobserver.com/2026/08/20/everything-dropped-the-american-gaming-market-took-a-noticeable-dip-in-july",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-20T14:07:06",
+      "fetched_at": "2026-08-21T00:26:12",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Call of Duty: Black Ops II",
+          "desc": "第一人称射击游戏，位列七月美国付费游戏销量榜首。"
+        },
+        {
+          "name": "EA Sports College Football 27",
+          "desc": "大学橄榄球体育游戏，销量排名第二。"
+        },
+        {
+          "name": "Assassin's Creed: Black Flag Resynced",
+          "desc": "动作冒险游戏，新发售进入前三。"
+        },
+        {
+          "name": "Call of Duty: Black Ops I",
+          "desc": "第一人称射击游戏，凭借移植版升至第五。"
+        },
+        {
+          "name": "Halo: Campaign Evolved",
+          "desc": "第一人称射击游戏，新发售上榜。"
+        },
+        {
+          "name": "Splatoon Raiders",
+          "desc": "第三人称射击游戏，新发售上榜。"
+        },
+        {
+          "name": "Echoes of Aincrad: Sword Art Online",
+          "desc": "角色扮演游戏，新发售上榜。"
+        },
+        {
+          "name": "Tomodachi Life: Living the Dream",
+          "desc": "生活模拟游戏。"
+        },
+        {
+          "name": "007 First Light",
+          "desc": "动作射击游戏。"
+        }
+      ]
+    },
     {
       "id": "ba9d3945af",
       "title": "怎样理解UE5的全新阴影方案：Virtual Shadow Map？",
