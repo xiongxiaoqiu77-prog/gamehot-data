@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-08-20T10:11:58",
+  "updated_at": "2026-08-20T10:37:19",
   "articles": [
+    {
+      "id": "ba9d3945af",
+      "title": "怎样理解UE5的全新阴影方案：Virtual Shadow Map？",
+      "zh_desc": "文章系统讲解UE5 Virtual Shadow Map（虚拟阴影贴图）的原理、优势与应用场景，面向游戏开发者提供技术参考。虽然不是休闲游戏策划/运营分析，但对涉及3D渲染的手游团队有一定启发。",
+      "url": "https://mp.weixin.qq.com/s/99fFSBMOp-aDIcjssFq8iA",
+      "source": "微信-无界游戏学社",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-19T17:11:41",
+      "fetched_at": "2026-08-20T10:37:19",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "b5d663fc6e",
+      "title": "麦当劳中国的老板，现在成了灵犀互娱的老板",
+      "zh_desc": "报道麦当劳中国前负责人转任灵犀互娱负责人的高管变动，透露出游戏与消费行业跨界人才流动信号。对关注国内手游公司动态的从业者有一定信息价值，但未涉及休闲游戏具体玩法或运营分析。",
+      "url": "https://mp.weixin.qq.com/s/4U4RxeAXnwKc98lQyuESUA",
+      "source": "微信-GameMarket洞察",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-18T08:07:02",
+      "fetched_at": "2026-08-20T10:37:19",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "1466fde082",
       "title": "Harvey Smith 与前 Arkane Austin 老兵宣布成立新工作室 Black Pony Immersive",
