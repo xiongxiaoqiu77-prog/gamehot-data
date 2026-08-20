@@ -1,6 +1,439 @@
 {
-  "updated_at": "2026-08-20T09:48:41",
+  "updated_at": "2026-08-20T10:11:58",
   "articles": [
+    {
+      "id": "1466fde082",
+      "title": "Harvey Smith 与前 Arkane Austin 老兵宣布成立新工作室 Black Pony Immersive",
+      "zh_desc": "前 Arkane Austin 负责人 Harvey Smith 与同事正式公布新工作室 Black Pony Immersive，将专注第一人称动作 RPG 开发。这属于团队动态类行业资讯，对休闲游戏从业者的主要价值在于观察资深开发者创业方向。",
+      "url": "https://www.gamedeveloper.com/business/harvey-smith-and-fellow-arkane-austin-veterans-launch-a-new-studio",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-19T16:35:10",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dishonored 2",
+          "desc": "沉浸式模拟第一人称动作游戏"
+        },
+        {
+          "name": "Dishonored: Death of the Outsider",
+          "desc": "沉浸式模拟潜行动作游戏"
+        },
+        {
+          "name": "Redfall",
+          "desc": "开放世界合作射击游戏"
+        },
+        {
+          "name": "Deus Ex",
+          "desc": "沉浸式模拟角色扮演游戏"
+        }
+      ]
+    },
+    {
+      "id": "b91a93a3d4",
+      "title": "3A 老兵与无障碍专家共同成立游戏开发合作社 Raze and Rebuild Studio",
+      "zh_desc": "Raze and Rebuild Studio 结合 3A 从业经验与无障碍设计专长，采用合作社制运作。对关注游戏团队多元化结构与包容性设计趋势的从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/triple-a-vets-and-accessibility-experts-launch-new-game-dev-co-op-raze-and-rebuild-studio",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-19T15:09:17",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "d54779c614",
+      "title": "Human: Fall Flat 老兵成立英国新工作室 Pretty Cool Games",
+      "zh_desc": "Human: Fall Flat 资深开发者 Sitara Shefta 与 Will Dudley 在英国创立 Pretty Cool Games，并已获得融资以推进首个项目。该新闻对关注益智/休闲向团队创业与人才流动的人有参考价值。",
+      "url": "https://www.gamedeveloper.com/business/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-19T10:34:39",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Human: Fall Flat",
+          "desc": "物理益智平台游戏"
+        },
+        {
+          "name": "LittleBigPlanet 3",
+          "desc": "创意平台解谜游戏"
+        },
+        {
+          "name": "Dead Island 2",
+          "desc": "僵尸动作角色扮演游戏"
+        },
+        {
+          "name": "Disney Infinity",
+          "desc": "玩具融合动作冒险游戏"
+        },
+        {
+          "name": "Tom Grennan VR",
+          "desc": "音乐互动VR体验"
+        },
+        {
+          "name": "Transformers",
+          "desc": "变形金刚主题动作游戏"
+        },
+        {
+          "name": "Fable the Journey",
+          "desc": "体感动作冒险游戏"
+        }
+      ]
+    },
+    {
+      "id": "a66bec1911",
+      "title": "“我感觉很脏”：EA 员工在沙特收购后陷入犬儒与怀疑的漩涡",
+      "zh_desc": "多位 EA 在职员工讲述了沙特资金 550 亿美元私有化收购后公司内部的士气波动与不信任感。文章提供大型发行商收购案的一线视角，与休闲手游直接关联有限，但可帮助理解行业宏观风险。",
+      "url": "https://www.gamedeveloper.com/business/-i-feel-dirty-ea-workers-trapped-in-a-maelstrom-of-after-following-saudi-buyout",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-19T08:13:19",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "FIFA",
+          "desc": "足球体育模拟游戏"
+        },
+        {
+          "name": "Battlefield",
+          "desc": "军事第一人称射击游戏"
+        },
+        {
+          "name": "Madden",
+          "desc": "美式足球体育模拟游戏"
+        },
+        {
+          "name": "Football Club",
+          "desc": "足球俱乐部体育游戏"
+        }
+      ]
+    },
+    {
+      "id": "532cd8f6df",
+      "title": "内存危机令 PlayStation 6 发售日期充满不确定性",
+      "zh_desc": "索尼 CEO Hiroki Totoki 表示 PlayStation 6 的发售日期尚未确定，内存供应危机是主要影响因素。属于主机硬件行业动态，对休闲游戏从业者参考价值较低，但可关注平台节奏对发行的影响。",
+      "url": "https://www.gamedeveloper.com/business/memory-crisis-is-causing-uncertainty-over-playstation-6",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-18T17:16:55",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "cd391fe86e",
+      "title": "Deus Ex 总监 Warren Spector 宣布退休，结束近 45 年游戏生涯",
+      "zh_desc": "Warren Spector 宣布退休，告别近 45 年的游戏开发生涯，未来可能不会再制作游戏。该新闻具有行业纪念意义，与休闲游戏设计/运营关系不大。",
+      "url": "https://www.gamedeveloper.com/business/deus-ex-director-warren-spector-is-retiring-after-43-years",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-18T17:14:19",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "System Shock",
+          "desc": "沉浸式模拟科幻角色扮演游戏"
+        },
+        {
+          "name": "Deus Ex",
+          "desc": "沉浸式模拟角色扮演游戏"
+        },
+        {
+          "name": "Thick as Thieves",
+          "desc": "潜行偷窃动作游戏"
+        }
+      ]
+    },
+    {
+      "id": "74a7b82672",
+      "title": "《Arco》两年销量突破 10 万份并实现回本",
+      "zh_desc": "独立游戏 Arco 在两年内卖出超过 10 万份并达到盈亏平衡，开发团队称这是“不可思议”的成绩。属于独立游戏商业表现新闻，对休闲手游的数据参考价值有限。",
+      "url": "https://www.gamedeveloper.com/business/arco-breaks-even-after-topping-100-000-sales",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-18T09:28:08",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Arco",
+          "desc": "中美洲奇幻角色扮演游戏"
+        }
+      ]
+    },
+    {
+      "id": "33506f6eea",
+      "title": "WINGS 非常想为你的优质独立游戏提供资金支持",
+      "zh_desc": "独立游戏投资机构 WINGS 推出面向 PC 项目的新增融资通道，并继续聚焦女性及性别边缘化开发者。对正在寻找投资和扶持计划的独立/休闲游戏团队有帮助。",
+      "url": "https://www.gamedeveloper.com/business/wings-really-really-wants-to-fund-your-neat-indie-video-game",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-18T08:00:49",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "dfa8e04908",
+      "title": "Matt Webster 为何相信人们想要《Star Wars: Galactic Racer》",
+      "zh_desc": "Matt Webster 认为，随着玩家总量增长，即使最小的细分品类也能找到足够受众，因此 Star Wars: Galactic Racer 存在市场机会。文章讨论细分品类机会，对评估小众玩法的商业化潜力有参考。",
+      "url": "https://www.gamesindustry.biz/as-more-people-play-games-even-the-tiniest-niches-find-a-bigger-audience-why-matt-webster-is-convinced-people-want-star-wars-galactic-racer",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-19T14:57:11",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "星球大战主题竞速游戏"
+        },
+        {
+          "name": "Racer Revenge",
+          "desc": "星球大战主题赛车游戏"
+        },
+        {
+          "name": "Clutch",
+          "desc": "驾驶竞速游戏"
+        },
+        {
+          "name": "Burnout",
+          "desc": "竞速游戏系列"
+        },
+        {
+          "name": "Need for Speed",
+          "desc": "竞速游戏系列"
+        },
+        {
+          "name": "Battlefield",
+          "desc": "军事第一人称射击游戏"
+        }
+      ]
+    },
+    {
+      "id": "1d0054621c",
+      "title": "“我们选择了历史上最糟的时机”——Harvey Smith 谈离开 Arkane 后创业",
+      "zh_desc": "Harvey Smith 在访谈中回顾了 Arkane Austin 关闭后创办 Black Pony Immersive 的过程，并坦言当前行业环境艰难。对了解资深开发者创业挑战和行业压力有参考，但与休闲游戏关联较低。",
+      "url": "https://www.gamesindustry.biz/we-chose-the-worst-time-in-history-harvey-smith-on-starting-his-own-studio-after-arkane",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-19T13:00:00",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Deus Ex",
+          "desc": "沉浸式模拟角色扮演游戏"
+        },
+        {
+          "name": "Dishonored",
+          "desc": "沉浸式模拟潜行动作游戏"
+        },
+        {
+          "name": "Prey",
+          "desc": "沉浸式模拟科幻动作游戏"
+        },
+        {
+          "name": "Dishonored 2",
+          "desc": "沉浸式模拟第一人称动作游戏"
+        },
+        {
+          "name": "Redfall",
+          "desc": "开放世界合作射击游戏"
+        }
+      ]
+    },
+    {
+      "id": "5d996ab12f",
+      "title": "Human: Fall Flat 老兵创立新工作室 Pretty Cool Games，获《Arknights》开发商 Hypergraph 投资",
+      "zh_desc": "Pretty Cool Games 由 Human: Fall Flat 的 Sitara Shefta 和 Will Dudley 联合创立，目标是建立兼顾员工公平与成功共享的可持续工作室，并已获 Hypergraph 融资。对关注独立/休闲团队商业模式与融资路径的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games-with-funding-from-arknights-developer-hypergraph",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-19T10:00:00",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Human: Fall Flat",
+          "desc": "物理益智平台游戏"
+        },
+        {
+          "name": "Arknights: Endfield",
+          "desc": "策略角色扮演游戏"
+        },
+        {
+          "name": "Split Fiction",
+          "desc": "双人合作动作冒险游戏"
+        }
+      ]
+    },
+    {
+      "id": "b6765c3bf4",
+      "title": "VS Studio 再添铁拳老兵：Kohei Ikeda 以游戏设计师身份加入",
+      "zh_desc": "《Tekken 8》总监 Kohei Ikeda 加入 Katsuhiro Harada 的 VS Studio，继续扩充团队实力。属于格斗游戏领域的人事动态，与休闲游戏从业者关联不大。",
+      "url": "https://www.gamesindustry.biz/vs-studio-adds-another-tekken-veteran-as-kohei-ikeda-joins-as-game-designer",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-19T06:49:31",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Tekken 8",
+          "desc": "3D格斗游戏"
+        }
+      ]
+    },
+    {
+      "id": "7aa90d9117",
+      "title": "Gamescom 2026 创纪录：国家/地区展馆数量增长 25%",
+      "zh_desc": "Gamescom 2026 即将开幕，会设置近 50 个国家/地区展馆，数量较 2025 年增长 25%。该动态可帮助从业者了解全球展会扩张趋势，但与休闲游戏具体设计运营无关。",
+      "url": "https://www.gamesindustry.biz/gamescom-2026-sets-new-record-as-number-of-country-pavilions-increases-by-25",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-18T14:15:40",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "c0f883dc46",
+      "title": "三位 Epic 老兵打造 AI 驱动的游戏引擎，试图打破行业恶性循环",
+      "zh_desc": "文章介绍三位 Epic Games 前成员组建团队，开发以 AI 为核心的新游戏引擎，尝试挑战 Unity 和 Unreal 的统治地位。对关注游戏开发工具链和 AI 技术应用的团队有参考价值。",
+      "url": "https://www.gamesindustry.biz/three-epic-veterans-are-building-an-ai-powered-game-engine-to-break-the-industrys-doom-cycle",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-18T13:32:01",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "b3a9eccd0d",
+      "title": "《Deus Ex》创造者 Warren Spector 宣布退休：“是时候骑马奔向夕阳了”",
+      "zh_desc": "Deus Ex 等经典作品的创造者 Warren Spector 宣布退休，结束四十余年的游戏开发生涯。属于资深游戏人告别新闻，与休闲游戏研究无直接关联。",
+      "url": "https://www.gamesindustry.biz/deus-ex-creator-warren-spector-announces-retirement-its-time-to-ride-off-into-the-sunset",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-18T12:08:03",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Ultima 6",
+          "desc": "经典角色扮演游戏"
+        },
+        {
+          "name": "Wing Commander",
+          "desc": "太空飞行模拟游戏"
+        },
+        {
+          "name": "Deus Ex",
+          "desc": "沉浸式模拟角色扮演游戏"
+        },
+        {
+          "name": "Thief",
+          "desc": "潜行类游戏系列"
+        },
+        {
+          "name": "Ultima Underworld",
+          "desc": "第一人称地下城探险角色扮演游戏"
+        },
+        {
+          "name": "Epic Mickey",
+          "desc": "迪士尼主题动作平台游戏"
+        },
+        {
+          "name": "System Shock 3",
+          "desc": "沉浸式模拟科幻角色扮演游戏"
+        },
+        {
+          "name": "Underworld Ascendant",
+          "desc": "第一人称动作角色扮演游戏"
+        }
+      ]
+    },
+    {
+      "id": "2ec5b4de62",
+      "title": "Save the Children 宣布举办首个游戏与直播募捐活动 Save Point",
+      "zh_desc": "慈善机构 Save the Children 将在圣诞季推出名为 Save Point 的游戏和直播募捐活动。这属于公益×游戏行业动态，可为休闲游戏团队的公益联动提供参考。",
+      "url": "https://www.gamesindustry.biz/save-the-children-announces-its-first-game-and-streaming-fundraising-event-called-save-point",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-18T08:53:12",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "cc4e137dd3",
+      "title": "《System Shock》和《Deus Ex》创造者 Warren Spector 决定离开游戏行业——这次是永远",
+      "zh_desc": "Warren Spector 在从业 44 年后宣布退休，并表示这次将真正告别游戏开发。属于资深游戏人退休新闻，与休闲游戏研究关联较弱。",
+      "url": "https://gameworldobserver.com/2026/08/18/warren-spector-the-creator-of-system-shock-and-deus-ex-has-decided-to-leave-the-gaming-industry-this-time-for-good",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-18T14:43:11",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "System Shock",
+          "desc": "沉浸式模拟科幻角色扮演游戏"
+        },
+        {
+          "name": "Deus Ex",
+          "desc": "沉浸式模拟角色扮演游戏"
+        },
+        {
+          "name": "Deus Ex: Mankind Divided",
+          "desc": "沉浸式模拟动作角色扮演游戏"
+        },
+        {
+          "name": "Epic Mickey",
+          "desc": "迪士尼主题动作平台游戏"
+        },
+        {
+          "name": "Ultima",
+          "desc": "经典角色扮演游戏系列"
+        }
+      ]
+    },
+    {
+      "id": "8750a64cec",
+      "title": "2018 年（及以后）最大的移动游戏消费者是女性——GameAnalytics",
+      "zh_desc": "文章引用 GameAnalytics 数据指出女性已成为移动游戏的重要消费群体，并建议开发者通过受众多元化和包容性设计吸引更多用户。对休闲手游的用户定位、营销素材与产品设计有参考价值。",
+      "url": "https://www.gameanalytics.com/blog/mobile-consumers-women-2018",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-19T14:44:00",
+      "fetched_at": "2026-08-20T10:11:58",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "5f588f084f",
       "title": "WEBTOON 比 Monopoly Go 更庞大：一个新兴游戏营销渠道的内幕",
