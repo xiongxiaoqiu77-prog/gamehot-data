@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-21T00:26:12",
+  "updated_at": "2026-08-21T03:40:22",
   "articles": [
+    {
+      "id": "ec5e60d0d0",
+      "title": "Geoff Keighley 澄清 Gamescom Opening Night Live 预告片筛选方式",
+      "zh_desc": "Geoff Keighley 在 Gamescom 开幕夜前夕说明预告片入选流程与筛选标准。对关注大型展会发布节奏和营销曝光策略的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-20T19:19:08",
+      "fetched_at": "2026-08-21T03:40:22",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Gears of War E-Day",
+          "desc": "战争机器系列的前传作品，由The Coalition和Xbox Game Studios制作。"
+        },
+        {
+          "name": "Metro 2039",
+          "desc": "地铁系列游戏，由4A Games和Deep Silver制作，以末日废土和生存恐怖为特点。"
+        }
+      ]
+    },
     {
       "id": "a35d54b3ef",
       "title": "Makers Fund 完成 2.5 亿美元募资，扩大游戏行业投资版图",
