@@ -5,240 +5,195 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 18 Aug 2026 08:18:26 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:17:04 +0800</lastBuildDate>
   <item>
-    <title>Forbidden Solitaire 如何将纸牌游戏带到前沿</title>
-    <link>https://www.gamedeveloper.com/design/how-forbidden-solitaire-brought-solitaire-games-to-the-forefront</link>
-    <description>《Forbidden Solitaire》以90年代模拟恐怖视觉风格为传统纸牌玩法注入新鲜感，发售48小时卖出1万份，峰值同时在线880人，远超开发商此前的其他纸牌作品。文章分析其成功使Grey Alien Games触及更多Steam玩家，并推动续作开发，表明在免费休闲主导的纸牌品类中，差异化的题材与表现力也能在付费PC市场打开机会。对从业者而言，这是一个在细分品类中通过视觉风格和IP调性实现突围的参考案例。</description>
+    <title>如何在原型阶段对游戏进行用户研究 — GameAnalytics</title>
+    <link>https://www.gameanalytics.com/blog/user-research-prototype-stage-game</link>
+    <description>文章介绍了在原型阶段对游戏进行用户研究的方法，包括制定测试计划、A/B测试、调查等具体手段，以尽早验证游戏概念和核心玩法。对从业者的价值在于，通过早期测试可以聚焦资源到对目标受众最有效的功能上，提升游戏上市成功率。</description>
     <category>深度拆解</category>
-    <author>Game Developer</author>
-    <pubDate>Mon, 17 Aug 2026 14:51:26 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/design/how-forbidden-solitaire-brought-solitaire-games-to-the-forefront</guid>
+    <author>GameAnalytics</author>
+    <pubDate>Wed, 19 Aug 2026 08:10:56 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gameanalytics.com/blog/user-research-prototype-stage-game</guid>
   </item>
   <item>
-    <title>你需要了解的来自EA、腾讯、Moon Active、Take-Two等公司的软启动游戏</title>
-    <link>https://mobilegamer.biz/the-soft-launch-games-you-need-to-know-about/</link>
-    <description>文章汇总了Bandai Namco、暴雪、EA、莉莉丝、Fingersoft、Garena、米哈游、King、腾讯等厂商近期软启动或测试中的移动游戏，覆盖中核Roguelite、英雄射击、合并塔防、物理竞速、GTA-like、生活模拟等品类。每款游戏列出了当前测试地区和状态，帮助从业者快速掌握头部厂商的移动端布局和下一波产品风向。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Mon, 17 Aug 2026 12:00:00 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/the-soft-launch-games-you-need-to-know-about/</guid>
-  </item>
-  <item>
-    <title>对话系统&amp;关卡策划：游戏不好玩，是谁的锅？</title>
-    <link>https://mp.weixin.qq.com/s/7B7ImBEmLIUpYI8flvTdug</link>
-    <description>该文章正文因平台环境异常无法访问。从标题看，内容围绕“对话系统与关卡策划谁该为游戏不好玩负责”的职责划分展开，但无法提炼具体观点。对从业者的价值在于提醒团队在设计返工时关注系统与关卡协作，具体讨论内容缺失。</description>
-    <category>深度拆解</category>
-    <author>微信-Hao的游戏PM笔记</author>
-    <pubDate>Mon, 17 Aug 2026 08:58:25 +0800</pubDate>
-    <guid isPermaLink="true">https://mp.weixin.qq.com/s/7B7ImBEmLIUpYI8flvTdug</guid>
-  </item>
-  <item>
-    <title>上线一年还在“找定位”？Supercell这款游戏，或许命不久矣！</title>
-    <link>https://mp.weixin.qq.com/s/NIKTPmNfQlJ9X0ni0jERzA</link>
-    <description>该文章正文因平台环境异常无法访问。标题显示文章质疑Supercell某款上线一年仍在“找定位”的产品，可能讨论其市场表现与未来风险，但无法提供具体分析。</description>
-    <category>深度拆解</category>
-    <author>微信-GameMarket洞察</author>
-    <pubDate>Mon, 17 Aug 2026 08:19:03 +0800</pubDate>
-    <guid isPermaLink="true">https://mp.weixin.qq.com/s/NIKTPmNfQlJ9X0ni0jERzA</guid>
-  </item>
-  <item>
-    <title>三七互娱《无光勇者》，把割草爽感和RPG成长打出了一套组合拳</title>
-    <link>https://mp.weixin.qq.com/s/FJkClKhhdg0R9kOzGa2p1A</link>
-    <description>该文章正文因平台环境异常无法访问。标题显示其分析三七互娱《无光勇者》如何结合割草爽感与RPG成长，但无法提供具体机制拆解与市场判断。从业者可关注的方向是国产动作RPG在爽快战斗与长线养成之间的融合，具体证据缺失。</description>
-    <category>深度拆解</category>
-    <author>微信-金角游戏</author>
-    <pubDate>Sun, 16 Aug 2026 20:13:49 +0800</pubDate>
-    <guid isPermaLink="true">https://mp.weixin.qq.com/s/FJkClKhhdg0R9kOzGa2p1A</guid>
-  </item>
-  <item>
-    <title>Dragon Nest，为什么能让4个玩家每天回来养龙？</title>
-    <link>https://mp.weixin.qq.com/s/UB0AEXzAT8bI_MhSFf7oaw</link>
-    <description>该文章正文因平台环境异常无法访问。标题围绕《Dragon Nest》讨论为何能让4名玩家每天回来养龙，可能涉及社交、日常任务与长期留存设计，但无法提供细节。对从业者而言，标题触及多人共玩与养成绑定这一留存课题，具体内容待补。</description>
-    <category>深度拆解</category>
-    <author>微信-休闲茶点Hui</author>
-    <pubDate>Sun, 16 Aug 2026 18:18:33 +0800</pubDate>
-    <guid isPermaLink="true">https://mp.weixin.qq.com/s/UB0AEXzAT8bI_MhSFf7oaw</guid>
-  </item>
-  <item>
-    <title>Apple和Google加大Gamescom参展力度，法庭风波持续</title>
-    <link>https://mobilegamer.biz/apple-and-google-look-set-to-up-their-presence-for-gamescom-2026/</link>
-    <description>谷歌和苹果今年将扩大Gamescom参与力度：谷歌Play将设置奖励中心、Fruit Ninja直播舞台和多游戏试玩区，苹果则举办三场开发者会议并展示《赛博朋克2077》Mac版。文章还报道了苹果在Epic案后公布外部链接交易佣金方案，以及法院要求谷歌整改第三方商店安装障碍。对从业者而言，平台渠道政策和商店分发规则的变化值得持续跟踪。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Mon, 17 Aug 2026 15:12:24 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/apple-and-google-look-set-to-up-their-presence-for-gamescom-2026/</guid>
-  </item>
-  <item>
-    <title>美国参议院将调查Roblox，称其“优先考虑收入和参与度”而非儿童安全</title>
-    <link>https://www.gamesindustry.biz/us-senate-to-investigate-roblox-following-claims-it-prioritises-revenue-and-engagement-over-child-safety</link>
-    <description>美国参议院司法小组委员会正式调查Roblox，称其将收入和参与度置于儿童安全之上，要求提交2023至2025年间性剥削、欺凌等报告数据与处理记录。Roblox回应称安全是平台根基，并愿意分享保护儿童的事实。对从业者而言，这是平台型UGC游戏在未成年人保护、内容审核和监管合规方面的重要警示。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 17 Aug 2026 12:47:28 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/us-senate-to-investigate-roblox-following-claims-it-prioritises-revenue-and-engagement-over-child-safety</guid>
-  </item>
-  <item>
-    <title>腾网快手新游下周隔空大战；杭州北京厂商出售游戏业务丨HOT周报</title>
-    <link>https://mp.weixin.qq.com/s/sTdRzOn3u575F8GXWfqPOg</link>
-    <description>该文章正文因平台环境异常无法访问。从标题看是一期HOT周报，涉及腾讯、网易、快手的新游对垒，以及杭州、北京厂商出售游戏业务，但无法获取具体产品与交易信息。</description>
-    <category>行业资讯</category>
-    <author>微信-竞核</author>
-    <pubDate>Sun, 16 Aug 2026 13:04:03 +0800</pubDate>
-    <guid isPermaLink="true">https://mp.weixin.qq.com/s/sTdRzOn3u575F8GXWfqPOg</guid>
-  </item>
-  <item>
-    <title>对话拿到腾讯投资的制作人：黑神话之后，为何还做西幻单机</title>
-    <link>https://mp.weixin.qq.com/s/7oEOvWkThPZHuGnx1aukuQ</link>
-    <description>该文章正文因平台环境异常无法访问。标题显示这是一次对获腾讯投资的制作人的访谈，讨论黑神话之后为何仍选择西幻单机方向。访谈可能涉及立项策略、市场窗口与团队能力，但具体内容缺失。</description>
-    <category>行业资讯</category>
-    <author>微信-游戏日报</author>
-    <pubDate>Sun, 16 Aug 2026 10:02:52 +0800</pubDate>
-    <guid isPermaLink="true">https://mp.weixin.qq.com/s/7oEOvWkThPZHuGnx1aukuQ</guid>
-  </item>
-  <item>
-    <title>好莱坞颠覆者用12人团队打造大型游戏——且不使用生成式AI</title>
-    <link>https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai</link>
-    <description>本文介绍Wolf Haus Studios如何以12人团队开发大型开放世界邪教模拟游戏《Join Us》。团队用好莱坞低成本制作经验、Unreal Engine和可复用工具实现高保真内容，并经过80次融资路演获得Krafton和Lifelike Capital投资。其技术管线与融资思路对小型团队有借鉴价值。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 17 Aug 2026 17:43:23 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai</guid>
-  </item>
-  <item>
-    <title>Inner Pocket 是一家新成立的独立游戏发行商，致力于扶持“好奇心游戏”</title>
-    <link>https://www.gamedeveloper.com/business/inner-pocket-is-a-new-indie-publishing-label-that-wants-to-champion-intimate-experiences</link>
-    <description>新独立发行商Inner Pocket由Critical Reflex、Gaijin Entertainment和Nozomu Games的老兵创立，专注发行“好奇心游戏”，提供从市场策略、本地化到QA、Steam上架等支持，并可提供最高7.5万美元的收尾资金。其首个发行项目《Burn With Me》将于10月发售。对独立开发者而言，这是一个面向精品小众游戏的发行与融资新渠道。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Mon, 17 Aug 2026 14:15:46 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/inner-pocket-is-a-new-indie-publishing-label-that-wants-to-champion-intimate-experiences</guid>
-  </item>
-  <item>
-    <title>为游戏行业巨额交易提供建议的人</title>
-    <link>https://www.deconstructoroffun.com/blog/the-man-who-advises-on-gamings-biggest-deals</link>
-    <description>本文采访Aream &amp; Co联合创始人Affan Butt，分享其在110多笔、累计400亿美元游戏并购中的经验。核心观点是交易往往始于多年关系维护，创始人应区分善意接触与公司开发人员的例行工作，并选择在增长曲线最好时结构化谈判。对计划出售公司的创始人具有实操参考价值。</description>
+    <title>WEBTOON比Monopoly Go更大：一个新兴游戏营销渠道的内幕</title>
+    <link>https://www.deconstructoroffun.com/blog/webtoon-is-bigger-than-monopoly-go-inside-a-new-game-marketing-channel</link>
+    <description>文章指出WEBTOON漫画平台拥有1.569亿月活读者且69%为游戏玩家，是游戏营销被忽视的新渠道，Square Enix等厂商已成功通过该平台开展游戏推广。对营销从业者而言，这提供了获取西方年轻用户（尤其Gen Z和女性）的新场景，规模可对标甚至超过Monopoly Go等头部产品。</description>
     <category>行业资讯</category>
     <author>Deconstructor of Fun</author>
-    <pubDate>Mon, 17 Aug 2026 13:28:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.deconstructoroffun.com/blog/the-man-who-advises-on-gamings-biggest-deals</guid>
+    <pubDate>Wed, 19 Aug 2026 14:55:22 +0800</pubDate>
+    <guid isPermaLink="true">https://www.deconstructoroffun.com/blog/webtoon-is-bigger-than-monopoly-go-inside-a-new-game-marketing-channel</guid>
   </item>
   <item>
-    <title>Pokemon Pokopia 全球销量超500万份</title>
-    <link>https://www.gamedeveloper.com/business/pokemon-pokopia-has-topped-5-million-sales-worldwide</link>
-    <description>《Pokémon Pokopia》是Switch 2独占生活模拟游戏，2026年3月5日发售，截至6月30日全球销量已超500万份。这意味着Switch 2已售主机中约每五台就有一台购买了该作。该数据展示了顶级IP在主机周期早期对硬件和软件销售的拉动作用。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Mon, 17 Aug 2026 13:14:14 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/pokemon-pokopia-has-topped-5-million-sales-worldwide</guid>
+    <title>移动游戏变现的42种方法</title>
+    <link>https://www.gameanalytics.com/blog/42-ways-to-monetize-your-mobile-game</link>
+    <description>文章分享了42种移动游戏变现手段，涵盖广告（横幅、插屏、更多游戏按钮）等常见形式，为免费游戏开发者提供收入优化清单。从业者可据此对照自身产品，快速寻找新的变现机会。</description>
+    <category>深度拆解</category>
+    <author>GameAnalytics</author>
+    <pubDate>Wed, 19 Aug 2026 14:44:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gameanalytics.com/blog/42-ways-to-monetize-your-mobile-game</guid>
   </item>
   <item>
-    <title>消息称阿里巴巴将以超20亿美元出售游戏部门</title>
-    <link>https://gameworldobserver.com/2026/08/17/report-alibaba-to-sell-gaming-division-for-over-2-billion</link>
-    <description>据Reuters报道，阿里巴巴将以超过20亿美元把游戏部门灵犀互娱出售给投资公司Trustar Capital，最终估值高于此前传闻的7至9亿美元。这次出售是阿里调整非核心资产、聚焦云与AI战略的一部分，灵犀旗下《三国志·战略版》是主要旗舰。对从业者而言，该交易反映中国互联网巨头正在重新评估游戏业务在集团中的定位。</description>
-    <category>行业资讯</category>
-    <author>Game World Observer</author>
-    <pubDate>Mon, 17 Aug 2026 11:44:12 +0800</pubDate>
-    <guid isPermaLink="true">https://gameworldobserver.com/2026/08/17/report-alibaba-to-sell-gaming-division-for-over-2-billion</guid>
-  </item>
-  <item>
-    <title>芭比与风火轮母公司美泰成立 Mattel Game Studios</title>
-    <link>https://www.gamedeveloper.com/business/barbie-and-hot-wheels-owner-mattel-launches-mattel-game-studios</link>
-    <description>美泰成立Mattel Game Studios，整合近300名游戏员工，负责芭比、风火轮、UNO等IP的自主开发、发行与运营，并将进入Roblox、Fortnite等UGC平台制作原创体验。此前美泰刚以3.18亿美元从网易手中收购Mattel163。此举显示玩具公司正将游戏作为品牌组合的核心增长方向，可能带来更多IP授权与合作机会。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Mon, 17 Aug 2026 11:15:50 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/barbie-and-hot-wheels-owner-mattel-launches-mattel-game-studios</guid>
-  </item>
-  <item>
-    <title>Saber Interactive 为 Steam 上的 Rideshare 添加 AI 声明；CEO 向前主编剧道歉</title>
-    <link>https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer</link>
-    <description>Saber Interactive在争议后为《Rideshare Simulator》Steam页面添加AI披露，说明主线故事由人类撰写，AI用于语音生成、部分本地化和Free Ride模式。此前CEO Matt Karch对前编剧Stella Sacco的贬低言论引发批评，随后道歉。事件反映出AI使用透明度和高管沟通方式对工作室声誉的重要影响。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 17 Aug 2026 10:24:45 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer</guid>
-  </item>
-  <item>
-    <title>PUBG Mobile Light 是吃鸡游戏的低占用版本</title>
-    <link>https://mobilegamer.biz/pubg-mobile-light-is-a-lower-footprint-version-of-the-battle-royale-hit/</link>
-    <description>腾讯与Krafton公布低占用版本《PUBG Mobile Light》，初始包体Android约1GB、iOS小于2GB，账号资产与好友关系与正式版互通，预注册8月25日开始。Krafton同时确认BGMI Lite将在2026年底推出，而PUBG系列和《Subnautica 2》推动其上半年收入创纪录。对从业者而言，低配版本是扩展新兴市场与低端设备用户的重要策略。</description>
+    <title>腾讯 GTA 风格赛博朋克手游 Gangstar Mirage City 今日开始在部分地区上线</title>
+    <link>https://mobilegamer.biz/gangstar-mirage-city-tencents-gta-meets-cyberpunk-game-starts-rolling-out-today/</link>
+    <description>腾讯Level Infinite宣布《Gangstar Mirage City》率先在拉美、东南亚等地区上线，该作是Gameloft《Gangstar》系列的官方续作，采用GTA+赛博朋克风格的开放世界玩法，并更强调多人联机。对从业者而言，这是腾讯在移动端布局GTA-like品类的重要信号，需关注其后续全球发行策略。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Mon, 17 Aug 2026 09:19:10 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/pubg-mobile-light-is-a-lower-footprint-version-of-the-battle-royale-hit/</guid>
+    <pubDate>Thu, 20 Aug 2026 14:27:31 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/gangstar-mirage-city-tencents-gta-meets-cyberpunk-game-starts-rolling-out-today/</guid>
   </item>
   <item>
-    <title>首曝PV冲上B站榜二，这款“搜打撤”新游凭什么火了？</title>
-    <link>https://mp.weixin.qq.com/s/dn12834Ce9d_DbyBOlEc9w</link>
-    <description>该文章正文因平台环境异常无法访问。标题指向一款“搜打撤”玩法新游，其首曝PV登上B站榜单第二，文章可能分析其走红原因，但无法获取游戏名称与具体内容。</description>
+    <title>Apple将降低欧盟App Store佣金以解决与欧盟委员会的分歧</title>
+    <link>https://gameworldobserver.com/2026/08/19/apple-will-reduce-the-app-store-commission-in-the-eu-to-resolve-disagreements-with-the-european-commission</link>
+    <description>Apple将调整欧盟区App Store佣金政策，标准佣金降至26%、第三方支付20%等，以回应欧盟委员会对其“守门人”地位的质疑。对游戏开发者而言，这意味着欧盟市场的分成成本降低，但第三方支付和替代商店的合规条件也需关注。</description>
     <category>行业资讯</category>
-    <author>微信-游讯先锋</author>
-    <pubDate>Mon, 17 Aug 2026 08:53:52 +0800</pubDate>
-    <guid isPermaLink="true">https://mp.weixin.qq.com/s/dn12834Ce9d_DbyBOlEc9w</guid>
+    <author>Game World Observer</author>
+    <pubDate>Wed, 19 Aug 2026 14:49:33 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/08/19/apple-will-reduce-the-app-store-commission-in-the-eu-to-resolve-disagreements-with-the-european-commission</guid>
   </item>
   <item>
-    <title>匹配平台 Sail.game 在 Gamescom 前为开发者推出免费层级</title>
-    <link>https://www.gamesindustry.biz/matchmaking-platform-sailgame-launches-free-tier-for-devs-ahead-of-gamescom</link>
-    <description>匹配平台Sail.game在Gamescom前推出免费Entry Cruise层级，开发者用SAILFREE码可免99欧元费用，获得项目展示、发行商匹配以及被查看/收藏通知。该平台已有230多家认证发行商与投资人，目标是让开发者的发行触达更高效。对中小团队而言，这是一个低成本获取发行商注意的新工具。</description>
+    <title>7月手游收入榜：Honor of Kings、Roblox、Gossip Harbor、PUBG Mobile、Pokémon Go等</title>
+    <link>https://mobilegamer.biz/julys-top-grossing-mobile-games-honor-of-kings-roblox-gossip-harbor-pubg-mobile-pokemon-go-more/</link>
+    <description>Appmagic数据公布2026年7月全球手游收入榜，Honor of Kings重回1.5亿美元以上，Roblox、Pokémon Go、PUBG Mobile等因暑期或周年活动显著增长。从业者可借此了解头部产品收入趋势和季节性波动，为自身商业化与活动设计提供参考。</description>
     <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 17 Aug 2026 07:33:37 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/matchmaking-platform-sailgame-launches-free-tier-for-devs-ahead-of-gamescom</guid>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Wed, 19 Aug 2026 13:58:12 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/julys-top-grossing-mobile-games-honor-of-kings-roblox-gossip-harbor-pubg-mobile-pokemon-go-more/</guid>
   </item>
   <item>
-    <title>时至今日，我们终于可以说：国产动作游戏正自成一派</title>
-    <link>https://mp.weixin.qq.com/s/Y-_UDfG1D92ADB1iKlWtXA</link>
-    <description>该文章正文因平台环境异常无法访问。标题提出“国产动作游戏正自成一派”的判断，可能结合近年作品讨论风格与工业成熟度，但无法获取具体论据。</description>
+    <title>7月手游下载榜：Roblox、Free Fire、Arrows、Block Blast、Soccer Superstar等</title>
+    <link>https://mobilegamer.biz/julys-top-mobile-game-downloads-roblox-free-fire-arrows-block-blast-soccer-superstar-more/</link>
+    <description>Appmagic公布2026年7月全球手游下载榜，Roblox因暑期跃居第一，Free Fire Max持续强势，多个足球游戏受益于世界杯热度冲榜，而Learnings和Miniclip的箭头游戏出现大起大落。从业者可据此观察用户获取的热门品类和短期事件驱动的下载波动。</description>
     <category>行业资讯</category>
-    <author>微信-3DM游戏网</author>
-    <pubDate>Sun, 16 Aug 2026 23:13:44 +0800</pubDate>
-    <guid isPermaLink="true">https://mp.weixin.qq.com/s/Y-_UDfG1D92ADB1iKlWtXA</guid>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Wed, 19 Aug 2026 13:34:19 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/julys-top-mobile-game-downloads-roblox-free-fire-arrows-block-blast-soccer-superstar-more/</guid>
   </item>
   <item>
-    <title>不止王与马，白导打算搞个影游嘉年华</title>
-    <link>https://mp.weixin.qq.com/s/n2wSw9OIrXTeM7ztB4Jm9Q</link>
-    <description>该文章正文因平台环境异常无法访问。标题提到“不止王与马”以及白导计划办影游嘉年华，可能涉及相关IP与跨媒体活动，但无法获得细节。</description>
-    <category>行业资讯</category>
-    <author>微信-3DM游戏网</author>
-    <pubDate>Sun, 16 Aug 2026 23:13:44 +0800</pubDate>
-    <guid isPermaLink="true">https://mp.weixin.qq.com/s/n2wSw9OIrXTeM7ztB4Jm9Q</guid>
-  </item>
-  <item>
-    <title>10款等候登场的国产3A，黑神话之后的接力名单</title>
-    <link>https://mp.weixin.qq.com/s/_B9tUA1t1g0VwXGQhATs9Q</link>
-    <description>该文章正文因平台环境异常无法访问。标题称将盘点黑神话之后10款值得期待的国产3A，但无法获取完整名单与点评。</description>
-    <category>行业资讯</category>
-    <author>微信-橙了个橘</author>
-    <pubDate>Sun, 16 Aug 2026 22:30:27 +0800</pubDate>
-    <guid isPermaLink="true">https://mp.weixin.qq.com/s/_B9tUA1t1g0VwXGQhATs9Q</guid>
-  </item>
-  <item>
-    <title>游族旗下工作室海外新游《Skyrama IslandSurvival》，开着飞机体验数字门</title>
-    <link>https://mp.weixin.qq.com/s/4WOv2lFOAnavOC506xVKxA</link>
-    <description>该文章正文因平台环境异常无法访问。标题显示游族旗下工作室在海外推出新游戏《Skyrama IslandSurvival》，内容与开飞机、数字门体验有关，但无法获得具体玩法分析。</description>
-    <category>行业资讯</category>
-    <author>微信-金角游戏</author>
-    <pubDate>Sun, 16 Aug 2026 20:13:49 +0800</pubDate>
-    <guid isPermaLink="true">https://mp.weixin.qq.com/s/4WOv2lFOAnavOC506xVKxA</guid>
-  </item>
-  <item>
-    <title>本周iOS美区新游Top10｜2026W33</title>
-    <link>https://mp.weixin.qq.com/s/5YaHTIblzjJNz4r7HIqDqw</link>
-    <description>该文章正文因平台环境异常无法访问。标题为本期iOS美区新游Top10榜单，但无法获取具体游戏列表与点评。</description>
+    <title>Crystal Drop月入3万美金｜土耳其Craft又推出3D沙画产品</title>
+    <link>https://mp.weixin.qq.com/s/8-UBSzyKzoZ4Z2QI7hy5Iw</link>
+    <description>该文章正文因环境异常无法访问，但从标题来看，内容聚焦于手游《Crystal Drop》月收入达3万美元，以及土耳其Craft团队推出3D沙画产品。对从业者的价值有限，可能涉及小团队创意产品变现案例。</description>
     <category>行业资讯</category>
     <author>微信-熊猫游戏出海</author>
-    <pubDate>Sun, 16 Aug 2026 17:38:41 +0800</pubDate>
-    <guid isPermaLink="true">https://mp.weixin.qq.com/s/5YaHTIblzjJNz4r7HIqDqw</guid>
+    <pubDate>Wed, 19 Aug 2026 11:59:05 +0800</pubDate>
+    <guid isPermaLink="true">https://mp.weixin.qq.com/s/8-UBSzyKzoZ4Z2QI7hy5Iw</guid>
   </item>
   <item>
-    <title>游戏公司老板，如何判断AI时代的人才标准</title>
-    <link>https://mp.weixin.qq.com/s/d0dKwq1JVC5HW6gYSMEIeg</link>
-    <description>该文章正文因平台环境异常无法访问。标题探讨游戏公司老板如何判断AI时代的人才标准，可能涉及招聘与团队管理，但无法提供具体观点。</description>
+    <title>数据摘要：Pokémon TCG Pocket、Sled Surfers、My Hero Academia、MapleStory、中核游戏数据等</title>
+    <link>https://mobilegamer.biz/data-digest-pokemon-tcg-pocket-sled-surfers-my-hero-academia-maplestory-midcore-stats-and-more/</link>
+    <description>数据摘要汇总了多款游戏的最新商业表现：Pokémon TCG Pocket收入下滑拖累Dena业绩，CrazyLabs的Sled Surfers推动Embracer移动业务增长，My Hero Academia新游上线一周破百万下载，MapleStory创下纪录收入。从业者可借此快速掌握行业关键数据和中核游戏趋势。</description>
     <category>行业资讯</category>
-    <author>微信-Hao的游戏PM笔记</author>
-    <pubDate>Sun, 16 Aug 2026 08:50:40 +0800</pubDate>
-    <guid isPermaLink="true">https://mp.weixin.qq.com/s/d0dKwq1JVC5HW6gYSMEIeg</guid>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Wed, 19 Aug 2026 11:12:41 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/data-digest-pokemon-tcg-pocket-sled-surfers-my-hero-academia-maplestory-midcore-stats-and-more/</guid>
+  </item>
+  <item>
+    <title>2026年移动游戏最佳广告情报工具推荐</title>
+    <link>https://www.gameanalytics.com/blog/best-ad-intelligence-tools-mobile-gaming-2026</link>
+    <description>文章评测了2026年移动游戏最佳广告情报工具，按创意洞察深度排序，帮助UA团队分析竞品素材、定价和适用场景。从业者可根据自身对创意深度、更新速度和试用体验的需求选择合适的平台。</description>
+    <category>行业资讯</category>
+    <author>GameAnalytics</author>
+    <pubDate>Wed, 19 Aug 2026 08:18:28 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gameanalytics.com/blog/best-ad-intelligence-tools-mobile-gaming-2026</guid>
+  </item>
+  <item>
+    <title>不少人逃离游戏行业，那留下来坚持的人靠的是什么？</title>
+    <link>https://mp.weixin.qq.com/s/tH13zy1IWB4frmV6mvZPkw</link>
+    <description>该文标题探讨游戏从业者大量流失背景下，留下坚持的人依靠什么继续支撑，正文因环境异常无法访问。从标题看，内容可能涉及行业信念、热爱或生存策略等，对从业者有情感和职业反思价值。</description>
+    <category>泛游戏</category>
+    <author>微信-一枚游戏干饭人</author>
+    <pubDate>Wed, 19 Aug 2026 08:26:17 +0800</pubDate>
+    <guid isPermaLink="true">https://mp.weixin.qq.com/s/tH13zy1IWB4frmV6mvZPkw</guid>
+  </item>
+  <item>
+    <title>Geoff Keighley 澄清 Gamescom Opening Night Live 预告片入选流程</title>
+    <link>https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live</link>
+    <description>Geoff Keighley在Gamescom前瞻会上澄清，Opening Night Live同时包含编辑挑选内容和付费内容，免费有机会入选，付费可确保位置。对游戏发行团队而言，这有助于理解发布会投放规则和预算策略。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 20 Aug 2026 19:19:08 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live</guid>
+  </item>
+  <item>
+    <title>美国游戏市场7月全面下降，消费支出明显回落</title>
+    <link>https://gameworldobserver.com/2026/08/20/everything-dropped-the-american-gaming-market-took-a-noticeable-dip-in-july</link>
+    <description>Circana数据显示，2026年7月美国游戏市场整体收入同比下滑10%，主机硬件销量大跌29%，游戏软件收入下降9%，移动端是主要拖累。对从业者而言，该数据反映了美国玩家消费信心和硬件周期影响，需关注头部新品和移植作品的表现。</description>
+    <category>行业资讯</category>
+    <author>Game World Observer</author>
+    <pubDate>Thu, 20 Aug 2026 14:07:06 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/08/20/everything-dropped-the-american-gaming-market-took-a-noticeable-dip-in-july</guid>
+  </item>
+  <item>
+    <title>Makers Fund 完成第四轮 2.5 亿美元募资，支持互动娱乐初创公司</title>
+    <link>https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-support-interactive-entertainment-startups</link>
+    <description>Makers Fund完成第四轮2.5亿美元募资，总管理规模达15亿美元，将投资游戏及互动娱乐初创公司，尤其关注用户行为、分发模式和技术变革。对创业者而言，这是重要的融资渠道信号，Makers Fund也偏好有经验的创始团队和平台型机会。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 20 Aug 2026 13:00:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-support-interactive-entertainment-startups</guid>
+  </item>
+  <item>
+    <title>Sensor Tower 收购 AppMagic 后，VC 机构 Gem 瞄准资深创始人、先行者与独立团队</title>
+    <link>https://mobilegamer.biz/after-that-sensor-tower-appmagic-deal-vc-firm-gem-seeks-veteran-founders-first-movers-and-indies/</link>
+    <description>在Sensor Tower收购AppMagic后，VC机构Gem Capital透露其投资策略：偏好有成功履历的创始人、先行者和低成本高潜力的独立团队，并列举了对Studio 42和Odd Meter的投资案例。对游戏创业者而言，了解投资偏好有助于融资定位和展示数据（尤其留存+规模化收入证据）。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Thu, 20 Aug 2026 12:01:34 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/after-that-sensor-tower-appmagic-deal-vc-firm-gem-seeks-veteran-founders-first-movers-and-indies/</guid>
+  </item>
+  <item>
+    <title>一个你没听过的发行商，为何在 Gamescom 豪掷数百万参展？</title>
+    <link>https://www.gamesindustry.biz/why-a-publisher-youve-probably-not-heard-of-is-spending-millions-of-dollars-on-its-gamescom-presence</link>
+    <description>文章介绍华人背景的发行商4Divinity在Gamescom投入数百万美元大力度参展，展出重头戏《Showa American Story》，并借此表明进军西方市场的决心。对从业者而言，这是观察新兴发行商如何通过线下展会建立品牌和市场渠道的案例。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 20 Aug 2026 11:02:20 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/why-a-publisher-youve-probably-not-heard-of-is-spending-millions-of-dollars-on-its-gamescom-presence</guid>
+  </item>
+  <item>
+    <title>北美数百名工会员工集会抗议 Xbox 裁员</title>
+    <link>https://www.gamedeveloper.com/business/hundreds-of-union-workers-rally-across-north-america-to-protest-xbox-layoffs</link>
+    <description>CWA工会成员在北美多座城市举行‘Save Our Devs’集会，抗议微软Xbox在三年内第五次裁员（计划裁减3200人），并要求公平的首份合同。对从业者而言，这反映出大型游戏公司裁员潮下工会力量的兴起，以及劳资关系对行业士气的影响。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Thu, 20 Aug 2026 08:57:26 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/hundreds-of-union-workers-rally-across-north-america-to-protest-xbox-layoffs</guid>
+  </item>
+  <item>
+    <title>播客：Apple欧盟App Store变更、Supercell、PUBG、MTG、Poinpy、Gamescom、七月顶级游戏、Netflix等</title>
+    <link>https://mobilegamer.biz/subscribe-to-the-mobilegamer-biz-podcast-now/</link>
+    <description>播客回顾了本周移动游戏行业要点：Apple欧盟App Store新规、Supercell《Mo Co》二次重启、PUBG Mobile Light面向新兴市场、MTG旗下Playamp全面引入AI、七月数据等。从业者可快速获取多平台、头部产品和政策变化的最新动态。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Wed, 19 Aug 2026 23:10:00 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/subscribe-to-the-mobilegamer-biz-podcast-now/</guid>
+  </item>
+  <item>
+    <title>新增创新高，“三幻神”齐聚：逆水寒又让MMO再次伟大了？</title>
+    <link>https://mp.weixin.qq.com/s/lM7gPNmeijF0iGkahKfxUg</link>
+    <description>该文标题提到《逆水寒》新增创新高，“三幻神”齐聚，认为它又让MMO再次伟大，但正文因环境异常无法访问。从标题推断，内容可能是分析《逆水寒》的运营成绩和MMO品类复兴。</description>
+    <category>行业资讯</category>
+    <author>微信-游戏陀螺</author>
+    <pubDate>Wed, 19 Aug 2026 18:08:38 +0800</pubDate>
+    <guid isPermaLink="true">https://mp.weixin.qq.com/s/lM7gPNmeijF0iGkahKfxUg</guid>
+  </item>
+  <item>
+    <title>国乙大战的第三年，咋卷不动了</title>
+    <link>https://mp.weixin.qq.com/s/y4Wqa2u7QouTDrXpkojvvA</link>
+    <description>该文标题探讨国产乙女游戏（国乙）进入第三年竞争后，增长变缓、卷不动了，正文因环境异常无法访问。从标题看，内容可能是对国乙市场现状的反思，对从业者有品类降温预警价值。</description>
+    <category>行业资讯</category>
+    <author>微信-竞核</author>
+    <pubDate>Wed, 19 Aug 2026 13:09:45 +0800</pubDate>
+    <guid isPermaLink="true">https://mp.weixin.qq.com/s/y4Wqa2u7QouTDrXpkojvvA</guid>
+  </item>
+  <item>
+    <title>联动堆料依旧无聊，逆战未来小吵闹王心凌也无济于事</title>
+    <link>https://www.xiaoyuzhoufm.com/episode/6a83db298156bf33621a07b1</link>
+    <description>玩家评论《逆战未来》从S0到S3虽有优化，但固定玩法导致审美疲劳，只能靠大量联动维持热度，仍难以填补内容空洞。对从业者而言，这反映了长线运营中玩法创新比联动堆料更重要的教训。</description>
+    <category>泛游戏</category>
+    <author>播客-游戏个人谈</author>
+    <pubDate>Tue, 18 Aug 2026 04:39:24 +0800</pubDate>
+    <guid isPermaLink="true">https://www.xiaoyuzhoufm.com/episode/6a83db298156bf33621a07b1</guid>
   </item>
   </channel>
 </rss>
