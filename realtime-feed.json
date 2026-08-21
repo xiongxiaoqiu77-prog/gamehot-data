@@ -1,6 +1,154 @@
 {
-  "updated_at": "2026-08-22T00:07:24",
+  "updated_at": "2026-08-22T00:41:17",
   "articles": [
+    {
+      "id": "394584fd5e",
+      "title": "索尼转向实时服务的机会成本巨大 | 观点",
+      "zh_desc": "GamesIndustry.biz 观点文章复盘游戏业过去十年追逐实时服务模式所带来的巨大机会成本，并以索尼为典型指出其战略偏差。对从业者理解游戏服务化转型风险有一定参考价值，但未涉及休闲/三消玩法或变现细节。",
+      "url": "https://www.gamesindustry.biz/the-opportunity-cost-of-sonys-live-service-pivot-is-enormous-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-21T14:15:36",
+      "fetched_at": "2026-08-22T00:41:17",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Suicide Squad",
+          "desc": "华纳兄弟游戏发行的实时服务游戏，是Live Service高调失败的典型案例。"
+        },
+        {
+          "name": "Horizon Hunters Gathering",
+          "desc": "索尼旗下据传已放弃实时服务元素的游戏。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "实时服务游戏中的成功典型，被行业视为追逐的吸金标杆。"
+        }
+      ]
+    },
+    {
+      "id": "b1b43806e9",
+      "title": "IGN Entertainment 将在 Gamescom 举办 Women In Gaming 行业交流活动",
+      "zh_desc": "IGN 将于 8 月 26 日在 Gamescom 举办女性从业者交流早餐会，由 GamesIndustry.biz 支持。该活动主要面向行业人脉与多元化议题，与休闲游戏研发运营没有直接关联。",
+      "url": "https://www.gamesindustry.biz/ign-entertainment-brings-women-in-gaming-networking-event-to-gamescom",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-21T14:00:36",
+      "fetched_at": "2026-08-22T00:41:17",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "0624d95630",
+      "title": "Compulsion Games 正式脱离 Xbox，团队称“宁愿吃石头喝汽油也不愿被拆散”",
+      "zh_desc": "Compulsion Games 宣布独立于 Xbox，管理层收购了工作室及全体成员。这是工作室与平台方关系变化的行业新闻，对关注团队动态和独立化运作的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/compulsion-games-officially-separates-from-xbox-the-team-told-me-we-would-rather-eat-rocks-and-drink-gasoline-than-be-split-up",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-21T13:52:33",
+      "fetched_at": "2026-08-22T00:41:17",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Contrast",
+          "desc": "Compulsion Games开发的解谜平台游戏，2013年发售。"
+        },
+        {
+          "name": "We Happy Few",
+          "desc": "Compulsion Games开发的动作冒险生存游戏，2018年发售。"
+        },
+        {
+          "name": "South of Midnight",
+          "desc": "Compulsion Games开发的动作冒险游戏，2025年发售。"
+        }
+      ]
+    },
+    {
+      "id": "bac5912640",
+      "title": "《Rover's Tale》开发商 Observer Interactive 与 Team17 分手，转向自主发行",
+      "zh_desc": "游戏公司间的发行合作关系终止，Observer Interactive 将自行发行其首款作品《Rover's Tale》。这反映出独立团队与发行商合作的不确定性，对了解发行生态有一定帮助。",
+      "url": "https://www.gamesindustry.biz/rovers-tale-developer-observer-interactive-parts-ways-with-team17-as-it-moves-to-self-publishing",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-21T13:26:55",
+      "fetched_at": "2026-08-22T00:41:17",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Rover's Tale",
+          "desc": "Observer Interactive开发的生物收集类银河恶魔城游戏，原定由Team17发行。"
+        },
+        {
+          "name": "Kong Studios",
+          "desc": "与虚拟乐队Gorillaz合作的虚拟工作室体验项目。"
+        },
+        {
+          "name": "Netflix Minigolf",
+          "desc": "Observer Interactive协助Next Games开发的Netflix平台小游戏。"
+        }
+      ]
+    },
+    {
+      "id": "311eb139ee",
+      "title": "为什么 Xbox 的游戏机广告可能对游戏行业是件好事 | 观点",
+      "zh_desc": "营销分析平台 Happydemics 的 CMO 撰文认为，Xbox 的电视广告投放可能为游戏行业带来积极影响。文章偏行业营销评论，不涉及休闲游戏设计或变现拆解。",
+      "url": "https://www.gamesindustry.biz/why-xboxs-console-ads-could-be-a-good-thing-for-gaming-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-21T11:00:00",
+      "fetched_at": "2026-08-22T00:41:17",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "393829a066",
+      "title": "Roblox 将三项 AI 安全工具开源",
+      "zh_desc": "Roblox 通过 ROOST 社区开源三项 AI 安全模型，用于提升平台内容审核与用户安全能力。对关注 AI 审核、社区治理和未成年人保护的从业者有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-21T10:35:36",
+      "fetched_at": "2026-08-22T00:41:17",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "e8d9d722e6",
+      "title": "Riot Games 停止 2XKO 的活跃开发，称运营成本远超收入",
+      "zh_desc": "Riot Games 宣布将在 12 月停止免费格斗游戏 2XKO 的活跃开发，原因是运营成本显著高于收入。该消息可作为 F2P 游戏成本控制与项目生命周期决策的反面案例参考。",
+      "url": "https://www.gamesindustry.biz/riot-games-sunsets-active-development-on-2xko-as-it-costs-substantially-more-to-operate-than-it-brings-in",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-21T08:06:41",
+      "fetched_at": "2026-08-22T00:41:17",
+      "lang": "en",
+      "games": [
+        {
+          "name": "2XKO",
+          "desc": "Riot Games开发的免费格斗游戏，因运营成本远超收入而停止积极开发。"
+        }
+      ]
+    },
+    {
+      "id": "4554e2c308",
+      "title": "WN Yerevan ’26 游戏展与独立游戏 Pitch 开放申请",
+      "zh_desc": "WN Yerevan ’26 将于 10 月 15-16 日在亚美尼亚埃里温举办，设有独立游戏展示与 indie pitch 环节，目前正在接受参与申请。对关注独立游戏展示和出海机会的从业者有资讯价值。",
+      "url": "https://gameworldobserver.com/2026/08/21/wn-yerevan-26-is-accepting-applications-for-participation-in-the-game-exhibition-and-indie-pitch",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-21T09:10:34",
+      "fetched_at": "2026-08-22T00:41:17",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "2eed531427",
       "title": "我们终于开始谈论AI了：与David 'Rez' Graham和Luke Dicken的对话",
