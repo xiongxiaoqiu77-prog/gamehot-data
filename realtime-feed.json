@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-22T00:41:17",
+  "updated_at": "2026-08-22T04:25:57",
   "articles": [
+    {
+      "id": "4304545178",
+      "title": "Take-Two 传唤微软和 Discord，试图阻止《Grand Theft Auto VI》大规模泄露",
+      "zh_desc": "Take-Two 正对被称为 Cyberleek 的泄露实体采取法律行动，并向微软和 Discord 发出传票，以追查《Grand Theft Auto VI》可玩版本泄露源头。这是 3A 游戏泄露应对与法律流程的行业新闻，与休闲游戏关联有限。",
+      "url": "https://www.gamedeveloper.com/business/rockstar-subpoenas-microsoft-and-discord-in-bid-to-halt-extensive-grand-theft-auto-vi-leak",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-21T20:03:39",
+      "fetched_at": "2026-08-22T04:25:57",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "即将推出的开放世界动作冒险游戏，遭遇大规模泄露。"
+        }
+      ]
+    },
     {
       "id": "394584fd5e",
       "title": "索尼转向实时服务的机会成本巨大 | 观点",
