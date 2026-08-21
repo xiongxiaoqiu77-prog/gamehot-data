@@ -1,6 +1,103 @@
 {
-  "updated_at": "2026-08-21T03:40:22",
+  "updated_at": "2026-08-22T00:07:24",
   "articles": [
+    {
+      "id": "2eed531427",
+      "title": "我们终于开始谈论AI了：与David 'Rez' Graham和Luke Dicken的对话",
+      "zh_desc": "本文是Game Developer的访谈内容，探讨AI技术在游戏开发中的应用及其对工作本质和价值的影响。对于游戏从业者，可以从中了解AI在游戏行业的最新讨论和潜在应用方向。",
+      "url": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-21T14:45:37",
+      "fetched_at": "2026-08-22T00:07:24",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "9d0b9862c8",
+      "title": "EA员工担忧沙特收购、Grand Theft Auto 6泄露、Peak最后一次重大更新——Patch Notes #66",
+      "zh_desc": "本期Patch Notes汇总了EA员工对沙特收购的担忧、Grand Theft Auto 6泄露事件以及Peak最后一个重大更新等业界动态。适合快速了解本周游戏行业重要新闻。",
+      "url": "https://www.gamedeveloper.com/business/ea-staff-worries-over-saudi-buyout-grand-theft-auto-6-leaks-and-peak-s-last-major-update-patch-notes-66",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-21T12:32:53",
+      "fetched_at": "2026-08-22T00:07:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "Rockstar Games开发中并遭遇多日泄露的开放世界动作游戏。"
+        },
+        {
+          "name": "The Duskbloods",
+          "desc": "FromSoftware推出的Switch 2独占多人对战游戏，采用类大逃杀结构并加入吸血机制。"
+        },
+        {
+          "name": "Elden Ring Nightreign",
+          "desc": "FromSoftware开发的多人优先合作生存动作游戏，支持玩家组队进行短时远征。"
+        },
+        {
+          "name": "Elden Ring",
+          "desc": "FromSoftware的开放世界魂系动作RPG，其中包含灵魂灰烬召唤系统。"
+        },
+        {
+          "name": "Lies of P",
+          "desc": "一款以弹反为核心的类魂动作游戏，被评价为理解魂系战斗精髓的作品。"
+        },
+        {
+          "name": "Dark Souls",
+          "desc": "FromSoftware推出的经典硬核动作RPG系列，是魂类游戏的开创者。"
+        }
+      ]
+    },
+    {
+      "id": "6d38033855",
+      "title": "新游摘要：Meta的游戏应用、Century新软启动、PUBG、Gangstar、Tomb Raider、The Traitors等",
+      "zh_desc": "本期移动游戏新闻汇总了Meta的UGC游戏应用、Century的软启动，以及PUBG、Tomb Raider等多款新游动态。适合移动游戏从业者快速跟踪新品和市场趋势。",
+      "url": "https://mobilegamer.biz/new-game-digest-metas-stealth-ugc-gaming-app-centurys-new-soft-launch-pubg-gangstar-tomb-raider-the-traitors-aptoide-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-21T09:18:45",
+      "fetched_at": "2026-08-22T00:07:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Pocket",
+          "desc": "Meta推出的AI驱动迷你游戏制作与分享应用，类似TikTok可生成互动小游戏。"
+        },
+        {
+          "name": "Frozen Manor: Merge Mystery",
+          "desc": "Century Games开发的安卓端合并类解谜游戏，目前处于早期测试阶段。"
+        },
+        {
+          "name": "PUBG Mobile Light",
+          "desc": "腾讯和Krafton推出的PUBG Mobile精简版，针对低端设备优化但保留核心玩法。"
+        },
+        {
+          "name": "Gangstar: Mirage City",
+          "desc": "Gameloft发行的开放世界犯罪动作游戏，结合GTA与赛博朋克风格。"
+        },
+        {
+          "name": "Lara Croft and the Temple of Osiris",
+          "desc": "Feral Interactive移植的双摇杆合作动作冒险手游，支持四人联机。"
+        },
+        {
+          "name": "The Traitors: Anywhere",
+          "desc": "CityDays开发的官方授权社交推理游戏，通过WhatsApp支持最多30人游玩。"
+        },
+        {
+          "name": "Stickmen Hunt",
+          "desc": "Popcore/Take-Two发行的隐藏物品解谜游戏，玩家需在插画场景中寻找伪装的小人。"
+        },
+        {
+          "name": "Ragnarok: Adventures",
+          "desc": "GungHo推出的单手自动战斗RPG，是《仙境传说Online》的衍生作品。"
+        }
+      ]
+    },
     {
       "id": "ec5e60d0d0",
       "title": "Geoff Keighley 澄清 Gamescom Opening Night Live 预告片筛选方式",
