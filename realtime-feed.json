@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-24T15:29:17",
+  "updated_at": "2026-08-24T16:01:00",
   "articles": [
+    {
+      "id": "799680f02b",
+      "title": "职位汇总：Supercell、Scopely、EA、Mattel、Tripledot、Zynga 等公司的人事变动与晋升",
+      "zh_desc": "本文汇总了多家知名游戏公司的最新人事动态，涵盖Supercell、Scopely、EA、Mattel、Tripledot、Zynga等，帮助从业者快速了解行业人才流动方向，适合关注团队变动的游戏行业人士参考。",
+      "url": "https://mobilegamer.biz/jobs-digest-moves-and-promotions-at-supercell-scopely-ea-mattel-tripledot-zynga-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-24T07:54:51",
+      "fetched_at": "2026-08-24T16:01:00",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "Scopely旗下基于大富翁桌游改编的移动游戏。"
+        },
+        {
+          "name": "Bingo Bash",
+          "desc": "Scopely旗下的宾果类休闲游戏。"
+        }
+      ]
+    },
     {
       "id": "d980737354",
       "title": "AI 陪伴游戏的留存机制拆解",
