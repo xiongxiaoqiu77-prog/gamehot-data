@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-24T11:50:15",
+  "updated_at": "2026-08-24T15:29:17",
   "articles": [
+    {
+      "id": "d980737354",
+      "title": "AI 陪伴游戏的留存机制拆解",
+      "zh_desc": "文章拆解 AI 陪伴类游戏的留存设计，分析其如何通过对话、情感连接与内容更新维持用户回访。对关注新兴手游品类和留存策略的从业者具有参考意义。",
+      "url": "https://www.deconstructoroffun.com/blog/retention-in-an-ai-companion-game-deconstructed",
+      "source": "Deconstructor of Fun",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-24T07:21:43",
+      "fetched_at": "2026-08-24T15:29:17",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Bside",
+          "desc": "AI陪伴养成游戏，玩家创建角色并互动，包含装扮、冒险、聊天等玩法。"
+        }
+      ]
+    },
     {
       "id": "366d36aaeb",
       "title": "共脑了! 当我的想法还停留在脑子里时, 已经有研发上线测试了! Cube 3D的换皮!",
