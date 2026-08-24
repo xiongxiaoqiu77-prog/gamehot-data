@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-08-24T16:01:00",
+  "updated_at": "2026-08-24T17:53:40",
   "articles": [
+    {
+      "id": "b9dff45c4b",
+      "title": "壳木新游《Vice Throne》黑帮题材再添 SLG",
+      "zh_desc": "报道壳木游戏推出黑帮题材 SLG 新作《Vice Throne》，提供新游基本信息和赛道动态。适合关注 SLG 海外市场和出海厂商动向的从业者快速了解。",
+      "url": "https://mp.weixin.qq.com/s/7qDITp92VBgMv2kBxAtfHQ",
+      "source": "微信-金角游戏",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-23T20:44:51",
+      "fetched_at": "2026-08-24T17:53:40",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "a51bf8b7d6",
+      "title": "壳木新游《Vice Throne》：黑帮家族外壳下的模拟经营与数字门战斗",
+      "zh_desc": "拆解壳木新游《Vice Throne》如何在黑帮家族题材下结合模拟经营与数字门战斗玩法，分析其系统结构与体验设计。对关注 SLG 融合玩法与题材差异化的从业者有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/XOBkaXLm0XP0t6tZ-ssUUQ",
+      "source": "微信-金角游戏",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-23T20:38:15",
+      "fetched_at": "2026-08-24T17:53:40",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "f0e1120d5e",
+      "title": "又一款放置卡牌冲进微小畅销榜，《山河神契》做对了什么",
+      "zh_desc": "以放置卡牌游戏《山河神契》为样本，拆解其冲入小游戏畅销榜的原因，包括玩法设计、用户获取和商业化表现。对休闲/放置类游戏从业者有较强参考价值。",
+      "url": "https://mp.weixin.qq.com/s/X83PwfNlH5RPQQD8o530AQ",
+      "source": "微信-金角游戏",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-23T20:38:15",
+      "fetched_at": "2026-08-24T17:53:40",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "774eb0f626",
+      "title": "傻傻分不清，3D版《Top Heros》江娱来认领",
+      "zh_desc": "报道一款疑似 3D 版《Top Heros》的产品引发辨识争议，江娱方面出面认领/回应。对关注海外爆款仿制与产品归属的从业者有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/KHrOtwM0Brbg0nDla4NqWQ",
+      "source": "微信-金角游戏",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-22T23:24:58",
+      "fetched_at": "2026-08-24T17:53:40",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "4a967acd3d",
+      "title": "傻傻分不清，3D版《Top Heros》？江娱来认领下",
+      "zh_desc": "继续跟进 3D 版《Top Heros》与江娱之间的归属问题，引发对产品命名和 IP 辨识的讨论。对了解仿品风险与厂商回应有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/Jg9nxhXbMKkFkBpswJhq3A",
+      "source": "微信-金角游戏",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-22T23:13:10",
+      "fetched_at": "2026-08-24T17:53:40",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "799680f02b",
       "title": "职位汇总：Supercell、Scopely、EA、Mattel、Tripledot、Zynga 等公司的人事变动与晋升",
