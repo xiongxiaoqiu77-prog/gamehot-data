@@ -1,6 +1,288 @@
 {
-  "updated_at": "2026-08-24T17:53:40",
+  "updated_at": "2026-08-25T06:56:20",
   "articles": [
+    {
+      "id": "d7970c46d4",
+      "title": "出任 CEO 前 100 天的 6 条残酷教训",
+      "zh_desc": "Deconstructor of Fun 采访了 Jagex 的 Jon Bellamy 和 Stillfront 的 Alexis Bonte，分享接任 CEO 后前 100 天的经验与反思。对游戏公司管理者理解组织与文化挑战有一定价值。",
+      "url": "https://www.deconstructoroffun.com/blog/6-brutal-lessons-from-first-100-days-as-ceo",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-24T09:32:10",
+      "fetched_at": "2026-08-25T06:56:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "RuneScape",
+          "desc": "Jagex 开发的幻想线上多人角色扮演游戏，至今仍运营良好。"
+        }
+      ]
+    },
+    {
+      "id": "9dbf1b21c1",
+      "title": "移动游戏的大融合",
+      "zh_desc": "Naavik 通过现代移动玩家的一日场景，分析休闲、中重度游戏在玩法、发行与获客上的边界消融，以及 Voodoo 等发行商的新机会。帮助从业者理解移动市场融合趋势。",
+      "url": "https://naavik.co/weekly-digest/the-great-mobile-convergence/",
+      "source": "Naavik",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-23T15:36:01",
+      "fetched_at": "2026-08-25T06:56:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Draft Showdown",
+          "desc": "Voodoo 发行的卡牌对战游戏，面向中核玩家。"
+        },
+        {
+          "name": "Royal Match",
+          "desc": "三消游戏，加入了 PVP 赛事等竞技元素。"
+        },
+        {
+          "name": "Royal Kingdom",
+          "desc": "与 Royal Match 同系列的三消游戏，同样有 PVP 活动。"
+        },
+        {
+          "name": "Last Asylum",
+          "desc": "超休闲风格的医院模拟器游戏。"
+        },
+        {
+          "name": "Castle Clashers",
+          "desc": "Voodoo 的中核休闲游戏，拥有卡通画风与卡牌构筑/竞技玩法。"
+        },
+        {
+          "name": "Mob Control",
+          "desc": "Voodoo 的中核休闲游戏之一。"
+        },
+        {
+          "name": "Cup Heroes",
+          "desc": "Voodoo 的中核休闲游戏之一。"
+        },
+        {
+          "name": "Harvest King",
+          "desc": "Homa 开发的塔防游戏，简化了传统塔防机制。"
+        }
+      ]
+    },
+    {
+      "id": "90379ae7b3",
+      "title": "CAA 推出独立游戏融资项目 Frame1Games",
+      "zh_desc": "Creative Artists Agency 成立 Frame1Games，扶持缺乏资金、关系和营销资源的早期独立团队。属于游戏投资与发行生态新闻，对独立和小型团队有信息价值。",
+      "url": "https://www.gamedeveloper.com/business/creative-artists-agency-spins-up-indie-funding-venture-frame1games",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-24T20:43:51",
+      "fetched_at": "2026-08-25T06:56:20",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "7e2093aaa9",
+      "title": "Mutter 与 Blue Prince 获 2026 年 Gamescom Dev Awards 大奖",
+      "zh_desc": "2026 年德国科隆 Gamescom Dev Awards 揭晓，Mutter 和 Blue Prince 等六款作品获奖。可作行业活动与获奖产品参考，与休闲手游关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/mutter-and-blue-prince-among-winners-at-gamescom-dev-awards-2026",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-24T16:30:00",
+      "fetched_at": "2026-08-25T06:56:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mutter",
+          "desc": "DeadlyCrow Games 开发的战争恐怖游戏。"
+        },
+        {
+          "name": "Blue Prince",
+          "desc": "Dogubomb/Raw Fury 发行的解谜游戏。"
+        },
+        {
+          "name": "Cards & Cannons",
+          "desc": "Flamehead Games 开发的回合制卡牌构筑游戏。"
+        },
+        {
+          "name": "PRAVDA(concept25)",
+          "desc": "Floating Stone Studio 开发的游戏，获最具创新游戏奖。"
+        },
+        {
+          "name": "INVASIA",
+          "desc": "Rocat Games 开发的游戏，获最佳音效设计奖。"
+        }
+      ]
+    },
+    {
+      "id": "ec9807a18d",
+      "title": "Gamescom 创纪录后谈负责任扩张：每场活动须贴合本地市场",
+      "zh_desc": "Gamescom 2026 将举办史上最大规模展会，主办方表示未来扩张会重视本地化与市场相关性。对关注国际游戏展会与市场活动的从业者是背景信息。",
+      "url": "https://www.gamedeveloper.com/business/-each-event-has-to-feel-local-and-relevant-to-its-market-gamescom-boss-wants-responsible-expansion-after-record-breaking-year",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-24T09:23:12",
+      "fetched_at": "2026-08-25T06:56:20",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a726aa9f33",
+      "title": "MTG 的 Maria Redin 谈品牌重塑、收购 Raid: Shadow Legends 与翻倍计划",
+      "zh_desc": "MTG 去年以 6.2 亿美元收购 Plarium 及 Raid: Shadow Legends，CEO Maria Redin 在采访中透露公司将进一步扩张。对了解头部移动游戏公司并购与战略有帮助。",
+      "url": "https://www.gamesindustry.biz/maria-redin-of-mobile-giant-mtg-on-rebranding-buying-raid-shadow-legends-and-plans-to-double-the-companys-size",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-24T14:23:55",
+      "fetched_at": "2026-08-25T06:56:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Raid: Shadow Legends",
+          "desc": "Plarium 开发的英雄收集游戏。"
+        },
+        {
+          "name": "Forge of Empires",
+          "desc": "InnoGames 开发的策略游戏。"
+        },
+        {
+          "name": "Warhammer 40,000: Tacticus",
+          "desc": "Snowprint 开发的战锤40K题材游戏。"
+        },
+        {
+          "name": "F1 Clash",
+          "desc": "Hutch 开发的 F1 赛车游戏。"
+        },
+        {
+          "name": "Bloons TD 6",
+          "desc": "Ninja Kiwi 开发的塔防游戏。"
+        },
+        {
+          "name": "Merge Gardens",
+          "desc": "Futureplay 开发的合并玩法游戏。"
+        },
+        {
+          "name": "WordTrip",
+          "desc": "PlaySimple 工作室的游戏，公司名即来源于此。"
+        }
+      ]
+    },
+    {
+      "id": "ecc59bb8d9",
+      "title": "数据：96% 的工作室已上线或计划上线 D2C 网页商店",
+      "zh_desc": "新调查显示几乎所有游戏工作室都已部署或准备部署直连消费者网页商店。这对休闲手游绕开平台抽成、经营核心用户和制定变现策略有直接参考价值。",
+      "url": "https://www.gamesindustry.biz/data-96-of-studios-now-run-a-direct-to-consumer-web-store-or-plan-to",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-24T14:01:44",
+      "fetched_at": "2026-08-25T06:56:20",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "8b9b3444a0",
+      "title": "Double Fine Productions 脱离 Xbox 后收回 IP 与发行权",
+      "zh_desc": "Double Fine Productions 在离开 Xbox 后重新获得自有 IP 和发行权。这是主机与独立工作室生态的公司新闻，与休闲手游关联较弱。",
+      "url": "https://www.gamesindustry.biz/double-fine-productions-regains-ownership-of-ip-and-publishing-rights-following-independence-from-xbox",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-24T11:05:37",
+      "fetched_at": "2026-08-25T06:56:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Kiln",
+          "desc": "Double Fine 推出的游戏，源自 Amnesia Fortnight 原型。"
+        }
+      ]
+    },
+    {
+      "id": "6c40ad45a7",
+      "title": "Take-Two 就 GTA 6 泄露向微软、Discord 与 X 发出传票",
+      "zh_desc": "Take-Two Interactive 为追查 GTA 6 持续泄露，已向微软、Discord 和 X 发出传票。属于游戏行业法律与安全新闻，与休闲手游关系不大。",
+      "url": "https://www.gamesindustry.biz/take-two-interactive-files-subpoenas-against-microsoft-discord-and-x-amid-ongoing-gta-6-leaks",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-24T09:53:53",
+      "fetched_at": "2026-08-25T06:56:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "Rockstar 开发的未发布游戏，因泄露事件被 Take-Two 采取法律行动。"
+        }
+      ]
+    },
+    {
+      "id": "6c744619af",
+      "title": "Supercell 反思：我们为何如此严重误判 Clash Royale 玩家情绪",
+      "zh_desc": "Supercell 游戏设计负责人 James Back 与社区经理 Emilia Russell 在 Gamescom Dev 复盘 Clash Royale 玩家争议和应对方式。对休闲游戏团队做好社区沟通、LiveOps 和版本决策有借鉴意义。",
+      "url": "https://mobilegamer.biz/how-did-we-misjudge-this-so-badly-what-supercell-learned-from-its-fierce-clash-royale-community/",
+      "source": "Mobile Gamer Biz",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-24T15:10:50",
+      "fetched_at": "2026-08-25T06:56:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Clash Royale",
+          "desc": "Supercell 开发的卡牌策略游戏，因系列更新引发社区不满。"
+        }
+      ]
+    },
+    {
+      "id": "b36e89d668",
+      "title": "Gamescom Dev 都有谁在展台花钱？",
+      "zh_desc": "Mobile Gamer Biz 盘点了 Gamescom Dev 的展台赞助商，包括 Supercell、Tencent Games 以及多家工具和支付公司。可帮助从业者了解 B2B 展会商业生态与投放渠道。",
+      "url": "https://mobilegamer.biz/whos-spending-money-on-booths-at-gamescom-dev/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-24T12:01:55",
+      "fetched_at": "2026-08-25T06:56:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Farming Simulator",
+          "desc": "Giants Software 开发的模拟农场游戏。"
+        }
+      ]
+    },
+    {
+      "id": "7444afb84a",
+      "title": "WN Conference 推出塞浦路斯游戏行业大奖",
+      "zh_desc": "塞浦路斯游戏行业奖将在 WN Conference Cyprus'26 期间颁发，表彰当地有影响力的公司与项目。属于区域性游戏行业动态。",
+      "url": "https://gameworldobserver.com/2026/08/24/wn-conference-has-launched-the-cyprus-game-industry-awards-an-award-recognizing-achievements-in-the-cypriot-game-development-industry",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-24T13:35:07",
+      "fetched_at": "2026-08-25T06:56:20",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "cc5b108243",
+      "title": "分析师质疑 Epic Games Store 改版难改未来",
+      "zh_desc": "Newzoo 市场分析总监 Emmanuel Rosier 认为 Epic 新版商店和启动器无法真正挑战 Steam。属于 PC 平台竞争分析，与休闲手游关联度低。",
+      "url": "https://gameworldobserver.com/2026/08/24/update-wont-save-it-analyst-doubts-the-bright-future-of-epic-games-store",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-24T13:21:35",
+      "fetched_at": "2026-08-25T06:56:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic Games 开发的热门游戏，分析师建议其专注于此。"
+        }
+      ]
+    },
     {
       "id": "b9dff45c4b",
       "title": "壳木新游《Vice Throne》黑帮题材再添 SLG",
