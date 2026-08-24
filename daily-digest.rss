@@ -5,15 +5,123 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 24 Aug 2026 07:04:42 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:00:12 +0800</lastBuildDate>
   <item>
-    <title>遥遥领先，核周报8.22</title>
-    <link>https://www.xiaoyuzhoufm.com/episode/6a8a92c6ef65145dfcc3e0d7</link>
-    <description>本期核周报汇总了多款国产及国际重磅游戏的最新动态，如《黑神话：钟馗》《影之刃零》等公布实机演示，以及《GTA6》泄露、《王国之心4》发售窗口等消息，对从业者快速掌握行业热点与趋势具有参考价值。</description>
+    <title>Supercell 反思：我们为何如此严重误判 Clash Royale 玩家情绪</title>
+    <link>https://mobilegamer.biz/how-did-we-misjudge-this-so-badly-what-supercell-learned-from-its-fierce-clash-royale-community/</link>
+    <description>Supercell 游戏设计负责人 James Back 与社区经理 Emilia Russell 在 Gamescom Dev 复盘 Clash Royale 玩家争议和应对方式。对休闲游戏团队做好社区沟通、LiveOps 和版本决策有借鉴意义。</description>
+    <category>深度拆解</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Mon, 24 Aug 2026 15:10:50 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/how-did-we-misjudge-this-so-badly-what-supercell-learned-from-its-fierce-clash-royale-community/</guid>
+  </item>
+  <item>
+    <title>数据：96% 的工作室已上线或计划上线 D2C 网页商店</title>
+    <link>https://www.gamesindustry.biz/data-96-of-studios-now-run-a-direct-to-consumer-web-store-or-plan-to</link>
+    <description>新调查显示几乎所有游戏工作室都已部署或准备部署直连消费者网页商店。这对休闲手游绕开平台抽成、经营核心用户和制定变现策略有直接参考价值。</description>
     <category>行业资讯</category>
-    <author>播客-机核游戏频道</author>
-    <pubDate>Sun, 23 Aug 2026 06:43:41 +0800</pubDate>
-    <guid isPermaLink="true">https://www.xiaoyuzhoufm.com/episode/6a8a92c6ef65145dfcc3e0d7</guid>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Mon, 24 Aug 2026 14:01:44 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/data-96-of-studios-now-run-a-direct-to-consumer-web-store-or-plan-to</guid>
+  </item>
+  <item>
+    <title>共脑了! 当我的想法还停留在脑子里时, 已经有研发上线测试了! Cube 3D的换皮!</title>
+    <link>https://mp.weixin.qq.com/s/JfqE8j-KT85q2PIgnElYTA</link>
+    <description>文章以 Cube 3D 的换皮产品快速上线测试为例，讨论一个玩法创意从出现到被复刻的高效节奏。对休闲/益智手游从业者观察玩法迭代和跟风趋势有启发。</description>
+    <category>行业资讯</category>
+    <author>微信-游戏本稚</author>
+    <pubDate>Mon, 24 Aug 2026 08:02:29 +0800</pubDate>
+    <guid isPermaLink="true">https://mp.weixin.qq.com/s/JfqE8j-KT85q2PIgnElYTA</guid>
+  </item>
+  <item>
+    <title>出任 CEO 前 100 天的 6 条残酷教训</title>
+    <link>https://www.deconstructoroffun.com/blog/6-brutal-lessons-from-first-100-days-as-ceo</link>
+    <description>Deconstructor of Fun 采访了 Jagex 的 Jon Bellamy 和 Stillfront 的 Alexis Bonte，分享接任 CEO 后前 100 天的经验与反思。对游戏公司管理者理解组织与文化挑战有一定价值。</description>
+    <category>行业资讯</category>
+    <author>Deconstructor of Fun</author>
+    <pubDate>Mon, 24 Aug 2026 09:32:10 +0800</pubDate>
+    <guid isPermaLink="true">https://www.deconstructoroffun.com/blog/6-brutal-lessons-from-first-100-days-as-ceo</guid>
+  </item>
+  <item>
+    <title>MTG 的 Maria Redin 谈品牌重塑、收购 Raid: Shadow Legends 与翻倍计划</title>
+    <link>https://www.gamesindustry.biz/maria-redin-of-mobile-giant-mtg-on-rebranding-buying-raid-shadow-legends-and-plans-to-double-the-companys-size</link>
+    <description>MTG 去年以 6.2 亿美元收购 Plarium 及 Raid: Shadow Legends，CEO Maria Redin 在采访中透露公司将进一步扩张。对了解头部移动游戏公司并购与战略有帮助。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Mon, 24 Aug 2026 14:23:55 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/maria-redin-of-mobile-giant-mtg-on-rebranding-buying-raid-shadow-legends-and-plans-to-double-the-companys-size</guid>
+  </item>
+  <item>
+    <title>CAA 推出独立游戏融资项目 Frame1Games</title>
+    <link>https://www.gamedeveloper.com/business/creative-artists-agency-spins-up-indie-funding-venture-frame1games</link>
+    <description>Creative Artists Agency 成立 Frame1Games，扶持缺乏资金、关系和营销资源的早期独立团队。属于游戏投资与发行生态新闻，对独立和小型团队有信息价值。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Mon, 24 Aug 2026 20:43:51 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/creative-artists-agency-spins-up-indie-funding-venture-frame1games</guid>
+  </item>
+  <item>
+    <title>Mutter 与 Blue Prince 获 2026 年 Gamescom Dev Awards 大奖</title>
+    <link>https://www.gamedeveloper.com/business/mutter-and-blue-prince-among-winners-at-gamescom-dev-awards-2026</link>
+    <description>2026 年德国科隆 Gamescom Dev Awards 揭晓，Mutter 和 Blue Prince 等六款作品获奖。可作行业活动与获奖产品参考，与休闲手游关联较弱。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Mon, 24 Aug 2026 16:30:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/mutter-and-blue-prince-among-winners-at-gamescom-dev-awards-2026</guid>
+  </item>
+  <item>
+    <title>Gamescom 创纪录后谈负责任扩张：每场活动须贴合本地市场</title>
+    <link>https://www.gamedeveloper.com/business/-each-event-has-to-feel-local-and-relevant-to-its-market-gamescom-boss-wants-responsible-expansion-after-record-breaking-year</link>
+    <description>Gamescom 2026 将举办史上最大规模展会，主办方表示未来扩张会重视本地化与市场相关性。对关注国际游戏展会与市场活动的从业者是背景信息。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Mon, 24 Aug 2026 09:23:12 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/-each-event-has-to-feel-local-and-relevant-to-its-market-gamescom-boss-wants-responsible-expansion-after-record-breaking-year</guid>
+  </item>
+  <item>
+    <title>Double Fine Productions 脱离 Xbox 后收回 IP 与发行权</title>
+    <link>https://www.gamesindustry.biz/double-fine-productions-regains-ownership-of-ip-and-publishing-rights-following-independence-from-xbox</link>
+    <description>Double Fine Productions 在离开 Xbox 后重新获得自有 IP 和发行权。这是主机与独立工作室生态的公司新闻，与休闲手游关联较弱。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Mon, 24 Aug 2026 11:05:37 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/double-fine-productions-regains-ownership-of-ip-and-publishing-rights-following-independence-from-xbox</guid>
+  </item>
+  <item>
+    <title>Take-Two 就 GTA 6 泄露向微软、Discord 与 X 发出传票</title>
+    <link>https://www.gamesindustry.biz/take-two-interactive-files-subpoenas-against-microsoft-discord-and-x-amid-ongoing-gta-6-leaks</link>
+    <description>Take-Two Interactive 为追查 GTA 6 持续泄露，已向微软、Discord 和 X 发出传票。属于游戏行业法律与安全新闻，与休闲手游关系不大。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Mon, 24 Aug 2026 09:53:53 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/take-two-interactive-files-subpoenas-against-microsoft-discord-and-x-amid-ongoing-gta-6-leaks</guid>
+  </item>
+  <item>
+    <title>Gamescom Dev 都有谁在展台花钱？</title>
+    <link>https://mobilegamer.biz/whos-spending-money-on-booths-at-gamescom-dev/</link>
+    <description>Mobile Gamer Biz 盘点了 Gamescom Dev 的展台赞助商，包括 Supercell、Tencent Games 以及多家工具和支付公司。可帮助从业者了解 B2B 展会商业生态与投放渠道。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Mon, 24 Aug 2026 12:01:55 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/whos-spending-money-on-booths-at-gamescom-dev/</guid>
+  </item>
+  <item>
+    <title>WN Conference 推出塞浦路斯游戏行业大奖</title>
+    <link>https://gameworldobserver.com/2026/08/24/wn-conference-has-launched-the-cyprus-game-industry-awards-an-award-recognizing-achievements-in-the-cypriot-game-development-industry</link>
+    <description>塞浦路斯游戏行业奖将在 WN Conference Cyprus'26 期间颁发，表彰当地有影响力的公司与项目。属于区域性游戏行业动态。</description>
+    <category>行业资讯</category>
+    <author>Game World Observer</author>
+    <pubDate>Mon, 24 Aug 2026 13:35:07 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/08/24/wn-conference-has-launched-the-cyprus-game-industry-awards-an-award-recognizing-achievements-in-the-cypriot-game-development-industry</guid>
+  </item>
+  <item>
+    <title>分析师质疑 Epic Games Store 改版难改未来</title>
+    <link>https://gameworldobserver.com/2026/08/24/update-wont-save-it-analyst-doubts-the-bright-future-of-epic-games-store</link>
+    <description>Newzoo 市场分析总监 Emmanuel Rosier 认为 Epic 新版商店和启动器无法真正挑战 Steam。属于 PC 平台竞争分析，与休闲手游关联度低。</description>
+    <category>行业资讯</category>
+    <author>Game World Observer</author>
+    <pubDate>Mon, 24 Aug 2026 13:21:35 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/08/24/update-wont-save-it-analyst-doubts-the-bright-future-of-epic-games-store</guid>
   </item>
   </channel>
 </rss>
