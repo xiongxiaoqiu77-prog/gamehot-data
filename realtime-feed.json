@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-25T06:56:20",
+  "updated_at": "2026-08-25T15:36:06",
   "articles": [
+    {
+      "id": "0cbd7e2f39",
+      "title": "GDC 游戏节宣布 2027 年活动调整，包括在 Moscone West 新增商务厅",
+      "zh_desc": "GDC 官方宣布 2027 年活动调整，包括在 Moscone West 新增商务厅。对从业者而言，这是一条值得关注的行业展会动态，便于提前规划明年参会与商务拓展。",
+      "url": "https://www.gamesindustry.biz/gdc-festival-of-gaming-announces-changes-to-2027-event-including-new-business-hall-at-moscone-west",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-25T07:04:11",
+      "fetched_at": "2026-08-25T15:36:06",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "d7970c46d4",
       "title": "出任 CEO 前 100 天的 6 条残酷教训",
