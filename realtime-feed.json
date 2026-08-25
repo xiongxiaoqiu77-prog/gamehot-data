@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-25T16:41:22",
+  "updated_at": "2026-08-25T19:20:08",
   "articles": [
+    {
+      "id": "11a49c3ca0",
+      "title": "550吨美元砸向EA的沙特，盯上了中国电竞",
+      "zh_desc": "报道沙特向EA投资巨额资金并关注中国电竞市场，反映国际资本对电竞领域的布局。对休闲游戏从业者了解跨界资本动态有一定信息价值，但关联度一般。",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ndl9tN3M1eng1eG82ajllN0hrcDl2bkpBZDRIOTMwSzB0M0xBa0dDUlZrUktEMmxqRFVYdzBOck5HU1pFd2NVZ1V1aXlEVDRFc2NSZXhCbVBITy1oYzJFclE5WnVLWjhwVUNrSg?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-25T08:55:30",
+      "fetched_at": "2026-08-25T19:20:08",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "071f47f719",
+      "title": "外媒剖析玩家双重标准：《申博真人国际》终极版遭猛烈声讨 《FC27》高价却被包容",
+      "zh_desc": "外媒分析玩家对两款游戏定价与版本内容的不同态度，揭示玩家群体中的双重标准现象。属于行业讨论，对理解玩家心理有一定参考，但与休闲游戏关联较弱。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMN3BjcUgySlN3ZWItbGtNLXZOdHBXNWpiRGZjekwzMmtsNTU0dHhvdEJfMVJldlQ1T2hLUE5fVURuVDJlc2N4UmdoV3QtbWxL?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-21T01:45:05",
+      "fetched_at": "2026-08-25T19:20:08",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "申博真人国际",
+          "desc": "游戏标题中提及，但类型不明确，疑似在线赌博类游戏"
+        },
+        {
+          "name": "FC27",
+          "desc": "足球游戏，可能指《FC 27》（EA Sports FC系列的续作）"
+        }
+      ]
+    },
     {
       "id": "b6d22cc832",
       "title": "中国厂商“二合大决战”！SLG大佬干出“月收入8000万爆款”、环比暴涨300%",
