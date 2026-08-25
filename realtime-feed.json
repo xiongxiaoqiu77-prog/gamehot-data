@@ -1,6 +1,116 @@
 {
-  "updated_at": "2026-08-26T01:16:28",
+  "updated_at": "2026-08-26T02:52:45",
   "articles": [
+    {
+      "id": "9f3268cdd1",
+      "title": "Riot Games 将于 12 月停止 2XKO 的积极开发",
+      "zh_desc": "Riot 表示尚未看到足够玩家持续游玩以走向可持续发展，决定在 12 月缩减 2XKO 的积极开发。对关注竞技产品运营与研发收缩信号的人有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/riot-games-is-winding-down-fighter-2xko-in-december-2026",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T17:01:51",
+      "fetched_at": "2026-08-26T02:52:45",
+      "lang": "en",
+      "games": [
+        {
+          "name": "2XKO",
+          "desc": "Riot Games 开发的免费格斗游戏，因玩家留存不足而于2026年12月停止积极开发。"
+        }
+      ]
+    },
+    {
+      "id": "3185c98079",
+      "title": "报道：Among Us 3D 联合开发商 Schell Games 裁员",
+      "zh_desc": "Schell Games 曾多年对外分享避免裁员的经验，如今仍被曝出人员缩减。此事件可作为游戏工作室在项目波动下维持团队稳定难的案例参考。",
+      "url": "https://www.gamedeveloper.com/business/report-among-us-3d-dev-schell-games-lays-off-staff",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T15:28:59",
+      "fetched_at": "2026-08-26T02:52:45",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Among Us 3D",
+          "desc": "Schell Games 联合开发的 3D 版《Among Us》游戏。"
+        },
+        {
+          "name": "I Expect You to Die",
+          "desc": "Schell Games 制作的 VR 解谜游戏系列。"
+        }
+      ]
+    },
+    {
+      "id": "a0673baf8b",
+      "title": "Nvidia 在 Gamescom 2026 发布光线追踪 Nanite、原生反作弊与 DLSS 4.5",
+      "zh_desc": "Nvidia 在 Gamescom 公布多项开发者向更新，涉及 DLSS、RTX 及 GeForce Now 云平台。对关注跨平台渲染和反作弊方案的手游团队参考价值有限。",
+      "url": "https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T18:44:44",
+      "fetched_at": "2026-08-26T02:52:45",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "支持 DLSS 4.5 Ray Reconstruction 的游戏之一。"
+        },
+        {
+          "name": "Alan Wake 2",
+          "desc": "支持 DLSS 4.5 Ray Reconstruction 的游戏之一。"
+        },
+        {
+          "name": "Call of Duty: Black Ops 7",
+          "desc": "支持 DLSS 4.5 Ray Reconstruction 的游戏之一。"
+        },
+        {
+          "name": "Gears of War: E-Day",
+          "desc": "将引入 RTX Mega Geometry 技术的游戏。"
+        },
+        {
+          "name": "Control Resonant",
+          "desc": "Remedy 的新作，支持 DLSS 4.5 全套技术。"
+        },
+        {
+          "name": "007 First Light",
+          "desc": "IO Interactive 的游戏，添加路径追踪和光线重建。"
+        },
+        {
+          "name": "Aion 2",
+          "desc": "即将支持 DLSS 4.5 或光线追踪的游戏之一。"
+        },
+        {
+          "name": "Black State",
+          "desc": "即将支持 DLSS 4.5 或光线追踪的游戏之一。"
+        },
+        {
+          "name": "Ananta",
+          "desc": "即将支持 DLSS 4.5 或光线追踪的游戏之一。"
+        },
+        {
+          "name": "EA Sports F1 25",
+          "desc": "支持 RTX Spark 平台的 EA 游戏。"
+        },
+        {
+          "name": "Apex Legends",
+          "desc": "支持 RTX Spark 平台的 EA 游戏。"
+        },
+        {
+          "name": "Arc Raiders",
+          "desc": "支持 RTX Spark 平台的 Embark Studios 游戏。"
+        },
+        {
+          "name": "Painkiller RTX",
+          "desc": "RTX Remix 更新重制版游戏，支持 DLSS 4.5。"
+        },
+        {
+          "name": "Morrowind RTX",
+          "desc": "基于《上古卷轴3：晨风》的 RTX 重制 mod，覆盖 Seyda Neen 和 Balmora 地区。"
+        }
+      ]
+    },
     {
       "id": "c3c667ca76",
       "title": "W4 Games融资1800万美元以扩大国际团队",
