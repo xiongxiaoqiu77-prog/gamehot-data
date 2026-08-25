@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-26T02:52:45",
+  "updated_at": "2026-08-26T03:25:28",
   "articles": [
+    {
+      "id": "b65053012a",
+      "title": "欧洲游戏行业2024年创造240亿欧元收入，工作室达6600家，从业者超95000人",
+      "zh_desc": "据GamesIndustry.biz报道，2024年欧洲游戏行业总营业额达240亿欧元，拥有超过6600家工作室和95000名从业者。该数据有助于从业者了解欧洲市场整体规模与竞争格局，作为休闲游戏出海或投资决策的宏观参考。",
+      "url": "https://www.gamesindustry.biz/eu-games-industry-generated-24bn-in-2024-studios-reached-6600-and-workforce-exceeded-95000",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-25T11:31:09",
+      "fetched_at": "2026-08-26T03:25:28",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "9f3268cdd1",
       "title": "Riot Games 将于 12 月停止 2XKO 的积极开发",
