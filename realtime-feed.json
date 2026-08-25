@@ -1,6 +1,68 @@
 {
-  "updated_at": "2026-08-26T03:57:10",
+  "updated_at": "2026-08-26T07:39:16",
   "articles": [
+    {
+      "id": "8ab5ea2c1d",
+      "title": "2026年 Gamescom 开幕夜现场亮点",
+      "zh_desc": "GamesIndustry.biz 从现场报道 Gamescom Opening Night Live 2026，介绍现场氛围、出席嘉宾与展会亮点。内容属于游戏行业活动资讯，没有涉及休闲游戏的玩法、数值、变现或 LiveOps 分析，对休闲游戏从业者的直接参考价值有限。",
+      "url": "https://www.gamesindustry.biz/the-highlights-of-gamescom-opening-night-live-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T23:23:11",
+      "fetched_at": "2026-08-26T07:39:16",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Nodusfall",
+          "desc": "Hoyoverse开发的合作动作游戏，类似《怪物猎人》，玩家组队猎杀龙类生物。"
+        },
+        {
+          "name": "Cinder City",
+          "desc": "来自NC的游戏，在ONL 2026上亮相，具体玩法未详述。"
+        },
+        {
+          "name": "Like or Die",
+          "desc": "来自NC的游戏，在ONL 2026上亮相，具体玩法未详述。"
+        },
+        {
+          "name": "PUBG: Ded.Net",
+          "desc": "来自Krafton的PUBG系列新作，在ONL 2026上亮相。"
+        },
+        {
+          "name": "Ananta",
+          "desc": "来自Netease的游戏，在ONL 2026上亮相，具体玩法未详述。"
+        },
+        {
+          "name": "Sea of Remnants",
+          "desc": "来自Netease的游戏，在ONL 2026上亮相，具体玩法未详述。"
+        },
+        {
+          "name": "Zoopunk",
+          "desc": "来自Ti Games的游戏，在ONL 2026上亮相，具体玩法未详述。"
+        },
+        {
+          "name": "Tides of Annihilation",
+          "desc": "来自成都Eclipse Glow Games的游戏，在ONL 2026上亮相，具体玩法未详述。"
+        },
+        {
+          "name": "Petit Planet",
+          "desc": "Hoyoverse推出的生活模拟游戏。"
+        },
+        {
+          "name": "Final Fantasy 7: Revelation",
+          "desc": "预计2027年春季发售，同步登陆所有平台，不再是PS限时独占。"
+        },
+        {
+          "name": "Metro 2039",
+          "desc": "4A Games开发，2027年2月发售，氛围黑暗，开发过程艰难。"
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt — Remastered",
+          "desc": "经典《巫师3》的高清重制版，作为闭幕压轴公布。"
+        }
+      ]
+    },
     {
       "id": "f98846ee48",
       "title": "Schell Games 据报道裁员",
