@@ -1,6 +1,164 @@
 {
-  "updated_at": "2026-08-25T19:20:08",
+  "updated_at": "2026-08-26T00:10:20",
   "articles": [
+    {
+      "id": "3267d1676b",
+      "title": "《Journey》开发商 thatgamecompany 宣布推出 thatgamepublisher",
+      "zh_desc": "thatgamecompany 宣布成立发行品牌 thatgamepublisher，并计划用《Sky: Children of the Light》的利润支持该业务。对关注情感向游戏和独立游戏发行的从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/journey-maker-thatgamecompany-announces-thatgamepublisher",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T14:10:19",
+      "fetched_at": "2026-08-26T00:10:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Journey",
+          "desc": "thatgamecompany开发的冒险游戏"
+        },
+        {
+          "name": "Sky: Children of the Light",
+          "desc": "thatgamecompany开发的社交冒险游戏"
+        },
+        {
+          "name": "Among Us",
+          "desc": "Innersloth开发的多人派对游戏"
+        },
+        {
+          "name": "Peak",
+          "desc": "Landfall开发的游戏"
+        },
+        {
+          "name": "Palworld",
+          "desc": "Pocketpair开发的开放世界生存制作游戏"
+        }
+      ]
+    },
+    {
+      "id": "43eb6a9681",
+      "title": "《Journey》开发商 thatgamecompany 推出发行品牌 thatgamepublisher，支持“通过玩法打动人”的游戏",
+      "zh_desc": "thatgamecompany 正式推出发行业务 thatgamepublisher，并强调支持能在情感层面打动人心的游戏。其资金来源包括《Sky: Children of the Light》的利润，对关注独立发行与移动游戏内容导向的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/journey-studio-thatgamecompany-launches-thatgamepublisher-to-champion-games-that-move-people-through-play",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T13:00:00",
+      "fetched_at": "2026-08-26T00:10:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Flow",
+          "desc": "thatgamecompany开发的休闲冒险游戏"
+        },
+        {
+          "name": "Flower",
+          "desc": "thatgamecompany开发的冒险游戏"
+        },
+        {
+          "name": "Journey",
+          "desc": "thatgamecompany开发的冒险游戏"
+        },
+        {
+          "name": "Sky: Children of the Light",
+          "desc": "thatgamecompany开发的社交冒险游戏"
+        },
+        {
+          "name": "Among Us",
+          "desc": "Innersloth开发的多人社交推理游戏"
+        },
+        {
+          "name": "Clickolding",
+          "desc": "Outersloth支持的独立游戏"
+        },
+        {
+          "name": "The Horror at Highrook",
+          "desc": "Outersloth支持的恐怖游戏"
+        },
+        {
+          "name": "Phasmophobia",
+          "desc": "Kinetic Games开发的多人恐怖游戏"
+        },
+        {
+          "name": "Precognition",
+          "desc": "Kinetic Publishing发行的游戏，Sam Barlow的新作"
+        },
+        {
+          "name": "Immortality",
+          "desc": "Sam Barlow开发的互动电影游戏"
+        },
+        {
+          "name": "Palworld",
+          "desc": "Pocketpair开发的开放世界生存制作游戏"
+        },
+        {
+          "name": "Peak",
+          "desc": "Landfall开发的游戏"
+        }
+      ]
+    },
+    {
+      "id": "3589cc6205",
+      "title": "Newzoo：2026 年全球游戏市场规模预计达 2139 亿美元，同比增长 6.1%",
+      "zh_desc": "Newzoo 预计 2026 年全球游戏市场将同比增长 6.1% 至 2139 亿美元，超过一半消费者支出来自中国和美国。该数据为休闲/移动游戏从业者提供了宏观市场参考。",
+      "url": "https://www.gamesindustry.biz/newzoo-global-games-market-to-generate-2139bn-in-2026-up-61-yoy",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T09:14:43",
+      "fetched_at": "2026-08-26T00:10:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar Games开发的开放世界动作冒险游戏"
+        }
+      ]
+    },
+    {
+      "id": "3b6692ef41",
+      "title": "Rovio 哥本哈根工作室将关闭，Sonic Blitz 被取消",
+      "zh_desc": "Sonic Blitz 因留存不及预期被取消，Rovio 哥本哈根工作室也将关闭，约 20 人参与该项目。该消息对休闲手游团队在立项测试和留存验证阶段具有警示意义。",
+      "url": "https://mobilegamer.biz/rovio-copenhagen-to-close-after-sonic-blitz-cancellation/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-25T12:12:55",
+      "fetched_at": "2026-08-26T00:10:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Sonic Blitz",
+          "desc": "结合跑酷和卡牌收集的移动游戏，已被取消"
+        }
+      ]
+    },
+    {
+      "id": "0f5484a8c7",
+      "title": "从 SportVille 到常青游戏：SuperCity 如何长跑 15 年并把年龄变成优势",
+      "zh_desc": "文章复盘 Playkot 旗下城市建造手游 SuperCity 从网页端产品演变为常青游戏的历程，累计收入超 1 亿美元、安装量达 4000 万。对关注长线运营、产品转型和 LiveOps 的休闲/手游从业者有参考价值。",
+      "url": "https://gameworldobserver.com/2026/08/25/from-sportville-to-an-evergreen-game-how-supercity-has-been-running-for-15-years-and-turned-age-into-an-advantage",
+      "source": "Game World Observer",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-25T15:39:41",
+      "fetched_at": "2026-08-26T00:10:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "SportVille",
+          "desc": "SuperCity最初的概念，体育主题城市建造游戏"
+        },
+        {
+          "name": "Fitness City",
+          "desc": "SuperCity的英文版本名称"
+        },
+        {
+          "name": "SuperCity",
+          "desc": "Playkot开发的长期运营的城市建造游戏"
+        }
+      ]
+    },
     {
       "id": "11a49c3ca0",
       "title": "550吨美元砸向EA的沙特，盯上了中国电竞",
