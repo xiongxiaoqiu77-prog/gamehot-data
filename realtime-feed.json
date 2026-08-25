@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-08-26T00:10:20",
+  "updated_at": "2026-08-26T00:44:05",
   "articles": [
+    {
+      "id": "8f6f8e94b6",
+      "title": "私募股权买不下的游戏服务器托管公司",
+      "zh_desc": "Naavik播客专访BisectHosting联合创始人兼CEO Max Podkidkin，回顾其从Minecraft服务器宕机三天到发展为服务数十万客户的基础设施生意。适合关注游戏后端服务器与托管赛道的从业者了解这一细分市场的成长逻辑。",
+      "url": "https://naavik.co/podcast/the-game-server-hosting-company-private-equity-couldnt-buy/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T15:38:56",
+      "fetched_at": "2026-08-26T00:44:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Minecraft",
+          "desc": "沙盒生存建造游戏，文章提到其服务器曾宕机三天，由此催生了 BisectHosting 的托管业务。"
+        }
+      ]
+    },
+    {
+      "id": "a27fedd463",
+      "title": "爱尔兰浏览器游戏初创公司 Entity 融资 500 万美元，打造“新网页时代”的主机级游戏",
+      "zh_desc": "Entity获得500万美元融资，计划于2027年推出被定位为“下一代游戏平台”的浏览器游戏平台，主打主机级品质。对关注Web/云游戏与新兴平台机会的从业者有信息价值。",
+      "url": "https://www.gamedeveloper.com/business/irish-browser-games-start-up-entity-raises-5m-in-funding-for-console-quality-games-for-the-new-web-era-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T14:46:56",
+      "fetched_at": "2026-08-26T00:44:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Trek Fleet Command",
+          "desc": "科幻题材策略手游，由 DIGIT Game Studios 开发，上线数月内收入达 5000 万美元。"
+        },
+        {
+          "name": "Journey",
+          "desc": "thatgamecompany 开发的社交冒险游戏，相关推荐中提到该工作室成立新发行品牌。"
+        }
+      ]
+    },
+    {
+      "id": "d7127ecca1",
+      "title": "印度游戏开发者协会为首届 Supernova 孵化计划选出 15 家工作室",
+      "zh_desc": "GDAI从260多份申请中选出15家工作室进入Supernova孵化项目，反映印度游戏创作者的生态活力。适合关注印度市场与新兴团队布局的从业者参考。",
+      "url": "https://www.gamesindustry.biz/game-developer-association-of-india-picks-15-studios-for-first-supernova-cohort",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T15:42:22",
+      "fetched_at": "2026-08-26T00:44:05",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "ac10638e79",
+      "title": "Maverick Games 与 Focus Entertainment 合作发行竞速游戏处女作《Clutch》",
+      "zh_desc": "Focus Entertainment将发行Maverick Games的首款竞速游戏Clutch，标志这家新工作室的首款作品正式确定发行合作伙伴。对竞速品类和发行合作模式关注的从业者可以留意。",
+      "url": "https://www.gamesindustry.biz/maverick-games-partners-with-focus-entertainment-to-publish-debut-racing-title-clutch",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T13:41:50",
+      "fetched_at": "2026-08-26T00:44:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Clutch",
+          "desc": "开放世界竞速游戏，Maverick Games 的处女作，由 Focus Entertainment 发行，预计 2027 年春季登陆 PS5、Xbox Series X|S 和 PC。"
+        },
+        {
+          "name": "Forza Horizon",
+          "desc": "开放世界赛车游戏系列，Maverick 创始人 Mike Brown 曾担任该系列创意总监。"
+        }
+      ]
+    },
+    {
+      "id": "beb132f340",
+      "title": "Gamescom Dev 负责人称小型工作室是游戏市场最大机会",
+      "zh_desc": "Gamescom Dev新任负责人Frederik Hammes引用开发者调研指出，小型工作室当前拥有最大的市场机遇。对独立团队和中小研发商评估发行与参展策略有参考意义。",
+      "url": "https://www.gamesindustry.biz/gamescom-dev-head-says-smaller-studios-represent-the-biggest-opportunity-in-the-games-market",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T11:00:00",
+      "fetched_at": "2026-08-26T00:44:05",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "939c9c8605",
+      "title": "Godot 引擎合作公司 W4 Games 获 1800 万美元 B 轮融资，携手腾讯拓展亚洲生态",
+      "zh_desc": "W4 Games完成1800万美元B轮融资，腾讯领投并签署合作协议，以加强Godot在亚洲的生态建设。对使用开源引擎的团队而言，这是引擎工具链与区域服务利好的信号。",
+      "url": "https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-series-b-funding-signs-deal-with-tencent-to-bolster-asia-ecosystem",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T08:00:00",
+      "fetched_at": "2026-08-26T00:44:05",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "43ca7bc51d",
+      "title": "Google 称区块链工作室 Parallel 的生存模拟游戏《Colony》是值得关注的 AI 游戏",
+      "zh_desc": "谷歌云游戏业务负责人将《Colony》列为重点AI游戏，并举Capcom、Plarium、Nexon、Square Enix等例驳斥AI取代就业的说法。对关注AI在游戏研发应用与云游戏趋势的从业者有参考价值。",
+      "url": "https://mobilegamer.biz/google-says-survival-game-colony-from-blockchain-studio-parallel-is-the-ai-game-to-watch/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T08:44:13",
+      "fetched_at": "2026-08-26T00:44:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Colony",
+          "desc": "Parallel 开发的生存模拟游戏，利用实时 AI 推理让玩家近即时创建 3D 外观，被 Google 称为值得关注的 AI 游戏。"
+        },
+        {
+          "name": "The Ultimatum: Choices",
+          "desc": "Series Entertainment 为 Netflix 制作的恋爱互动游戏，文中作为 AI 原生工作室案例。"
+        },
+        {
+          "name": "Single's Inferno: Choices",
+          "desc": "Series Entertainment 基于 Netflix 综艺制作的恋爱互动游戏，文中与 The Ultimatum: Choices 并列提及。"
+        }
+      ]
+    },
+    {
+      "id": "ef680a7853",
+      "title": "腾讯投资 Godot 引擎开发：W4 Games 获 1800 万美元 B 轮融资",
+      "zh_desc": "腾讯已参与投资专注于强化Godot生态的W4 Games，本轮共1800万美元，并签署合作协议以扩大亚洲生态。对于依赖Godot引擎的开发者，这意味着工具链和区域支持可能进一步增强。",
+      "url": "https://gameworldobserver.com/2026/08/25/tencent-has-invested-in-the-development-of-the-godot-engine",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T11:39:42",
+      "fetched_at": "2026-08-26T00:44:05",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "3267d1676b",
       "title": "《Journey》开发商 thatgamecompany 宣布推出 thatgamepublisher",
