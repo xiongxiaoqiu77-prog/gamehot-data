@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-26T00:44:05",
+  "updated_at": "2026-08-26T01:16:28",
   "articles": [
+    {
+      "id": "c3c667ca76",
+      "title": "W4 Games融资1800万美元以扩大国际团队",
+      "zh_desc": "W4 Games完成1800万美元融资，并与腾讯达成多年战略合作，旨在扩展国际团队和推动Godot引擎生态在亚洲的发展。该消息对关注游戏开发工具和引擎商业化的从业者具有行业参考价值。",
+      "url": "https://www.gamedeveloper.com/business/w4-games-raises-18m-to-expand-its-international-team",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T14:06:03",
+      "fetched_at": "2026-08-26T01:16:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Slay the Spire",
+          "desc": "卡牌构筑类Roguelike游戏，玩家通过爬塔挑战不断构建牌组。"
+        },
+        {
+          "name": "Slay the Spire 2",
+          "desc": "《Slay the Spire》的续作，延续了卡牌构筑与Roguelike玩法。"
+        }
+      ]
+    },
+    {
+      "id": "a01c6ce0fd",
+      "title": "Entity融资580万美元打造基于浏览器的'主机级画质'游戏平台",
+      "zh_desc": "爱尔兰初创公司Entity获得580万美元种子融资，用于构建无需下载安装即可游玩主机级画质游戏的浏览器平台。这一动态对关注云游戏和免安装游戏趋势的从业者有参考意义。",
+      "url": "https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T16:56:48",
+      "fetched_at": "2026-08-26T01:16:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Trek Fleet Command",
+          "desc": "以星际迷航为背景的移动端策略游戏，玩家建造基地、指挥舰队进行太空征战。"
+        }
+      ]
+    },
     {
       "id": "8f6f8e94b6",
       "title": "私募股权买不下的游戏服务器托管公司",
