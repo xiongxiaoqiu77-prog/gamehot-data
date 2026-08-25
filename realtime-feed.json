@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-26T03:25:28",
+  "updated_at": "2026-08-26T03:57:10",
   "articles": [
+    {
+      "id": "f98846ee48",
+      "title": "Schell Games 据报道裁员",
+      "zh_desc": "据GamesIndustry.biz报道，Schell Games已裁员，该工作室曾联合开发Among Us 3D，并是I Expect You to Die系列开发商。这则新闻反映了海外游戏工作室的调整动态，对了解行业近况有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/schell-games-reportedly-lays-off-staff",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-25T19:45:19",
+      "fetched_at": "2026-08-26T03:57:10",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Among Us 3D",
+          "desc": "Schell Games联合开发的游戏"
+        },
+        {
+          "name": "I Expect You to Die",
+          "desc": "Schell Games开发的系列游戏"
+        }
+      ]
+    },
     {
       "id": "b65053012a",
       "title": "欧洲游戏行业2024年创造240亿欧元收入，工作室达6600家，从业者超95000人",
