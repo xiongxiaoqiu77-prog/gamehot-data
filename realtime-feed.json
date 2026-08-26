@@ -1,6 +1,146 @@
 {
-  "updated_at": "2026-08-27T00:48:05",
+  "updated_at": "2026-08-27T01:53:21",
   "articles": [
+    {
+      "id": "138c4178e4",
+      "title": "CD Projekt Red 将在 Blizzard 的 Battle.net 发行《The Witcher 3: The Wild Hunt》",
+      "zh_desc": "CD Projekt Red 与 Blizzard 达成合作，将《The Witcher 3: The Wild Hunt》重制版带到 Battle.net，并包含新扩展内容及《Diablo IV》联动。这属于跨平台发行与头部 IP 合作动态，对从业者了解行业合作风向有参考价值。",
+      "url": "https://www.gamedeveloper.com/business/cd-projekt-red-and-blizzard-enter-a-partnership",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T17:30:18",
+      "fetched_at": "2026-08-27T01:53:21",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "desc": "备受赞誉的RPG，将在Battle.net上发行重制版，并有新扩展包Songs of the Past。"
+        },
+        {
+          "name": "Songs of the Past",
+          "desc": "The Witcher 3即将推出的扩展包。"
+        },
+        {
+          "name": "Diablo IV",
+          "desc": "将推出以杰洛特为主题的装饰皮肤。"
+        },
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "CD Projekt Red的游戏，销量达4000万份。"
+        },
+        {
+          "name": "Project Sirius",
+          "desc": "代号为Project Sirius的Witcher多人游戏，相关开发人员被解雇。"
+        },
+        {
+          "name": "The Witcher IV",
+          "desc": "正在开发中的Witcher系列新作。"
+        }
+      ]
+    },
+    {
+      "id": "00bdb40451",
+      "title": "谁在 Gamescom 展位上花了最多钱？",
+      "zh_desc": "文章推测 Gamescom 展位投入最高的厂商可能是腾讯，并提到 NetEase、Hoyoverse、Gryphline、Infold 等都有大型展位，西方厂商存在感被稀释。对从业者了解大厂线下营销投入和展会格局有参考价值。",
+      "url": "https://mobilegamer.biz/who-spent-the-most-money-on-their-gamescom-booth/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-26T17:39:16",
+      "fetched_at": "2026-08-27T01:53:21",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Petit Planet",
+          "desc": "在Hoyoverse展台展示的新游戏。"
+        },
+        {
+          "name": "Honkai Nexus Anima",
+          "desc": "在Hoyoverse展台展示的新游戏。"
+        },
+        {
+          "name": "Genshin Impact",
+          "desc": "Hoyoverse的现有游戏。"
+        },
+        {
+          "name": "Star Rail",
+          "desc": "Hoyoverse的现有游戏。"
+        },
+        {
+          "name": "Zenless Zone Zero",
+          "desc": "Hoyoverse的现有游戏。"
+        },
+        {
+          "name": "Nodus Fall",
+          "desc": "Hoyoverse新公布的类Elden Ring风格的游戏。"
+        },
+        {
+          "name": "Silver Palace",
+          "desc": "来自中国的大型RPG，在Gamescom的ONL上展出。"
+        },
+        {
+          "name": "EA FC",
+          "desc": "EA展台展示的足球模拟游戏。"
+        },
+        {
+          "name": "Aniimo",
+          "desc": "FunPlus支持的跨平台生物收集游戏。"
+        },
+        {
+          "name": "Arc Raiders",
+          "desc": "Nexon推出的PC/console游戏。"
+        },
+        {
+          "name": "Star Wars Galactic Racer",
+          "desc": "星球大战主题的赛车游戏。"
+        },
+        {
+          "name": "The Blood of Dawnwalker",
+          "desc": "在Gamescom展台上的PC/console游戏。"
+        },
+        {
+          "name": "Farming Simulator",
+          "desc": "以拖拉机为标志的农场模拟游戏。"
+        },
+        {
+          "name": "Sea of Remnants",
+          "desc": "NetEase推出的游戏，有引人注目的展示。"
+        },
+        {
+          "name": "Where Winds Meet",
+          "desc": "NetEase的PC/console游戏。"
+        },
+        {
+          "name": "Marvel Rivals",
+          "desc": "NetEase的PC/console游戏。"
+        },
+        {
+          "name": "Halo",
+          "desc": "Xbox展台上的游戏。"
+        },
+        {
+          "name": "COD",
+          "desc": "Xbox展台上的游戏（通常指《使命召唤》）。"
+        },
+        {
+          "name": "Gears",
+          "desc": "Xbox展台上的游戏。"
+        },
+        {
+          "name": "Fable",
+          "desc": "Xbox展台上的游戏。"
+        },
+        {
+          "name": "Forza",
+          "desc": "Xbox展台上的游戏。"
+        },
+        {
+          "name": "Arknights: Endfield",
+          "desc": "在Hall 8有巨大展台的游戏。"
+        }
+      ]
+    },
     {
       "id": "baa625fe8d",
       "title": "Xbox 将于本月晚些时候让 Insider 用户将实体游戏光盘转换为数字权益",
