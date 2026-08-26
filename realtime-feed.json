@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-26T07:39:16",
+  "updated_at": "2026-08-26T14:02:07",
   "articles": [
+    {
+      "id": "a89eef9dc4",
+      "title": "EA与腾讯高管将和Netflix、索尼、迪士尼同台出席FT商业娱乐峰会",
+      "zh_desc": "《金融时报》公布9月洛杉矶商业娱乐峰会嘉宾阵容，EA与腾讯游戏高管将与Netflix、索尼、迪士尼等传媒高管同台。该消息反映游戏公司在泛娱乐产业话语权提升，值得关注后续跨行业合作与平台趋势。",
+      "url": "https://www.gamesindustry.biz/executives-from-ea-and-tencent-to-speak-alongside-netflix-sony-and-disney-at-ft-business-of-entertainment-summit",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T05:56:36",
+      "fetched_at": "2026-08-26T14:02:07",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "8ab5ea2c1d",
       "title": "2026年 Gamescom 开幕夜现场亮点",
