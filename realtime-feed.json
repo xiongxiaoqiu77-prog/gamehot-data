@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-27T00:15:02",
+  "updated_at": "2026-08-27T00:48:05",
   "articles": [
+    {
+      "id": "baa625fe8d",
+      "title": "Xbox 将于本月晚些时候让 Insider 用户将实体游戏光盘转换为数字权益",
+      "zh_desc": "Xbox 宣布将于8月31日起让 Insider 用户测试“光盘转数字版”功能，支持将受支持的实体游戏光盘转换为同名数字版权益。该功能反映主机平台数字分发趋势，对游戏发行策略有一定参考价值，但与休闲游戏玩法设计关联较弱。",
+      "url": "https://www.gamesindustry.biz/xbox-to-let-insiders-convert-physical-game-discs-into-digital-entitlements-later-this-month",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T16:17:59",
+      "fetched_at": "2026-08-27T00:48:05",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "caa02b3a82",
       "title": "Ubisoft 推出 Player Council 平台以拓展早期游戏开发反馈",
