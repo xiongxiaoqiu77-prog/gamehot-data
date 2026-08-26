@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-08-27T01:53:21",
+  "updated_at": "2026-08-27T02:26:09",
   "articles": [
+    {
+      "id": "fc79f77f59",
+      "title": "Playdate 制造商 Panic 将关税费用退还给客户",
+      "zh_desc": "Playdate 制造商 Panic 决定将因关税政策向客户收取的费用全额退还，称“这不是我们的钱，退回去感觉很好”。这则消息反映了游戏硬件厂商在关税环境下的应对策略，但对三消/休闲手游从业者的直接参考价值有限。",
+      "url": "https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T18:21:55",
+      "fetched_at": "2026-08-27T02:26:09",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "eafe6722ad",
+      "title": "Creative UK 推出 Barclays 赞助的屏幕产业成长计划",
+      "zh_desc": "Creative Enterprise 在 Creative UK 旗下推出面向屏幕产业的成长计划，资金来自 BFI National Lottery。该计划旨在支持英国影视、电视与游戏企业发展，可作为了解海外产业扶持动态的参考。",
+      "url": "https://www.gamedeveloper.com/business/creative-uk-launches-barclays-sponsored-growth-program-for-screen-businesses",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T16:11:16",
+      "fetched_at": "2026-08-27T02:26:09",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "07cfc090c6",
+      "title": "IGDA 孵化兴趣组将在 Gamescom 发布全球游戏孵化器与加速器首份普查报告",
+      "zh_desc": "IGDA 孵化兴趣组将在 2026 Gamescom 上公布首份全球游戏孵化器和加速器项目普查，为行业提供支持新兴工作室的机构全景。对关注海外早期游戏团队与孵化生态的从业者有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/igda-incubation-sig-to-unveil-first-global-census-of-game-incubators-and-accelerators-at-gamescom",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T18:11:00",
+      "fetched_at": "2026-08-27T02:26:09",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "138c4178e4",
       "title": "CD Projekt Red 将在 Blizzard 的 Battle.net 发行《The Witcher 3: The Wild Hunt》",
