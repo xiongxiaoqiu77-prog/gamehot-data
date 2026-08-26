@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-08-27T02:26:09",
+  "updated_at": "2026-08-27T03:30:54",
   "articles": [
+    {
+      "id": "782e2f4309",
+      "title": "Rockstar Games对《Grand Theft Auto 6》泄露事件表示“心碎”",
+      "zh_desc": "Rockstar Games回应了《Grand Theft Auto 6》的大规模泄露事件，表达痛心。该消息属于游戏行业突发新闻，对休闲游戏从业者的直接参考价值有限，但可关注大厂IP项目管理与安全风险。",
+      "url": "https://www.gamedeveloper.com/business/rockstar-games-heartbroken-by-grand-theft-auto-6-leaks",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T18:30:00",
+      "fetched_at": "2026-08-27T03:30:54",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "Rockstar Games开发的开放世界动作冒险游戏，近期遭遇大规模泄露。"
+        }
+      ]
+    },
+    {
+      "id": "eb923bdb7e",
+      "title": "1047 Games停止开发《Empulse》和《Splitgate: Arena Reloaded》，宣布告别服务型射击游戏",
+      "zh_desc": "1047 Games宣布停止《Empulse》和《Splitgate: Arena Reloaded》的积极开发，将两款游戏转为点对点托管，并明确转向非服务型射击游戏方向。该动向反映中小型射击工作室对live service模式成本与竞争的再评估，对休闲游戏LiveOps决策有一定间接参考。",
+      "url": "https://www.gamesindustry.biz/1047-games-ends-active-development-on-empulse-and-splitgate-arena-reloaded-says-its-moving-away-from-live-service-shooters",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T19:10:37",
+      "fetched_at": "2026-08-27T03:30:54",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Empulse",
+          "desc": "6v6移动射击游戏，被定位为《泰坦陨落》的精神续作，处于早期接入阶段。"
+        },
+        {
+          "name": "Splitgate: Arena Reloaded",
+          "desc": "1047 Games开发的竞技场射击游戏，属于服务型射击游戏。"
+        },
+        {
+          "name": "Splitgate 2",
+          "desc": "1047 Games的续作，2025年6月发布，因争议和后续调整备受关注。"
+        },
+        {
+          "name": "Splitgate",
+          "desc": "1047 Games的原创竞技场射击游戏，现已转为对等托管。"
+        }
+      ]
+    },
     {
       "id": "fc79f77f59",
       "title": "Playdate 制造商 Panic 将关税费用退还给客户",
