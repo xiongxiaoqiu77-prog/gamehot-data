@@ -1,6 +1,257 @@
 {
-  "updated_at": "2026-08-26T16:43:07",
+  "updated_at": "2026-08-27T00:15:02",
   "articles": [
+    {
+      "id": "caa02b3a82",
+      "title": "Ubisoft 推出 Player Council 平台以拓展早期游戏开发反馈",
+      "zh_desc": "Ubisoft 宣布软启动 Player Council 平台，玩家可受邀测试早期概念、原型和实时体验并直接向开发者反馈。它展示了大厂在开发早期引入用户反馈的机制，对休闲游戏团队设计玩家调研和社区反馈流程有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/ubisoft-debuts-player-council-platform-to-expand-early-game-development-feedback",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T15:50:50",
+      "fetched_at": "2026-08-27T00:15:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Riders Republic",
+          "desc": "Ubisoft 的多人户外运动游戏，作为已发售游戏加入 Player Council。"
+        },
+        {
+          "name": "Atomega",
+          "desc": "Ubisoft 的多人竞技场射击游戏，作为已发售游戏供玩家测试。"
+        },
+        {
+          "name": "Codename Split Point",
+          "desc": "代号项目，多人在线战术回合制概念游戏。"
+        },
+        {
+          "name": "Codename Rook",
+          "desc": "代号项目，单人策略体验游戏。"
+        },
+        {
+          "name": "Codename Decagon",
+          "desc": "将在 2026 年秋季加入 Player Council 的合作项目之一。"
+        },
+        {
+          "name": "Codename Harlequin",
+          "desc": "将在 2026 年秋季加入 Player Council 的合作项目之一。"
+        },
+        {
+          "name": "Assassin's Creed Shadows",
+          "desc": "Ubisoft 的潜行动作角色扮演游戏，此前因玩家反馈延期并取得高首日销售额。"
+        }
+      ]
+    },
+    {
+      "id": "fe12f69f59",
+      "title": "Ubisoft 宣布试玩测试平台 The Player Council",
+      "zh_desc": "该报道介绍了 Ubisoft 的 Player Council 试玩测试平台，玩家可参与早期测试并直接向开发者反馈。休闲游戏从业者可将其视作用户共创和早期验证的一种方式，但内容偏公司动态和流程公告。",
+      "url": "https://www.gamesindustry.biz/ubisoft-announces-playstest-platform-the-player-council",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T13:30:00",
+      "fetched_at": "2026-08-27T00:15:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Codename Split Point",
+          "desc": "在线多人战术回合制概念原型，供玩家在 Player Council 上测试。"
+        },
+        {
+          "name": "Codename Rook",
+          "desc": "单人策略概念原型，供玩家在 Player Council 上测试。"
+        },
+        {
+          "name": "Riders Republic",
+          "desc": "Ubisoft 已发售的多人户外运动游戏，开放给测试者体验。"
+        },
+        {
+          "name": "Atomega",
+          "desc": "Ubisoft 已发售的多人射击游戏，将在九年来首次更新中测试新想法。"
+        },
+        {
+          "name": "Codename Decagon",
+          "desc": "今年晚些时候加入 Player Council 的合作项目之一。"
+        },
+        {
+          "name": "Codename Harlequin",
+          "desc": "今年晚些时候加入 Player Council 的合作项目之一。"
+        }
+      ]
+    },
+    {
+      "id": "99c50adbed",
+      "title": "Rockstar 回应 GTA 6 泄露：“这显然不是我们希望你在这么久之后看到游戏的方式”",
+      "zh_desc": "Rockstar 针对《Grand Theft Auto 6》泄露发布官方回应，表示泄露并非官方预期的展示方式。该事件属于 AAA 游戏营销与信息管控案例，对休闲游戏从业者参考价值有限。",
+      "url": "https://www.gamesindustry.biz/rockstar-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T12:57:20",
+      "fetched_at": "2026-08-27T00:15:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar Games 的开放世界动作冒险游戏，因近期泄露事件和将在 11 月 19 日发售而受到关注。"
+        }
+      ]
+    },
+    {
+      "id": "c7ba251c13",
+      "title": "Testronic 扩大高级管理团队，Mike Guttman 出任高级合作副总裁",
+      "zh_desc": "Testronic 在全球多地扩张高级管理层，Mike Guttman 被任命为高级合作副总裁。这是游戏 QA 与本地化服务公司的商务和人事动态，对休闲游戏从业者参考价值有限。",
+      "url": "https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T09:39:21",
+      "fetched_at": "2026-08-27T00:15:02",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "728a2fca5f",
+      "title": "Roblox 对 Roblox Kids 和 Select 中含“奖励驱动媒体流”的游戏实施限制",
+      "zh_desc": "Roblox 推出新政策，限制儿童接触游戏中的“奖励驱动媒体流”（reward-driven media feeds），涉及 Roblox Kids 与 Select 环境。这反映儿童保护政策对游戏内激励和广告设计的约束，休闲与 UGC 手游从业者需关注合规风险。",
+      "url": "https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-26T08:10:26",
+      "fetched_at": "2026-08-27T00:15:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Steal an Egg",
+          "desc": "宠物收集模拟游戏，因包含鼓励观看媒体流的奖励机制而被移出 Roblox Kids 和 Select。"
+        }
+      ]
+    },
+    {
+      "id": "eb48b8b4ae",
+      "title": "数据摘要：Miniclip、Learnings 和 Tripledot 领跑 7 月美国广告收入榜",
+      "zh_desc": "MobileGamer.biz 汇总了 7 月美国手游广告收入排行，Miniclip、Learnings 和 Tripledot 位列前茅，并包含 Smash Fest 数据和融资消息。对关注买量与变现的休闲手游从业者，是了解市场热度和竞品投放的快速参考。",
+      "url": "https://mobilegamer.biz/data-digest-miniclip-learnings-and-tripledot-top-julys-us-ad-revenue-chart-smash-fest-stats-fundraising-news-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-26T14:20:48",
+      "fetched_at": "2026-08-27T00:15:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Arrows Puzzle Escape",
+          "desc": "Miniclip 发行的箭头解谜手游，也是其 7 月美国广告收入最高的产品。"
+        },
+        {
+          "name": "Arrow Puzzle: Tap Puzzle Games",
+          "desc": "Miniclip 的箭头主题解谜手游，7 月全球下载量领先。"
+        },
+        {
+          "name": "Amaze GO!",
+          "desc": "Learnings 发行的箭头解谜游戏，7 月下载量超过千万。"
+        },
+        {
+          "name": "Block Blast",
+          "desc": "Hungry Studio 的方块消除游戏，贡献了该公司绝大部分广告收入。"
+        },
+        {
+          "name": "Candy Crush Saga",
+          "desc": "King 的经典三消游戏，是该公司广告收入的主要来源。"
+        },
+        {
+          "name": "Vita Mahjong",
+          "desc": "Learnings 旗下的麻将题材游戏，贡献了其近半广告收入。"
+        },
+        {
+          "name": "Smash Fest",
+          "desc": "Flow Games 的混合休闲游戏，上线后迅速进入收入榜并引发大量模仿作品。"
+        },
+        {
+          "name": "Royal Smash – Physics Puzzle",
+          "desc": "Cypher Games 的物理解谜游戏，7 月发布后快速获得大量下载和收入。"
+        },
+        {
+          "name": "Twin Tiles",
+          "desc": "Surge Games 的首款益智解谜游戏，用于测试 AI 驱动的制作流程。"
+        }
+      ]
+    },
+    {
+      "id": "23b4b073c2",
+      "title": "Gamescom Opening Night Live 展示网易、Hoyoverse、腾讯等重磅新作",
+      "zh_desc": "报道 Gamescom 开幕夜发布的 NetEase、Hoyoverse、腾讯新作，以及相关测试与预注册窗口信息。休闲手游从业者可借此了解大厂新品品类和营销节点，但文章未涉及玩法拆解。",
+      "url": "https://mobilegamer.biz/gamescoms-opening-night-live-showcases-neteases-ananta-and-sea-of-remnants-hoyoverses-petit-planet-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-26T10:03:38",
+      "fetched_at": "2026-08-27T00:15:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Genshin Impact",
+          "desc": "Hoyoverse 的开放世界动作 RPG，文中作为该开发商代表作被提及。"
+        },
+        {
+          "name": "Nodus Fall",
+          "desc": "Hoyoverse 公布的类《Elden Ring》动作 RPG，尚未确认是否登陆移动端。"
+        },
+        {
+          "name": "Elden Ring",
+          "desc": "魂系开放世界动作 RPG，文中用作 Nodus Fall 的风格参照。"
+        },
+        {
+          "name": "Ananta",
+          "desc": "NetEase 的动漫风格开放世界动作 RPG，确认登陆移动端、PS5 和 Xbox。"
+        },
+        {
+          "name": "Sea of Remnants",
+          "desc": "NetEase 的开放世界 roguelike RPG，计划登陆多平台，12 月开启全球封闭测试。"
+        },
+        {
+          "name": "Monster Hunter Outlanders",
+          "desc": "Timi 开发、Capcom 授权的开放世界生存动作游戏，将《Monster Hunter》带到移动端。"
+        },
+        {
+          "name": "Petit Planet",
+          "desc": "Hoyoverse 的可爱风生活模拟游戏，将于 2026 年冬季登陆移动端和 PC。"
+        },
+        {
+          "name": "Palworld",
+          "desc": "收集生物的开放世界生存游戏，文中用作 Roco Kingdom 的同类参照。"
+        },
+        {
+          "name": "Roco Kingdom",
+          "desc": "Morefun Studios/Tencent 的 Palworld 式生物收集游戏，将全球登陆多个平台。"
+        },
+        {
+          "name": "Silver Palace",
+          "desc": "Elementa 的幻想开放世界动作 RPG，在 Gamescom 上公布了多人模式 House of Greed。"
+        }
+      ]
+    },
+    {
+      "id": "7f95b63178",
+      "title": "数据分析：2026 年全球游戏市场将创收入纪录——得益于 GTA VI",
+      "zh_desc": "Newzoo 预测 2026 年全球游戏市场总收入将达到 2139 亿美元，创历史新高，主要受 GTA VI 推动。休闲游戏从业者可借此了解整体市场增长背景，但文章未深入分析休闲品类。",
+      "url": "https://gameworldobserver.com/2026/08/26/analytics-in-2026-the-global-video-game-market-will-set-a-revenue-record-thanks-to-gta-vi",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-26T13:50:08",
+      "fetched_at": "2026-08-27T00:15:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar Games 的开放世界动作游戏，被视为 2026 年全球游戏市场创收入纪录的主要推动力。"
+        }
+      ]
+    },
     {
       "id": "e2a0bf22ec",
       "title": "《The Witcher 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
