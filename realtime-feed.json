@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-27T03:30:54",
+  "updated_at": "2026-08-27T04:03:46",
   "articles": [
+    {
+      "id": "47beccbfdf",
+      "title": "Xbox 正式宣布光盘转数字计划",
+      "zh_desc": "Xbox 正式推出光盘转数字（Disc to Digital）计划，允许玩家将实体版游戏转为数字授权，The Verge 曾在 7 月报道过相关消息。该动态属于主机平台数字化趋势的一部分，对休闲游戏开发者了解平台政策与发行环境有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/xbox-officially-announces-disc-to-digital-program",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T17:58:25",
+      "fetched_at": "2026-08-27T04:03:46",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "782e2f4309",
       "title": "Rockstar Games对《Grand Theft Auto 6》泄露事件表示“心碎”",
