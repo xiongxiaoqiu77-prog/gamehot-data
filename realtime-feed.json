@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-27T16:04:35",
+  "updated_at": "2026-08-27T19:00:52",
   "articles": [
+    {
+      "id": "f89ba3b60c",
+      "title": "三消没跑出来，换成二合后，《Hollywood Merge》冲上月流水 Top 1",
+      "zh_desc": "文章复盘了《Hollywood Merge》从三消转向二合玩法的产品经历，分析其在 match-3 赛道未能跑出、换成 merge-2 后月流水冲上 Top 1 的原因。对休闲游戏从业者选择玩法方向、优化留存与商业化具有参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jMXhNNC1BdTlTRDhRcjQyTmhyanFqOUFXejNPZDhtVF9pRlpVN3dnc3RvcGlxNVNob2VpMjFza1U4SGtOT0JNbG9VNFZ5Nk1rbGtPQ0NMQWlDUQ?oc=5",
+      "source": "Google News",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-27T10:03:24",
+      "fetched_at": "2026-08-27T19:00:52",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "Hollywood Merge",
+          "desc": "一款以好莱坞为主题的二合类游戏"
+        }
+      ]
+    },
     {
       "id": "62092a4efd",
       "title": "Xbox 表示下一代主机将兼顾“效率与可负担性”与性能，应对硬件成本上涨和 AI 创新",
