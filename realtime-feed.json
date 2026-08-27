@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-27T08:23:49",
+  "updated_at": "2026-08-27T10:35:05",
   "articles": [
+    {
+      "id": "74fda8b32a",
+      "title": "[Gamescom 26] NC 目标营收 5 万亿韩元，移动休闲游戏占比将达 30%",
+      "zh_desc": "NC 在 Gamescom 26 上披露了 5 万亿韩元的营收目标，并计划让移动休闲游戏贡献约 30% 收入。这为关注休闲手游的从业者提供了大型厂商战略布局向移动休闲倾斜的市场信号。",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzYTZaSFRYR096MUNTaUlUbVFKUEpJQUxmNzJFMXZMMXBTZ3ktUlhrSFJ0T0gwQUQ2bGs4NGU0eTlTSTduUzlsYldfeUtYakx0S3pCQVVFV1dCdjZT?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-26T22:00:00",
+      "fetched_at": "2026-08-27T10:35:05",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "a0eeff27aa",
       "title": "讣告：演员 Tim Curry 逝世，享年80岁，曾在多款游戏中留下经典形象",
