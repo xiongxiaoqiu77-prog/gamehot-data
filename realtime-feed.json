@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-28T03:19:16",
+  "updated_at": "2026-08-28T04:54:21",
   "articles": [
+    {
+      "id": "52e9bc2bd9",
+      "title": "Grand Theft Auto 6 30分钟预告片在Netflix首播",
+      "zh_desc": "Take-Two与Rockstar在Netflix上线了Grand Theft Auto 6的30分钟实机预告，展示该作的跨平台内容分发动向。对休闲游戏从业者来说属于外围行业参考，可观察头部游戏与流媒体平台的联动方式。",
+      "url": "https://www.gamesindustry.biz/grand-theft-auto-6-30-minute-teaser-debuts-on-netflix",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-27T19:33:45",
+      "fetched_at": "2026-08-28T04:54:21",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "开放世界动作冒险游戏，即将于PS5和Xbox Series X/S平台发售"
+        }
+      ]
+    },
     {
       "id": "f30022e0c0",
       "title": "你（没错，就是你）也能从 1 对 1 同步游戏测试中受益",
