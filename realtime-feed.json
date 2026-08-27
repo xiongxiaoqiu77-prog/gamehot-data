@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-28T02:47:17",
+  "updated_at": "2026-08-28T03:19:16",
   "articles": [
+    {
+      "id": "f30022e0c0",
+      "title": "你（没错，就是你）也能从 1 对 1 同步游戏测试中受益",
+      "zh_desc": "本文报道了设计师 Brian Cronin 在 2026 GDC Festival of Gaming 上的演讲，主张一对一同步测试对开发者有实际价值。休闲游戏团队可借鉴其测试思路，更早获取玩家反馈并优化体验。",
+      "url": "https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-27T16:48:40",
+      "fetched_at": "2026-08-28T03:19:16",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Forbidden Solitaire",
+          "desc": "一种纸牌接龙游戏，将solitaire玩法带入前沿"
+        }
+      ]
+    },
     {
       "id": "3165fd1a55",
       "title": "Playdate 制造商 Panic 向客户退还关税附加费",
