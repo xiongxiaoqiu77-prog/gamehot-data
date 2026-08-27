@@ -5,132 +5,150 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 27 Aug 2026 07:00:19 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 07:00:13 +0800</lastBuildDate>
   <item>
-    <title>谁在 Gamescom 展位上花了最多钱？</title>
-    <link>https://mobilegamer.biz/who-spent-the-most-money-on-their-gamescom-booth/</link>
-    <description>文章推测 Gamescom 展位投入最高的厂商可能是腾讯，并提到 NetEase、Hoyoverse、Gryphline、Infold 等都有大型展位，西方厂商存在感被稀释。对从业者了解大厂线下营销投入和展会格局有参考价值。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Wed, 26 Aug 2026 17:39:16 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/who-spent-the-most-money-on-their-gamescom-booth/</guid>
+    <title>三消没跑出来，换成二合后，《Hollywood Merge》冲上月流水 Top 1</title>
+    <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jMXhNNC1BdTlTRDhRcjQyTmhyanFqOUFXejNPZDhtVF9pRlpVN3dnc3RvcGlxNVNob2VpMjFza1U4SGtOT0JNbG9VNFZ5Nk1rbGtPQ0NMQWlDUQ?oc=5</link>
+    <description>文章复盘了《Hollywood Merge》从三消转向二合玩法的产品经历，分析其在 match-3 赛道未能跑出、换成 merge-2 后月流水冲上 Top 1 的原因。对休闲游戏从业者选择玩法方向、优化留存与商业化具有参考价值。</description>
+    <category>深度拆解</category>
+    <author>Google News</author>
+    <pubDate>Thu, 27 Aug 2026 10:03:24 +0800</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jMXhNNC1BdTlTRDhRcjQyTmhyanFqOUFXejNPZDhtVF9pRlpVN3dnc3RvcGlxNVNob2VpMjFza1U4SGtOT0JNbG9VNFZ5Nk1rbGtPQ0NMQWlDUQ?oc=5</guid>
   </item>
   <item>
-    <title>Roblox 对 Roblox Kids 和 Select 中含“奖励驱动媒体流”的游戏实施限制</title>
-    <link>https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select</link>
-    <description>Roblox 推出新政策，限制儿童接触游戏中的“奖励驱动媒体流”（reward-driven media feeds），涉及 Roblox Kids 与 Select 环境。这反映儿童保护政策对游戏内激励和广告设计的约束，休闲与 UGC 手游从业者需关注合规风险。</description>
+    <title>苹果App Store团队分享获取推荐位的技巧与建议</title>
+    <link>https://mobilegamer.biz/apples-app-store-team-reveal-their-tips-and-tricks-for-getting-featured/</link>
+    <description>苹果在Gamescom Dev上罕见介绍了App Store编辑推荐机制，并针对付费游戏营销提出建议。对移动游戏尤其是休闲游戏开发者争取推荐位有实操价值。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Thu, 27 Aug 2026 11:53:42 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/apples-app-store-team-reveal-their-tips-and-tricks-for-getting-featured/</guid>
+  </item>
+  <item>
+    <title>如何用后端为游戏变现——第二部分</title>
+    <link>https://www.gameanalytics.com/blog/how-to-monetize-your-game-with-a-backend-part-2</link>
+    <description>GameAnalytics探讨BaaS如何帮助游戏团队管理支付、实时运营和安全交易，从而提升收入与玩家体验。适合需要优化后端变现能力的手游团队参考。</description>
+    <category>深度拆解</category>
+    <author>GameAnalytics</author>
+    <pubDate>Thu, 27 Aug 2026 10:53:45 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gameanalytics.com/blog/how-to-monetize-your-game-with-a-backend-part-2</guid>
+  </item>
+  <item>
+    <title>你（没错，就是你）也能从 1 对 1 同步游戏测试中受益</title>
+    <link>https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting</link>
+    <description>本文报道了设计师 Brian Cronin 在 2026 GDC Festival of Gaming 上的演讲，主张一对一同步测试对开发者有实际价值。休闲游戏团队可借鉴其测试思路，更早获取玩家反馈并优化体验。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Thu, 27 Aug 2026 16:48:40 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting</guid>
+  </item>
+  <item>
+    <title>欧洲游戏行业2025年收入达300亿欧元</title>
+    <link>https://www.gamesindustry.biz/european-games-industry-revenue-reached-30bn-in-2025</link>
+    <description>据 Video Games Europe 数据，2025年欧洲游戏行业总收入达300亿欧元，其中数字购买占91%。该数据有助于从业者评估欧洲市场大盘规模和数字化趋势，为区域发行与变现策略提供背景参考。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 26 Aug 2026 08:10:26 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select</guid>
+    <pubDate>Thu, 27 Aug 2026 13:39:30 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/european-games-industry-revenue-reached-30bn-in-2025</guid>
   </item>
   <item>
-    <title>数据摘要：Miniclip、Learnings 和 Tripledot 领跑 7 月美国广告收入榜</title>
-    <link>https://mobilegamer.biz/data-digest-miniclip-learnings-and-tripledot-top-julys-us-ad-revenue-chart-smash-fest-stats-fundraising-news-more/</link>
-    <description>MobileGamer.biz 汇总了 7 月美国手游广告收入排行，Miniclip、Learnings 和 Tripledot 位列前茅，并包含 Smash Fest 数据和融资消息。对关注买量与变现的休闲手游从业者，是了解市场热度和竞品投放的快速参考。</description>
+    <title>Grand Theft Auto 6 30分钟预告片在Netflix首播</title>
+    <link>https://www.gamesindustry.biz/grand-theft-auto-6-30-minute-teaser-debuts-on-netflix</link>
+    <description>Take-Two与Rockstar在Netflix上线了Grand Theft Auto 6的30分钟实机预告，展示该作的跨平台内容分发动向。对休闲游戏从业者来说属于外围行业参考，可观察头部游戏与流媒体平台的联动方式。</description>
     <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Wed, 26 Aug 2026 14:20:48 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/data-digest-miniclip-learnings-and-tripledot-top-julys-us-ad-revenue-chart-smash-fest-stats-fundraising-news-more/</guid>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 27 Aug 2026 19:33:45 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/grand-theft-auto-6-30-minute-teaser-debuts-on-netflix</guid>
   </item>
   <item>
-    <title>Gamescom Opening Night Live 展示网易、Hoyoverse、腾讯等重磅新作</title>
-    <link>https://mobilegamer.biz/gamescoms-opening-night-live-showcases-neteases-ananta-and-sea-of-remnants-hoyoverses-petit-planet-more/</link>
-    <description>报道 Gamescom 开幕夜发布的 NetEase、Hoyoverse、腾讯新作，以及相关测试与预注册窗口信息。休闲手游从业者可借此了解大厂新品品类和营销节点，但文章未涉及玩法拆解。</description>
+    <title>Playdate 制造商 Panic 向客户退还关税附加费</title>
+    <link>https://www.gamesindustry.biz/playdate-maker-panic-refunds-tariff-surcharges-to-customers</link>
+    <description>美国最高法院裁定特朗普关税越权后，Panic 收到政府退款，并将向客户退还此前收取的关税附加费。这是一条涉及游戏硬件与政策影响的行业新闻，对休闲游戏研发/发行有间接成本参考价值，但与三消游戏设计运营无关。</description>
     <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Wed, 26 Aug 2026 10:03:38 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/gamescoms-opening-night-live-showcases-neteases-ananta-and-sea-of-remnants-hoyoverses-petit-planet-more/</guid>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 27 Aug 2026 18:26:08 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/playdate-maker-panic-refunds-tariff-surcharges-to-customers</guid>
   </item>
   <item>
-    <title>数据分析：2026 年全球游戏市场将创收入纪录——得益于 GTA VI</title>
-    <link>https://gameworldobserver.com/2026/08/26/analytics-in-2026-the-global-video-game-market-will-set-a-revenue-record-thanks-to-gta-vi</link>
-    <description>Newzoo 预测 2026 年全球游戏市场总收入将达到 2139 亿美元，创历史新高，主要受 GTA VI 推动。休闲游戏从业者可借此了解整体市场增长背景，但文章未深入分析休闲品类。</description>
+    <title>欧洲游戏开发者联合会公布2026-28届理事会，Hendrik Lesser连任主席</title>
+    <link>https://www.gamesindustry.biz/european-games-developer-federation-announces-2026-28-board-hendrik-lesser-re-elected-as-president</link>
+    <description>欧洲游戏开发者联合会（EGDF）公布2026-2028年理事会名单，Hendrik Lesser再次当选主席。该消息属于行业组织动态，可帮助从业者关注欧洲游戏政策与行业协作动向，但对休闲游戏设计运营的直接价值有限。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 27 Aug 2026 09:05:35 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/european-games-developer-federation-announces-2026-28-board-hendrik-lesser-re-elected-as-president</guid>
+  </item>
+  <item>
+    <title>CD Projekt Red：吸取《Cyberpunk 2077》教训后，《The Witcher 4》已在所有目标平台运行</title>
+    <link>https://www.gamedeveloper.com/production/cd-projekt-red-has-the-witcher-4-running-on-all-target-platforms-after-cyberpunk-2077-lesson</link>
+    <description>CD Projekt Red 联席CEO Michal Nowakowski 向 Game Developer 透露，《The Witcher 4》目前已在所有目标平台可运行，并强调团队吸取了《Cyberpunk 2077》发售时的教训。该报道属于3A项目跨平台开发与发布管理动态，对关注项目管理思路的从业者有一定参考价值，但与休闲手游关联较弱。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Thu, 27 Aug 2026 16:41:50 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/production/cd-projekt-red-has-the-witcher-4-running-on-all-target-platforms-after-cyberpunk-2077-lesson</guid>
+  </item>
+  <item>
+    <title>Xbox CEO Asha Sharma 再次强调 Xbox 需要更可负担</title>
+    <link>https://www.gamedeveloper.com/business/xbox-ceo-asha-sharma-once-again-stresses-xbox-s-need-for-affordability</link>
+    <description>Xbox CEO Asha Sharma 再次公开表示，Xbox 业务目前并不健康，需要更加注重价格可负担性。该表态反映微软在主机市场面临的压力，可作为平台与硬件战略背景了解，但与休闲游戏设计/运营关联不大。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Thu, 27 Aug 2026 14:40:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/xbox-ceo-asha-sharma-once-again-stresses-xbox-s-need-for-affordability</guid>
+  </item>
+  <item>
+    <title>Roblox 将在沙特阿拉伯设立总部，支持 MENA 创作者</title>
+    <link>https://www.gamesindustry.biz/roblox-to-establish-saudi-arabia-headquarters-to-support-mena-creators</link>
+    <description>Roblox 宣布计划在利雅得设立总部，以支持中东和北非（MENA）地区的创作者项目。此举表明 Roblox 正加码区域创作者生态与本地化运营，对关注 UGC 平台和新兴市场扩张的从业者有参考意义。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 27 Aug 2026 10:44:11 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/roblox-to-establish-saudi-arabia-headquarters-to-support-mena-creators</guid>
+  </item>
+  <item>
+    <title>Side 与 Modl.ai 签署 AI 质检合作 MOU：AI 是滑动标尺，始终有人参与</title>
+    <link>https://www.gamesindustry.biz/we-view-ai-as-a-sliding-scale-there-will-always-be-a-human-in-the-loop-thats-our-ethos-why-side-has-signed-an-mou-with-modlai-to-use-ai-for-qa</link>
+    <description>游戏服务商 Side 与丹麦 AI 公司 Modl.ai 签署谅解备忘录，计划在 QA 测试中使用 AI，同时强调人工审核仍是必要环节。该案例展示了 AI 与人工协作在游戏质量控制中的落地方式，对关注 AI+游戏生产的团队有借鉴价值。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 27 Aug 2026 10:34:25 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/we-view-ai-as-a-sliding-scale-there-will-always-be-a-human-in-the-loop-thats-our-ethos-why-side-has-signed-an-mou-with-modlai-to-use-ai-for-qa</guid>
+  </item>
+  <item>
+    <title>Xbox 将允许把实体光盘版游戏转换为数字版</title>
+    <link>https://gameworldobserver.com/2026/08/27/xbox-will-allow-converting-disc-versions-of-games-into-digital-versions</link>
+    <description>微软官方宣布，Xbox One 和 Xbox Series X 用户将可以把手中的游戏光盘转换为数字版，功能将在数日内推出。该措施影响主机玩家的数字资产与二手市场，可作为平台分发动态参考，但与休闲手游关联较弱。</description>
     <category>行业资讯</category>
     <author>Game World Observer</author>
-    <pubDate>Wed, 26 Aug 2026 13:50:08 +0800</pubDate>
-    <guid isPermaLink="true">https://gameworldobserver.com/2026/08/26/analytics-in-2026-the-global-video-game-market-will-set-a-revenue-record-thanks-to-gta-vi</guid>
+    <pubDate>Thu, 27 Aug 2026 13:55:01 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/08/27/xbox-will-allow-converting-disc-versions-of-games-into-digital-versions</guid>
   </item>
   <item>
-    <title>1047 Games停止开发《Empulse》和《Splitgate: Arena Reloaded》，宣布告别服务型射击游戏</title>
-    <link>https://www.gamesindustry.biz/1047-games-ends-active-development-on-empulse-and-splitgate-arena-reloaded-says-its-moving-away-from-live-service-shooters</link>
-    <description>1047 Games宣布停止《Empulse》和《Splitgate: Arena Reloaded》的积极开发，将两款游戏转为点对点托管，并明确转向非服务型射击游戏方向。该动向反映中小型射击工作室对live service模式成本与竞争的再评估，对休闲游戏LiveOps决策有一定间接参考。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 26 Aug 2026 19:10:37 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/1047-games-ends-active-development-on-empulse-and-splitgate-arena-reloaded-says-its-moving-away-from-live-service-shooters</guid>
-  </item>
-  <item>
-    <title>Playdate 制造商 Panic 将关税费用退还给客户</title>
-    <link>https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers</link>
-    <description>Playdate 制造商 Panic 决定将因关税政策向客户收取的费用全额退还，称“这不是我们的钱，退回去感觉很好”。这则消息反映了游戏硬件厂商在关税环境下的应对策略，但对三消/休闲手游从业者的直接参考价值有限。</description>
+    <title>Saber高管：游戏行业必须将目光投向北美以外并分散风险</title>
+    <link>https://www.gamedeveloper.com/business/saber-exec-the-game-industry-must-look-beyond-north-america-and-dilute-risk</link>
+    <description>Saber首席创意官Tim Willits表示，工作室需要找到可靠收入来支撑大作开发，并强调全球化布局与风险分散的重要性。对游戏公司调整市场策略有一定参考价值。</description>
     <category>行业资讯</category>
     <author>Game Developer</author>
-    <pubDate>Wed, 26 Aug 2026 18:21:55 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers</guid>
+    <pubDate>Thu, 27 Aug 2026 15:00:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/saber-exec-the-game-industry-must-look-beyond-north-america-and-dilute-risk</guid>
   </item>
   <item>
-    <title>Creative UK 推出 Barclays 赞助的屏幕产业成长计划</title>
-    <link>https://www.gamedeveloper.com/business/creative-uk-launches-barclays-sponsored-growth-program-for-screen-businesses</link>
-    <description>Creative Enterprise 在 Creative UK 旗下推出面向屏幕产业的成长计划，资金来自 BFI National Lottery。该计划旨在支持英国影视、电视与游戏企业发展，可作为了解海外产业扶持动态的参考。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Wed, 26 Aug 2026 16:11:16 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/creative-uk-launches-barclays-sponsored-growth-program-for-screen-businesses</guid>
-  </item>
-  <item>
-    <title>IGDA 孵化兴趣组将在 Gamescom 发布全球游戏孵化器与加速器首份普查报告</title>
-    <link>https://www.gamesindustry.biz/igda-incubation-sig-to-unveil-first-global-census-of-game-incubators-and-accelerators-at-gamescom</link>
-    <description>IGDA 孵化兴趣组将在 2026 Gamescom 上公布首份全球游戏孵化器和加速器项目普查，为行业提供支持新兴工作室的机构全景。对关注海外早期游戏团队与孵化生态的从业者有一定参考价值。</description>
+    <title>Newzoo：没有Grand Theft Auto 6，2026年主机收入将同比持平</title>
+    <link>https://www.gamesindustry.biz/newzoo-2026-console-revenue-would-be-flat-year-on-year-without-grand-theft-auto-6</link>
+    <description>Newzoo报告指出，Grand Theft Auto 6是2026年主机市场增长的关键，否则主机收入将比2025年持平。对关注主机市场走势的从业者有参考价值。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 26 Aug 2026 18:11:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/igda-incubation-sig-to-unveil-first-global-census-of-game-incubators-and-accelerators-at-gamescom</guid>
+    <pubDate>Thu, 27 Aug 2026 12:22:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/newzoo-2026-console-revenue-would-be-flat-year-on-year-without-grand-theft-auto-6</guid>
   </item>
   <item>
-    <title>CD Projekt Red 将在 Blizzard 的 Battle.net 发行《The Witcher 3: The Wild Hunt》</title>
-    <link>https://www.gamedeveloper.com/business/cd-projekt-red-and-blizzard-enter-a-partnership</link>
-    <description>CD Projekt Red 与 Blizzard 达成合作，将《The Witcher 3: The Wild Hunt》重制版带到 Battle.net，并包含新扩展内容及《Diablo IV》联动。这属于跨平台发行与头部 IP 合作动态，对从业者了解行业合作风向有参考价值。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Wed, 26 Aug 2026 17:30:18 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/cd-projekt-red-and-blizzard-enter-a-partnership</guid>
-  </item>
-  <item>
-    <title>Xbox 将于本月晚些时候让 Insider 用户将实体游戏光盘转换为数字权益</title>
-    <link>https://www.gamesindustry.biz/xbox-to-let-insiders-convert-physical-game-discs-into-digital-entitlements-later-this-month</link>
-    <description>Xbox 宣布将于8月31日起让 Insider 用户测试“光盘转数字版”功能，支持将受支持的实体游戏光盘转换为同名数字版权益。该功能反映主机平台数字分发趋势，对游戏发行策略有一定参考价值，但与休闲游戏玩法设计关联较弱。</description>
+    <title>Arrowhead CEO Shams Jorjani：游戏行业假设基础已发生根本变化</title>
+    <link>https://www.gamesindustry.biz/the-things-that-we-based-our-assumptions-on-have-changed-fundamentally-arrowhead-ceo-shams-jorjani-on-the-games-industrys-rapid-transformation</link>
+    <description>Helldivers 2开发商Arrowhead Game Studios首席执行官表示，游戏行业正处在转型期，过去依赖的假设已经根本改变。适合行业管理者思考战略调整方向。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 26 Aug 2026 16:17:59 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/xbox-to-let-insiders-convert-physical-game-discs-into-digital-entitlements-later-this-month</guid>
-  </item>
-  <item>
-    <title>Ubisoft 推出 Player Council 平台以拓展早期游戏开发反馈</title>
-    <link>https://www.gamedeveloper.com/business/ubisoft-debuts-player-council-platform-to-expand-early-game-development-feedback</link>
-    <description>Ubisoft 宣布软启动 Player Council 平台，玩家可受邀测试早期概念、原型和实时体验并直接向开发者反馈。它展示了大厂在开发早期引入用户反馈的机制，对休闲游戏团队设计玩家调研和社区反馈流程有一定参考价值。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Wed, 26 Aug 2026 15:50:50 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/ubisoft-debuts-player-council-platform-to-expand-early-game-development-feedback</guid>
-  </item>
-  <item>
-    <title>Rockstar 回应 GTA 6 泄露：“这显然不是我们希望你在这么久之后看到游戏的方式”</title>
-    <link>https://www.gamesindustry.biz/rockstar-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time</link>
-    <description>Rockstar 针对《Grand Theft Auto 6》泄露发布官方回应，表示泄露并非官方预期的展示方式。该事件属于 AAA 游戏营销与信息管控案例，对休闲游戏从业者参考价值有限。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 26 Aug 2026 12:57:20 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/rockstar-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time</guid>
-  </item>
-  <item>
-    <title>Testronic 扩大高级管理团队，Mike Guttman 出任高级合作副总裁</title>
-    <link>https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships</link>
-    <description>Testronic 在全球多地扩张高级管理层，Mike Guttman 被任命为高级合作副总裁。这是游戏 QA 与本地化服务公司的商务和人事动态，对休闲游戏从业者参考价值有限。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 26 Aug 2026 09:39:21 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships</guid>
+    <pubDate>Thu, 27 Aug 2026 11:10:08 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/the-things-that-we-based-our-assumptions-on-have-changed-fundamentally-arrowhead-ceo-shams-jorjani-on-the-games-industrys-rapid-transformation</guid>
   </item>
   </channel>
 </rss>
