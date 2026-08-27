@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-08-27T04:37:25",
+  "updated_at": "2026-08-27T08:23:49",
   "articles": [
+    {
+      "id": "a0eeff27aa",
+      "title": "讣告：演员 Tim Curry 逝世，享年80岁，曾在多款游戏中留下经典形象",
+      "zh_desc": "Game Developer 发布纪念文章，回顾英国演员 Tim Curry 在影视与游戏领域的职业生涯。他曾参与多款知名游戏的配音或角色演绎，该消息属于游戏行业新闻，但对休闲游戏从业者的直接参考价值有限。",
+      "url": "https://www.gamedeveloper.com/audio/obituary-actor-tim-curry-celebrated-for-his-work-in-games-has-passed-at-age-80",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T20:08:56",
+      "fetched_at": "2026-08-27T08:23:49",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dragon Age: Origins",
+          "desc": "BioWare开发的黑暗奇幻角色扮演游戏，Curry在其中饰演反派Erl Howe。"
+        },
+        {
+          "name": "Gabriel Knight: Sins of the Fathers",
+          "desc": "Sierra On-Line发行的经典PC冒险游戏，Curry首次为游戏配音。"
+        },
+        {
+          "name": "Sacrifice",
+          "desc": "InterPlay Entertainment发行的动作战略游戏，Curry贡献了原创表演。"
+        },
+        {
+          "name": "Brütal Legend",
+          "desc": "Double Fine开发的动作冒险游戏，Curry饰演恶魔领主Doviculus。"
+        },
+        {
+          "name": "Command & Conquer: Red Alert 3",
+          "desc": "EA Los Angeles出品的即时战略游戏，Curry真人出演苏联总理Anatoly Cherdenko。"
+        }
+      ]
+    },
     {
       "id": "7f821325a3",
       "title": "TechInsights：索尼 PlayStation Portal CFI-Y1016 串流游戏设备的深度拆解",
