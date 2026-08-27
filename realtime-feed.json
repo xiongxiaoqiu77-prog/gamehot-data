@@ -1,6 +1,111 @@
 {
-  "updated_at": "2026-08-27T22:21:07",
+  "updated_at": "2026-08-28T00:34:04",
   "articles": [
+    {
+      "id": "f0a0fbab22",
+      "title": "Saber高管：游戏行业必须将目光投向北美以外并分散风险",
+      "zh_desc": "Saber首席创意官Tim Willits表示，工作室需要找到可靠收入来支撑大作开发，并强调全球化布局与风险分散的重要性。对游戏公司调整市场策略有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/saber-exec-the-game-industry-must-look-beyond-north-america-and-dilute-risk",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-27T15:00:00",
+      "fetched_at": "2026-08-28T00:34:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "SnowRunner",
+          "desc": "一款越野驾驶模拟游戏，以低成本获得数亿美元收入。"
+        },
+        {
+          "name": "World War Z",
+          "desc": "一款由约50人团队开发的丧尸射击游戏，累计玩家达3200万。"
+        }
+      ]
+    },
+    {
+      "id": "254d8f89d3",
+      "title": "Newzoo：没有Grand Theft Auto 6，2026年主机收入将同比持平",
+      "zh_desc": "Newzoo报告指出，Grand Theft Auto 6是2026年主机市场增长的关键，否则主机收入将比2025年持平。对关注主机市场走势的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/newzoo-2026-console-revenue-would-be-flat-year-on-year-without-grand-theft-auto-6",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-27T12:22:00",
+      "fetched_at": "2026-08-28T00:34:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "Rockstar推出的开放世界犯罪题材大作，被预测将带动2026年主机市场增长。"
+        },
+        {
+          "name": "GTA Online",
+          "desc": "《侠盗猎车手》系列的在线多人模式，是持续产生大量收入的常青目录产品。"
+        }
+      ]
+    },
+    {
+      "id": "3659f77469",
+      "title": "Arrowhead CEO Shams Jorjani：游戏行业假设基础已发生根本变化",
+      "zh_desc": "Helldivers 2开发商Arrowhead Game Studios首席执行官表示，游戏行业正处在转型期，过去依赖的假设已经根本改变。适合行业管理者思考战略调整方向。",
+      "url": "https://www.gamesindustry.biz/the-things-that-we-based-our-assumptions-on-have-changed-fundamentally-arrowhead-ceo-shams-jorjani-on-the-games-industrys-rapid-transformation",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-27T11:10:08",
+      "fetched_at": "2026-08-28T00:34:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Helldivers 2",
+          "desc": "Arrowhead Game Studios开发的多人合作射击游戏，以其持续运营和玩家社区著称。"
+        }
+      ]
+    },
+    {
+      "id": "6b98888a4e",
+      "title": "苹果App Store团队分享获取推荐位的技巧与建议",
+      "zh_desc": "苹果在Gamescom Dev上罕见介绍了App Store编辑推荐机制，并针对付费游戏营销提出建议。对移动游戏尤其是休闲游戏开发者争取推荐位有实操价值。",
+      "url": "https://mobilegamer.biz/apples-app-store-team-reveal-their-tips-and-tricks-for-getting-featured/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-27T11:53:42",
+      "fetched_at": "2026-08-28T00:34:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Deep Rock Galactic Survivor",
+          "desc": "一款采用“先试后买”付费模式的付费游戏，玩家可免费下载后付费解锁完整版。"
+        },
+        {
+          "name": "Ball x Pit",
+          "desc": "Devolver发行的游戏，因其成功的预购活动被作为案例展示。"
+        },
+        {
+          "name": "A Little to the Left",
+          "desc": "Secret Mode发行的益智整理游戏，曾用A/B测试优化图标。"
+        },
+        {
+          "name": "Pools",
+          "desc": "Apple编辑团队特别喜爱并推荐的游戏，70%下载来自编辑推荐。"
+        }
+      ]
+    },
+    {
+      "id": "0e143b4fc4",
+      "title": "如何用后端为游戏变现——第二部分",
+      "zh_desc": "GameAnalytics探讨BaaS如何帮助游戏团队管理支付、实时运营和安全交易，从而提升收入与玩家体验。适合需要优化后端变现能力的手游团队参考。",
+      "url": "https://www.gameanalytics.com/blog/how-to-monetize-your-game-with-a-backend-part-2",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-27T10:53:45",
+      "fetched_at": "2026-08-28T00:34:04",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "ed402a1420",
       "title": "沙特媒体集团MBC成立新工作室，进军视频游戏行业",
