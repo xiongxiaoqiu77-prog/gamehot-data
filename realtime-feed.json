@@ -1,6 +1,65 @@
 {
-  "updated_at": "2026-08-28T01:09:24",
+  "updated_at": "2026-08-28T01:42:00",
   "articles": [
+    {
+      "id": "367119e46a",
+      "title": "欧洲游戏行业2025年收入达300亿欧元",
+      "zh_desc": "据 Video Games Europe 数据，2025年欧洲游戏行业总收入达300亿欧元，其中数字购买占91%。该数据有助于从业者评估欧洲市场大盘规模和数字化趋势，为区域发行与变现策略提供背景参考。",
+      "url": "https://www.gamesindustry.biz/european-games-industry-revenue-reached-30bn-in-2025",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-27T13:39:30",
+      "fetched_at": "2026-08-28T01:42:00",
+      "lang": "en",
+      "games": [
+        {
+          "name": "EA Sports FC26",
+          "desc": "足球模拟游戏，EA Sports FC系列最新作，2025年欧洲主机市场销量第一"
+        },
+        {
+          "name": "FC25",
+          "desc": "足球模拟游戏，EA Sports FC系列前作，2025年欧洲主机市场销量第二"
+        },
+        {
+          "name": "Battlefield 6",
+          "desc": "第一人称射击游戏，战地系列新作，2025年欧洲PC市场销量第一"
+        },
+        {
+          "name": "Red Dead Redemption 2",
+          "desc": "开放世界动作冒险游戏，Rockstar出品，以其西部题材和沉浸式叙事著称"
+        },
+        {
+          "name": "Grand Theft Auto 5",
+          "desc": "开放世界动作冒险游戏，Rockstar出品，以其自由度和犯罪题材闻名"
+        },
+        {
+          "name": "Coin Master",
+          "desc": "休闲手机游戏，结合老虎机与村庄建造玩法，2025年欧洲移动市场收入第一"
+        },
+        {
+          "name": "Royal Match",
+          "desc": "三消类手机游戏，以精美画面和关卡设计著称，2025年欧洲移动收入第二"
+        },
+        {
+          "name": "Candy Crush Saga",
+          "desc": "经典三消游戏，King出品，生命周期长且拥有庞大玩家群体"
+        }
+      ]
+    },
+    {
+      "id": "c2964a29de",
+      "title": "欧洲游戏开发者联合会公布2026-28届理事会，Hendrik Lesser连任主席",
+      "zh_desc": "欧洲游戏开发者联合会（EGDF）公布2026-2028年理事会名单，Hendrik Lesser再次当选主席。该消息属于行业组织动态，可帮助从业者关注欧洲游戏政策与行业协作动向，但对休闲游戏设计运营的直接价值有限。",
+      "url": "https://www.gamesindustry.biz/european-games-developer-federation-announces-2026-28-board-hendrik-lesser-re-elected-as-president",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-27T09:05:35",
+      "fetched_at": "2026-08-28T01:42:00",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "11fe79ea8d",
       "title": "CD Projekt Red：吸取《Cyberpunk 2077》教训后，《The Witcher 4》已在所有目标平台运行",
