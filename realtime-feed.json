@@ -1,6 +1,94 @@
 {
-  "updated_at": "2026-08-28T00:34:04",
+  "updated_at": "2026-08-28T01:09:24",
   "articles": [
+    {
+      "id": "11fe79ea8d",
+      "title": "CD Projekt Red：吸取《Cyberpunk 2077》教训后，《The Witcher 4》已在所有目标平台运行",
+      "zh_desc": "CD Projekt Red 联席CEO Michal Nowakowski 向 Game Developer 透露，《The Witcher 4》目前已在所有目标平台可运行，并强调团队吸取了《Cyberpunk 2077》发售时的教训。该报道属于3A项目跨平台开发与发布管理动态，对关注项目管理思路的从业者有一定参考价值，但与休闲手游关联较弱。",
+      "url": "https://www.gamedeveloper.com/production/cd-projekt-red-has-the-witcher-4-running-on-all-target-platforms-after-cyberpunk-2077-lesson",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-27T16:41:50",
+      "fetched_at": "2026-08-28T01:09:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "开放世界角色扮演游戏，其灾难性发售成为CD Projekt Red的教训。"
+        },
+        {
+          "name": "The Witcher 4",
+          "desc": "CD Projekt Red开发的角色扮演游戏，已在所有目标平台上运行。"
+        },
+        {
+          "name": "The Witcher 3",
+          "desc": "经典角色扮演游戏，将有扩展包和重制版，由Geeksoft协助开发。"
+        }
+      ]
+    },
+    {
+      "id": "e6e624a1a6",
+      "title": "Xbox CEO Asha Sharma 再次强调 Xbox 需要更可负担",
+      "zh_desc": "Xbox CEO Asha Sharma 再次公开表示，Xbox 业务目前并不健康，需要更加注重价格可负担性。该表态反映微软在主机市场面临的压力，可作为平台与硬件战略背景了解，但与休闲游戏设计/运营关联不大。",
+      "url": "https://www.gamedeveloper.com/business/xbox-ceo-asha-sharma-once-again-stresses-xbox-s-need-for-affordability",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-27T14:40:00",
+      "fetched_at": "2026-08-28T01:09:24",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a600e1b355",
+      "title": "Roblox 将在沙特阿拉伯设立总部，支持 MENA 创作者",
+      "zh_desc": "Roblox 宣布计划在利雅得设立总部，以支持中东和北非（MENA）地区的创作者项目。此举表明 Roblox 正加码区域创作者生态与本地化运营，对关注 UGC 平台和新兴市场扩张的从业者有参考意义。",
+      "url": "https://www.gamesindustry.biz/roblox-to-establish-saudi-arabia-headquarters-to-support-mena-creators",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-27T10:44:11",
+      "fetched_at": "2026-08-28T01:09:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "多人在线创作游戏平台，支持用户生成内容，计划在沙特阿拉伯设立总部。"
+        }
+      ]
+    },
+    {
+      "id": "28f38ef208",
+      "title": "Side 与 Modl.ai 签署 AI 质检合作 MOU：AI 是滑动标尺，始终有人参与",
+      "zh_desc": "游戏服务商 Side 与丹麦 AI 公司 Modl.ai 签署谅解备忘录，计划在 QA 测试中使用 AI，同时强调人工审核仍是必要环节。该案例展示了 AI 与人工协作在游戏质量控制中的落地方式，对关注 AI+游戏生产的团队有借鉴价值。",
+      "url": "https://www.gamesindustry.biz/we-view-ai-as-a-sliding-scale-there-will-always-be-a-human-in-the-loop-thats-our-ethos-why-side-has-signed-an-mou-with-modlai-to-use-ai-for-qa",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-27T10:34:25",
+      "fetched_at": "2026-08-28T01:09:24",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a1936f1bd1",
+      "title": "Xbox 将允许把实体光盘版游戏转换为数字版",
+      "zh_desc": "微软官方宣布，Xbox One 和 Xbox Series X 用户将可以把手中的游戏光盘转换为数字版，功能将在数日内推出。该措施影响主机玩家的数字资产与二手市场，可作为平台分发动态参考，但与休闲手游关联较弱。",
+      "url": "https://gameworldobserver.com/2026/08/27/xbox-will-allow-converting-disc-versions-of-games-into-digital-versions",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-27T13:55:01",
+      "fetched_at": "2026-08-28T01:09:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Gears of War: E-Day",
+          "desc": "Xbox平台上的游戏作品，被提及用于演示实体光盘转数字版功能。"
+        }
+      ]
+    },
     {
       "id": "f0a0fbab22",
       "title": "Saber高管：游戏行业必须将目光投向北美以外并分散风险",
