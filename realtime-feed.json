@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-28T01:42:00",
+  "updated_at": "2026-08-28T02:47:17",
   "articles": [
+    {
+      "id": "3165fd1a55",
+      "title": "Playdate 制造商 Panic 向客户退还关税附加费",
+      "zh_desc": "美国最高法院裁定特朗普关税越权后，Panic 收到政府退款，并将向客户退还此前收取的关税附加费。这是一条涉及游戏硬件与政策影响的行业新闻，对休闲游戏研发/发行有间接成本参考价值，但与三消游戏设计运营无关。",
+      "url": "https://www.gamesindustry.biz/playdate-maker-panic-refunds-tariff-surcharges-to-customers",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-27T18:26:08",
+      "fetched_at": "2026-08-28T02:47:17",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "367119e46a",
       "title": "欧洲游戏行业2025年收入达300亿欧元",
