@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-27T10:35:05",
+  "updated_at": "2026-08-27T16:04:35",
   "articles": [
+    {
+      "id": "62092a4efd",
+      "title": "Xbox 表示下一代主机将兼顾“效率与可负担性”与性能，应对硬件成本上涨和 AI 创新",
+      "zh_desc": "文章报道 Xbox 在硬件成本上涨和 AI 创新背景下，计划让下一代主机在性能之外更注重效率和可负担性。该动态属于主机行业新闻，与三消/消除类手游的设计、运营和变现研究无直接关联，仅可作外围参考。",
+      "url": "https://www.gamesindustry.biz/xbox-to-focus-on-efficiency-and-affordability-alongside-performance-for-next-gen-console-amid-rising-hardware-costs-and-innovations-in-ai",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-27T07:49:47",
+      "fetched_at": "2026-08-27T16:04:35",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "74fda8b32a",
       "title": "[Gamescom 26] NC 目标营收 5 万亿韩元，移动休闲游戏占比将达 30%",
