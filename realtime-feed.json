@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-27T19:00:52",
+  "updated_at": "2026-08-27T22:21:07",
   "articles": [
+    {
+      "id": "ed402a1420",
+      "title": "沙特媒体集团MBC成立新工作室，进军视频游戏行业",
+      "zh_desc": "MBC Game Studio在Gamescom 2026上公开，已聘请BioWare、Hi-Rez、Ubisoft Montreal和Bungie的资深开发者。这是沙特媒体巨头在游戏领域的重大布局。对从业者而言，可关注其后续产品方向及中东资本对全球游戏行业的影响。",
+      "url": "https://www.gamedeveloper.com/business/saudi-owned-media-conglomerate-mbc-expands-into-the-game-industry",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-26T14:17:05",
+      "fetched_at": "2026-08-27T22:21:07",
+      "lang": "en",
+      "games": [
+        {
+          "name": "1001 Threads of Mizan",
+          "desc": "一款设定在《一千零一夜》世界中的即将推出的动作冒险游戏"
+        }
+      ]
+    },
     {
       "id": "f89ba3b60c",
       "title": "三消没跑出来，换成二合后，《Hollywood Merge》冲上月流水 Top 1",
