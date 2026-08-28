@@ -1,6 +1,81 @@
 {
-  "updated_at": "2026-08-29T00:10:25",
+  "updated_at": "2026-08-29T00:43:45",
   "articles": [
+    {
+      "id": "55c59973fb",
+      "title": "GTA 6将对整个行业产生光环效应 | 观点",
+      "zh_desc": "文章认为GTA 6的 hype会带动整个游戏行业受益，并提到预告片评论区中玩家对逝去亲友的怀念。对从业者而言，可参考大作对市场的提振效应。",
+      "url": "https://www.gamesindustry.biz/gta-6-will-have-a-halo-effect-for-the-entire-industry-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T14:27:12",
+      "fetched_at": "2026-08-29T00:43:45",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "开放世界动作冒险游戏，备受期待，被认为将对整个游戏行业产生光环效应。"
+        }
+      ]
+    },
+    {
+      "id": "fa903887a5",
+      "title": "Rockstar成立新的洛杉矶团队，为GTA 6开发更逼真的NPC",
+      "zh_desc": "Rockstar组建新团队专注于GTA 6的NPC智能与真实感，展示其在开放世界技术上的投入。此为行业动态，与休闲游戏关联较弱。",
+      "url": "https://www.gamesindustry.biz/rockstar-formed-a-new-la-based-team-to-develop-more-realistic-npcs-for-grand-theft-auto-6",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T09:32:46",
+      "fetched_at": "2026-08-29T00:43:45",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "开放世界动作冒险游戏，拥有超过60万个NPC动画，地图规模宏大。"
+        },
+        {
+          "name": "Red Dead Redemption 2",
+          "desc": "西部主题开放世界动作冒险游戏，以高度细节和互动性著称。"
+        },
+        {
+          "name": "Grand Theft Auto 5",
+          "desc": "开放世界动作冒险游戏，GTA系列的上一代作品。"
+        }
+      ]
+    },
+    {
+      "id": "f21a1525d6",
+      "title": "Sensor Tower：GTA 6超长预告期间Netflix美国移动观看量增长35%",
+      "zh_desc": "根据Sensor Tower数据，在GTA 6超长预告播出时段，Netflix美国移动端观看量小时环比增长35%。该数据反映大型游戏事件对移动流媒体行为的连带影响。",
+      "url": "https://www.gamesindustry.biz/sensor-tower-netflix-us-mobile-viewership-increased-35-during-gta-6-extended-preview",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T08:09:05",
+      "fetched_at": "2026-08-29T00:43:45",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "开放世界动作冒险游戏，其超长预告导致Netflix观看量激增。"
+        }
+      ]
+    },
+    {
+      "id": "fefb6063d5",
+      "title": "通过Ad Insights提升游戏可发现性 —— GameAnalytics",
+      "zh_desc": "GameAnalytics推出新平台Ad Insights，汇集数十亿广告数据和数百万应用数据，帮助开发者优化投放、追踪竞品、发现市场机会。对休闲游戏买量与运营有实用价值。",
+      "url": "https://www.gameanalytics.com/blog/boost-game-discoverability-with-ad-insights",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-28T11:54:11",
+      "fetched_at": "2026-08-29T00:43:45",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "05c93e517b",
       "title": "Panic 退还关税费用，1047 Games 从 Splitgate 转向，Gamescom Dev 壮大——Patch Notes #67",
