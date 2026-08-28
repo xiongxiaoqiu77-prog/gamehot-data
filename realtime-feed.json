@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-29T04:33:39",
+  "updated_at": "2026-08-29T07:53:29",
   "articles": [
+    {
+      "id": "79c339418e",
+      "title": "AI 为游戏开发者带来新助力",
+      "zh_desc": "文章来自China Daily，报道AI技术正在从美术、程序、策划等维度提升游戏开发效率，帮助开发者应对成本与创意挑战。对休闲游戏从业者了解AI在研发中的应用有一定参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzclo2NnMwSDUxZ1pqZ2YyWEJ6OFg5OURVUnRFZ0tHOUhTemdCSFhUOXdneUItZi1NNDdZejh0RXo5RENtWHZPQ0g3N0xRQlVkaFlqVDc2Mi1YOWRZSVQ1eHU5cF9kY1RhY3pSLXdCSWVZSnZ1TElhRk1hc0NseEU?oc=5",
+      "source": "重点游戏-Kingshot",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-23T23:54:42",
+      "fetched_at": "2026-08-29T07:53:29",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "e00c92b6f0",
       "title": "休闲游戏剧烈洗牌？最赚的消除二合收入占80%，下载量暴跌至25%",
