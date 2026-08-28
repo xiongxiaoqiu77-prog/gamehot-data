@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-29T03:28:18",
+  "updated_at": "2026-08-29T04:33:39",
   "articles": [
+    {
+      "id": "e00c92b6f0",
+      "title": "休闲游戏剧烈洗牌？最赚的消除二合收入占80%，下载量暴跌至25%",
+      "zh_desc": "一篇关于休闲游戏市场变化的报道，指出消除+二合类游戏的收入占比达80%，但下载量大幅下滑。文章提供手机游戏数据与行业分析，对从业者了解赛道趋势有一定参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UbUtzNXlUT3VUeHV6V0dTTVUzOTRxWXJyMnVRdnBqODZIN0huX2ZYV01VT3NlckNGMG5TeE1za0M5emVLdlNRaW1NUjRsbTZmajJZVmlJTm4zdjNMWEdMUHp1WQ?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-28T01:35:22",
+      "fetched_at": "2026-08-29T04:33:39",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "0eed73cc0e",
       "title": "GDC Side Quest：走进 Austin Wintory 的协作式作曲过程",
