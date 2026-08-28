@@ -1,6 +1,277 @@
 {
-  "updated_at": "2026-08-28T19:04:29",
+  "updated_at": "2026-08-29T00:10:25",
   "articles": [
+    {
+      "id": "05c93e517b",
+      "title": "Panic 退还关税费用，1047 Games 从 Splitgate 转向，Gamescom Dev 壮大——Patch Notes #67",
+      "zh_desc": "本期行业周报汇总了 Panic 向玩家退还关税费用、1047 Games 调整 Splitgate 相关方向、Gamescom Dev 扩展等动态；此外 No More Room in Hell 2 在结束重要 Early Access 阶段后玩家数突破 100 万。适合快速了解近期海外游戏业要闻。",
+      "url": "https://www.gamedeveloper.com/business/panic-refunds-tariff-fees-1047-games-pivots-from-splitgate-and-gamescom-dev-grows-patch-notes-67",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T13:47:47",
+      "fetched_at": "2026-08-29T00:10:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Splitgate",
+          "desc": "科幻题材门户传送竞技场射击游戏"
+        },
+        {
+          "name": "No More Room in Hell 2",
+          "desc": "合作丧尸生存恐怖游戏"
+        },
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "开放世界动作冒险游戏"
+        }
+      ]
+    },
+    {
+      "id": "10d136526f",
+      "title": "《Warlock》的魔法系统建立在打破规则的玩家选择之上",
+      "zh_desc": "文章解析 Warlock 如何围绕玩家打破规则的玩法选择来构建魔法系统，把看似 BUG 的行为变成系统核心特性。对于追求玩家自由度与涌现式设计的系统策划有参考价值。",
+      "url": "https://www.gamedeveloper.com/design/warlock-s-magic-system-was-built-on-game-breaking-player-choices",
+      "source": "Game Developer",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-08-28T12:03:43",
+      "fetched_at": "2026-08-29T00:10:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Baldur's Gate 3",
+          "desc": "基于D&D规则的角色扮演游戏"
+        },
+        {
+          "name": "Warlock",
+          "desc": "D&D世界观的单机动作冒险游戏，主打魔法系统"
+        }
+      ]
+    },
+    {
+      "id": "6a1fe7b22d",
+      "title": "西班牙工会呼吁 Ubisoft Mobile Barcelona 持续罢工",
+      "zh_desc": "报道 Ubisoft Mobile Barcelona 员工工会发起的罢工行动，称公司早在 8 月初就收到通知但至今未正式回应。该事件反映移动游戏工作室的劳资关系和运营风险，值得手游团队关注。",
+      "url": "https://www.gamedeveloper.com/business/spanish-union-calls-for-ongoing-strike-action-at-ubisoft-mobile-barcelona",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T09:57:07",
+      "fetched_at": "2026-08-29T00:10:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Invincible: Guarding the Globe",
+          "desc": "以《无敌少侠》IP改编的移动RPG"
+        },
+        {
+          "name": "Assassin's Creed",
+          "desc": "潜行与动作冒险游戏系列"
+        }
+      ]
+    },
+    {
+      "id": "0d17c282f1",
+      "title": "Limbic Entertainment 谈脱离 Bandai Namco 后的发展",
+      "zh_desc": "德国开发商 Limbic Entertainment 在 2025 年 12 月被 Bandai Namco 出售给私人投资者后接受采访，分享公司独立后的定位和项目规划。对关注欧洲工作室并购与独立化的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/limbic-entertainment-on-life-after-bandai-namco",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T12:05:08",
+      "fetched_at": "2026-08-29T00:10:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Corsair Cove",
+          "desc": "海盗主题的基地建设/模拟经营游戏"
+        },
+        {
+          "name": "Park Beyond",
+          "desc": "主题公园模拟经营游戏"
+        }
+      ]
+    },
+    {
+      "id": "da10717d3c",
+      "title": "Cloud Imperium 将 Squadron 42 延期至 2027 年——“我不想撞上 GTA 6 的注意力绞肉机”",
+      "zh_desc": "《星际公民》衍生作 Squadron 42 宣布推迟到 2027 年 Q2，以避开 GTA 6 引发的巨大关注浪潮。这一决策体现了 3A 大作档期对行业发行节奏的强烈影响。",
+      "url": "https://www.gamesindustry.biz/cloud-imperium-delays-squadron-42-to-2027-there-is-no-way-i-want-to-launch-into-the-attention-buzz-saw-of-gta-6",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T11:17:59",
+      "fetched_at": "2026-08-29T00:10:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Squadron 42",
+          "desc": "《星际公民》的单人剧情太空战斗游戏"
+        },
+        {
+          "name": "Star Citizen",
+          "desc": "大型多人在线太空模拟游戏"
+        },
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "开放世界动作冒险游戏"
+        },
+        {
+          "name": "Wing Commander",
+          "desc": "经典太空战斗射击游戏系列"
+        }
+      ]
+    },
+    {
+      "id": "70a7e99a81",
+      "title": "美国 App Store 支出据报十年来首次下滑，Tim Sweeney 发文评论",
+      "zh_desc": "Sensor Tower 数据被 FT 引用显示，美国 App Store 支出十年来首次下降，Epic CEO Tim Sweeney 认为这与外部支付渠道被允许使用有关。对移动游戏从业者理解渠道分成变化和变现模式演进具有参考价值。",
+      "url": "https://mobilegamer.biz/us-app-store-spending-falls-for-the-first-time-in-a-decade-and-tim-sweeney-has-thoughts/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-28T10:34:36",
+      "fetched_at": "2026-08-29T00:10:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "大逃杀射击游戏"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容的在线游戏平台"
+        }
+      ]
+    },
+    {
+      "id": "9b5e27adf2",
+      "title": "新游周报：PUBG Mobile Light、Aniimo、Petit Planet、Wobbly Life、Monster Hunter 等",
+      "zh_desc": "汇总过去一周全球新游发布、上线日期和软启动动态，涵盖 PUBG Mobile Light、Aniimo、Petit Planet、Wobbly Life、Monster Hunter 等作品。适合休闲/手游从业者快速获取新游情报与选品参考。",
+      "url": "https://mobilegamer.biz/new-game-digest-pubg-mobile-light-aniimo-petit-planet-wobbly-life-monster-hunter-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-28T10:33:56",
+      "fetched_at": "2026-08-29T00:10:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "PUBG Mobile Light",
+          "desc": "精简版PUBG手游，大逃杀玩法"
+        },
+        {
+          "name": "Aniimo",
+          "desc": "FunPlus发行的生物收集游戏"
+        },
+        {
+          "name": "Petit Planet",
+          "desc": "可爱风格生活模拟游戏"
+        },
+        {
+          "name": "Wobbly Life",
+          "desc": "混乱开放世界沙盒游戏"
+        },
+        {
+          "name": "Monster Hunter Outlanders",
+          "desc": "怪物猎人IP的移动端狩猎动作游戏"
+        },
+        {
+          "name": "Sea of Remnants",
+          "desc": "开放世界Roguelike RPG"
+        },
+        {
+          "name": "Ananta",
+          "desc": "二次元风格开放世界动作RPG"
+        },
+        {
+          "name": "Roco Kingdom",
+          "desc": "类似宝可梦/幻兽帕鲁的宠物收集游戏"
+        },
+        {
+          "name": "Silver Palace: House of Greed",
+          "desc": "幻想开放世界动作RPG"
+        },
+        {
+          "name": "Sand Blocks: Drop Puzzle",
+          "desc": "物理益智游戏"
+        },
+        {
+          "name": "Dungeons Arise",
+          "desc": "体素画风砍杀RPG"
+        },
+        {
+          "name": "Dogpile",
+          "desc": "遛狗玩法，跨平台游戏"
+        },
+        {
+          "name": "Heroic Legends",
+          "desc": "手绘风格的移动MMO，2011年原版重制"
+        }
+      ]
+    },
+    {
+      "id": "13b90b1311",
+      "title": "《The Witcher 3》新资料片首年预计带来近 2 亿美元收入——分析",
+      "zh_desc": "波兰分析机构 DM BOŚ 估算《The Witcher 3: Wild Hunt》资料片 Songs of the Past 首年可能带来约 2 亿美元收入。该分析对理解成熟 IP 内容扩展和单机游戏商业化潜力有参考价值。",
+      "url": "https://gameworldobserver.com/2026/08/28/the-new-expansion-for-the-witcher-3-is-expected-to-generate-nearly-200-million-in-its-debut-year-analysis",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T13:20:01",
+      "fetched_at": "2026-08-29T00:10:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "desc": "开放世界角色扮演游戏"
+        },
+        {
+          "name": "Songs of the Past",
+          "desc": "《巫师3》的付费资料片"
+        }
+      ]
+    },
+    {
+      "id": "e6021cf327",
+      "title": "利用竞品情报优化游戏广告素材——GameAnalytics",
+      "zh_desc": "文章讨论在第三方追踪受限的环境下，移动游戏营销团队如何通过竞品情报和广告创意表现数据来优化投放策略。对休闲游戏广告买量与素材分析有实操参考价值。",
+      "url": "https://www.gameanalytics.com/blog/using-competitor-intel-to-optimize-your-game-ad-creatives",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T11:48:00",
+      "fetched_at": "2026-08-29T00:10:25",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "aaf2687396",
+      "title": "成功的移动游戏广告：提升用户获取的创意策略——GameAnalytics",
+      "zh_desc": "GameAnalytics 围绕移动游戏用户获取分享可落地的广告创意策略，分析如何在竞争激烈的投放环境中提高买量效率。对休闲/手游发行团队的 UA 工作有一定参考价值。",
+      "url": "https://www.gameanalytics.com/blog/winning-mobile-game-ads",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T11:43:31",
+      "fetched_at": "2026-08-29T00:10:25",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "6a04eac160",
+      "title": "在玩家所在之处找到他们：用市场研究指导游戏广告投放——GameAnalytics",
+      "zh_desc": "文章讲解如何通过市场研究进行数据驱动的广告定向，使用 Ad Insights 找到更合适的玩家、提升用户获取效率。对移动游戏投放与目标人群定位有实用参考。",
+      "url": "https://www.gameanalytics.com/blog/using-market-research-to-inform-your-game-ads-targeting",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T11:35:23",
+      "fetched_at": "2026-08-29T00:10:25",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "1ec767adb7",
       "title": "AI陪伴游戏用户不聊天？但这款产品留存却超行业一倍，它做对了什么？",
