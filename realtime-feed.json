@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-08-29T00:43:45",
+  "updated_at": "2026-08-29T03:28:18",
   "articles": [
+    {
+      "id": "0eed73cc0e",
+      "title": "GDC Side Quest：走进 Austin Wintory 的协作式作曲过程",
+      "zh_desc": "Game Developer 邀请作曲家 Austin Wintory 对谈，讨论其在游戏配乐中的协作式创作流程与思路。对于从事休闲游戏研发的团队来说，可了解音频与叙事配合的幕后方法，但内容与三消/消除类玩法、变现和运营没有直接关联。",
+      "url": "https://www.gamedeveloper.com/audio/gdc-side-quest-inside-austin-wintory-s-collaborative-composing-process",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-28T14:15:00",
+      "fetched_at": "2026-08-29T03:28:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "flOw",
+          "desc": "ThatGamecompany开发的独立休闲游戏，玩家操控微生物在液体中进化。"
+        },
+        {
+          "name": "Aliens Fireteam Elite 2",
+          "desc": "科幻合作射击游戏，玩家与队友对抗异形威胁。"
+        }
+      ]
+    },
     {
       "id": "55c59973fb",
       "title": "GTA 6将对整个行业产生光环效应 | 观点",
