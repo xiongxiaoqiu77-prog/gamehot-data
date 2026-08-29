@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-29T07:53:29",
+  "updated_at": "2026-08-30T04:59:19",
   "articles": [
+    {
+      "id": "7f7f576bbc",
+      "title": "谷歌示范：用AI优化游戏时长、关卡剧情，提升IAA变现效率",
+      "zh_desc": "文章介绍了谷歌利用AI优化游戏时长、关卡剧情等内容的实践，并重点探讨如何借此提升IAA（广告变现）效率。对休闲游戏从业者了解AI辅助游戏调优与变现设计有一定参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IUUxwdlJMNC1wRE5Ub2lLLVB0dnh3VW5Tbkw2VThyQTlSME5zSXBNaURWaDFaeF9vUlRrQ18xa3V5alh5RDJQSTM5LXpJSDBIekw3SXVGNC1md1V6QVdLOWdqcw?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-27T16:57:39",
+      "fetched_at": "2026-08-30T04:59:19",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "79c339418e",
       "title": "AI 为游戏开发者带来新助力",
