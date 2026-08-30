@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-30T10:45:10",
+  "updated_at": "2026-08-31T04:05:16",
   "articles": [
+    {
+      "id": "56f01d37de",
+      "title": "谷歌示范：用AI优化游戏时长、关卡剧情，提升IAA变现效率",
+      "zh_desc": "文章介绍了谷歌利用AI优化游戏时长、关卡剧情以提升IAA变现效率的案例，展示了AI在休闲游戏运营和变现中的应用方向。对关注游戏增长与变现的从业者具有一定参考意义。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHZ096NFNrVDYtbS1iS0Z0QjVjS1hkVktvcVphbng3dXRzNm44UkNGQ3lnR0w3VkVlbnpfUjNwTDIwTDRIX2FxUVhycTRnYWFJdFc2TE5ieFBrZXBzR3ZqUHBRSUg5UQ?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-28T01:54:55",
+      "fetched_at": "2026-08-31T04:05:16",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "c232105962",
       "title": "550吨美元砸向EA的沙特，盯上了中国电竞",
