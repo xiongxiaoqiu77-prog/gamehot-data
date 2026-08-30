@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-30T04:59:19",
+  "updated_at": "2026-08-30T10:45:10",
   "articles": [
+    {
+      "id": "c232105962",
+      "title": "550吨美元砸向EA的沙特，盯上了中国电竞",
+      "zh_desc": "报道沙特资本向EA投入巨额资金，同时关注中国电竞市场的动向。属于游戏行业投资与电竞市场动态，有助于从业者了解中东资本在全球游戏产业中的最新布局。",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBFRFFCdDhIaVpFdy1lbTJPWDdxYXROcmhVUzNoc3JvRjhWek0yUjJqMm1VcnRxQXJualI1ZVhNeWQ1Mi1n?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-24T13:24:06",
+      "fetched_at": "2026-08-30T10:45:10",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "7f7f576bbc",
       "title": "谷歌示范：用AI优化游戏时长、关卡剧情，提升IAA变现效率",
