@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-31T15:54:27",
+  "updated_at": "2026-08-31T16:27:21",
   "articles": [
+    {
+      "id": "69ec528d3e",
+      "title": "什么是移动游戏广告情报？完整指南",
+      "zh_desc": "文章系统介绍了移动游戏广告情报（ad intelligence）的概念、可监测的数据维度，以及增长团队如何利用它进行竞品分析和投放优化。对于关注买量运营和广告素材策略的手游从业者有一定参考价值。",
+      "url": "https://www.gameanalytics.com/blog/what-is-ad-intelligence-for-mobile-games",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-31T07:59:05",
+      "fetched_at": "2026-08-31T16:27:21",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "4679abc198",
       "title": "什么是移动游戏的广告情报？完整指南 — GameAnalytics",
