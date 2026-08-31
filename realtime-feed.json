@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-08-31T16:27:21",
+  "updated_at": "2026-08-31T21:16:09",
   "articles": [
+    {
+      "id": "1282c9419f",
+      "title": "儿童游戏的未来",
+      "zh_desc": "Naavik分析儿童与家庭游戏（4-12岁）市场重要性下滑的原因，指出孩子正逐渐流向Roblox、Minecraft等UGC平台，并讨论家长因素。对关注休闲/儿童游戏市场趋势和年轻用户获取的从业者有一定参考价值。",
+      "url": "https://naavik.co/weekly-digest/the-future-of-kids-gaming/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-30T11:41:17",
+      "fetched_at": "2026-08-31T21:16:09",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "儿童喜爱的跨平台UGC游戏平台"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "儿童喜爱的沙盒游戏，也是UGC平台"
+        },
+        {
+          "name": "Nex Playground",
+          "desc": "重振Wii时代体感游戏风格的儿童游戏系统，使用授权IP"
+        },
+        {
+          "name": "Toca Boca World",
+          "desc": "儿童虚拟世界游戏，该市场领先产品，拥有50M MAU"
+        },
+        {
+          "name": "Royal Match",
+          "desc": "与Toca Boca World对比的高变现手游"
+        },
+        {
+          "name": "Chess.com",
+          "desc": "在线国际象棋平台，也被用于MAU对比"
+        },
+        {
+          "name": "Skylanders",
+          "desc": "Activision推出的创新玩具联动游戏系列"
+        },
+        {
+          "name": "Club Penguin",
+          "desc": "Disney运营的儿童在线虚拟世界游戏"
+        }
+      ]
+    },
     {
       "id": "69ec528d3e",
       "title": "什么是移动游戏广告情报？完整指南",
