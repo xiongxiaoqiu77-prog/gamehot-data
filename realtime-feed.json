@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-08-31T10:29:48",
+  "updated_at": "2026-08-31T15:54:27",
   "articles": [
+    {
+      "id": "4679abc198",
+      "title": "什么是移动游戏的广告情报？完整指南 — GameAnalytics",
+      "zh_desc": "文章系统介绍移动游戏广告情报（ad intelligence）的定义、运作方式、可提供的数据维度，以及增长团队如何用其进行竞品分析与买量决策。对手游方向的UA/增长、变现从业者有一定参考价值。",
+      "url": "https://www.gameanalytics.com/blog/what-is-ad-intelligence-for-mobile-games-a-complete-guide",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-31T07:51:43",
+      "fetched_at": "2026-08-31T15:54:27",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "528d3b73a9",
       "title": "红黑榜第81期：一个叫顺路，一个叫包邮",
