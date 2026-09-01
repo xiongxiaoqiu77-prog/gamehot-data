@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-02T02:27:32",
+  "updated_at": "2026-09-02T06:11:45",
   "articles": [
+    {
+      "id": "c58f1f2d96",
+      "title": "报道：Savvy Games Group CEO Brian Ward 离职",
+      "zh_desc": "Savvy Games Group CEO Brian Ward 将离职，公司称其进入下一阶段转型增长，这是引入新领导层的合适时机。Savvy 是沙特重要游戏投资公司，旗下拥有 Scopely 等移动游戏资产，高层变动对全球手游市场格局有一定观察价值。",
+      "url": "https://www.gamedeveloper.com/business/report-savvy-games-group-ceo-brian-ward-departs-company",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-01T21:42:52",
+      "fetched_at": "2026-09-02T06:11:45",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Pokémon Go",
+          "desc": "基于位置的增强现实手游"
+        },
+        {
+          "name": "Battlefield",
+          "desc": "以多人对战为特色的军事射击游戏系列"
+        },
+        {
+          "name": "The Sims",
+          "desc": "模拟人生系列生活模拟游戏"
+        },
+        {
+          "name": "Doom: The Dark Ages",
+          "desc": "第一人称射击游戏，Doom系列新作"
+        }
+      ]
+    },
     {
       "id": "dba8a1d805",
       "title": "《Doom: The Dark Ages》的大部分DLC是在“三四个月”内完成的",
