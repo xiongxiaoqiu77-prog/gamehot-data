@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-01T12:28:54",
+  "updated_at": "2026-09-01T13:34:24",
   "articles": [
+    {
+      "id": "42689ae344",
+      "title": "《游戏深度分析：广告变现洞察报告》：2025年全球移动游戏广告变现收入超120亿美元",
+      "zh_desc": "报告显示2025年全球移动游戏广告变现收入超过120亿美元，并对移动游戏广告变现市场趋势做出概述。休闲游戏团队可借此了解广告变现大盘和混合变现方向，作为策略参考。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiUlpUdlpQcUNzTE1VcU1zY1A1dC1GWl8xUzBqSEVBNXl2YzJtQVRraHA1bkpQb2VpREJTYzJTaEtiRkFiMTRmWU1yTUM?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-01T04:07:50",
+      "fetched_at": "2026-09-01T13:34:24",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "90c94b5709",
       "title": "派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等",
