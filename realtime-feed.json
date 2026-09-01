@@ -1,6 +1,72 @@
 {
-  "updated_at": "2026-09-01T17:19:28",
+  "updated_at": "2026-09-02T00:16:30",
   "articles": [
+    {
+      "id": "0643f9fca0",
+      "title": "Rovio 关闭哥本哈根工作室，此前《Sonic Blitz》已被取消",
+      "zh_desc": "Rovio 在取消移动游戏《Sonic Blitz》后关闭了哥本哈根工作室。这起变动涉及休闲移动游戏大厂的项目取舍与成本控制，对手游从业者了解团队调整和产品线策略有参考价值。",
+      "url": "https://www.gamesindustry.biz/rovio-closes-copenhagen-studio-following-shut-down-of-sonic-blitz",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T08:47:50",
+      "fetched_at": "2026-09-02T00:16:30",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Sonic Blitz",
+          "desc": "一款移动端索尼克主题游戏，因玩家留存不佳而被取消。"
+        }
+      ]
+    },
+    {
+      "id": "63a7a60080",
+      "title": "韩国巨头 NC 已斥资 3 亿美元收购四家工作室，未来将继续投资",
+      "zh_desc": "前 Tripledot 高管 Anel Ceman 表示，NC 正寻找年收入 5000 万至 1 亿美元的成熟工作室，覆盖所有品类和商业模式。这反映了手游并购市场的最新动向，对休闲游戏团队评估资本合作有参考意义。",
+      "url": "https://mobilegamer.biz/korean-giant-nc-has-spent-300m-on-four-studios-and-isnt-stopping-there/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T12:17:35",
+      "fetched_at": "2026-09-02T00:16:30",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "ed4558f783",
+      "title": "Eddy Cue 接管 App Store，Phil Schiller 卸任",
+      "zh_desc": "苹果 App Store 管理层发生变动，Eddy Cue 接手相关业务，Phil Schiller 卸任。App Store 的负责人更替可能影响移动游戏的分发和审核策略，值得手游从业者关注。",
+      "url": "https://mobilegamer.biz/eddy-cue-to-take-over-the-app-store-as-phil-schiller-steps-down/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T10:54:46",
+      "fetched_at": "2026-09-02T00:16:30",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "9ce1990371",
+      "title": "Supercell 收购《Merge Mansion》开发商 Metacore 将于本月完成",
+      "zh_desc": "Supercell 对 Metacore 的收购预计本月完成，交易金额未披露，此前 Metacore 已裁员约 160 人并关闭瑞典和德国办公室。这是 merge 品类与休闲手游市场整合的关键动态，对关注并购和团队变化的从业者很有参考价值。",
+      "url": "https://mobilegamer.biz/supercells-acquisition-of-merge-mansion-maker-metacore-should-be-final-this-month/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-01T10:09:11",
+      "fetched_at": "2026-09-02T00:16:30",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Merge Mansion",
+          "desc": "移动端的合并解谜游戏，被认为是合并类型的开创者。"
+        },
+        {
+          "name": "Everdale",
+          "desc": "Supercell的软启动游戏，曾被Metacore收购尝试重做但最终关闭。"
+        }
+      ]
+    },
     {
       "id": "eb5188c1cc",
       "title": "三消没跑出来，换成二合后，《Hollywood Merge》冲上月流水Top 1",
