@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-02T00:49:56",
+  "updated_at": "2026-09-02T01:22:32",
   "articles": [
+    {
+      "id": "e43a39389d",
+      "title": "Aggro Crab 推出发行品牌，投入 Peak 资金",
+      "zh_desc": "Aggro Crab 宣布成立发行品牌，将支持风格强烈、有态度的游戏，并明确表示对生成式 AI 内容不感兴趣。该消息属于独立游戏发行领域动态，对观察中小团队向发行业务延伸的趋势有一定参考，但与休闲三消赛道关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/aggro-crab-launches-publishing-label-to-splash-that-peak-cash",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T17:02:48",
+      "fetched_at": "2026-09-02T01:22:32",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Another Crab's Treasure",
+          "desc": "Aggro Crab 开发的类魂动作游戏，以螃蟹为主角。"
+        },
+        {
+          "name": "Peak",
+          "desc": "Aggro Crab 推出的社交攀爬游戏，玩家超2000万。"
+        },
+        {
+          "name": "Rebounder",
+          "desc": "ThirtyThree 开发的精确平台跳跃游戏。"
+        },
+        {
+          "name": "Subway Midnight",
+          "desc": "Bubby Darkstar 制作的迷幻恐怖游戏。"
+        }
+      ]
+    },
     {
       "id": "29fd3c205e",
       "title": "Paradox Interactive 的《Afterworld》想用诱人的 RPG 钩子吸引新玩家进入大战略游戏",
