@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-09-01T13:34:24",
+  "updated_at": "2026-09-01T16:47:21",
   "articles": [
+    {
+      "id": "30843a463c",
+      "title": "本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2",
+      "zh_desc": "介绍本月值得关注的游戏，包括多人联机游戏Big Walk和《潜龙谍影 大师合辑 Vol. 2》等，并回顾与同伴的游戏回忆。提供新游参考，但未涉及休闲游戏设计或变现分析。",
+      "url": "https://sspai.com/post/114043",
+      "source": "少数派",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-08-31T10:48:43",
+      "fetched_at": "2026-09-01T16:47:21",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "Antivirus Survivors 2003 Professional",
+          "desc": "模仿Windows XP风格（混了点Vista风格）的auto shooter游戏。"
+        },
+        {
+          "name": "Big Walk",
+          "desc": "第一人称联机合作冒险，至少2人才能游玩，基于真实地貌打造。"
+        },
+        {
+          "name": "Untitled Goose Game",
+          "desc": "House House工作室2019年推出的爆火作品。"
+        },
+        {
+          "name": "Peak",
+          "desc": "与Big Walk一样声音会随距离衰减的游戏。"
+        },
+        {
+          "name": "塞尔达传说：旷野之息",
+          "desc": "开放世界游戏，Big Walk的探索流程与其类似。"
+        },
+        {
+          "name": "潜龙谍影 大师合辑 Vol. 2",
+          "desc": "收录了《潜龙谍影 4》《和平行者》等作品的合集。"
+        },
+        {
+          "name": "潜龙谍影 4：爱国者之枪",
+          "desc": "系列经典，原PS3独占，如今可在新平台游玩。"
+        },
+        {
+          "name": "潜龙谍影：和平行者",
+          "desc": "系列作品，以HD版收录于合辑。"
+        },
+        {
+          "name": "Metal Gear: Ghost Babel",
+          "desc": "Game Boy Color上的潜龙谍影游戏。"
+        },
+        {
+          "name": "潜龙谍影 V",
+          "desc": "系列作品，文章结尾提到玩家渴望游玩。"
+        }
+      ]
+    },
     {
       "id": "42689ae344",
       "title": "《游戏深度分析：广告变现洞察报告》：2025年全球移动游戏广告变现收入超120亿美元",
