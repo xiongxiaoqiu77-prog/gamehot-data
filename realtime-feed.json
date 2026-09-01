@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-01T16:47:21",
+  "updated_at": "2026-09-01T17:19:28",
   "articles": [
+    {
+      "id": "eb5188c1cc",
+      "title": "三消没跑出来，换成二合后，《Hollywood Merge》冲上月流水Top 1",
+      "zh_desc": "报道了《Hollywood Merge》从三消玩法转向二合玩法后，成功冲上月度流水榜首的案例。对休闲游戏从业者而言，这是一个关于玩法转型与市场验证的参考案例，值得关注二合品类的增长潜力。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51XzZlQ05Dcl9LLTZrZnJ5NWc0VDdLOVhpbDdIVXBhTzhEcFFHS2V6d0hIUmpCTHhoMkRQbUFCMFZKbGRoWWJOYWZBSWI?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-01T07:56:26",
+      "fetched_at": "2026-09-01T17:19:28",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "Hollywood Merge",
+          "desc": "二合类游戏，冲上月流水Top 1"
+        }
+      ]
+    },
     {
       "id": "30843a463c",
       "title": "本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2",
