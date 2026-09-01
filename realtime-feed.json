@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-02T01:55:06",
+  "updated_at": "2026-09-02T02:27:32",
   "articles": [
+    {
+      "id": "dba8a1d805",
+      "title": "《Doom: The Dark Ages》的大部分DLC是在“三四个月”内完成的",
+      "zh_desc": "据报道，团队为按期交付每周工作60到80小时。文章披露了3A游戏DLC的压缩开发周期与加班现状，属于游戏行业动态，但与休闲游戏的设计、运营和变现关联有限。",
+      "url": "https://www.gamedeveloper.com/business/the-majority-of-doom-the-dark-ages-dlc-got-made-in-three-or-four-months",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T18:03:04",
+      "fetched_at": "2026-09-02T02:27:32",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Doom: The Dark Ages",
+          "desc": "第一人称射击游戏，文章聚焦其DLC在高压加班下开发完成的情况。"
+        },
+        {
+          "name": "Doom: The Dark Ages - Revelations",
+          "desc": "《Doom: The Dark Ages》的DLC，据称在三四个月内加班赶工完成。"
+        },
+        {
+          "name": "Doom (2016)",
+          "desc": "经典FPS系列重启作品，文中提到其部分老开发者在裁员中受影响。"
+        }
+      ]
+    },
     {
       "id": "4f6ae3e7bf",
       "title": "世嘉旗下 Rovio 关闭哥本哈根工作室",
