@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-01T11:35:09",
+  "updated_at": "2026-09-01T12:28:54",
   "articles": [
+    {
+      "id": "90c94b5709",
+      "title": "派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等",
+      "zh_desc": "少数派早报汇总了 OpenClaw 2.0 更新、网易 CC 直播正式停运等科技与互联网动态。其中 CC 直播停运涉及游戏直播行业变动，可作为行业资讯快速浏览，但缺乏休闲游戏相关深度内容。",
+      "url": "https://sspai.com/post/114055",
+      "source": "少数派",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T00:17:20",
+      "fetched_at": "2026-09-01T12:28:54",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "007：初露锋芒",
+          "desc": "Switch 2平台游戏，再次跳票"
+        }
+      ]
+    },
     {
       "id": "64e92bf322",
       "title": "Housemarque 联合创始人 Ilari Kuittinen 退休离任",
