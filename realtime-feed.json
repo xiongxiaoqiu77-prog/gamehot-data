@@ -1,6 +1,390 @@
 {
-  "updated_at": "2026-09-01T11:24:41",
+  "updated_at": "2026-09-01T11:35:09",
   "articles": [
+    {
+      "id": "64e92bf322",
+      "title": "Housemarque 联合创始人 Ilari Kuittinen 退休离任",
+      "zh_desc": "Housemarque 联合创始人 Ilari Kuittinen 宣布退休离职，并分享职业感悟。对从业者而言是一则团队/创始人变动消息，与休闲游戏设计关系不大。",
+      "url": "https://www.gamedeveloper.com/business/housemarque-co-founder-ilari-kuittinen-retires-from-studio",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-31T17:29:37",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Super Stardust HD",
+          "desc": "PlayStation 3上的双摇杆射击游戏"
+        },
+        {
+          "name": "Resogun",
+          "desc": "横版卷轴射击游戏"
+        },
+        {
+          "name": "Matterfall",
+          "desc": "横版动作射击游戏"
+        },
+        {
+          "name": "Returnal",
+          "desc": "Roguelike第三人称射击游戏"
+        },
+        {
+          "name": "Saros",
+          "desc": "Housemarque推出的科幻动作游戏"
+        }
+      ]
+    },
+    {
+      "id": "72fe906e18",
+      "title": "报告：13TB Steam 数据泄露，源于用户访问“可公开访问端点”",
+      "zh_desc": "报道称约13TB Steam数据泄露，包含Valve预发布游戏及EA、WB Games等厂商的beta版本和截图。反映游戏平台安全性议题，开发者需关注数据与构建版本防护。",
+      "url": "https://www.gamedeveloper.com/pc/report-13tb-of-steam-data-leaked-after-users-access-publicly-accessible-endpoint-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-31T15:07:37",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Counter-Strike: Global Offensive",
+          "desc": "Valve开发的多人在线战术射击游戏"
+        },
+        {
+          "name": "Left 4 Dead 2",
+          "desc": "合作生存恐怖射击游戏"
+        },
+        {
+          "name": "Portal 2",
+          "desc": "第一人称解谜游戏"
+        },
+        {
+          "name": "Half-Life 2: Episode 3",
+          "desc": "Valve尚未发布的《半条命2》续章"
+        },
+        {
+          "name": "Dragon Age: Origins",
+          "desc": "BioWare开发的奇幻角色扮演游戏"
+        },
+        {
+          "name": "Batman: Arkham Asylum",
+          "desc": "Rocksteady开发的蝙蝠侠动作冒险游戏"
+        }
+      ]
+    },
+    {
+      "id": "9a426d9e3c",
+      "title": "科隆游戏展设备失窃，多家独立开发者和发行商中招",
+      "zh_desc": "盗贼进入Gamescom的Indie Arena和商务区，偷走多家小型参展商的笔记本和Steam Deck。对独立团队是提醒：展会期间需加强设备与数据安全。",
+      "url": "https://www.gamedeveloper.com/business/indie-devs-and-publishers-hit-in-gamescom-equipment-thefts",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-31T14:58:21",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mimic",
+          "desc": "Ryan Laley开发的独立游戏"
+        },
+        {
+          "name": "Cyberpunk 2",
+          "desc": "CD Projekt Red开发的科幻角色扮演游戏续作"
+        },
+        {
+          "name": "The Witcher 4",
+          "desc": "CD Projekt Red开发的奇幻角色扮演游戏新作"
+        }
+      ]
+    },
+    {
+      "id": "6e7227bb1d",
+      "title": "近期SLG和休闲Puzzle测试产品汇总",
+      "zh_desc": "汇总近期SLG与休闲Puzzle赛道测试产品，帮助从业者快速了解新游方向、赛道竞争和测试动态。适合做竞品监测和立项参考。",
+      "url": "https://mp.weixin.qq.com/s/9rfT_VE_J61X2r5Uxy_5Yg",
+      "source": "微信-王董的新游戏",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-01T09:46:48",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "aeea05ee71",
+      "title": "腾讯游戏拆解：两套全新AI测试方案，从固定脚本到自主智能体",
+      "zh_desc": "介绍腾讯在游戏测试中应用AI智能体，逐步替代固定脚本的测试方案。对关注AI提效、测试自动化的团队有参考价值，但与休闲游戏设计本身关联较弱。",
+      "url": "https://mp.weixin.qq.com/s/p61fZyaMBHi7DDIxIsrpPw",
+      "source": "微信-游戏那点事Gamez",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-31T21:41:07",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "ffc766cd53",
+      "title": "今天，《米姆米姆哈》宣布停运：从千万预约到光速裁员",
+      "zh_desc": "《米姆米姆哈》宣布停运，回顾其从高预约量到裁员收缩的过程。对从业者是一则产品生命周期和团队风险的警示案例。",
+      "url": "https://mp.weixin.qq.com/s/rlO2HmOuUeXHZy0ic0uEGA",
+      "source": "微信-游戏那点事Gamez",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-31T21:41:07",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "c94b386046",
+      "title": "净利润暴涨403%，游族死磕AI跑通了",
+      "zh_desc": "报道游族网络净利润大幅增长及其在AI方向的持续投入。可作为公司经营与AI转型动态参考，与休闲游戏直接关系不大。",
+      "url": "https://mp.weixin.qq.com/s/2SxQi-pkMtpA2ArNuCRqzw",
+      "source": "微信-游戏那点事Gamez",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-31T21:41:07",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "4b3d5ff9b4",
+      "title": "连亏两年后净利润暴涨404%，游族靠的不是游戏",
+      "zh_desc": "从财务角度拆解游族扭亏为盈的原因，指出增长更多来自AI资产/投资收益而非游戏业务。对关注上市公司游戏业务健康度的从业者有参考。",
+      "url": "https://mp.weixin.qq.com/s/QiZyLDwtI5ndkiNM5GzcSg",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-31T19:04:43",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "3e4d219054",
+      "title": "苹果 App Store 团队亲授：游戏如何获得商店推荐？",
+      "zh_desc": "苹果App Store团队分享游戏获得编辑推荐的关键要素，包括产品品质、视觉表现、本地化和更新节奏等。对休闲游戏发行和商店运营很有实操价值。",
+      "url": "https://mp.weixin.qq.com/s/9fh9T0SJusyXydgitih9Ng",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-08-31T19:04:43",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "2cebda2875",
+      "title": "2天100万份、37万人在线：又有人把钓鱼做成了暴力生意",
+      "zh_desc": "复盘一款钓鱼题材游戏上线2天卖出100万份、在线37万的现象级表现，拆解其为何能快速起量。对研究休闲/垂类游戏增长和商业化的从业者有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/ZHOFPWocJGTXFOed7BPkMg",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-08-31T19:04:43",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "757cbec463",
+      "title": "AI拆解｜爆款制造机Voodoo的《Epic Plane Evolution》再创新赛道",
+      "zh_desc": "用AI方式拆解Voodoo新作《Epic Plane Evolution》的玩法模型、立项思路和赛道机会。对休闲/超休游戏团队做创意验证和立项参考很有价值。",
+      "url": "https://mp.weixin.qq.com/s/Man332ejgrI1W8hChuaSVg",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-08-31T19:04:43",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "148e0df15a",
+      "title": "TikTok 闭环小游戏开发窗口开放，游戏厂商可申请自主开发",
+      "zh_desc": "TikTok开放闭环小游戏自主开发申请，意味着厂商可更直接地在小游戏生态内发行。对休闲游戏和出海团队是重要的渠道机会。",
+      "url": "https://mp.weixin.qq.com/s/DiZcPbv0Duvmp6syr-cpBA",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-31T19:04:43",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "8068bca936",
+      "title": "行业揭秘：战斗策划具体要做哪些工作？",
+      "zh_desc": "介绍战斗策划的工作内容、技能要求和落地方法，适合想了解策划分工的从业者。内容偏中重度游戏设计，与休闲游戏直接关联不强。",
+      "url": "https://mp.weixin.qq.com/s/5xD76ENwlsXXlz2u9t3__A",
+      "source": "微信-无界游戏学社",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-31T17:00:38",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "5d3297f1eb",
+      "title": "不再只是新游｜我用AI把游戏监控网站又升级了一遍",
+      "zh_desc": "作者分享用AI升级游戏监控网站，把监测范围从新游扩展到更全面的数据/情报。适合关注竞品监测和工作流自动化的从业者参考。",
+      "url": "https://mp.weixin.qq.com/s/_A-pFUyR7_QONOwdlHBIyA",
+      "source": "微信-熊猫游戏出海",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-31T11:58:16",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "38acd86cac",
+      "title": "资深的信号",
+      "zh_desc": "文章围绕“资深”这一身份特征展开，探讨游戏行业中对资深人才/资历的判断信号。偏向职业成长与行业观察，与休闲游戏玩法和运营关系不大。",
+      "url": "https://mp.weixin.qq.com/s/3zYhviTTSgwyjKbUK5ikrA",
+      "source": "微信-良明同学",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-08-31T09:03:43",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "ae13a46819",
+      "title": "满屏活动让人劝退？聊聊游戏个性化精细化运营怎么做",
+      "zh_desc": "从“活动过多导致玩家流失”的问题出发，讨论游戏个性化与精细化运营方法，包括分层、弹窗/活动节奏和用户体验优化。对休闲游戏LiveOps有很强参考价值。",
+      "url": "https://mp.weixin.qq.com/s/90WSZiuneMDPMYgWXUDTaw",
+      "source": "微信-一枚游戏干饭人",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-08-31T08:11:35",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "d17a7f2047",
+      "title": "网易大作官宣用户破亿：首曝4年后，他们重返科隆，一战封神",
+      "zh_desc": "网易大作在首曝4年后官宣用户破亿，并在科隆展获得高关注。反映大型在线游戏的长线运营和海外声量，非休闲赛道。",
+      "url": "https://mp.weixin.qq.com/s/YCksEEZo8MJ5-qhDDlDj8g",
+      "source": "微信-游戏葡萄",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-30T23:46:30",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "b3b5faa04d",
+      "title": "世界首富马斯克在线追更，腾讯这款天花板产品宣布全球转免",
+      "zh_desc": "腾讯旗下天花板级产品宣布转为全球免费模式，并引发马斯克关注。对行业是产品商业模式调整和话题营销案例，与休闲游戏关系较弱。",
+      "url": "https://mp.weixin.qq.com/s/LQ8_kxn3J0RhxkA44JXFPA",
+      "source": "微信-游戏葡萄",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-30T23:46:30",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "6816d6334e",
+      "title": "2026年上半年营收净利双增，游族网络正在布局AI全生态",
+      "zh_desc": "游族网络2026上半年营收和净利双增，并布局AI全生态。属于公司财务与AI战略动态，休闲游戏从业者可关注其AI应用方向。",
+      "url": "https://mp.weixin.qq.com/s/0slqcQ4nABC2RCNeDi3-gQ",
+      "source": "微信-游戏葡萄",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-30T23:46:30",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "d448a46e37",
+      "title": "游戏渲染（3）卡通渲染和描边",
+      "zh_desc": "讲解卡通渲染与描边的技术原理和实现思路，对休闲/风格化游戏美术表现有参考。偏向渲染技术，与三消等玩法设计关联不高。",
+      "url": "https://mp.weixin.qq.com/s/9hWqzvUd7yNDsqPBmxLhlw",
+      "source": "微信-小e的游戏迷思",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-08-30T19:30:39",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "408604773d",
+      "title": "苹果四个市场调价、Google Play细化AI内容审核｜Enjoy出海政策周报",
+      "zh_desc": "周报汇总苹果在四个市场调价和Google Play对AI内容审核的新规，出海开发者需关注定价与合规策略，对休闲游戏发行有直接影响。",
+      "url": "https://mp.weixin.qq.com/s/Q0vRlJyku35RhtHK_UvYEw",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-30T18:10:19",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "b4f91536b8",
+      "title": "2026科隆游戏奖名单：腾讯投资的国产3A成功“偷家”",
+      "zh_desc": "公布2026科隆游戏奖亮点，腾讯投资国产3A获奖引发关注。体现国产游戏在全球市场的话语权提升，属行业动态。",
+      "url": "https://mp.weixin.qq.com/s/Q2RQhCn0c56lbmW4rqA0CA",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-30T18:10:19",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "73ab705e3e",
+      "title": "Meta测试“系列”功能，Instagram和Facebook也能连续“追更”短剧了",
+      "zh_desc": "Meta在Instagram和Facebook测试“系列”功能，支持短剧连续追更。对短剧/互动内容生态有影响，可关注其与互动影游的潜在结合。",
+      "url": "https://mp.weixin.qq.com/s/aYsTyB22kCtkuO4aov5LDQ",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-30T18:10:19",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "534e5c830f",
+      "title": "腾讯内测TDream！微信QQ一键登录做互动影游，IP改编秒变可玩长视频？",
+      "zh_desc": "腾讯被曝内测TDream互动影游平台，支持微信QQ一键登录和IP改编，可能降低互动影游制作门槛。对探索互动叙事、小游戏化内容的团队有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/b0qypICxcMkFeMHoIme3vg",
+      "source": "微信-Enjoy出海开发者服务平台",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-30T18:10:19",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "16b082bc40",
+      "title": "【冒泡17】Tap4Fun牛仔题材SLG；卡布姆斜俯视角肉鸽搜打撤",
+      "zh_desc": "新游观察栏目盘点Tap4Fun牛仔题材SLG、卡布姆斜俯视角肉鸽搜打撤等新品，提供最新产品形态与选题方向参考。",
+      "url": "https://mp.weixin.qq.com/s/QSizTXPeZAh6Th3_etZxNg",
+      "source": "微信-新游观察",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-30T14:15:49",
+      "fetched_at": "2026-09-01T11:35:09",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "dc7fc6d4e5",
       "title": "Mattel 希望工作室敢于提交“令人不安”的提案",
