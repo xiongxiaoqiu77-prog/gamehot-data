@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-02T01:22:32",
+  "updated_at": "2026-09-02T01:55:06",
   "articles": [
+    {
+      "id": "4f6ae3e7bf",
+      "title": "世嘉旗下 Rovio 关闭哥本哈根工作室",
+      "zh_desc": "Rovio 在取消《Sonic Blitz》后关闭哥本哈根工作室，具体裁员人数尚未确认。作为 Angry Birds 开发商，Rovio 的收缩与世嘉收购后的业务整合对休闲游戏从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/sega-owned-rovio-is-shutting-down-its-copenhagen-studio",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-01T15:37:36",
+      "fetched_at": "2026-09-02T01:55:06",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Angry Birds",
+          "desc": "Rovio旗下知名的物理益智游戏系列。"
+        },
+        {
+          "name": "Sonic Blitz",
+          "desc": "一款混合跑酷与卡牌收集的手机游戏，已被取消。"
+        },
+        {
+          "name": "Moomin",
+          "desc": "Rovio此前关闭的移动端游戏。"
+        }
+      ]
+    },
     {
       "id": "e43a39389d",
       "title": "Aggro Crab 推出发行品牌，投入 Peak 资金",
