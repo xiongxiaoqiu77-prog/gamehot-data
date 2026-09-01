@@ -1,6 +1,121 @@
 {
-  "updated_at": "2026-08-31T21:16:09",
+  "updated_at": "2026-09-01T11:24:41",
   "articles": [
+    {
+      "id": "dc7fc6d4e5",
+      "title": "Mattel 希望工作室敢于提交“令人不安”的提案",
+      "zh_desc": "文章基于 Mattel 全球数字业务负责人的视角，揭示了游戏授权合作中真正获胜的关键，以及工作室经常犯的错误。对希望获取 IP 授权的手游/休闲游戏团队有商业合作层面的参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/mattel-wants-studios-to-pitch-the-uncomfortable",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-31T09:58:08",
+      "fetched_at": "2026-09-01T11:24:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Barbie",
+          "desc": "Mattel旗下经典玩具IP，被改编为多款冒险、装扮类游戏"
+        },
+        {
+          "name": "Hot Wheels",
+          "desc": "Mattel旗下的风火轮赛车品牌，衍生出多款竞速游戏"
+        },
+        {
+          "name": "Uno",
+          "desc": "经典卡牌游戏，已有数字版和多种改编版本"
+        },
+        {
+          "name": "Monster High",
+          "desc": "以怪物高中为背景的角色扮演冒险游戏系列"
+        },
+        {
+          "name": "Masters of the Universe",
+          "desc": "宇宙的巨人希曼，经典动作冒险游戏系列"
+        },
+        {
+          "name": "Street Sharks",
+          "desc": "街头鲨鱼，主打动作格斗的卡通改编游戏"
+        },
+        {
+          "name": "Whac-A-Mole",
+          "desc": "打地鼠休闲街机游戏，改编自经典游乐场设备"
+        }
+      ]
+    },
+    {
+      "id": "6975526d6d",
+      "title": "Yahoo 悄然布局游戏业务，从每日网页游戏起步",
+      "zh_desc": "Yahoo 游戏业务负责人 Andrew Pedersen 表示，自 1 月重新上线游戏门户以来，日活跃用户增长超 60%，游戏点击量接近增长 25%。对关注网页/轻量游戏赛道的人有一定参考价值。",
+      "url": "https://mobilegamer.biz/yahoo-is-quietly-building-a-games-business-and-its-starting-with-daily-webgames/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-31T11:07:11",
+      "fetched_at": "2026-09-01T11:24:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Crushable",
+          "desc": "与King合作的Candy Crush宇宙每日益智游戏，在美国Yahoo独家"
+        },
+        {
+          "name": "Solitaire Roadtrip",
+          "desc": "Yahoo原创网页游戏，带旅行主题的纸牌接龙"
+        },
+        {
+          "name": "Circuits",
+          "desc": "Yahoo原创网页游戏，以电路为主题的益智游戏"
+        },
+        {
+          "name": "Pile-Up Poker",
+          "desc": "Yahoo原创网页游戏，融合堆叠机制的扑克玩法"
+        },
+        {
+          "name": "Mini Crossword",
+          "desc": "Yahoo原创网页游戏，迷你纵横填字谜"
+        }
+      ]
+    },
+    {
+      "id": "ee226a37ae",
+      "title": "《使命召唤：黑色行动》设计师融资多次被拒后转向移动端",
+      "zh_desc": "前 Treyarch 关卡设计师 Brian Douglas 在融资数月被拒后，不借助 AI，用七周时间开发了移动游戏 Rift Raider Extraction。这条新闻对独立开发者和小团队有启发意义。",
+      "url": "https://mobilegamer.biz/call-of-duty-black-ops-designer-turns-to-mobile-after-months-of-funding-rejections/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-31T10:50:54",
+      "fetched_at": "2026-09-01T11:24:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Call of Duty: Black Ops",
+          "desc": "第一人称射击游戏，设计师Brian Douglas曾在Treyarch参与1和2的制作"
+        },
+        {
+          "name": "Rift Raider Extraction",
+          "desc": "Android平台撤离射击游戏，由前Treyarch设计师在七周内独立开发和发布"
+        },
+        {
+          "name": "Project Lich",
+          "desc": "未获得融资的PC/console项目代号，因融资被拒而暂时搁置"
+        }
+      ]
+    },
+    {
+      "id": "c624606f4d",
+      "title": "550吨美元砸向EA的沙特，盯上了中国电竞",
+      "zh_desc": "报道沙特资本对 EA 及中国电竞产业的巨额投资布局，属于电竞/游戏市场动态，可帮助从业者了解资本流向，但与休闲游戏玩法和变现关联较弱。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXbG5ra2ZxSHVHSFdCTG5TSmlzOUdSeVVNWS1MY1MtVjdKLXM1QkJuWC1UZ3hPWlVGWWFVUnRPTUJxT2dCV1VDQ1ZvNHZ2SVJZX2gydDlSZTNtN3c?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-30T14:29:00",
+      "fetched_at": "2026-09-01T11:24:41",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "1282c9419f",
       "title": "儿童游戏的未来",
