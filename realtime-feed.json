@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-09-02T00:16:30",
+  "updated_at": "2026-09-02T00:49:56",
   "articles": [
+    {
+      "id": "29fd3c205e",
+      "title": "Paradox Interactive 的《Afterworld》想用诱人的 RPG 钩子吸引新玩家进入大战略游戏",
+      "zh_desc": "游戏总监 Dan Lind 分享了《Afterworld》如何通过 RPG 成长钩子和更易上手的引导，来降低大战略游戏的门槛。虽然题材不是休闲品类，但其新手引导和跨品类融合思路对休闲游戏设计仍有参考价值。",
+      "url": "https://www.gamedeveloper.com/design/paradox-interactive-s-afterworld-wants-to-entice-new-players-to-grand-strategy-with-tasty-rpg-hooks",
+      "source": "Game Developer",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-09-01T13:00:00",
+      "fetched_at": "2026-09-02T00:49:56",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Afterworld",
+          "desc": "后末日背景的大战略游戏，融合RPG元素，玩家引导部落在重建世界中生存与发展。"
+        },
+        {
+          "name": "Sid Meier's Civilization",
+          "desc": "经典回合制4X策略游戏，玩家建设帝国并引领文明发展。"
+        },
+        {
+          "name": "Hearts of Iron",
+          "desc": "以二战为主题的大战略游戏，玩家控制国家进行战争与决策。"
+        },
+        {
+          "name": "Crusader Kings",
+          "desc": "中世纪战略角色扮演游戏，玩家控制王朝家族进行政治和军事斗争。"
+        }
+      ]
+    },
+    {
+      "id": "3ce93a47eb",
+      "title": "《Star Wars Zero Company》发售前夕，Bit Reactor 让员工无薪休假",
+      "zh_desc": "Bit Reactor 证实，因担心首款作品《Star Wars Zero Company》的市场表现，已在发售前临时让部分员工无薪停工。该事件反映项目发行前的现金流与团队稳定性压力，可作为行业经营状况的参考。",
+      "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-studio-furloughed-workers-ahead-of-launch",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T09:19:23",
+      "fetched_at": "2026-09-02T00:49:56",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "星战题材的战术回合制游戏，由Bit Reactor开发，EA发行。"
+        }
+      ]
+    },
+    {
+      "id": "f0daf26c52",
+      "title": "大图景：关于当下游戏行业持续重置，你需要知道的事",
+      "zh_desc": "Gamescom Dev 开幕演讲以“游戏行业重置”为主题，Amir Satvat 系统梳理了裁员、融资环境变化和人才流动等行业现状。对从业者了解 2026 年游戏行业整体走向有参考价值。",
+      "url": "https://www.gamesindustry.biz/the-big-picture-what-you-need-to-know-about-the-ongoing-games-industry-reset",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T16:19:14",
+      "fetched_at": "2026-09-02T00:49:56",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "92290bf606",
+      "title": "Brian Ward 卸任 Savvy Games Group CEO",
+      "zh_desc": "据彭博社获得的员工通知，Brian Ward 将辞去 Savvy Games Group 首席执行官一职。这是沙特游戏投资版图管理层变动的重要信号，可能影响后续投资方向。",
+      "url": "https://www.gamesindustry.biz/brian-ward-steps-down-as-savvy-games-group-ceo",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T14:38:11",
+      "fetched_at": "2026-09-02T00:49:56",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "cfcbd89d7b",
+      "title": "九月行业人事动态：Amir Satvat 加入 1Up Ventures 任普通合伙人",
+      "zh_desc": "本期人事汇总重点包括 Amir Satvat 离开腾讯后加入 1Up Ventures 担任普通合伙人。适合追踪游戏行业人才流动、基金投资和关键公司决策层变化。",
+      "url": "https://www.gamesindustry.biz/jobs-roundup-september-2026-amir-satvat-joins-1up-ventures-as-a-general-partner",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T13:41:11",
+      "fetched_at": "2026-09-02T00:49:56",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "1c46c14761",
+      "title": "UKIE 联合 Discord 推出 Go To Market Academy，扶持早期独立开发者",
+      "zh_desc": "UKIE 与 Discord、GameFlex 合作推出面向英国独立工作室的 Go To Market Academy 商业课程。对关注独立游戏发行、市场启动和开发者扶持项目的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/ukie-launches-discord-backed-go-to-market-academy-a-business-program-to-support-early-stage-indie-devs",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T12:42:51",
+      "fetched_at": "2026-09-02T00:49:56",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "768139f776",
+      "title": "Gamescom 2026 参观人数增长 6%，达 36.8 万人",
+      "zh_desc": "Gamescom 2026 吸引来自 131 个国家的 36.8 万名观众，同比上涨 6%。该数据可作为线下展会活跃度和游戏行业复苏情况的参考指标。",
+      "url": "https://www.gamesindustry.biz/gamescom-2026-attendance-rose-6-to-368000-visitors",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T10:32:51",
+      "fetched_at": "2026-09-02T00:49:56",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "563e7a60bf",
+      "title": "《Star Wars Zero Company》发售前数周，Bit Reactor 已让许多员工无薪休假",
+      "zh_desc": "报道称，《Star Wars Zero Company》开发商 Bit Reactor 在游戏发售前数周让“许多员工”无薪休假。与另一则报道相互印证，显示项目临发期的人员安排和资金链存在明显压力。",
+      "url": "https://www.gamesindustry.biz/bit-reactor-furloughed-many-of-its-workers-in-the-weeks-before-star-wars-zero-companys-launch",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T08:07:34",
+      "fetched_at": "2026-09-02T00:49:56",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "星战题材的战术回合制游戏，Bit Reactor的首款作品。"
+        }
+      ]
+    },
+    {
+      "id": "269cb923fc",
+      "title": "Steam 游戏收入中位数已连续 12 年下降",
+      "zh_desc": "2026 年发行游戏在 Steam 的收入中位数仅为 1,728 美元，较 2016 年下降超十倍。该数据揭示了 Steam 长尾竞争愈发激烈，对关注跨平台发行和游戏商业化策略的从业者有参考价值。",
+      "url": "https://gameworldobserver.com/2026/09/01/the-median-revenue-of-games-on-steam-has-been-declining-for-12-consecutive-years",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T16:37:27",
+      "fetched_at": "2026-09-02T00:49:56",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "0643f9fca0",
       "title": "Rovio 关闭哥本哈根工作室，此前《Sonic Blitz》已被取消",
