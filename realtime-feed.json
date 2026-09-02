@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-03T00:41:10",
+  "updated_at": "2026-09-03T01:49:10",
   "articles": [
+    {
+      "id": "9d0755fb25",
+      "title": "Nexus Mods 将收购数据库与分析网站 SteamDB",
+      "zh_desc": "Nexus Mods 宣布收购 SteamDB，并希望为其提供资源和长期稳定支持。这属于 PC 游戏生态与数据平台的公司动态，与休闲/三消手游没有直接关联，但可反映行业工具与平台整合趋势。",
+      "url": "https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-02T17:27:45",
+      "fetched_at": "2026-09-03T01:49:10",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "fbae5ab3f2",
       "title": "Square Enix 否认私有化计划，相关报道曾致股价大涨",
