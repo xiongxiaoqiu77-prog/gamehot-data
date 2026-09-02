@@ -1,6 +1,101 @@
 {
-  "updated_at": "2026-09-02T19:48:35",
+  "updated_at": "2026-09-03T00:07:33",
   "articles": [
+    {
+      "id": "1ecbf02df0",
+      "title": "Steam 单周上线游戏首次超过 700 款，但 74% 评论数不足 10 条",
+      "zh_desc": "Steam 首次在一周内发布超过 700 款游戏，然而其中 74% 仅获得不到 10 条评论。该数据反映商店内容供给过剩和曝光困境，对观察小团队发行与流量环境有参考价值，但并未深入休闲手游领域。",
+      "url": "https://www.gamesindustry.biz/over-700-games-launched-on-steam-in-one-week-for-the-first-time-though-74-had-fewer-than-10-reviews",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-02T09:55:59",
+      "fetched_at": "2026-09-03T00:07:33",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "5acf7a6201",
+      "title": "Supercell 对 Metacore 的收购预计于 2026 年 9 月底完成",
+      "zh_desc": "Supercell 与 Metacore 已签署收购协议，交易预计在本月底完成。由于两家都是移动游戏公司，这笔收购对休闲/移动游戏行业竞争格局和工作室整合有一定信号意义。",
+      "url": "https://www.gamesindustry.biz/supercells-acquisition-of-metacore-expected-to-close-at-the-end-of-september-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-02T08:37:20",
+      "fetched_at": "2026-09-03T00:07:33",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Merge Mansion",
+          "desc": "Metacore 开发的合并玩法移动解谜游戏，玩家通过合成物品推进庄园翻新和剧情。"
+        },
+        {
+          "name": "Clash Royale",
+          "desc": "Supercell 推出的实时卡牌对战手游，以卡牌收集和击毁敌方塔为核心。"
+        }
+      ]
+    },
+    {
+      "id": "bf67a031df",
+      "title": "数据摘要：CookieRun、NYT 与 Valorant 取得里程碑，更多 Skillz-Papaya 纠纷以及中国、日本和 D2C 数据",
+      "zh_desc": "本辑数据快报涵盖 CookieRun、NYT Games、Valorant 的里程碑，Skillz 与 Papaya 的最新纠纷，并附中国、日本及 D2C 统计。适合手游从业者快速抓取近期市场热点，但缺乏对单个玩法/变现机制的深度拆解。",
+      "url": "https://mobilegamer.biz/data-digest-cookierun-crumble-nyt-games-and-valorant-hit-milestones-more-skillz-papaya-drama-plus-china-japan-and-d2c-stats/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-02T14:09:12",
+      "fetched_at": "2026-09-03T00:07:33",
+      "lang": "en",
+      "games": [
+        {
+          "name": "CookieRun: Crumble",
+          "desc": "Devsisters 推出的 CookieRun 系列手游，上线四周收入超过 1400 万美元。"
+        },
+        {
+          "name": "NYT Games: Wordle & Crossword",
+          "desc": "纽约时报旗下的文字益智游戏合集，包含 Wordle 拼字与填字玩法。"
+        },
+        {
+          "name": "Valorant Mobile",
+          "desc": "Valorant 的移动战术射击版本，中国限定版上线一年收入接近 3 亿美元。"
+        },
+        {
+          "name": "eFootball",
+          "desc": "Konami 推出的足球模拟类手游，在日本上半年手机游戏收入榜中领先。"
+        }
+      ]
+    },
+    {
+      "id": "a4162b8f67",
+      "title": "Overwatch Rush 在菲律宾、马来西亚和印度尼西亚开启软启动",
+      "zh_desc": "Blizzard 的手机平台独占英雄射击游戏 Overwatch Rush 从 8 月 31 日起在上述东南亚市场开启测试。该动态有助于观察头部厂商的手游软启动与区域测试节奏，不过不属于休闲消除类玩法。",
+      "url": "https://mobilegamer.biz/overwatch-rush-enters-soft-launch-in-the-philippines-malaysia-and-indonesia/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-02T09:49:58",
+      "fetched_at": "2026-09-03T00:07:33",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Overwatch Rush",
+          "desc": "暴雪推出的俯视角、专为移动端设计的《守望先锋》主题射击游戏，已在菲律宾等地软启动。"
+        },
+        {
+          "name": "Hearthstone",
+          "desc": "暴雪旗下的卡牌策略游戏，移动端月收入据估计约为 300 万至 500 万美元。"
+        },
+        {
+          "name": "Diablo Immortal",
+          "desc": "暴雪与网易合作开发的暗黑破坏神 IP 动作 RPG 手游，累计收入超 4.2 亿美元。"
+        },
+        {
+          "name": "Warcraft Rumble",
+          "desc": "暴雪推出的魔兽 IP 策略手游，文章称其已停止添加新内容。"
+        }
+      ]
+    },
     {
       "id": "946e005479",
       "title": "有新游正在冲击“数字门SLG”第3席：月流水连续翻倍，近一月收入破2300万元",
