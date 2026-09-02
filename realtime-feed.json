@@ -1,6 +1,63 @@
 {
-  "updated_at": "2026-09-03T00:07:33",
+  "updated_at": "2026-09-03T00:41:10",
   "articles": [
+    {
+      "id": "fbae5ab3f2",
+      "title": "Square Enix 否认私有化计划，相关报道曾致股价大涨",
+      "zh_desc": "Square Enix 发布声明，否认正在考虑私有化，此前日本商业杂志 Sentaku 的报道称该公司已吸引外国投资基金兴趣，消息曾推动股价上涨。该动态属于游戏公司资本层面消息，对休闲游戏玩法或变现研究没有直接参考价值。",
+      "url": "https://www.gamesindustry.biz/square-enix-denies-going-private-after-report-sends-stock-surging",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-02T16:02:35",
+      "fetched_at": "2026-09-03T00:41:10",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "0a83400713",
+      "title": "“有时需要新鲜视角”——外部开发如何帮助 Tomb Raider: Legacy of Atlantis",
+      "zh_desc": "文章回顾了 Gamescom 上 Tomb Raider: Legacy of Atlantis 的演示，强调本作并非 1996 年原版的简单复刻，而是对 Lara Croft 首次冒险的重新制作。外部开发团队带来的新思路可供大型 IP 项目参考，但与休闲三消手游的设计和运营关联较弱。",
+      "url": "https://www.gamesindustry.biz/sometimes-you-need-fresh-perspectives-how-external-development-helped-tomb-raider-legacy-of-atlantis",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-02T13:00:00",
+      "fetched_at": "2026-09-03T00:41:10",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Tomb Raider: Legacy of Atlantis",
+          "desc": "基于1996年原版古墓丽影的完全重制，加入了制作和技能树等新机制，由Crystal Dynamics与Flying Wild Hog合作开发。"
+        },
+        {
+          "name": "Tomb Raider: Catalyst",
+          "desc": "古墓丽影系列的新作，由Amazon发行，是继Legacy of Atlantis之后的下一个游戏。"
+        }
+      ]
+    },
+    {
+      "id": "5100fa471b",
+      "title": "Moon Studios 将 No Rest for the Wicked 延期至 2027 年 3 月，称不会在品质标准上妥协",
+      "zh_desc": "Ori 系列开发商 Moon Studios 宣布 No Rest for the Wicked 完整版将延期至 2027 年 3 月，官方解释称这是为了坚持游戏品质标准。这属于主机/PC 单机游戏行业动态，对休闲手游从业者的直接参考意义有限。",
+      "url": "https://www.gamesindustry.biz/moon-studios-delays-no-rest-for-the-wicked-to-march-2027-were-holding-our-games-to-a-standard-we-wont-compromise-on",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-02T10:44:18",
+      "fetched_at": "2026-09-03T00:41:10",
+      "lang": "en",
+      "games": [
+        {
+          "name": "No Rest for the Wicked",
+          "desc": "Moon Studios开发的动作RPG，于2024年4月进入抢先体验，预计2027年3月正式推出。"
+        },
+        {
+          "name": "Ori and the Will of the Wisps",
+          "desc": "Moon Studios此前开发的平台冒险游戏，曾作为该工作室背景被提及。"
+        }
+      ]
+    },
     {
       "id": "1ecbf02df0",
       "title": "Steam 单周上线游戏首次超过 700 款，但 74% 评论数不足 10 条",
