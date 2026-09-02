@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-09-03T03:27:45",
+  "updated_at": "2026-09-03T04:00:12",
   "articles": [
+    {
+      "id": "159a7d8f1e",
+      "title": "CD Projekt Red 2026年上半年利润增长37%",
+      "zh_desc": "CD Projekt Red在2026年上半年实现营收约1.165亿美元，同比增长23%，利润同比增长37%。这是典型游戏公司财务动态，可帮助从业者了解重点厂商经营状况，但与休闲游戏玩法或运营关系不大。",
+      "url": "https://www.gamesindustry.biz/cd-projekt-red-sees-profit-climb-37-in-h1-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-02T19:44:30",
+      "fetched_at": "2026-09-03T04:00:12",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "desc": "开放世界角色扮演游戏，系列销量超9000万，即将推出重制版"
+        },
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "开放世界动作角色扮演游戏，销量超4000万"
+        },
+        {
+          "name": "Phantom Liberty",
+          "desc": "《赛博朋克2077》的谍战剧情扩展包，销量达1500万"
+        },
+        {
+          "name": "Wuthering Waves",
+          "desc": "开放世界动作角色扮演游戏，与赛博朋克IP联动"
+        },
+        {
+          "name": "Apex Legends",
+          "desc": "免费战术竞技射击游戏，与赛博朋克IP联动"
+        }
+      ]
+    },
     {
       "id": "76bdc786a7",
       "title": "Nexus Mods 收购 SteamDB",
