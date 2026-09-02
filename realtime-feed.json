@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-02T13:49:53",
+  "updated_at": "2026-09-02T15:26:25",
   "articles": [
+    {
+      "id": "8c062bc748",
+      "title": "IO Interactive首席执行官Hakan Abrak将在Game Republic New Horizons 2026谈论007 First Light的开发",
+      "zh_desc": "IO Interactive首席执行官Hakan Abrak将在Game Republic New Horizons 2026大会上开设关于007 First Light开发的主题分享。消息属于3A游戏行业动态，与休闲游戏玩法或运营的实战关联度较低。",
+      "url": "https://www.gamesindustry.biz/io-interactive-ceo-hakan-abrak-to-discuss-development-of-007-first-light-at-game-republic-new-horizons-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-02T07:00:00",
+      "fetched_at": "2026-09-02T15:26:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "007 First Light",
+          "desc": "以詹姆斯·邦德为主题的特工动作游戏，已售出超四百万份。"
+        }
+      ]
+    },
     {
       "id": "7b806a5001",
       "title": "发行新纪元",
