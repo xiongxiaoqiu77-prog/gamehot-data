@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-03T04:00:12",
+  "updated_at": "2026-09-03T04:33:27",
   "articles": [
+    {
+      "id": "dbde9fc2fb",
+      "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
+      "zh_desc": "派早报汇总了英伟达 DLSS 5、戴森智能电动牙刷、索尼派对音箱以及 Starman Optical 收购 GoPro 等消息。其中 DLSS 与游戏图形技术相关，但整体更偏向泛科技资讯，且未涉及休闲游戏领域，相关度一般。",
+      "url": "https://sspai.com/post/114093",
+      "source": "少数派",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T23:58:40",
+      "fetched_at": "2026-09-03T04:33:27",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "NBA 2K27",
+          "desc": "篮球运动模拟游戏，首发搭载英伟达 DLSS 5 技术"
+        }
+      ]
+    },
     {
       "id": "159a7d8f1e",
       "title": "CD Projekt Red 2026年上半年利润增长37%",
