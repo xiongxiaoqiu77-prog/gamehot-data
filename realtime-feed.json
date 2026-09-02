@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-02T06:11:45",
+  "updated_at": "2026-09-02T13:49:53",
   "articles": [
+    {
+      "id": "7b806a5001",
+      "title": "发行新纪元",
+      "zh_desc": "Naavik播客对谈中，Medal平台营收副总裁Alexandra Takei与Midwest Games创始人Ben Kvalo在科隆游戏展Xsolla Clubhouse探讨“新式发行”，认为传统发行合作已不再是唯一路径。内容聚焦游戏发行与开发者关系的变化趋势，可给关注商业模式创新的从业者一定参考，但并未涉及休闲游戏的具体设计、运营或变现。",
+      "url": "https://naavik.co/podcast/a-new-era-of-publishing/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-01T05:12:58",
+      "fetched_at": "2026-09-02T13:49:53",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "c58f1f2d96",
       "title": "报道：Savvy Games Group CEO Brian Ward 离职",
