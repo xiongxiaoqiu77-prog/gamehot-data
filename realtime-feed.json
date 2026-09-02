@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-09-02T15:26:25",
+  "updated_at": "2026-09-02T15:59:35",
   "articles": [
+    {
+      "id": "d805169db2",
+      "title": "GTA 6 扩展预告片上线 Netflix 四天观看量达 3110 万，成为上周最热门作品",
+      "zh_desc": "GTA 6 的扩展预告片在 Netflix 上线四天内获得 3110 万次观看，成为该平台上周观看量最高的内容。该事件属于大型主机游戏营销热度动态，对休闲游戏从业者的直接参考有限，但可观察强势 IP 的内容传播表现。",
+      "url": "https://www.gamesindustry.biz/gta-6-extended-look-reaches-311m-views-on-netflix-in-four-days-making-it-the-most-viewed-title-last-week",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-02T07:51:21",
+      "fetched_at": "2026-09-02T15:59:35",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "犯罪动作游戏，即将于11月19日登陆PS5和Xbox Series X|S。"
+        }
+      ]
+    },
+    {
+      "id": "d7babe218e",
+      "title": "面向移动用户获取的创意智能是什么？完整指南",
+      "zh_desc": "GameAnalytics 这篇指南讲解了移动游戏买量中的创意智能（creative intelligence），包括它能揭示什么、为什么重要，以及 UA 和创意团队如何应用。对休闲游戏做广告素材策略和用户获取优化有实用参考。",
+      "url": "https://www.gameanalytics.com/blog/creative-intelligence-mobile-ua-guide",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-02T07:39:57",
+      "fetched_at": "2026-09-02T15:59:35",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "8c062bc748",
       "title": "IO Interactive首席执行官Hakan Abrak将在Game Republic New Horizons 2026谈论007 First Light的开发",
