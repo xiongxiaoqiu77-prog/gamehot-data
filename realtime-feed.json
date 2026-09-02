@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-03T01:49:10",
+  "updated_at": "2026-09-03T03:27:45",
   "articles": [
+    {
+      "id": "76bdc786a7",
+      "title": "Nexus Mods 收购 SteamDB",
+      "zh_desc": "Nexus Mods 宣布收购 Steam 数据追踪平台 SteamDB，双方已确认这一合作。该动态属于游戏行业公司整合消息，对关注 PC 游戏 Mod 生态与 Steam 数据变化的从业者有一定参考价值，但与休闲手游设计/运营关联不大。",
+      "url": "https://www.gamesindustry.biz/nexus-mods-acquires-steamdb",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-02T19:14:24",
+      "fetched_at": "2026-09-03T03:27:45",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "c3b16d49c5",
+      "title": "Nexus Mods 已成为 SteamDB 的所有者",
+      "zh_desc": "Nexus Mods 与 SteamDB 共同宣布，Steam 数据分析服务 SteamDB 并入模组网站 Nexus Mods。这是一条游戏行业公司动态，对追踪 Steam 数据、模组生态和平台整合的人有一定参考价值，但与休闲手游核心议题关系不大。",
+      "url": "https://gameworldobserver.com/2026/09/02/nexus-mods-has-become-the-owner-of-steamdb",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-02T19:03:51",
+      "fetched_at": "2026-09-03T03:27:45",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "9d0755fb25",
       "title": "Nexus Mods 将收购数据库与分析网站 SteamDB",
