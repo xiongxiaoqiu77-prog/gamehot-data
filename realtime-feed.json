@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-03T15:49:03",
+  "updated_at": "2026-09-03T18:34:28",
   "articles": [
+    {
+      "id": "21dc379c4c",
+      "title": "AI 如何解锁新颖的游戏机制",
+      "zh_desc": "文章以 AI 辅助生成内容之外的视角，讨论 AI 如何解锁新型游戏机制，让原本难以实现的玩法成为可能，并强调这对中小开发者的意义。对于关注休闲玩法创新和 AI 应用趋势的从业者有参考价值，但并非针对三消/消除品类的方法论拆解。",
+      "url": "https://naavik.co/ai-gaming/how-ai-is-unlocking-novel-game-mechanics/",
+      "source": "Naavik",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-09-01T09:29:01",
+      "fetched_at": "2026-09-03T18:34:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "MIMESIS",
+          "desc": "四人在线合作生存恐怖游戏，敌人通过AI模仿玩家行为和声音制造恐怖感。"
+        },
+        {
+          "name": "Death by AI",
+          "desc": "文章提及的一款将AI直接置于核心游戏循环中的游戏（具体细节未在文中展开）。"
+        },
+        {
+          "name": "Status",
+          "desc": "文章提及的一款将AI直接置于核心游戏循环中的游戏（具体细节未在文中展开）。"
+        }
+      ]
+    },
     {
       "id": "f967531775",
       "title": "Epic Games 首席执行官 Tim Sweeney：游戏行业正经历自1980年代以来最严重的崩盘",
