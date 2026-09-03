@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-04T04:29:25",
+  "updated_at": "2026-09-04T06:39:12",
   "articles": [
+    {
+      "id": "7fbdcd6cef",
+      "title": "从《Gossip Harbor》到《Mystery Town》：30万条素材背后，二合买量到底有多卷？",
+      "zh_desc": "本文通过分析30万条买量素材，复盘《Gossip Harbor》《Mystery Town》等二合游戏在素材投放上的竞争烈度与趋势。对休闲游戏从业者了解二合赛道的买量打法、素材策略和市场内卷程度有较高的参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50VXNPV1VyUXI0RmpYT3NEb0JtRWxWdDhWbWc3anF1SG1jeV8xNXl4cmtxYWVENDBSNEVWUTVlWGMweURxME9kMlc2WjhrdVdIeEZyUU5BTEdoZw?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-03T10:31:10",
+      "fetched_at": "2026-09-04T06:39:12",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "Gossip Harbor",
+          "desc": "剧情向二合（合并）休闲游戏"
+        },
+        {
+          "name": "Mystery Town",
+          "desc": "神秘主题二合解谜游戏"
+        }
+      ]
+    },
     {
       "id": "c0fc0fd7dd",
       "title": "Supercell 对 Metacore 的收购预计本月完成",
