@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-04T02:19:31",
+  "updated_at": "2026-09-04T04:29:25",
   "articles": [
+    {
+      "id": "c0fc0fd7dd",
+      "title": "Supercell 对 Metacore 的收购预计本月完成",
+      "zh_desc": "Supercell 收购 Metacore 的交易预计于本月正式完成，Merge Mansion 将正式纳入 Supercell 的现运营游戏产品组合。对休闲游戏从业者而言，这是 Merge 品类头部产品归属及发行资源整合方面的重要行业动态。",
+      "url": "https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-03T16:06:04",
+      "fetched_at": "2026-09-04T04:29:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Clash Royale",
+          "desc": "Supercell 旗下的卡牌策略对战手游。"
+        },
+        {
+          "name": "Brawl Stars",
+          "desc": "Supercell 旗下的多人实时对战手游。"
+        },
+        {
+          "name": "Merge Mansion",
+          "desc": "Metacore 开发的合并玩法休闲手游，是本次收购的核心游戏。"
+        }
+      ]
+    },
     {
       "id": "3587a5a38a",
       "title": "GungHo 的 Disney Pixel RPG 将于 9 月 30 日停运",
