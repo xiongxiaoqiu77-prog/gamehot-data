@@ -1,6 +1,337 @@
 {
-  "updated_at": "2026-09-03T18:34:28",
+  "updated_at": "2026-09-04T00:07:39",
   "articles": [
+    {
+      "id": "44d9ba1b54",
+      "title": "Gamecity Hamburg 启动第二轮原型资助计划",
+      "zh_desc": "Gamecity Hamburg 宣布启动第二轮原型资助计划，为在该地区开展业务的开发者提供最高 8 万欧元资金。该计划面向处于早期验证阶段的项目，对想进入德国市场的中小团队具有参考价值。",
+      "url": "https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T14:49:10",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "5eaf401563",
+      "title": "CD Projekt Red 不会放弃实体版发行",
+      "zh_desc": "CD Projekt Red 表示未来不会放弃实体版发行，并强调会推出值得玩家购买的实体包装。这条消息主要面向主机/PC 市场，对休闲游戏研发与发行的直接价值有限。",
+      "url": "https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T10:55:48",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Witcher 4",
+          "desc": "CD Projekt Red 开发的《巫师》系列新作，尚未发布的动作角色扮演游戏。"
+        },
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "CD Projekt Red 开发的开放世界科幻角色扮演游戏。"
+        },
+        {
+          "name": "The Witcher 3",
+          "desc": "CD Projekt Red 开发的开放世界角色扮演游戏，以丰富的实体特典内容著称。"
+        },
+        {
+          "name": "GTA VI",
+          "desc": "侠盗猎车手系列新作，实体版将附赠下载码而非光盘。"
+        }
+      ]
+    },
+    {
+      "id": "7415b7c7b1",
+      "title": "苹果因实施 App Tracking Transparency 框架面临 20 亿英镑诉讼",
+      "zh_desc": "苹果因 App Tracking Transparency（ATT）框架的实施在英国面临 20 亿英镑集体诉讼。案件核心是平台规则对第三方开发者与苹果自身是否公平，直接影响移动广告归因和买量生态，休闲游戏变现团队应密切关注。",
+      "url": "https://www.gamesindustry.biz/apple-faces-2bn-lawsuit-over-implementation-of-app-tracking-transparency-framework",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-03T14:56:12",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Angry Birds",
+          "desc": "Rovio 开发的休闲物理弹射游戏，因依赖付费广告获取用户而受 ATT 影响较大。"
+        }
+      ]
+    },
+    {
+      "id": "2c9ca6fc2b",
+      "title": "Glowmade 在 Amazon 取消 King of Meat 后强势回应：我们有优秀团队、银行存款和财务独立",
+      "zh_desc": "Amazon 取消 King of Meat 后，Glowmade 公开表示团队完整、资金充足且保持财务独立。这一案例展示了研发工作室与大型发行商解约后仍可自主运营，但内容与休闲游戏关系不大。",
+      "url": "https://www.gamesindustry.biz/weve-got-a-great-team-money-in-the-bank-and-financial-independence-glowmade-comes-out-swinging-after-amazon-pulled-the-plug-on-king-of-meat",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T12:05:44",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "King of Meat",
+          "desc": "Glowmade 开发的在线多人动作游戏，后被亚马逊关停。"
+        },
+        {
+          "name": "Rogue Fortune",
+          "desc": "Glowmade 正在开发的单机游戏，融合 Hades 式 roguelike 玩法与俄罗斯方块式物品管理。"
+        },
+        {
+          "name": "Hades",
+          "desc": "Supergiant Games 开发的 roguelike 动作游戏，文章中作为玩法风格参照。"
+        },
+        {
+          "name": "Tetris",
+          "desc": "经典益智游戏，文章中作为物品管理玩法的灵感参照。"
+        }
+      ]
+    },
+    {
+      "id": "87a7af0c2c",
+      "title": "索尼与微软请求驳回消费者关于关税退款的集体诉讼",
+      "zh_desc": "索尼与微软已提出动议，要求驳回消费者就其未退还关税退款提起的集体诉讼。该案涉及游戏主机定价，与移动端的休闲/三消游戏几乎无关。",
+      "url": "https://www.gamesindustry.biz/sony-and-microsoft-request-dismissal-of-consumer-lawsuits-over-tariff-refunds",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T11:24:40",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "0715bfc466",
+      "title": "Peak 工作室 Aggro Crab 成立发行品牌，打造“强烈、风格化、有态度”的游戏",
+      "zh_desc": "以 Another Crab's Treasure 等作品知名的 Aggro Crab 宣布成立新的发行品牌，计划扶持“强烈、风格化且有态度”的游戏。作为独立工作室转型发行商的动态，对中小团队有一定话题性，但并非休闲游戏专场。",
+      "url": "https://www.gamesindustry.biz/peak-studio-aggro-crab-establishes-publishing-label-for-intense-stylised-games-with-an-attitude",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T09:29:08",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Peak",
+          "desc": "Aggro Crab 开发的动作游戏，其成功帮助工作室拓展发行业务。"
+        },
+        {
+          "name": "Another Crab's Treasure",
+          "desc": "Aggro Crab 开发的类魂动作冒险游戏。"
+        },
+        {
+          "name": "Rebounder",
+          "desc": "ThirtyThree 开发的精确平台跳跃游戏。"
+        },
+        {
+          "name": "Subway Midnight",
+          "desc": "Bubby Darkstar 开发的迷幻恐怖游戏。"
+        }
+      ]
+    },
+    {
+      "id": "4fb3898d81",
+      "title": "Planet Coaster 开发商 Frontier Developments 宣布基于迪士尼 IP 的新作",
+      "zh_desc": "以 Planet Coaster 闻名的 Frontier Developments 宣布与迪士尼达成合作协议，将基于迪士尼 IP 开发新游戏。该消息属于传统平台游戏动态，对休闲手游从业者的即时参考意义有限。",
+      "url": "https://www.gamesindustry.biz/planet-coaster-studio-frontier-developments-announces-new-title-based-on-disney-ip",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T08:04:49",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Planet Coaster",
+          "desc": "Frontier Developments 开发的过山车乐园经营模拟游戏。"
+        },
+        {
+          "name": "Planet Zoo",
+          "desc": "Frontier Developments 开发的动物园经营模拟游戏。"
+        },
+        {
+          "name": "Jurassic World Evolution",
+          "desc": "Frontier Developments 开发的恐龙主题公园管理模拟游戏。"
+        }
+      ]
+    },
+    {
+      "id": "3993df995c",
+      "title": "英国应用开发者就 App Tracking Transparency 向苹果提出 20 亿英镑索赔",
+      "zh_desc": "该索赔指出苹果在 ATT 规则上对开发者执行更严标准却未限制自身，且苹果广告业务已增长至 74 亿美元。案件将影响移动广告生态与隐私政策走向，涉及广告变现的休闲游戏团队需持续跟进。",
+      "url": "https://mobilegamer.biz/apple-faces-2bn-claim-from-uk-app-developers-over-app-tracking-transparency/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-03T10:04:27",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "6eeff1bdb4",
+      "title": "2026 年有效的 5 种移动游戏广告形式",
+      "zh_desc": "文章梳理了 2026 年真正有效的 5 种移动游戏广告格式：短视频、激励视频、可玩广告、可玩结尾卡片与插屏广告，并说明各自适合的时机和研究方法。对休闲游戏在买量素材和广告变现优化上有直接实操价值。",
+      "url": "https://www.gameanalytics.com/blog/popular-mobile-game-ad-formats",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-09-03T12:09:57",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "3706ab8b38",
+      "title": "不适用于 VR 的游戏设计套路",
+      "zh_desc": "文章总结了当前难以直接平移至 VR 的常见游戏设计套路，并提供了克服这些问题的设计思路。虽然主题是 VR 而非休闲手游，但对跨品类玩法创新有一定参考意义。",
+      "url": "https://www.gameanalytics.com/blog/game-design-tropes-that-dont-translate-to-vr",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-09-03T11:11:41",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "cf089ec1b3",
+      "title": "Bartle 玩家类型分类法：理解你的游戏受众",
+      "zh_desc": "文章系统介绍了 Bartle 玩家分类法中的四种玩家类型：杀手、成就者、社交家与探索者，并讨论如何围绕各类型进行受众理解与游戏设计。该框架对休闲游戏玩家分层、内容设计有通用参考价值。",
+      "url": "https://www.gameanalytics.com/blog/understanding-your-audience-bartle-player-taxonomy",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-09-03T11:10:14",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "671213796b",
+      "title": "如何打造一款 iMessage 游戏：iOS 信息扩展开发者指南",
+      "zh_desc": "文章为想开发 iMessage 游戏的开发者提供了从 Xcode 配置、信息扩展实现、参与机制到发布推广的全流程指南。休闲小游戏团队可借此探索苹果即时通讯生态的获客裂变场景。",
+      "url": "https://www.gameanalytics.com/blog/how-to-make-an-imessage-game",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-09-03T11:09:52",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "94eb23251d",
+      "title": "移动游戏微交易解析：运作方式、重要性及未来变化",
+      "zh_desc": "文章全面解析移动游戏微交易的定义、顶级工作室玩法、伦理争议与 2026 年付费模式的演进方向。对于休闲游戏设计内购、混合变现和规避付费陷阱具有重要的实践指导意义。",
+      "url": "https://www.gameanalytics.com/blog/microtransactions-games-good-bad-ugly",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-09-03T11:09:02",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Tribez",
+          "desc": "一款模拟经营游戏，玩家可通过微交易加速游戏进程。"
+        }
+      ]
+    },
+    {
+      "id": "484c540c29",
+      "title": "核心游戏循环：如何设计、测试并优化",
+      "zh_desc": "文章给出核心游戏循环的设计、测试与优化方法，并以高收入作品为例说明如何让玩家产生重复游玩动力。对依赖短周期反馈和长期留存的休闲游戏/三消产品尤其适用。",
+      "url": "https://www.gameanalytics.com/blog/how-to-perfect-your-games-core-loop",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-09-03T11:08:35",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Super Mario Bros.",
+          "desc": "任天堂的经典横版平台跳跃游戏，核心循环是走、跑、跳与闯关。"
+        }
+      ]
+    },
+    {
+      "id": "a888725c54",
+      "title": "Dead Rails 如何成为 Roblox 爆款：数据解析其成功",
+      "zh_desc": "文章结合数据拆解 Roblox 游戏 Dead Rails 在玩法、KOL 策略与平台算法层面的成功方法。这些经验对关注 UGC 平台、社交裂变或新型分发渠道的休闲游戏团队有借鉴意义。",
+      "url": "https://www.gameanalytics.com/blog/dead-rails-and-the-hit-makers-formula",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-09-03T11:06:40",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dead Rails",
+          "desc": "Roblox 上的狂野西部题材僵尸生存游戏，近期成为热门爆款。"
+        }
+      ]
+    },
+    {
+      "id": "d7681df7aa",
+      "title": "如何为你的游戏建立 Discord 社区：5 步指南",
+      "zh_desc": "文章提供了一套从服务器搭建、角色划分、内容运营到社群治理的 Discord 社区建设方法。对希望建立核心玩家社群、提升长期留存和口碑传播的游戏团队是实用指南。",
+      "url": "https://www.gameanalytics.com/blog/building-discord-community",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-09-03T11:06:14",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "5ecaf2e7e0",
+      "title": "每个游戏开发者都应跟踪的 22 项指标（以及计算方法）",
+      "zh_desc": "文章定义了 DAU、留存率、ARPU、LTV 等 22 项游戏关键指标，并给出计算公式和真实决策场景中的用法。对休闲游戏团队搭建数据化运营体系、优化买量与留存非常有帮助。",
+      "url": "https://www.gameanalytics.com/blog/metrics-all-game-developers-should-know",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-09-03T11:05:44",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a33f80e185",
+      "title": "游戏变现策略：2026 年有效模式的完整指南",
+      "zh_desc": "文章系统梳理了 2026 年有效的游戏变现模式：内购、广告、混合变现、订阅制与 Battle Pass，并结合品类和研发阶段给出选择建议。休闲游戏发行与变现负责人可将其作为策略参考。",
+      "url": "https://www.gameanalytics.com/blog/traditional-monetization-strategies",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-09-03T11:05:10",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "192243f166",
+      "title": "塔防游戏：头部畅销作品背后的关键指标",
+      "zh_desc": "文章从数据角度分析了头部塔防游戏与一般产品的留存、变现和参与度差异。塔防与三消同属热门休闲品类，其指标体系和方法论可供休闲游戏团队对标。",
+      "url": "https://www.gameanalytics.com/blog/metrics-behind-successful-tower-defense-games",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-09-03T11:03:59",
+      "fetched_at": "2026-09-04T00:07:39",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "21dc379c4c",
       "title": "AI 如何解锁新颖的游戏机制",
