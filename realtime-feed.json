@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-03T04:33:27",
+  "updated_at": "2026-09-03T15:49:03",
   "articles": [
+    {
+      "id": "f967531775",
+      "title": "Epic Games 首席执行官 Tim Sweeney：游戏行业正经历自1980年代以来最严重的崩盘",
+      "zh_desc": "Epic Games CEO Tim Sweeney 在接受《Edge》杂志采访时表示，当前游戏行业正在经历自1980年代以来最严重的崩盘。该访谈对行业困境的最新判断，可供从业者了解宏观环境与风险预期。",
+      "url": "https://www.gamesindustry.biz/this-is-the-worst-crash-weve-seen-since-the-1980s-says-tim-sweeney",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T07:29:48",
+      "fetched_at": "2026-09-03T15:49:03",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "5389519dbe",
+      "title": "广告与创意智能术语完整词汇表 — GameAnalytics",
+      "zh_desc": "GameAnalytics 发布的移动游戏广告与创意智能术语清单，集中定义了 UA 和创意团队在 2026 年需要掌握的各类核心概念。休闲游戏投放与素材人员可将其作为案头参考资料，用于统一术语和优化投放沟通。",
+      "url": "https://www.gameanalytics.com/blog/ad-creative-intelligence-glossary",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-03T07:26:51",
+      "fetched_at": "2026-09-03T15:49:03",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "dbde9fc2fb",
       "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
