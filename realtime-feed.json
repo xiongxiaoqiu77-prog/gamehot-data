@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-09-04T00:07:39",
+  "updated_at": "2026-09-04T00:42:34",
   "articles": [
+    {
+      "id": "f1f9882335",
+      "title": "“最佳工作场所奖”特别类别投票延期",
+      "zh_desc": "GamesIndustry.biz 宣布今年“最佳工作场所奖”特别类别的提名截止日期延长，常规奖项已进入评审阶段。这是游戏行业人才与公司文化方面的动态，对了解欧美游戏公司雇主品牌和行业评选节奏有参考价值。",
+      "url": "https://www.gamesindustry.biz/voting-extended-for-special-categories-in-the-best-places-to-work-awards",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T16:30:22",
+      "fetched_at": "2026-09-04T00:42:34",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "bafbd74344",
+      "title": "英伟达以近 130 亿美元收购 Hugging Face",
+      "zh_desc": "报道英伟达拟以近 130 亿美元收购 AI 模型托管平台 Hugging Face，被视为今年重大 AI 交易之一。对依赖 AI 工具和关注模型托管、开源生态的游戏开发者有间接影响。",
+      "url": "https://gameworldobserver.com/2026/09/03/nvidia-is-acquiring-hugging-face-for-nearly-13-billion",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T16:02:07",
+      "fetched_at": "2026-09-04T00:42:34",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "d2a733c875",
+      "title": "AnalyticsIQ：将玩家数据转化为增长决策——GameAnalytics",
+      "zh_desc": "GameAnalytics 介绍旗下 IQ Suite 分析工具组合，强调将长期的数据能力转化为帮助工作室理解玩家并做出增长决策的产品。对移动与休闲游戏团队了解数据平台能力有参考价值，但本质仍是厂商产品宣传而非深度方法拆解。",
+      "url": "https://www.gameanalytics.com/blog/analyticsiq",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T11:11:26",
+      "fetched_at": "2026-09-04T00:42:34",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "44d9ba1b54",
       "title": "Gamecity Hamburg 启动第二轮原型资助计划",
