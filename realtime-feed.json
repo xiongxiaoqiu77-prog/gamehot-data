@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-04T00:42:34",
+  "updated_at": "2026-09-04T02:19:31",
   "articles": [
+    {
+      "id": "3587a5a38a",
+      "title": "GungHo 的 Disney Pixel RPG 将于 9 月 30 日停运",
+      "zh_desc": "GungHo 宣布旗下 Disney Pixel RPG 将于 2026 年 9 月 30 日停运，游戏将在推出最终故事内容与活动后结束运营。对从业者而言，这是一条观察手游产品生命周期与 IP 授权项目取舍的行业动态。",
+      "url": "https://mobilegamer.biz/gunghos-disney-pixel-rpg-shutting-down-on-september-30/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-03T17:53:43",
+      "fetched_at": "2026-09-04T02:19:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Disney Pixel RPG",
+          "desc": "GungHo开发的移动端复古风格角色扮演游戏，将于9月30日停运。"
+        }
+      ]
+    },
     {
       "id": "f1f9882335",
       "title": "“最佳工作场所奖”特别类别投票延期",
