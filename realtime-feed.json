@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-04T13:44:47",
+  "updated_at": "2026-09-04T15:57:03",
   "articles": [
+    {
+      "id": "ea259244cd",
+      "title": "Xbox 为 Game Pass 新增月度云游戏时长上限，称“继续投资于可靠性与性能”",
+      "zh_desc": "Xbox 宣布自 2026 年 11 月起对 Game Pass 订阅者的云游戏时长设置月度上限，官方称此举是为持续提升可靠性与性能。该消息属于游戏平台订阅与云游戏动态，对休闲/手游从业者属于一般性资讯。",
+      "url": "https://www.gamesindustry.biz/xbox-adds-monthly-cloud-limits-to-game-pass-as-it-continues-to-invest-in-its-reliability-and-performance",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-04T07:37:02",
+      "fetched_at": "2026-09-04T15:57:03",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "0ef8295cdc",
+      "title": "让你的广告投放保持季节性：如何安排创意素材刷新周期",
+      "zh_desc": "GameAnalytics 围绕手游买量场景，讲解创意素材何时会出现疲劳、何时该刷新，并提供季节性广告日历的规划思路。对休闲游戏 UA/投放从业者有较强的实操参考价值。",
+      "url": "https://www.gameanalytics.com/blog/creative-refresh-cycles-timing",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-04T07:44:54",
+      "fetched_at": "2026-09-04T15:57:03",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "329596018d",
       "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
