@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-09-06T09:42:29",
+  "updated_at": "2026-09-06T10:15:52",
   "articles": [
+    {
+      "id": "2d2263d067",
+      "title": "特朗普白宫推出MAGA版Snake、Flappy Bird、Tetris等游戏",
+      "zh_desc": "美国白宫发布五款特朗普主题的趣味游戏，将Snake、Flappy Bird、Tetris等经典/手机玩法进行政治化改造。内容属于移动游戏行业的营销新闻，可作为主题化创意案例参考，但没有涉及休闲游戏的玩法、关卡、数值或变现分析。",
+      "url": "https://mobilegamer.biz/trumps-white-house-has-made-maga-versions-of-snake-flappy-bird-tetris-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-04T09:24:42",
+      "fetched_at": "2026-09-06T10:15:52",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Flappy Bill",
+          "desc": "MAGA版Flappy Bird，玩家控制秃鹰躲避白宫式柱子"
+        },
+        {
+          "name": "Rio Run",
+          "desc": "MAGA版Snake，玩家收集并驱逐越过格兰德河的人"
+        },
+        {
+          "name": "Tetris",
+          "desc": "MAGA版Tetris，玩家修建边境墙以抵御即将到来的大军"
+        },
+        {
+          "name": "Trump Savings Tycoon",
+          "desc": "类似Duck Hunt的游戏，点击飞行物品存入特朗普账户"
+        },
+        {
+          "name": "Supply Line",
+          "desc": "点击传送带上的不健康食品以将其从儿童学校午餐中移除"
+        }
+      ]
+    },
     {
       "id": "787e216e68",
       "title": "策略性打造《Star Wars Zero Company》：与Greg Foertsch对谈",
