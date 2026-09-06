@@ -1,6 +1,85 @@
 {
-  "updated_at": "2026-09-06T09:09:17",
+  "updated_at": "2026-09-06T09:42:29",
   "articles": [
+    {
+      "id": "787e216e68",
+      "title": "策略性打造《Star Wars Zero Company》：与Greg Foertsch对谈",
+      "zh_desc": "Bit Reactor CEO兼《Star Wars Zero Company》创意总监Greg Foertsch分享了团队在策略和创意层面的取舍，包括星战IP改编、项目方向与管理方法。对关注3A游戏研发幕后与制作策略的从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-04T14:15:00",
+      "fetched_at": "2026-09-06T09:42:29",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "星球大战题材的回合制战术游戏，由Bit Reactor开发并已正式发售。"
+        },
+        {
+          "name": "XCOM: Enemy Unknown",
+          "desc": "Firaxis开发的回合制战术游戏，多名Bit Reactor员工曾参与制作。"
+        },
+        {
+          "name": "XCOM 2",
+          "desc": "Firaxis开发的回合制战术游戏，多名Bit Reactor员工曾参与制作。"
+        }
+      ]
+    },
+    {
+      "id": "216152af80",
+      "title": "Nvidia以129亿美元收购开源AI平台Hugging Face",
+      "zh_desc": "英伟达宣布以129亿美元收购开源AI平台Hugging Face，交易将深刻影响AI模型的开发与分发生态。游戏开发者在应用生成式AI与开源模型时，可关注后续工具与服务的变化。",
+      "url": "https://www.gamesindustry.biz/nvidia-acquires-open-source-ai-platform-hugging-face-for-129bn",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-04T13:50:36",
+      "fetched_at": "2026-09-06T09:42:29",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "3d5902df76",
+      "title": "GTA 6 Netflix试玩预览令英国PlayStation和Xbox硬件销量上涨",
+      "zh_desc": "文章报道了《GTA 6》在Netflix平台推出预览后，英国PlayStation 5和Xbox Series X|S主机销量出现明显增长。该案例说明重磅内容对主机硬件的拉动作用，可作为市场联动思路参考。",
+      "url": "https://www.gamesindustry.biz/gta-6-netflix-preview-causes-playstation-and-xbox-hardware-sales-to-jump-in-the-uk",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-04T09:09:47",
+      "fetched_at": "2026-09-06T09:42:29",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "预计11月发售的开放世界动作游戏，其Netflix预览带动主机硬件销量上涨。"
+        },
+        {
+          "name": "Call of Duty: Modern Warfare 4",
+          "desc": "预计10月发布的射击游戏，与GTA 6同期可能共同影响硬件市场。"
+        }
+      ]
+    },
+    {
+      "id": "1c5836e1e3",
+      "title": "《Escape from Tarkov》开发商成立发行部门",
+      "zh_desc": "《Escape from Tarkov》开发商宣布成立发行部门，计划对外代理第三方游戏，尽管行业处于调整期，发行商数量仍有所增加。该动态可为游戏公司战略布局提供参考。",
+      "url": "https://gameworldobserver.com/2026/09/04/the-developer-of-escape-from-tarkov-has-launched-a-publishing-division",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-04T11:52:33",
+      "fetched_at": "2026-09-06T09:42:29",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Escape from Tarkov",
+          "desc": "由Battlestate Games开发的硬核多人射击游戏，该开发商现已成立发行部门。"
+        }
+      ]
+    },
     {
       "id": "8a9cd6b181",
       "title": "PAX Unplugged Houston将于2027年6月首次举办：“有机会把PAX带回想念PAX South的粉丝”",
