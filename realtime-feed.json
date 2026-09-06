@@ -1,6 +1,113 @@
 {
-  "updated_at": "2026-09-04T15:57:03",
+  "updated_at": "2026-09-06T09:09:17",
   "articles": [
+    {
+      "id": "8a9cd6b181",
+      "title": "PAX Unplugged Houston将于2027年6月首次举办：“有机会把PAX带回想念PAX South的粉丝”",
+      "zh_desc": "ReedPop与Penny Arcade宣布首届PAX Unplugged Houston将在2027年6月举行。展会定位桌游与线下游戏社群，属于行业活动资讯，与休闲手游研发和运营没有直接关联。",
+      "url": "https://www.gamesindustry.biz/pax-unplugged-houston-to-debut-in-june-2027-its-a-chance-to-bring-pax-back-to-the-pax-south-fans-that-missed-us",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-04T18:00:00",
+      "fetched_at": "2026-09-06T09:09:17",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "34b9311eb9",
+      "title": "透视腾讯长期战略：live service、AI工具与常青游戏",
+      "zh_desc": "在业界对live service模式争论不休的背景下，文章剖析腾讯为何继续押注服务型游戏、AI工具与常青产品，并解释其长期增长逻辑。对于关注手游长线运营、技术工具投入和跨品类矩阵的发行/研发团队具有行业参考价值。",
+      "url": "https://www.gamesindustry.biz/inside-tencents-long-term-strategy-live-service-ai-tools-and-evergreen-titles",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-04T15:57:03",
+      "fetched_at": "2026-09-06T09:09:17",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Highguard",
+          "desc": "A live-service title reportedly backed by Tencent subsidiary TiMi Studio Group, described as a recent casualty."
+        },
+        {
+          "name": "Honor of Kings",
+          "desc": "Tencent's flagship 5v5 MOBA and a core evergreen live-service game."
+        },
+        {
+          "name": "League of Legends",
+          "desc": "A landmark multiplayer online battle arena (MOBA) and cornerstone of Tencent's live-service strategy."
+        },
+        {
+          "name": "Valorant",
+          "desc": "A competitive tactical first-person shooter (FPS) from Riot Games/Tencent."
+        },
+        {
+          "name": "Still Wakes the Deep",
+          "desc": "A first-person narrative horror game developed by The Chinese Room."
+        }
+      ]
+    },
+    {
+      "id": "a153eb06a9",
+      "title": "未来并不完美：对下一个十年的五项预测 | 观点",
+      "zh_desc": "围绕Gamescom、Edge等行业讨论中显露的焦虑情绪，作者提出未来十年游戏产业可能出现的五个趋势。文章是宏观行业观点和风险判断，能帮助从业者感知大环境风向，但缺少针对休闲游戏设计/变现的具体拆解。",
+      "url": "https://www.gamesindustry.biz/future-imperfect-five-predictions-for-the-next-decade-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-04T12:16:41",
+      "fetched_at": "2026-09-06T09:09:17",
+      "lang": "en",
+      "games": [
+        {
+          "name": "E.T.",
+          "desc": "The infamous Atari 2600 tie-in game often cited as a symbol of the 1983 videogame crash."
+        }
+      ]
+    },
+    {
+      "id": "61cbbde6db",
+      "title": "新游速览：Saints Row: The Third、Overwatch Rush、Palworld Online、Bleach、Colony等",
+      "zh_desc": "本周新游合集收录多款移动端/跨平台作品，名单包括Saints Row: The Third、Overwatch Rush、Palworld Online、Bleach和Colony等。其中也提到Miniclip的新解谜产品和一款朋克摇滚物理解谜游戏，适合休闲从业者快速扫描新品动态。",
+      "url": "https://mobilegamer.biz/new-game-digest-saints-row-overwatch-palworld-bleach-colony-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-04T09:56:27",
+      "fetched_at": "2026-09-06T09:09:17",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Saints Row: The Third Remastered",
+          "desc": "A remastered open-world action game, originally THQ's GTA-like title, coming to mobile with all DLC."
+        },
+        {
+          "name": "Overwatch Rush",
+          "desc": "Blizzard's made-for-mobile hero shooter, currently in soft launch."
+        },
+        {
+          "name": "Palworld Online",
+          "desc": "A licensed MMORPG from Garena that brings Palworld's creature-collecting survival gameplay into a shared online world."
+        },
+        {
+          "name": "Bleach Mirrors High",
+          "desc": "An officially licensed team battler-RPG based on Bleach, made with creator Tite Kubo."
+        },
+        {
+          "name": "Colony",
+          "desc": "A 4X survival game featuring AI-driven agentic characters and real-time 3D item generation."
+        },
+        {
+          "name": "Bird Find – Logic Puzzle Game",
+          "desc": "A hidden-object style logic puzzler from Miniclip, currently soft-launched."
+        },
+        {
+          "name": "Shoe It All",
+          "desc": "A punk rock physics puzzler where players fling shoes through over 65 levels."
+        }
+      ]
+    },
     {
       "id": "ea259244cd",
       "title": "Xbox 为 Game Pass 新增月度云游戏时长上限，称“继续投资于可靠性与性能”",
