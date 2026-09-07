@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-07T16:30:23",
+  "updated_at": "2026-09-07T17:03:54",
   "articles": [
+    {
+      "id": "66a240d3bd",
+      "title": "Niko Partners报告：2025年中国游戏市场首次突破500亿美元",
+      "zh_desc": "据Niko Partners数据，2025年中国游戏市场规模达518亿美元，同比增长5.4%，首次突破500亿美元。该报告为从业者提供了中国游戏市场的最新规模与增长状况，可作为休闲游戏产品进入中国市场或进行市场研判的宏观参考。",
+      "url": "https://www.gamesindustry.biz/niko-partners-chinese-games-market-surpasses-50bn-for-the-first-time-in-2025",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-07T07:54:06",
+      "fetched_at": "2026-09-07T17:03:54",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "1cbec6b93b",
       "title": "伊斯坦布尔创始人不再问的问题",
