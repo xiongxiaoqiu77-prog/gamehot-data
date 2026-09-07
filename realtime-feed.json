@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-06T10:15:52",
+  "updated_at": "2026-09-07T16:30:23",
   "articles": [
+    {
+      "id": "1cbec6b93b",
+      "title": "伊斯坦布尔创始人不再问的问题",
+      "zh_desc": "Deconstructor of Fun 对伊斯坦布尔游戏从业者 Akin Babayigit 的访谈，围绕土耳其游戏产业已做了什么、由谁做以及下一步走向展开。土耳其是休闲/超休闲手游的重要产地，这篇访谈对关注全球手游生态的从业者有背景参考价值，但并非玩法/变现拆解。",
+      "url": "https://www.deconstructoroffun.com/blog/questions-istanbul-founders-stopped-asking",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-07T07:51:33",
+      "fetched_at": "2026-09-07T16:30:23",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "2d2263d067",
       "title": "特朗普白宫推出MAGA版Snake、Flappy Bird、Tetris等游戏",
