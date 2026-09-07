@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-08T00:50:49",
+  "updated_at": "2026-09-08T01:24:53",
   "articles": [
+    {
+      "id": "0897211082",
+      "title": "Capcom 表示将在《Onimusha: Way of the Sword》获得突破性发售后专注于重启沉寂 IP",
+      "zh_desc": "Capcom 在确认《Onimusha: Way of the Sword》首发表现强劲后表示，将更积极地把资源投入到已沉睡的经典 IP 复活上。这是一条传统大厂策略层面的行业新闻，可用来观察主机/PC 市场的 IP 重启趋势，与休闲手游设计或运营无直接关系。",
+      "url": "https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T16:51:44",
+      "fetched_at": "2026-09-08T01:24:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Onimusha: Way of the Sword",
+          "desc": "Capcom旗下沉寂多年的《鬼武者》系列最新主线动作游戏，玩家扮演宫本武藏在江户时代的京都展开冒险。"
+        }
+      ]
+    },
     {
       "id": "1cdcdba3e6",
       "title": "Tim Schafer：除了我，没有人能让 Double Fine 倒闭",
