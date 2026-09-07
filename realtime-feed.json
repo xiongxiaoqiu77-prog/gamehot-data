@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-08T00:16:35",
+  "updated_at": "2026-09-08T00:50:49",
   "articles": [
+    {
+      "id": "1cdcdba3e6",
+      "title": "Tim Schafer：除了我，没有人能让 Double Fine 倒闭",
+      "zh_desc": "Double Fine 的负责人 Tim Schafer 谈到在 Xbox 大幅裁员之后工作室如何避免关闭，并强调工作室的命运由自己掌握。该事件属于主机/独立游戏领域动态，对休闲手游从业者而言参考价值有限，但可观察行业波动下团队生存策略。",
+      "url": "https://www.gamesindustry.biz/tim-schafer-no-one-puts-double-fine-out-of-business-except-me",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T13:07:52",
+      "fetched_at": "2026-09-08T00:50:49",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Keeper",
+          "desc": "Double Fine 旗下游戏，被 Tim Schafer 称为看起来像“艺术片”、但有大众市场吸引力。"
+        },
+        {
+          "name": "Kiln",
+          "desc": "Double Fine 旗下与 Keeper 一同被指出财务表现不佳的游戏。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "被 Tim Schafer 引作“当年需要那样的爆款才能救工作室”的例子的游戏。"
+        }
+      ]
+    },
+    {
+      "id": "3904a09754",
+      "title": "Gamescom 对硬件失窃事件的最初回应致歉：未向受影响者表达应有同理心",
+      "zh_desc": "Gamescom 官方针对今年展会上发生的硬件失窃事件，承认最初回应方式不够妥当，未能展现应有的同理心并致歉。这是游戏展会运营与公关相关的一般性新闻，与休闲游戏研发与变现没有直接关系。",
+      "url": "https://www.gamesindustry.biz/gamescom-issues-apology-for-initial-response-to-hardware-thefts-it-did-not-show-the-people-affected-the-empathy-they-deserve",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T10:38:03",
+      "fetched_at": "2026-09-08T00:50:49",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mimic",
+          "desc": "Ryan Laley 开发的独立游戏，作者在 Gamescom 展会期间全部笔记本电脑被盗。"
+        },
+        {
+          "name": "The Zibbo Show",
+          "desc": "Tessera Studios 开发的游戏，参展 Gamescom 时遭遇展柜被撬、设备被盗。"
+        }
+      ]
+    },
     {
       "id": "c7edfb0650",
       "title": "“它不性感，但它是 Steam 上最成功的品类之一”——《Stronghold》开发商 Firefly 进军发行市场",
