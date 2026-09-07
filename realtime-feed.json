@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-08T01:24:53",
+  "updated_at": "2026-09-08T03:05:28",
   "articles": [
+    {
+      "id": "6d7d3b1f55",
+      "title": "Don't Nod 警告：若无额外融资，2027年1月后可能无法继续运营",
+      "zh_desc": "Don't Nod 提示其持续经营能力存在重大不确定性，除非获得新的外部融资，否则可能无法支撑到 2027 年 1 月 31 日之后。这是一条游戏公司财务层面的行业新闻，可用来观察非休闲类开发商当前的融资压力，但不涉及三消/休闲游戏设计或变现分析。",
+      "url": "https://www.gamesindustry.biz/dont-nod-warns-it-may-not-have-enough-funding-to-operate-beyond-january-2027",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T18:42:05",
+      "fetched_at": "2026-09-08T03:05:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Aphelion",
+          "desc": "科幻冒险游戏"
+        }
+      ]
+    },
     {
       "id": "0897211082",
       "title": "Capcom 表示将在《Onimusha: Way of the Sword》获得突破性发售后专注于重启沉寂 IP",
