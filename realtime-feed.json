@@ -1,6 +1,173 @@
 {
-  "updated_at": "2026-09-07T17:03:54",
+  "updated_at": "2026-09-08T00:16:35",
   "articles": [
+    {
+      "id": "c7edfb0650",
+      "title": "“它不性感，但它是 Steam 上最成功的品类之一”——《Stronghold》开发商 Firefly 进军发行市场",
+      "zh_desc": "Firefly 宣布成立策略游戏发行品牌 Wuselfaktory，首发作品是由新团队 Loot Donkey 开发的《Fool King》，定位为带 roguelike 元素的战术自走棋。新闻说明 PC 策略品类仍有大量未被满足的用户，可作为休闲游戏公司跨品类参考。",
+      "url": "https://www.gamesindustry.biz/its-not-sexy-but-its-one-of-the-most-successful-genres-on-steam-stronghold-developer-firefly-steps-up-to-publisher-to-serve-the-vast-strategy-market",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T15:34:14",
+      "fetched_at": "2026-09-08T00:16:35",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Stronghold",
+          "desc": "Firefly开发的经典城堡建造与即时战略游戏系列。"
+        },
+        {
+          "name": "Fool King",
+          "desc": "由Loot Donkey开发、Firefly发行的战术自动战斗游戏，带有Roguelike元素。"
+        }
+      ]
+    },
+    {
+      "id": "fbae2b2e83",
+      "title": "世嘉取消“有风险”的 Super Game 项目：称需增长到极大规模才能匹配服务型产品",
+      "zh_desc": "世嘉今年早些时候叫停了内部代号 Super Game 的 live-service 项目，原因是项目要达到服务型产品规模所需增长过大，现阶段风险太高。这一决定反映传统主机厂商开始重新评估大作服务化投入。",
+      "url": "https://www.gamesindustry.biz/sega-cancelled-its-risky-super-game-project-as-it-would-have-to-grow-enormously-to-match-the-scale-of-the-service",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T14:03:15",
+      "fetched_at": "2026-09-08T00:16:35",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Phantasy Star Online 2: New Genesis",
+          "desc": "世嘉的在线动作RPG，属于长期运营的服务型游戏。"
+        },
+        {
+          "name": "Sega Football Club Champions 2026",
+          "desc": "世嘉旗下足球主题的服务型游戏。"
+        },
+        {
+          "name": "Total War: Warhammer 40,000",
+          "desc": "Creative Assembly开发的战锤40K题材策略游戏，计划以服务型模式运营。"
+        },
+        {
+          "name": "Hyenas",
+          "desc": "Creative Assembly开发后于2023年被取消的多人服务型游戏。"
+        },
+        {
+          "name": "Honor of Kings",
+          "desc": "腾讯发行的多人在线战术竞技（MOBA）手游。"
+        },
+        {
+          "name": "League of Legends",
+          "desc": "腾讯涉及运营的多人在线战术竞技（MOBA）游戏。"
+        },
+        {
+          "name": "Valorant",
+          "desc": "Riot Games开发的战术射击游戏，与腾讯关联紧密。"
+        }
+      ]
+    },
+    {
+      "id": "79737be8ae",
+      "title": "报道称新任 App Store 负责人 Eddy Cue 希望从开发者身上“榨取更多收入”",
+      "zh_desc": "根据前 App Review 主管 Phillip Shoemaker 的观察，Eddy Cue 接管 App Store 后可能推进更多收入增长措施。对依赖内购和订阅的休闲游戏开发者，苹果商店政策动向值得持续跟踪。",
+      "url": "https://mobilegamer.biz/new-app-store-boss-eddy-cue-wants-to-squeeze-additional-revenue-from-developers-says-report/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-07T15:53:55",
+      "fetched_at": "2026-09-08T00:16:35",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a376072605",
+      "title": "Lego Digital Play 收购《Chrome Valley Customs》开发商 Offroad Games",
+      "zh_desc": "乐高旗下伦敦工作室 Lego Digital Play 首次公开重大收购，将《Chrome Valley Customs》开发商 Offroad Games 纳入麾下，条款未披露。这一动作由资深手游高管 Aaron Loeb 主导，显示乐高正在强化移动与休闲游戏布局。",
+      "url": "https://mobilegamer.biz/lego-digital-play-snaps-up-chrome-valley-customs-maker-offroad-games/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-07T10:53:48",
+      "fetched_at": "2026-09-08T00:16:35",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Chrome Valley Customs",
+          "desc": "Offroad Games开发的汽车主题游戏。"
+        },
+        {
+          "name": "BeatStar",
+          "desc": "由NextBeat运营的音乐节奏游戏，后被Duolingo收购。"
+        }
+      ]
+    },
+    {
+      "id": "5c3401ffbd",
+      "title": "人才动态：Savvy、Supercell、King、Zynga、Apple、Lion 等公司的人事调动与招聘汇总",
+      "zh_desc": "文章汇总了多家移动游戏公司及周边厂商的人事任命和招聘信息，涉及 Savvy、Supercell、King、Zynga、Apple、Lion、Huuuge、Voodoo、Playtika 等。这是休闲游戏从业者掌握核心公司人才流向的快速索引。",
+      "url": "https://mobilegamer.biz/jobs-digest-moves-and-promotions-at-savvy-supercell-king-zynga-apple-lion-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T10:18:51",
+      "fetched_at": "2026-09-08T00:16:35",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Everdale",
+          "desc": "Supercell开发的模拟经营类游戏。"
+        },
+        {
+          "name": "Hay Day",
+          "desc": "Supercell开发的农场经营模拟游戏。"
+        },
+        {
+          "name": "Boom Beach",
+          "desc": "Supercell开发的策略战争游戏。"
+        },
+        {
+          "name": "Rise of Kingdoms",
+          "desc": "莉莉丝游戏开发的多文明历史题材SLG策略游戏。"
+        },
+        {
+          "name": "Candy Crush Saga",
+          "desc": "King开发的三消益智游戏。"
+        },
+        {
+          "name": "Farm Heroes Saga",
+          "desc": "King开发的三消益智游戏，以农场题材为主。"
+        },
+        {
+          "name": "Pet Rescue Saga",
+          "desc": "King开发的三消益智游戏，主题是营救宠物。"
+        },
+        {
+          "name": "Slotomania",
+          "desc": "Playtika旗下的社交老虎机赌博模拟游戏。"
+        }
+      ]
+    },
+    {
+      "id": "87234b970c",
+      "title": "DON’T NOD 正在耗尽最后的现金",
+      "zh_desc": "曾开发《Remember Me》和初代《Life Is Strange》的 DON’T NOD 剩余现金只能支撑几个月，2027 年 1 月后的前景存在疑问。该案例对关注中型叙事团队商业模式和现金流管理的人有警示价值。",
+      "url": "https://gameworldobserver.com/2026/09/07/dont-nod-is-burning-through-its-last-cash",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-07T12:27:07",
+      "fetched_at": "2026-09-08T00:16:35",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Remember Me",
+          "desc": "DON'T NOD开发的赛博朋克题材动作冒险游戏。"
+        },
+        {
+          "name": "Life Is Strange",
+          "desc": "DON'T NOD开发的叙事驱动章节式冒险游戏，为系列初代。"
+        }
+      ]
+    },
     {
       "id": "66a240d3bd",
       "title": "Niko Partners报告：2025年中国游戏市场首次突破500亿美元",
