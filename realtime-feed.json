@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-09T01:15:49",
+  "updated_at": "2026-09-09T01:49:23",
   "articles": [
+    {
+      "id": "91230842bd",
+      "title": "Tim Schafer 称 Double Fine 的独特游戏若能找到受众，也可成为商业热门",
+      "zh_desc": "Double Fine 负责人 Tim Schafer 表示，工作室在 Xbox 旗下时并未盈利；他认为独特游戏只要能找到目标受众，就同样有机会成为商业热门。该访谈对独立游戏受众定位与发行策略有参考意义，但与休闲手游的直接关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/tim-schafer-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-08T17:14:18",
+      "fetched_at": "2026-09-09T01:49:23",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Keeper",
+          "desc": "Double Fine开发的一款独特游戏，商业上不成功，但Schafer认为有大众市场吸引力。"
+        },
+        {
+          "name": "Kiln",
+          "desc": "Double Fine的另一款新作，同样在商业上未取得成功。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "被提及作为突破性商业大热门的例子。"
+        }
+      ]
+    },
     {
       "id": "ec0b1c2eed",
       "title": "距 WN Conference Cyprus ’26 展位展示与独立游戏推介报名截止仅剩三天",
