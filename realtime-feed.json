@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-09-09T00:09:26",
+  "updated_at": "2026-09-09T00:43:03",
   "articles": [
+    {
+      "id": "8e31946ac3",
+      "title": "为什么世界需要一个 Club Penguin 的继任者——但不是 Roblox",
+      "zh_desc": "文章回顾了迪士尼旗下 Flash MMO Club Penguin 曾拥有超过3亿注册用户、成为一代儿童的社交启蒙产品，并探讨为何在 Roblox 时代，儿童虚拟世界仍需要更安全、更有治理的替代者。对面向儿童和家庭用户的休闲社区产品开发者具有背景参考价值。",
+      "url": "https://www.gamesindustry.biz/why-the-world-needs-a-club-penguin-successor-that-isnt-roblox",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-08T15:46:17",
+      "fetched_at": "2026-09-09T00:43:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Club Penguin",
+          "desc": "迪士尼旗下基于Flash的MMO游戏，面向儿童，2005至2017年运营。"
+        },
+        {
+          "name": "Club Penguin Island",
+          "desc": "Club Penguin的移动端继任者，于2018年12月关闭。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "在线游戏平台，许多孩子首次接触的在线世界，但被认为不够安全。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "大型在线竞技游戏，孩子们从Club Penguin毕业后会去玩。"
+        },
+        {
+          "name": "Imagine Island",
+          "desc": "Magic Potion Games开发的精神继任者，面向6-13岁儿童，注重实时监管和年龄安全功能。"
+        }
+      ]
+    },
     {
       "id": "94d371f541",
       "title": "AI 如何改变用户获取",
