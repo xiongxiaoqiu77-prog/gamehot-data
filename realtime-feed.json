@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-09T01:49:23",
+  "updated_at": "2026-09-09T02:22:13",
   "articles": [
+    {
+      "id": "1d16c442e9",
+      "title": "报道：EA 在 NHL 27 中使用生成式 AI 制作解说配音",
+      "zh_desc": "资深解说员 John Buccigross 称 EA 向其展示了用生成式 AI 模拟他的声音为 NHL 27 录制游戏解说旁白的技术。该消息可作为大型厂商将 AI 用于游戏内容生产的一个行业动态参考，但与休闲游戏的玩法、数值或 LiveOps 无直接关联。",
+      "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-08T18:00:00",
+      "fetched_at": "2026-09-09T02:22:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "NHL 27",
+          "desc": "EA Sports的职业冰球模拟游戏，据称使用生成式AI制作解说配音。"
+        }
+      ]
+    },
     {
       "id": "91230842bd",
       "title": "Tim Schafer 称 Double Fine 的独特游戏若能找到受众，也可成为商业热门",
