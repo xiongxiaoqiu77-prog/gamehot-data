@@ -1,6 +1,116 @@
 {
-  "updated_at": "2026-09-08T10:13:15",
+  "updated_at": "2026-09-08T16:21:12",
   "articles": [
+    {
+      "id": "d084b54ed8",
+      "title": "《Assassin's Creed Black Flag Resynced》在7月PC与主机收入榜跻身前五 | Newzoo Charts",
+      "zh_desc": "据Newzoo 7月收入榜，重制/移植作品成为市场增长的主要动力，《Assassin's Creed Black Flag Resynced》首发排在PC端第二、主机端第四。该榜单反映经典IP复刻在双端的收入表现，可作为非休闲赛道市场参考。",
+      "url": "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-debuts-in-top-5-for-pc-and-console-revenue-in-july-newzoo-charts",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-08T07:57:07",
+      "fetched_at": "2026-09-08T16:21:12",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Assassin's Creed Black Flag Resynced",
+          "desc": "《刺客信条》系列首款重制版，开放世界动作冒险游戏。"
+        },
+        {
+          "name": "Halo: Campaign Evolved",
+          "desc": "《光环》系列战役重制版，第一人称射击游戏。"
+        },
+        {
+          "name": "Call of Duty: Black Ops",
+          "desc": "《使命召唤》系列第一人称射击游戏，此处为主机移植版。"
+        },
+        {
+          "name": "Call of Duty: Black Ops 2",
+          "desc": "《使命召唤》系列续作，第一人称射击游戏，此处为主机移植版。"
+        },
+        {
+          "name": "Palworld",
+          "desc": "开放世界生存制作游戏，结合了收集生物和射击玩法。"
+        },
+        {
+          "name": "Grand Theft Auto 5",
+          "desc": "开放世界动作冒险游戏，销量常青的经典作品。"
+        },
+        {
+          "name": "GTA 6",
+          "desc": "《侠盗猎车手》系列备受期待的下一代作品。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "风靡全球的大逃杀类射击游戏，拥有独特的建造机制。"
+        },
+        {
+          "name": "League of Legends",
+          "desc": "经典多人在线战术竞技（MOBA）游戏。"
+        },
+        {
+          "name": "Valorant",
+          "desc": "注重技能与精准射击的战术竞技游戏。"
+        },
+        {
+          "name": "Counter-Strike 2 & Go",
+          "desc": "经典PC射击游戏《反恐精英》二代与原作的合集。"
+        },
+        {
+          "name": "Meccha Chameleon",
+          "desc": "Newzoo榜单中出现的PC游戏，具体类型未作说明。"
+        },
+        {
+          "name": "Marvel Rivals",
+          "desc": "以漫威超级英雄为题材的团队射击游戏。"
+        },
+        {
+          "name": "The Sims 4",
+          "desc": "以生活模拟为核心的经典模拟经营游戏。"
+        },
+        {
+          "name": "World of Warcraft",
+          "desc": "大型多人在线角色扮演游戏，拥有庞大世界观。"
+        },
+        {
+          "name": "Apex Legends",
+          "desc": "大逃杀类型第一人称射击游戏，以英雄技能为特色。"
+        },
+        {
+          "name": "Overwatch",
+          "desc": "以团队合作和多样英雄为主的第一人称射击游戏。"
+        },
+        {
+          "name": "EA Sports FC 26",
+          "desc": "EA制作的足球模拟运动游戏。"
+        },
+        {
+          "name": "EA Sports College Football 27",
+          "desc": "EA制作的大学橄榄球模拟运动游戏。"
+        },
+        {
+          "name": "Dead by Daylight",
+          "desc": "非对称对抗式多人恐怖游戏。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "高自由的沙盒建造与生存游戏。"
+        },
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "开放世界角色扮演游戏，背景为科技都市夜之城。"
+        },
+        {
+          "name": "Warframe",
+          "desc": "科幻题材的第三人称合作射击游戏。"
+        },
+        {
+          "name": "Battlefield 6/REDSEC",
+          "desc": "榜单中的第20名作品，可能指《战地6》或《REDSEC》。"
+        }
+      ]
+    },
     {
       "id": "41b3e8539e",
       "title": "Arm 解释移动优先的 AI 重建技术：与 DLSS 5 的“黑盒”方案不同",
