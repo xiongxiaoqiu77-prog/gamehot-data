@@ -1,6 +1,276 @@
 {
-  "updated_at": "2026-09-08T16:21:12",
+  "updated_at": "2026-09-09T00:09:26",
   "articles": [
+    {
+      "id": "94d371f541",
+      "title": "AI 如何改变用户获取",
+      "zh_desc": "Naavik 播客邀请 Sett 联合创始人兼 CEO Amit Carmi，讨论 AI 在用户获取（UA）领域的应用，包括应对素材疲劳、自动生成视频与可玩广告，以及广告活动管理的自动化。对休闲游戏从业者而言，可了解 UA 素材迭代与 AI 工具落地的新方向。",
+      "url": "https://naavik.co/podcast/how-ai-is-transforming-user-acquisition/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-08T13:27:38",
+      "fetched_at": "2026-09-09T00:09:26",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "e41e1fa167",
+      "title": "报道：FuturLab 未通知团队主管或经理便进行裁员",
+      "zh_desc": "据 Game Developer 报道，PowerWash Simulator 开发商 FuturLab 在未通知团队主管和经理的情况下裁员，并要求员工将离职者称作“the leavers”，被指试图淡化事件影响。此事反映游戏工作室在裁员沟通与透明度方面存在的问题。",
+      "url": "https://www.gamedeveloper.com/business/report-futurlab-makes-layoffs-without-informing-team-leads-or-managers",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-08T13:23:06",
+      "fetched_at": "2026-09-09T00:09:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "PowerWash Simulator",
+          "desc": "一款由FuturLab开发的清洗模拟游戏。"
+        }
+      ]
+    },
+    {
+      "id": "8373d5ed6f",
+      "title": "Don't Nod 考虑在法国裁员 90 人",
+      "zh_desc": "《Life is Strange》开发商 Don't Nod 正考虑在法国裁撤约 90 个岗位，并警告公司可能无法维持运营至 2027 年 1 月 31 日之后。该动态反映了欧洲中大型游戏工作室在市场与资金压力下的生存挑战。",
+      "url": "https://www.gamedeveloper.com/business/don-t-nod-considering-laying-off-90-workers-in-france",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-08T11:14:25",
+      "fetched_at": "2026-09-09T00:09:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Life is Strange",
+          "desc": "一款剧情导向的叙事冒险游戏。"
+        },
+        {
+          "name": "Lost Records",
+          "desc": "一款由Don't Nod开发的叙事冒险游戏。"
+        }
+      ]
+    },
+    {
+      "id": "b009ba3fa3",
+      "title": "Star Stable Entertainment 裁员 20%，以保障多人马匹冒险 RPG 的长期发展",
+      "zh_desc": "瑞典开发商 Star Stable Entertainment 在重组计划中裁减 20% 员工，临时 CEO James Nicholas 表示此举旨在保障公司长期未来。该消息显示，面向细分玩家社群的在线游戏团队也在为成本与续存调整结构。",
+      "url": "https://www.gamesindustry.biz/star-stable-entertainment-reduces-workforce-by-20-to-secure-long-term-future-of-its-multiplayer-horse-adventure-rpg",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-08T13:54:12",
+      "fetched_at": "2026-09-09T00:09:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Stable Online",
+          "desc": "一款在线多人骑马冒险RPG游戏。"
+        }
+      ]
+    },
+    {
+      "id": "87adf0d6ae",
+      "title": "欧洲游戏开发者更担心 AI 会让他们加快工作，而非被抢走工作",
+      "zh_desc": "调查显示 61% 的欧洲游戏开发者担忧生成式 AI 会给自己带来更快、更多的产出压力，仅 35% 担心失业或岗位需求减少。对休闲游戏团队而言，这提示引入 AI 时需要更多关注工作节奏与员工压力。",
+      "url": "https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-08T13:27:23",
+      "fetched_at": "2026-09-09T00:09:26",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "4a5fad45b7",
+      "title": "Tetris Company 称未参与白宫恶搞游戏的制作，并表示“非常重视版权侵权”",
+      "zh_desc": "Tetris Company 就美国政府制作的一款 Tetris 仿作游戏发布声明，称未参与创作且非常重视版权侵权，相关游戏已下架。该事件是游戏 IP 版权边界与公共机构使用素材的典型案例。",
+      "url": "https://www.gamesindustry.biz/the-tetris-company-says-it-was-not-involved-in-the-creation-of-white-house-parody-takes-copyright-infringement-very-seriously",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-08T13:03:33",
+      "fetched_at": "2026-09-09T00:09:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Build the Wall: Zombie Border Siege",
+          "desc": "一款白宫发布的仿《俄罗斯方块》砌墙防守游戏。"
+        },
+        {
+          "name": "Tetris",
+          "desc": "一款经典方块堆叠益智游戏。"
+        },
+        {
+          "name": "Flappy Bird",
+          "desc": "一款操作小鸟穿越管道的休闲游戏。"
+        },
+        {
+          "name": "Snake",
+          "desc": "一款经典的贪吃蛇游戏。"
+        }
+      ]
+    },
+    {
+      "id": "cedc860b86",
+      "title": "FuturLab 取消非《PowerWash Simulator》项目后裁员",
+      "zh_desc": "FuturLab 在取消一款与 PowerWash Simulator 无关的项目后解雇 7 名员工。该消息与更早的裁员流程争议同属一次重组，可作为工作室项目止损与人力资源调整的案例。",
+      "url": "https://www.gamesindustry.biz/futurlab-cuts-staff-after-cancelling-non-powerwash-simulator-title",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-08T11:00:58",
+      "fetched_at": "2026-09-09T00:09:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "PowerWash Simulator",
+          "desc": "一款由FuturLab开发的清洗模拟游戏。"
+        },
+        {
+          "name": "PowerWash Simulator 2",
+          "desc": "《PowerWash Simulator》的续作，正在开发中。"
+        }
+      ]
+    },
+    {
+      "id": "aea86432d7",
+      "title": "8 月移动游戏下载榜：Roblox、Free Fire Max、Subway Surfers、Block Blast、Arrows 等",
+      "zh_desc": "AppMagic 最新数据显示，腾讯旗下类似 GTA 的开放世界手游 Gangstar Mirage City 仅在部分地区上线便进入 8 月下载前十；Roblox、Free Fire Max、Subway Surfers、Block Blast、Arrows 等也位于榜单前列。对移动休闲从业者而言，这是观察头部获客产品与区域上线节奏的数据参考。",
+      "url": "https://mobilegamer.biz/augusts-top-mobile-game-downloads-roblox-free-fire-max-subway-surfers-block-blast-arrows-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-08T15:03:55",
+      "fetched_at": "2026-09-09T00:09:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "一款多人在线沙盒创作游戏平台。"
+        },
+        {
+          "name": "Free Fire Max",
+          "desc": "一款大逃杀类射击手游。"
+        },
+        {
+          "name": "Subway Surfers",
+          "desc": "一款无尽跑酷游戏。"
+        },
+        {
+          "name": "Block Blast",
+          "desc": "一款俄罗斯方块类益智游戏。"
+        },
+        {
+          "name": "Arrows",
+          "desc": "一款箭矢主题的益智游戏。"
+        },
+        {
+          "name": "Ludo King",
+          "desc": "一款飞行棋（Ludo）类游戏。"
+        },
+        {
+          "name": "Gangstar Mirage City",
+          "desc": "一款GTA风格的开放世界动作游戏。"
+        },
+        {
+          "name": "Bus Traffic Fever",
+          "desc": "一款交通主题的混合休闲游戏。"
+        },
+        {
+          "name": "Magic Sort",
+          "desc": "一款魔法主题的分类整理益智游戏。"
+        },
+        {
+          "name": "Block Out",
+          "desc": "一款方块消除益智游戏。"
+        },
+        {
+          "name": "Amaze Go",
+          "desc": "一款休闲益智手游。"
+        },
+        {
+          "name": "Football League 2026",
+          "desc": "一款足球模拟游戏。"
+        },
+        {
+          "name": "EA FC Mobile",
+          "desc": "一款足球主题的手机游戏。"
+        },
+        {
+          "name": "Paper.io 2",
+          "desc": "一款io类占地涂色游戏。"
+        },
+        {
+          "name": "Meowdoku",
+          "desc": "一款猫咪主题的数独/益智游戏。"
+        },
+        {
+          "name": "Mob Control",
+          "desc": "一款休闲控制类益智游戏。"
+        },
+        {
+          "name": "Mystery Dumpling: Unbox ASMR",
+          "desc": "一款开箱ASMR解压游戏。"
+        },
+        {
+          "name": "Pizza Ready",
+          "desc": "一款制作披萨的休闲游戏。"
+        },
+        {
+          "name": "Candy Crush Saga",
+          "desc": "一款三消益智游戏。"
+        },
+        {
+          "name": "eFootball",
+          "desc": "一款足球模拟游戏。"
+        }
+      ]
+    },
+    {
+      "id": "e929ad0d72",
+      "title": "Star Stable 裁员 20%，最多 40 名员工受影响",
+      "zh_desc": "MobileGamer.biz 报道 Star Stable 重组将影响最多约 40 名员工，临时 CEO 称此举旨在保障斯德哥尔摩公司的长期未来。该新闻与官方裁员公告相互补充，提供了更具体的受影响人数。",
+      "url": "https://mobilegamer.biz/up-to-40-staff-at-risk-as-star-stable-cuts-20-of-its-workforce/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-08T10:33:04",
+      "fetched_at": "2026-09-09T00:09:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Stable Online",
+          "desc": "一款在线多人骑马冒险RPG游戏。"
+        },
+        {
+          "name": "Star Stable Horses",
+          "desc": "一款马匹主题的移动端游戏。"
+        }
+      ]
+    },
+    {
+      "id": "87b4200022",
+      "title": "《Love & Pies》开发商 Trailmix 迎来新任 CEO",
+      "zh_desc": "Trailmix 创始人 Carolin Krenzer 在掌舵近十年后转任执行董事长，James Nicholas 从 COO 升任 CEO。这一人事变动对关注 Love & Pies 这类叙事合并手游产品和团队战略方向的从业者有信号意义。",
+      "url": "https://mobilegamer.biz/love-pies-maker-trailmix-has-a-new-ceo/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-08T08:48:34",
+      "fetched_at": "2026-09-09T00:09:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Love & Pies",
+          "desc": "一款合并（merge）玩法为核心的休闲游戏。"
+        }
+      ]
+    },
     {
       "id": "d084b54ed8",
       "title": "《Assassin's Creed Black Flag Resynced》在7月PC与主机收入榜跻身前五 | Newzoo Charts",
