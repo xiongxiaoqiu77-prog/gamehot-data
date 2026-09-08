@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-09T00:43:03",
+  "updated_at": "2026-09-09T01:15:49",
   "articles": [
+    {
+      "id": "ec0b1c2eed",
+      "title": "距 WN Conference Cyprus ’26 展位展示与独立游戏推介报名截止仅剩三天",
+      "zh_desc": "Game World Observer 提醒开发者，WN Conference Cyprus ’26 的 Showcase 与 Indie Pitch 申请均可在 9 月 11 日前提交。对希望获得曝光和发行资源的海外手游与独立游戏团队有较强时效性提醒价值。",
+      "url": "https://gameworldobserver.com/2026/09/08/there-are-only-three-days-left-until-the-deadline-for-submitting-applications-for-the-showcase-and-indie-pitch-at-wn-conference-cyprus-26",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-08T17:09:26",
+      "fetched_at": "2026-09-09T01:15:49",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Atomic Heart",
+          "desc": "第一人称动作射击游戏，设定在虚构的苏联世界"
+        },
+        {
+          "name": "Replaced",
+          "desc": "赛博朋克风格的动作平台游戏"
+        },
+        {
+          "name": "Pathfinder: Wrath of the Righteous",
+          "desc": "基于桌上角色扮演游戏的等距视角角色扮演游戏"
+        },
+        {
+          "name": "Heroes of Might & Magic: Olden Era",
+          "desc": "回合制策略游戏，属于英雄无敌系列"
+        }
+      ]
+    },
     {
       "id": "8e31946ac3",
       "title": "为什么世界需要一个 Club Penguin 的继任者——但不是 Roblox",
