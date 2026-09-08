@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-09T02:22:13",
+  "updated_at": "2026-09-09T05:39:01",
   "articles": [
+    {
+      "id": "b484c50718",
+      "title": "Riot Games联合创始人：公司正考虑开发付费买断制作品",
+      "zh_desc": "Riot Games 联合创始人表示，公司正在考虑制作 premium（付费买断制）游戏，并称并非每款游戏都需要无限运营。该表态反映出头部厂商对商业模式多样化的重新思考，可作为行业风向参考。",
+      "url": "https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-08T21:14:23",
+      "fetched_at": "2026-09-09T05:39:01",
+      "lang": "en",
+      "games": [
+        {
+          "name": "2XKO",
+          "desc": "Riot正在开发的格斗游戏，但已停止开发"
+        },
+        {
+          "name": "League of Legends",
+          "desc": "Riot的免费游玩多人在线战术竞技游戏（MOBA），通过销售装饰品盈利"
+        },
+        {
+          "name": "Valorant",
+          "desc": "Riot的免费游玩战术射击游戏，通过销售装饰品盈利"
+        }
+      ]
+    },
     {
       "id": "1d16c442e9",
       "title": "报道：EA 在 NHL 27 中使用生成式 AI 制作解说配音",
