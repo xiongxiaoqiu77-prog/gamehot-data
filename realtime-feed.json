@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-10T00:48:42",
+  "updated_at": "2026-09-10T01:55:48",
   "articles": [
+    {
+      "id": "a89ad7563b",
+      "title": "Epic Games Store 将在澳大利亚为 R18+ 游戏引入年龄验证",
+      "zh_desc": "Epic Games Store 宣布自 9 月 9 日起，澳大利亚玩家在下载或购买 R18+ 评级游戏前必须确认年满 18 岁。该政策是平台合规与年龄验证机制的重要动态，对关注海外发行分级的从业者有一定参考。",
+      "url": "https://www.gamesindustry.biz/epic-games-store-to-introduce-age-checks-for-r18-games-in-australia",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T17:24:25",
+      "fetched_at": "2026-09-10T01:55:48",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "307f1049c9",
       "title": "暴雪工会员工批准覆盖1900名员工的历史性合同",
