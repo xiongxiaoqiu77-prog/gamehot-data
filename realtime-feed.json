@@ -1,6 +1,91 @@
 {
-  "updated_at": "2026-09-10T00:13:19",
+  "updated_at": "2026-09-10T00:48:42",
   "articles": [
+    {
+      "id": "307f1049c9",
+      "title": "暴雪工会员工批准覆盖1900名员工的历史性合同",
+      "zh_desc": "暴雪工会员工投票通过了一份覆盖约1900人的历史性合同，内容包括生成式AI使用边界、裁员保护、远程与混合办公等条款。对游戏行业从业者而言，这份合同可以作为了解大型工作室劳资谈判与AI治理趋势的案例。",
+      "url": "https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T12:59:56",
+      "fetched_at": "2026-09-10T00:48:42",
+      "lang": "en",
+      "games": [
+        {
+          "name": "World of Warcraft",
+          "desc": "Blizzard's long-running massively multiplayer online role-playing game (MMORPG)."
+        },
+        {
+          "name": "Overwatch",
+          "desc": "Blizzard's team-based multiplayer first-person shooter."
+        }
+      ]
+    },
+    {
+      "id": "94d9daff39",
+      "title": "Mark Cerny与Geoff Keighley发起Nova Games Foundation，资助年轻游戏设计师",
+      "zh_desc": "Mark Cerny与Geoff Keighley联合发起Nova Games Foundation，以奖学金和项目方式资助年轻游戏设计师。属于行业人才扶持类新闻，适合关注新人培养、行业基金与设计人才生态的从业者参考。",
+      "url": "https://www.gamesindustry.biz/mark-cerny-and-geoff-keighley-launch-nova-games-foundation-to-fund-young-designers",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T16:15:46",
+      "fetched_at": "2026-09-10T00:48:42",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Neva",
+          "desc": "An artistic platform-adventure game about a woman and her wolf companion."
+        },
+        {
+          "name": "Abzu",
+          "desc": "An underwater exploration game with an immersive, meditative atmosphere."
+        },
+        {
+          "name": "Gorogoa",
+          "desc": "A hand-drawn puzzle game in which players arrange illustrated panels."
+        },
+        {
+          "name": "Stray",
+          "desc": "A third-person adventure game starring a cat in a neon-lit cybercity."
+        },
+        {
+          "name": "Outer Wilds",
+          "desc": "A space exploration mystery game built around a repeating time loop."
+        },
+        {
+          "name": "It Takes Two",
+          "desc": "A cooperative action-adventure game designed specifically for two players."
+        },
+        {
+          "name": "Split Fiction",
+          "desc": "A co-op action-adventure from Josef Fares that blends sci-fi and fantasy worlds."
+        },
+        {
+          "name": "Flower",
+          "desc": "A meditative game by Jenova Chen in which players guide flower petals through the wind."
+        },
+        {
+          "name": "Journey",
+          "desc": "An atmospheric adventure by Jenova Chen that emphasizes non-verbal player connection."
+        }
+      ]
+    },
+    {
+      "id": "9dfe279810",
+      "title": "欧洲开发者联盟表示，苹果面向欧盟的新App Store条款仍违反DMA",
+      "zh_desc": "App Fairness联盟、欧洲游戏开发者联合会等多个组织联合发声，认为苹果调整后的欧盟App Store规则仍不符合数字市场法，并请求欧盟委员会明确立场。对在欧盟发行休闲与移动游戏的团队来说，商店条款与合规风险值得关注。",
+      "url": "https://mobilegamer.biz/apples-new-eu-app-store-terms-still-breach-the-dma-says-european-developer-coalition/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-09T16:15:54",
+      "fetched_at": "2026-09-10T00:48:42",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "c8e8aaaf7d",
       "title": "Chess.com 如何在10年内实现移动端收入100倍增长",
