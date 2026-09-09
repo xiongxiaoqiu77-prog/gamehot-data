@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-09-09T11:38:18",
+  "updated_at": "2026-09-09T16:56:05",
   "articles": [
+    {
+      "id": "5d664e0fa9",
+      "title": "Just Dessert vs. Gossip Harbour：谁合并得更好？",
+      "zh_desc": "深度拆解并对比 Just Dessert 与 Gossip Harbour 两款合并手游的核心玩法、进度设计与变现策略，帮助从业者理解当前 merge 品类的差异化路径与成功要素。",
+      "url": "https://www.deconstructoroffun.com/blog/just-dessert-vs-gossip-harbour-who-merged-it-better",
+      "source": "Deconstructor of Fun",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-09-09T07:45:32",
+      "fetched_at": "2026-09-09T16:56:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Just Desserts",
+          "desc": "世纪游戏旗下软启动的Merge 2合并游戏，主要分析对象。"
+        },
+        {
+          "name": "Gossip Harbor",
+          "desc": "Microfun发行的Merge 2合并游戏，目前全球收入前五的品类领头羊。"
+        },
+        {
+          "name": "Travel Town",
+          "desc": "文中提到的热门Merge 2游戏，作为成功范例参考。"
+        },
+        {
+          "name": "Whiteout Survivals",
+          "desc": "世纪游戏旗下最成功的策略游戏之一。"
+        },
+        {
+          "name": "Kingshot",
+          "desc": "世纪游戏旗下最成功的策略游戏之一。"
+        },
+        {
+          "name": "Love & Pies",
+          "desc": "Trailmix（Supercell工作室）开发的Merge游戏，Gossip Harbor的灵感来源。"
+        }
+      ]
+    },
     {
       "id": "ffae244626",
       "title": "解析 Mobile Legends: Bang Bang 为何能牢牢抓住东南亚市场",
