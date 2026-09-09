@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-09T09:26:06",
+  "updated_at": "2026-09-09T11:38:18",
   "articles": [
+    {
+      "id": "ffae244626",
+      "title": "解析 Mobile Legends: Bang Bang 为何能牢牢抓住东南亚市场",
+      "zh_desc": "文章分析 Mobile Legends: Bang Bang 在东南亚地区的市场统治力来源，可能涉及电竞生态、本地化与玩家习惯。对理解手游区域市场有价值，但不属于休闲益智或消除类玩法与变现拆解。",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYnFMc2Izd0lBU2M0YklJamt2cjdKUl9yWm1FQWg2NWJ3ZXBHaUt2eGV4RFBvUkc5QS12YWNvcFF1cmZJS0JSMUVDSWhQV2NUV3d3MlFkMm5kVHBqTEtKSnBKdjVmS21LWTdtZ3lKMjJxT0NZZ282cFUtRDVYaS1LcjZCeDVlQzhvTDc4?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-08T12:10:06",
+      "fetched_at": "2026-09-09T11:38:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mobile Legends: Bang Bang",
+          "desc": "一款面向移动端的MOBA竞技游戏，在东南亚市场拥有大量玩家。"
+        }
+      ]
+    },
     {
       "id": "23a844d8d8",
       "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
