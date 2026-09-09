@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-09-10T01:55:48",
+  "updated_at": "2026-09-10T02:28:57",
   "articles": [
+    {
+      "id": "4e4c70cc26",
+      "title": "《Planet Zoo》开发商 Frontier Developments 调整后营业利润增长 62%",
+      "zh_desc": "Frontier Developments 公布 2026 财年业绩，调整后营业利润同比增长 62%，收入增长 16%，并称期间创下多项公司纪录。这是一条公司财务层面的行业动态，便于了解海外模拟经营老牌开发商的增长状况，但对休闲消除类手游设计的直接参考价值不大。",
+      "url": "https://www.gamedeveloper.com/business/planet-zoo-maker-frontier-developments-adjusted-operating-profit-jumps-62-percent",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T18:24:38",
+      "fetched_at": "2026-09-10T02:28:57",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Planet Zoo",
+          "desc": "动物园模拟经营游戏"
+        },
+        {
+          "name": "Planet Coaster",
+          "desc": "过山车乐园模拟游戏"
+        },
+        {
+          "name": "Jurassic World Evolution 3",
+          "desc": "恐龙世界建造管理模拟游戏"
+        },
+        {
+          "name": "Planet Zoo 2",
+          "desc": "Planet Zoo续作，预计十月发布"
+        },
+        {
+          "name": "Warhammer 40,000: Chaos Gate - Deathwatch",
+          "desc": "战锤40K题材的策略游戏"
+        }
+      ]
+    },
     {
       "id": "a89ad7563b",
       "title": "Epic Games Store 将在澳大利亚为 R18+ 游戏引入年龄验证",
