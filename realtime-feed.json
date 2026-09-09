@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-10T02:28:57",
+  "updated_at": "2026-09-10T03:02:52",
   "articles": [
+    {
+      "id": "c31d55ad5a",
+      "title": "Lego Digital Play 收购移动游戏工作室 Offroad Games",
+      "zh_desc": "Lego Digital Play 宣布收购移动游戏工作室 Offroad Games，具体条款未披露。该消息属于大型娱乐/玩具 IP 方在移动游戏领域整合研发能力的行业动态，对休闲游戏从业者有一定参考价值，但缺少玩法或变现层面的深度分析。",
+      "url": "https://www.gamesindustry.biz/lego-digital-play-acquires-mobile-studio-offroad-games",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T18:56:51",
+      "fetched_at": "2026-09-10T03:02:52",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "4e4c70cc26",
       "title": "《Planet Zoo》开发商 Frontier Developments 调整后营业利润增长 62%",
