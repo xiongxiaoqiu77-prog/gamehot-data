@@ -5,123 +5,141 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 09 Sep 2026 07:00:21 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:00:40 +0800</lastBuildDate>
   <item>
-    <title>为什么世界需要一个 Club Penguin 的继任者——但不是 Roblox</title>
-    <link>https://www.gamesindustry.biz/why-the-world-needs-a-club-penguin-successor-that-isnt-roblox</link>
-    <description>文章回顾了迪士尼旗下 Flash MMO Club Penguin 曾拥有超过3亿注册用户、成为一代儿童的社交启蒙产品，并探讨为何在 Roblox 时代，儿童虚拟世界仍需要更安全、更有治理的替代者。对面向儿童和家庭用户的休闲社区产品开发者具有背景参考价值。</description>
+    <title>Chess.com 如何在10年内实现移动端收入100倍增长</title>
+    <link>https://naavik.co/f2p-mobile/how-chess-com-100xd-mobile-revenue-in-10-years/</link>
+    <description>Chess.com 移动应用月收入从2016年约5.6万美元增长到2026年约590万美元，文章复盘了其订阅、变现、用户获取和长线运营策略。对休闲/在线棋类手游的变现与增长设计有参考价值。</description>
+    <category>深度拆解</category>
+    <author>Naavik</author>
+    <pubDate>Wed, 09 Sep 2026 12:19:38 +0800</pubDate>
+    <guid isPermaLink="true">https://naavik.co/f2p-mobile/how-chess-com-100xd-mobile-revenue-in-10-years/</guid>
+  </item>
+  <item>
+    <title>欧洲开发者联盟表示，苹果面向欧盟的新App Store条款仍违反DMA</title>
+    <link>https://mobilegamer.biz/apples-new-eu-app-store-terms-still-breach-the-dma-says-european-developer-coalition/</link>
+    <description>App Fairness联盟、欧洲游戏开发者联合会等多个组织联合发声，认为苹果调整后的欧盟App Store规则仍不符合数字市场法，并请求欧盟委员会明确立场。对在欧盟发行休闲与移动游戏的团队来说，商店条款与合规风险值得关注。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Wed, 09 Sep 2026 16:15:54 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/apples-new-eu-app-store-terms-still-breach-the-dma-says-european-developer-coalition/</guid>
+  </item>
+  <item>
+    <title>数据摘要：Pokémon Go 累计收入达90亿美元，Gameloft利润上升，GungHo出售1.79亿美元股份等</title>
+    <link>https://mobilegamer.biz/data-digest-pokemon-go-hits-9bn-gameloft-profits-rise-gungho-sells-179m-stake-fresh-market-statsmore/</link>
+    <description>本期数据摘要涵盖 Pokémon Go 总流水突破90亿美元、Gameloft利润增长、GungHo出售1.79亿美元股权等动态，并附有最新市场统计与 Roblox 数据。适合移动游戏从业者快速追踪行业大盘和头部产品表现。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Wed, 09 Sep 2026 12:16:22 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/data-digest-pokemon-go-hits-9bn-gameloft-profits-rise-gungho-sells-179m-stake-fresh-market-statsmore/</guid>
+  </item>
+  <item>
+    <title>8月全球手游收入榜：Honor of Kings、Gossip Harbor、PUBG、Royal Match、Roblox等</title>
+    <link>https://mobilegamer.biz/augusts-top-grossing-mobile-games-honor-of-kings-gossip-harbor-pubg-royal-match-roblox-more/</link>
+    <description>AppMagic 估算的8月手游内购收入榜显示，五款游戏月流水超过1亿美元，其中 Gossip Harbor 仅次于 Honor of Kings。文章还呈现 Royal Match 等头部产品表现，可用于观察休闲与竞技手游的变现格局。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Wed, 09 Sep 2026 09:10:42 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/augusts-top-grossing-mobile-games-honor-of-kings-gossip-harbor-pubg-royal-match-roblox-more/</guid>
+  </item>
+  <item>
+    <title>Mark Cerny 与 Geoff Keighley 推出大学附属奖学金项目</title>
+    <link>https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program</link>
+    <description>该计划名为 Nova Games Foundation，拟每年为 20 名年轻游戏设计师提供六位数美元的资助。文章属于行业人才培育类新闻，与休闲游戏设计与变现的直接关联较弱，可作为行业生态动态参考。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Wed, 09 Sep 2026 20:00:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program</guid>
+  </item>
+  <item>
+    <title>Lego Digital Play 收购移动游戏工作室 Offroad Games</title>
+    <link>https://www.gamesindustry.biz/lego-digital-play-acquires-mobile-studio-offroad-games</link>
+    <description>Lego Digital Play 宣布收购移动游戏工作室 Offroad Games，具体条款未披露。该消息属于大型娱乐/玩具 IP 方在移动游戏领域整合研发能力的行业动态，对休闲游戏从业者有一定参考价值，但缺少玩法或变现层面的深度分析。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 08 Sep 2026 15:46:17 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/why-the-world-needs-a-club-penguin-successor-that-isnt-roblox</guid>
+    <pubDate>Wed, 09 Sep 2026 18:56:51 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/lego-digital-play-acquires-mobile-studio-offroad-games</guid>
   </item>
   <item>
-    <title>AI 如何改变用户获取</title>
-    <link>https://naavik.co/podcast/how-ai-is-transforming-user-acquisition/</link>
-    <description>Naavik 播客邀请 Sett 联合创始人兼 CEO Amit Carmi，讨论 AI 在用户获取（UA）领域的应用，包括应对素材疲劳、自动生成视频与可玩广告，以及广告活动管理的自动化。对休闲游戏从业者而言，可了解 UA 素材迭代与 AI 工具落地的新方向。</description>
+    <title>Epic Games Store 将在澳大利亚为 R18+ 游戏引入年龄验证</title>
+    <link>https://www.gamesindustry.biz/epic-games-store-to-introduce-age-checks-for-r18-games-in-australia</link>
+    <description>Epic Games Store 宣布自 9 月 9 日起，澳大利亚玩家在下载或购买 R18+ 评级游戏前必须确认年满 18 岁。该政策是平台合规与年龄验证机制的重要动态，对关注海外发行分级的从业者有一定参考。</description>
     <category>行业资讯</category>
-    <author>Naavik</author>
-    <pubDate>Tue, 08 Sep 2026 13:27:38 +0800</pubDate>
-    <guid isPermaLink="true">https://naavik.co/podcast/how-ai-is-transforming-user-acquisition/</guid>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 09 Sep 2026 17:24:25 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/epic-games-store-to-introduce-age-checks-for-r18-games-in-australia</guid>
   </item>
   <item>
-    <title>8 月移动游戏下载榜：Roblox、Free Fire Max、Subway Surfers、Block Blast、Arrows 等</title>
-    <link>https://mobilegamer.biz/augusts-top-mobile-game-downloads-roblox-free-fire-max-subway-surfers-block-blast-arrows-more/</link>
-    <description>AppMagic 最新数据显示，腾讯旗下类似 GTA 的开放世界手游 Gangstar Mirage City 仅在部分地区上线便进入 8 月下载前十；Roblox、Free Fire Max、Subway Surfers、Block Blast、Arrows 等也位于榜单前列。对移动休闲从业者而言，这是观察头部获客产品与区域上线节奏的数据参考。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 08 Sep 2026 15:03:55 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/augusts-top-mobile-game-downloads-roblox-free-fire-max-subway-surfers-block-blast-arrows-more/</guid>
-  </item>
-  <item>
-    <title>《Love &amp; Pies》开发商 Trailmix 迎来新任 CEO</title>
-    <link>https://mobilegamer.biz/love-pies-maker-trailmix-has-a-new-ceo/</link>
-    <description>Trailmix 创始人 Carolin Krenzer 在掌舵近十年后转任执行董事长，James Nicholas 从 COO 升任 CEO。这一人事变动对关注 Love &amp; Pies 这类叙事合并手游产品和团队战略方向的从业者有信号意义。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 08 Sep 2026 08:48:34 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/love-pies-maker-trailmix-has-a-new-ceo/</guid>
-  </item>
-  <item>
-    <title>Riot Games联合创始人：公司正考虑开发付费买断制作品</title>
-    <link>https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games</link>
-    <description>Riot Games 联合创始人表示，公司正在考虑制作 premium（付费买断制）游戏，并称并非每款游戏都需要无限运营。该表态反映出头部厂商对商业模式多样化的重新思考，可作为行业风向参考。</description>
+    <title>暴雪工会员工批准覆盖1900名员工的历史性合同</title>
+    <link>https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees</link>
+    <description>暴雪工会员工投票通过了一份覆盖约1900人的历史性合同，内容包括生成式AI使用边界、裁员保护、远程与混合办公等条款。对游戏行业从业者而言，这份合同可以作为了解大型工作室劳资谈判与AI治理趋势的案例。</description>
     <category>行业资讯</category>
     <author>Game Developer</author>
-    <pubDate>Tue, 08 Sep 2026 21:14:23 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games</guid>
+    <pubDate>Wed, 09 Sep 2026 12:59:56 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/production/blizzard-union-workers-ratify-historic-contract-covering-1-900-employees</guid>
   </item>
   <item>
-    <title>报道：EA 在 NHL 27 中使用生成式 AI 制作解说配音</title>
-    <link>https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator</link>
-    <description>资深解说员 John Buccigross 称 EA 向其展示了用生成式 AI 模拟他的声音为 NHL 27 录制游戏解说旁白的技术。该消息可作为大型厂商将 AI 用于游戏内容生产的一个行业动态参考，但与休闲游戏的玩法、数值或 LiveOps 无直接关联。</description>
+    <title>特朗普政府下架 Tetris 克隆游戏 Build The Wall，版权方曾警告严肃对待侵权</title>
+    <link>https://www.gamedeveloper.com/business/trump-administration-takes-down-tetris-clone-after-company-warns-it-takes-copyright-violation-very-seriously-</link>
+    <description>在版权方明确表示高度重视侵权后，美国行政机构下架了一款名为 Build The Wall 的 Tetris 克隆游戏。对休闲解谜/三消从业者而言，这起事件提醒山寨克隆产品仍面临版权与合规风险。</description>
     <category>行业资讯</category>
     <author>Game Developer</author>
-    <pubDate>Tue, 08 Sep 2026 18:00:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator</guid>
+    <pubDate>Wed, 09 Sep 2026 15:36:38 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/trump-administration-takes-down-tetris-clone-after-company-warns-it-takes-copyright-violation-very-seriously-</guid>
   </item>
   <item>
-    <title>Tim Schafer 称 Double Fine 的独特游戏若能找到受众，也可成为商业热门</title>
-    <link>https://www.gamedeveloper.com/business/tim-schafer-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money</link>
-    <description>Double Fine 负责人 Tim Schafer 表示，工作室在 Xbox 旗下时并未盈利；他认为独特游戏只要能找到目标受众，就同样有机会成为商业热门。该访谈对独立游戏受众定位与发行策略有参考意义，但与休闲手游的直接关联较弱。</description>
+    <title>Keywords Studios 整合多个营销业务，成立全球创意机构 FreeAnimal</title>
+    <link>https://www.gamesindustry.biz/keywords-studios-combines-existing-marketing-teams-into-global-creative-agency-freeanimal</link>
+    <description>Keywords Studios 将旗下七家创意营销机构整合为新品牌 FreeAnimal，为开发商、发行商和品牌提供统一营销入口。这反映出游戏营销服务行业的进一步整合，对发行商的外部营销采购有一定参考。</description>
     <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Tue, 08 Sep 2026 17:14:18 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/tim-schafer-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money</guid>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 09 Sep 2026 15:00:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/keywords-studios-combines-existing-marketing-teams-into-global-creative-agency-freeanimal</guid>
   </item>
   <item>
-    <title>距 WN Conference Cyprus ’26 展位展示与独立游戏推介报名截止仅剩三天</title>
-    <link>https://gameworldobserver.com/2026/09/08/there-are-only-three-days-left-until-the-deadline-for-submitting-applications-for-the-showcase-and-indie-pitch-at-wn-conference-cyprus-26</link>
-    <description>Game World Observer 提醒开发者，WN Conference Cyprus ’26 的 Showcase 与 Indie Pitch 申请均可在 9 月 11 日前提交。对希望获得曝光和发行资源的海外手游与独立游戏团队有较强时效性提醒价值。</description>
+    <title>“我们可能还需要几款 Expedition 33 来证明他们错了”——Valor Mortis 开发者谈发行商应信任 AA 游戏</title>
+    <link>https://www.gamesindustry.biz/we-probably-need-a-few-more-expedition-33s-to-just-prove-them-wrong-the-maker-of-valor-mortis-on-why-publishers-should-have-faith-in-aa</link>
+    <description>AA游戏团队呼吁发行商重新信任中体量产品，并以 Ghostrunner、Expedition 33 等作品为例说明AA项目的商业潜力。内容主要面向PC/主机市场，与休闲手游直接关联有限。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 09 Sep 2026 14:19:47 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/we-probably-need-a-few-more-expedition-33s-to-just-prove-them-wrong-the-maker-of-valor-mortis-on-why-publishers-should-have-faith-in-aa</guid>
+  </item>
+  <item>
+    <title>Frontier Developments 2026财年调整后营业利润增长62%至2140万英镑</title>
+    <link>https://www.gamesindustry.biz/frontier-developments-fy26-adjusted-operating-profit-jumps-62-to-214m</link>
+    <description>Frontier Developments 公布了创纪录的财年业绩，调整后营业利润同比上涨62%至2140万英镑。该结果显示出中等规模游戏开发商在授权IP与多元平台策略下的盈利能力改善。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 09 Sep 2026 11:37:22 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/frontier-developments-fy26-adjusted-operating-profit-jumps-62-to-214m</guid>
+  </item>
+  <item>
+    <title>Gamescom Asia x Thailand Game Show 公布2026年参展阵容</title>
+    <link>https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-announces-exhibitor-lineup-for-2026</link>
+    <description>2026年 Gamescom Asia x Thailand Game Show 公布参展商名单，包括 Capcom、Bandai Namco、The Pokémon Company 等，任天堂与 PlayStation 也通过合作伙伴参展。可帮助从业者了解东南亚游戏展会与渠道机会。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 09 Sep 2026 09:55:55 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-announces-exhibitor-lineup-for-2026</guid>
+  </item>
+  <item>
+    <title>Fable、Persona 6、Kingdom Hearts 4、Control Resonant 等未发布/未公布游戏 Steam 成就遭泄露</title>
+    <link>https://www.gamesindustry.biz/steam-achievements-for-unreleased-and-unannounced-games-leak-on-aggregators-such-as-exophase-and-steamdb</link>
+    <description>Exophase、SteamDB 等成就聚合站泄露了多款未发售/未正式公布游戏的 Steam 成就信息，包括 Fable、Persona 6、Kingdom Hearts 4 等。对开发者而言，这也提示了平台数据泄露和市场营销策略保护风险。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 09 Sep 2026 09:15:34 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/steam-achievements-for-unreleased-and-unannounced-games-leak-on-aggregators-such-as-exophase-and-steamdb</guid>
+  </item>
+  <item>
+    <title>Dave the Diver 销量突破1000万份</title>
+    <link>https://gameworldobserver.com/2026/09/09/dave-the-diver-sold-10-million-copies</link>
+    <description>水下探索与寿司经营题材的 Dave the Diver 全球销量已达到1000万份。该成绩展现了高辨识度独立游戏与“轻松治愈”玩法结合后的商业潜力，可作为休闲向产品创意的参考案例。</description>
     <category>行业资讯</category>
     <author>Game World Observer</author>
-    <pubDate>Tue, 08 Sep 2026 17:09:26 +0800</pubDate>
-    <guid isPermaLink="true">https://gameworldobserver.com/2026/09/08/there-are-only-three-days-left-until-the-deadline-for-submitting-applications-for-the-showcase-and-indie-pitch-at-wn-conference-cyprus-26</guid>
-  </item>
-  <item>
-    <title>Don't Nod 考虑在法国裁员 90 人</title>
-    <link>https://www.gamedeveloper.com/business/don-t-nod-considering-laying-off-90-workers-in-france</link>
-    <description>《Life is Strange》开发商 Don't Nod 正考虑在法国裁撤约 90 个岗位，并警告公司可能无法维持运营至 2027 年 1 月 31 日之后。该动态反映了欧洲中大型游戏工作室在市场与资金压力下的生存挑战。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Tue, 08 Sep 2026 11:14:25 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/don-t-nod-considering-laying-off-90-workers-in-france</guid>
-  </item>
-  <item>
-    <title>欧洲游戏开发者更担心 AI 会让他们加快工作，而非被抢走工作</title>
-    <link>https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job</link>
-    <description>调查显示 61% 的欧洲游戏开发者担忧生成式 AI 会给自己带来更快、更多的产出压力，仅 35% 担心失业或岗位需求减少。对休闲游戏团队而言，这提示引入 AI 时需要更多关注工作节奏与员工压力。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 08 Sep 2026 13:27:23 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job</guid>
-  </item>
-  <item>
-    <title>Tetris Company 称未参与白宫恶搞游戏的制作，并表示“非常重视版权侵权”</title>
-    <link>https://www.gamesindustry.biz/the-tetris-company-says-it-was-not-involved-in-the-creation-of-white-house-parody-takes-copyright-infringement-very-seriously</link>
-    <description>Tetris Company 就美国政府制作的一款 Tetris 仿作游戏发布声明，称未参与创作且非常重视版权侵权，相关游戏已下架。该事件是游戏 IP 版权边界与公共机构使用素材的典型案例。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 08 Sep 2026 13:03:33 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/the-tetris-company-says-it-was-not-involved-in-the-creation-of-white-house-parody-takes-copyright-infringement-very-seriously</guid>
-  </item>
-  <item>
-    <title>FuturLab 取消非《PowerWash Simulator》项目后裁员</title>
-    <link>https://www.gamesindustry.biz/futurlab-cuts-staff-after-cancelling-non-powerwash-simulator-title</link>
-    <description>FuturLab 在取消一款与 PowerWash Simulator 无关的项目后解雇 7 名员工。该消息与更早的裁员流程争议同属一次重组，可作为工作室项目止损与人力资源调整的案例。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 08 Sep 2026 11:00:58 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/futurlab-cuts-staff-after-cancelling-non-powerwash-simulator-title</guid>
-  </item>
-  <item>
-    <title>Star Stable 裁员 20%，最多 40 名员工受影响</title>
-    <link>https://mobilegamer.biz/up-to-40-staff-at-risk-as-star-stable-cuts-20-of-its-workforce/</link>
-    <description>MobileGamer.biz 报道 Star Stable 重组将影响最多约 40 名员工，临时 CEO 称此举旨在保障斯德哥尔摩公司的长期未来。该新闻与官方裁员公告相互补充，提供了更具体的受影响人数。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 08 Sep 2026 10:33:04 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/up-to-40-staff-at-risk-as-star-stable-cuts-20-of-its-workforce/</guid>
+    <pubDate>Wed, 09 Sep 2026 13:18:10 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/09/09/dave-the-diver-sold-10-million-copies</guid>
   </item>
   </channel>
 </rss>
