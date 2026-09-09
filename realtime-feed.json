@@ -1,6 +1,53 @@
 {
-  "updated_at": "2026-09-10T03:02:52",
+  "updated_at": "2026-09-10T04:40:39",
   "articles": [
+    {
+      "id": "d06069a438",
+      "title": "Mark Cerny 与 Geoff Keighley 推出大学附属奖学金项目",
+      "zh_desc": "该计划名为 Nova Games Foundation，拟每年为 20 名年轻游戏设计师提供六位数美元的资助。文章属于行业人才培育类新闻，与休闲游戏设计与变现的直接关联较弱，可作为行业生态动态参考。",
+      "url": "https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T20:00:00",
+      "fetched_at": "2026-09-10T04:40:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "c0757e374a",
+      "title": "近1900名暴雪员工批准与微软的首份工会合同",
+      "zh_desc": "暴雪娱乐与母公司微软的首份工会合同已获员工投票批准，覆盖近1900名开发者。这是游戏行业劳资关系领域的重要节点，但与休闲游戏玩法、数值或变现研究关系较弱。",
+      "url": "https://www.gamesindustry.biz/almost-1900-blizzard-workers-ratify-first-union-contract-with-microsoft",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-09T20:14:39",
+      "fetched_at": "2026-09-10T04:40:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "World of Warcraft",
+          "desc": "大型多人在线角色扮演游戏"
+        },
+        {
+          "name": "Hearthstone",
+          "desc": "卡牌对战游戏"
+        },
+        {
+          "name": "Diablo",
+          "desc": "动作角色扮演游戏系列"
+        },
+        {
+          "name": "Overwatch",
+          "desc": "团队多人射击游戏"
+        },
+        {
+          "name": "Candy Crush",
+          "desc": "消除类休闲游戏"
+        }
+      ]
+    },
     {
       "id": "c31d55ad5a",
       "title": "Lego Digital Play 收购移动游戏工作室 Offroad Games",
