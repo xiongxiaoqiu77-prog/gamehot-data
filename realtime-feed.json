@@ -1,6 +1,118 @@
 {
-  "updated_at": "2026-09-11T00:03:53",
+  "updated_at": "2026-09-11T00:36:31",
   "articles": [
+    {
+      "id": "7d18252468",
+      "title": "“正义终于触手可及”：被解雇的 Rockstar 员工在格拉斯哥集会，反工会破坏听证会开始",
+      "zh_desc": "被解雇的 Rockstar 员工在格拉斯哥举行集会，相关反工会破坏听证会开始，预计 10 月 16 日结束。该事件反映游戏行业劳资与工会争议，对关注海外工作室治理与用工环境的从业者有参考价值。",
+      "url": "https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-10T13:48:57",
+      "fetched_at": "2026-09-11T00:36:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar 开发的开放世界动作冒险游戏，是《GTA》系列备受期待的续作。"
+        }
+      ]
+    },
+    {
+      "id": "d97da8e215",
+      "title": "No More Robots 九年历程：发行首款自研 IP——“听起来天真愚蠢，但不知怎地奏效了”",
+      "zh_desc": "文章回顾 Mike Rose 创立独立发行商 No More Robots 九年来，从发行到推出首款自研 IP 的过程与经验。对独立游戏团队在发行、自研转型和长期经营上有一定启发，但与休闲三消/消除手游直接关联较弱。",
+      "url": "https://www.gamesindustry.biz/no-more-robots-nine-year-journey-to-releasing-its-first-self-developed-ip-this-sounds-so-naive-and-stupid-but-somehow-its-working",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-10T16:15:33",
+      "fetched_at": "2026-09-11T00:36:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Descenders",
+          "desc": "自行车骑行/速降竞速游戏，是 No More Robots 发行的首款作品并持续热销。"
+        },
+        {
+          "name": "Cruise Control",
+          "desc": "No More Robots 首款自研游戏，从游轮管理模拟演变为受《Mini Motorways》启发的解谜游戏。"
+        },
+        {
+          "name": "Concord",
+          "desc": "团队在线射击游戏，发售后迅速下架，被视为在线射击市场问题的信号。"
+        },
+        {
+          "name": "Two Point Hospital",
+          "desc": "医院经营模拟游戏，文中作为 Cruise Control 初期方向参考。"
+        },
+        {
+          "name": "Two Point Museum",
+          "desc": "博物馆经营模拟游戏，文中作为同类管理游戏参考。"
+        },
+        {
+          "name": "Mini Motorways",
+          "desc": "极简风格交通规划解谜游戏，文中作为 Cruise Control 转型灵感来源。"
+        }
+      ]
+    },
+    {
+      "id": "4ba14638af",
+      "title": "GTA 6 Netflix 预览在六小时独家窗口内带来超 10 万注册",
+      "zh_desc": "Ampere Analysis 数据显示，Rockstar 在 Netflix 独家发布 GTA 6 预览，8 月 27 日六小时内为 Netflix 美国带来超 10 万注册，成为 2026 年第三大订阅增长峰值。对关注 IP 联动、订阅平台内容和用户获取的从业者有参考意义，但与休闲游戏设计关联较弱。",
+      "url": "https://www.gamesindustry.biz/gta-6-netflix-preview-drove-more-than-100000-sign-ups-during-its-six-hour-exclusivity-window",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-10T13:50:35",
+      "fetched_at": "2026-09-11T00:36:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "Rockstar 开发的开放世界动作冒险游戏，其 Netflix 独家预览带来大量注册。"
+        },
+        {
+          "name": "Cyberpunk",
+          "desc": "科幻角色扮演游戏系列，文中称 Netflix 可通过改编等方式触达游戏受众。"
+        },
+        {
+          "name": "The Witcher",
+          "desc": "奇幻角色扮演游戏系列，文中称 Netflix 可通过改编等方式触达游戏受众。"
+        }
+      ]
+    },
+    {
+      "id": "6a43431d51",
+      "title": "Saber Interactive 首席创意官称“我们从未用 AI 取代任何人”",
+      "zh_desc": "Saber Interactive 首席创意官 Tim Willits 回应公司一名编剧被 ChatGPT 替代的指控，强调团队没有用 AI 替换人员。该新闻涉及游戏开发中的 AI 应用与舆论争议，对关注生产流程和行业用工的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-10T13:11:44",
+      "fetched_at": "2026-09-11T00:36:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Rideshare Stimulator",
+          "desc": "Saber Interactive 即将推出的共享出行/驾驶模拟游戏，主战役由人类编写，部分模式含 AI 生成内容。"
+        },
+        {
+          "name": "Space Marine",
+          "desc": "Saber Interactive 提及的科幻动作射击游戏项目，文中称未使用生成式 AI。"
+        },
+        {
+          "name": "Hellraiser",
+          "desc": "Saber Interactive 提及的恐怖题材游戏项目，文中称未使用生成式 AI。"
+        },
+        {
+          "name": "Stuntman",
+          "desc": "Saber Interactive 提及的特技驾驶游戏项目，文中称未使用生成式 AI。"
+        }
+      ]
+    },
     {
       "id": "fb8f53b060",
       "title": "Newzoo：2026 上半年多数成熟 Live Service 与常青游戏同比持平或下滑",
