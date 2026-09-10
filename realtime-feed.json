@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-11T00:36:31",
+  "updated_at": "2026-09-11T02:43:01",
   "articles": [
+    {
+      "id": "5318fea350",
+      "title": "沙特高层考虑合并 Savvy 与 EA，打造全新游戏超级集团",
+      "zh_desc": "据 Bloomberg 报道，沙特方面正考虑将 Savvy 与 EA 合并，合并后将汇集 Pokémon Go、Monopoly Go、EA FC、Madden、The Sims 与 Apex Legends 等团队，前提是 Savvy 先完成对 Moonton 的 60 亿美元收购。对从业者而言，这是中东资本进一步整合全球手游与主机游戏资产的重要信号。",
+      "url": "https://mobilegamer.biz/saudi-bosses-are-considering-merging-savvy-and-ea-to-create-a-new-gaming-supergroup-says-bloomberg/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-10T18:35:46",
+      "fetched_at": "2026-09-11T02:43:01",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mobile Legends Bang Bang",
+          "desc": "由 Moonton 开发的 MOBA 手游。"
+        },
+        {
+          "name": "Monopoly Go",
+          "desc": "由 Scopely 开发的基于大富翁 IP 的休闲手游。"
+        },
+        {
+          "name": "Pokémon Go",
+          "desc": "Niantic 开发的 AR 定位捕捉宝可梦手游。"
+        },
+        {
+          "name": "Monster Hunter Now",
+          "desc": "Niantic 开发的 AR 定位狩猎动作手游。"
+        },
+        {
+          "name": "Pikmin Bloom",
+          "desc": "Niantic 开发的 AR 步行休闲手游。"
+        },
+        {
+          "name": "EA FC",
+          "desc": "EA 的足球体育模拟游戏系列。"
+        },
+        {
+          "name": "Madden",
+          "desc": "EA 的美式橄榄球体育模拟游戏系列。"
+        },
+        {
+          "name": "The Sims",
+          "desc": "EA 的生活模拟游戏系列。"
+        },
+        {
+          "name": "Apex Legends",
+          "desc": "EA 的免费英雄战术射击/大逃杀游戏。"
+        }
+      ]
+    },
     {
       "id": "7d18252468",
       "title": "“正义终于触手可及”：被解雇的 Rockstar 员工在格拉斯哥集会，反工会破坏听证会开始",
