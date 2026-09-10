@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-11T02:43:01",
+  "updated_at": "2026-09-11T03:14:30",
   "articles": [
+    {
+      "id": "6f4e41d684",
+      "title": "「做出一款好游戏，从中学习，再以此为基础继续构建」：离开 id Software 十年后转做独立开发的经验教训",
+      "zh_desc": "Game Developer 采访 Doom Eternal 美术总监 Tony Garza 与 id 前同事 Richard O'Neal，讲述他们通过 Turnkey Games 投身独立开发的历程与心得。内容对独立团队的项目节奏与自我迭代有一定参考价值，但与休闲三消品类的玩法、数值和变现关联较弱。",
+      "url": "https://www.gamedeveloper.com/production/-ship-a-good-game-learn-from-it-and-build-from-there-lessons-from-going-indie-after-a-decade-at-id-software",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-10T18:56:42",
+      "fetched_at": "2026-09-11T03:14:30",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Doom Eternal",
+          "desc": "由 id Software 开发的第一人称射击游戏，文章提到 Tony Garza 曾担任其艺术总监。"
+        },
+        {
+          "name": "Apart",
+          "desc": "Turnkey Games 正在开发的第三人称恐怖冒险游戏，玩家将扮演一截灵活断臂和一个模块化僵尸小孩穿越末日世界。"
+        }
+      ]
+    },
     {
       "id": "5318fea350",
       "title": "沙特高层考虑合并 Savvy 与 EA，打造全新游戏超级集团",
