@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-09-10T20:49:44",
+  "updated_at": "2026-09-11T00:03:53",
   "articles": [
+    {
+      "id": "fb8f53b060",
+      "title": "Newzoo：2026 上半年多数成熟 Live Service 与常青游戏同比持平或下滑",
+      "zh_desc": "Newzoo 数据显示，2026 上半年多数成熟 Live Service 与常青产品收入同比持平或下降，增量更多流向新作。对做三消与休闲品类的团队而言，这是判断存量竞争加剧、买量与 LiveOps 投入回报变化的重要市场信号。",
+      "url": "https://www.gamesindustry.biz/newzoo-most-established-live-service-and-evergreen-titles-were-flat-or-down-year-over-year-in-h1-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-10T12:22:19",
+      "fetched_at": "2026-09-11T00:03:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "World of Warcraft",
+          "desc": "大型多人在线角色扮演游戏（MMORPG），文中列为2026上半年少数实现增长的常青在线服务游戏之一。"
+        },
+        {
+          "name": "Diablo 4",
+          "desc": "动作角色扮演游戏，文中列为2026上半年少数实现增长的常青在线服务游戏之一。"
+        },
+        {
+          "name": "Overwatch",
+          "desc": "团队射击游戏，文中列为2026上半年少数实现增长的常青在线服务游戏之一。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容与沙盒游戏平台，文中列为增长并进入Q1 2026收入前十的项目。"
+        },
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "开放世界动作冒险游戏，文中预期其发售将推动主机玩家增长与第九世代主机装机量。"
+        }
+      ]
+    },
+    {
+      "id": "2bd7b73117",
+      "title": "手游 Age of Magic 运营八年累计收入达 1.2 亿美元",
+      "zh_desc": "报道 Playrix 旗下手游 Age of Magic 八年累计收入 1.2 亿美元、下载量 2000 万次。属于长线运营手游的营收数据案例，可为休闲与中核产品的长线留存与变现节奏提供参照。",
+      "url": "https://gameworldobserver.com/2026/09/10/the-revenue-of-the-mobile-game-age-of-magic-reached-120-million-over-eight-years-of-operation",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-10T13:27:20",
+      "fetched_at": "2026-09-11T00:03:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Age of Magic",
+          "desc": "移动端英雄收集与战队对战游戏，运营八年累计收入达1.2亿美元、下载量2000万次。"
+        },
+        {
+          "name": "SuperCity",
+          "desc": "城市建造模拟器，文中提到其在移动和网页平台运营15年收入约1亿美元。"
+        },
+        {
+          "name": "RAID: Shadow Legends",
+          "desc": "英雄收集与战队对战手游，文中作为Age of Magic同类参照被提及。"
+        }
+      ]
+    },
     {
       "id": "34ec514bb3",
       "title": "2026 年 8 月全球移动游戏排行榜——下载量与收入 Top 15 - FoxData",
