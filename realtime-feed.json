@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-10T17:04:11",
+  "updated_at": "2026-09-10T20:49:44",
   "articles": [
+    {
+      "id": "34ec514bb3",
+      "title": "2026 年 8 月全球移动游戏排行榜——下载量与收入 Top 15 - FoxData",
+      "zh_desc": "FoxData 发布 2026 年 8 月全球移动游戏下载量和收入 Top 15 榜单，覆盖头部手游市场表现。从业者可用于观察大盘趋势和头部产品变化，但缺少对休闲品类的玩法、变现或 LiveOps 深度拆解。",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTU0dC02bE9KSy1mTlFDQUxNOWxxS0ZVTEwwUjM5Xzd4cDlIb3NwU0pWTE1xX2NhN2lPMXpFaXJVNXhyM1I3cDF1LWQ4c0hhMEdLaFpvNERzSG1oNExVQXlyZ1JJcXMtcWJhTEZEU3JPRWxIUTZiN3VmV09idlBOblBKamlwUGwtcWh0NjUtVmlLc0w1SmVQRlZB?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-09T17:32:58",
+      "fetched_at": "2026-09-10T20:49:44",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "d172b67959",
       "title": "Xbox 将发行 Kojima Productions 的 Physint，此前 PlayStation 意外通知取消该项目",
