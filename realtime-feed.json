@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-09-11T03:14:30",
+  "updated_at": "2026-09-11T05:20:41",
   "articles": [
+    {
+      "id": "a3635d9c6d",
+      "title": "Xbox 将发行小岛工作室的 Physint，此前 PlayStation 放弃该项目",
+      "zh_desc": "Xbox 宣布接手小岛工作室新作 Physint 的发行工作，此前该合作被 PlayStation 放弃。消息出现在 Xbox 大规模裁员、多项发行合作取消的动荡期，对关注主机与跨平台发行格局的从业者有一定参考价值，但与休闲消除品类关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-10T19:35:18",
+      "fetched_at": "2026-09-11T05:20:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Physint",
+          "desc": "小岛工作室的谍战游戏，原由 PlayStation Studios 发行，现改由 Xbox 发行。"
+        },
+        {
+          "name": "OD - Knock",
+          "desc": "小岛工作室即将推出的项目，2025年底公布，Xbox 也将支持。"
+        },
+        {
+          "name": "NHL 27",
+          "desc": "EA 的冰球游戏，文中相关报道提到其使用生成式AI为解说员配音。"
+        },
+        {
+          "name": "Hitman",
+          "desc": "IO Interactive 开发的潜行刺杀游戏系列，文中以“Hitman-maker”指代该工作室。"
+        },
+        {
+          "name": "Project Fantasy",
+          "desc": "IO Interactive 的游戏项目，Xbox 曾撤回资金与发行支持。"
+        }
+      ]
+    },
     {
       "id": "6f4e41d684",
       "title": "「做出一款好游戏，从中学习，再以此为基础继续构建」：离开 id Software 十年后转做独立开发的经验教训",
