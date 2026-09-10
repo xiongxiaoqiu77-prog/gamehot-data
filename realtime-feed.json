@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-10T04:40:39",
+  "updated_at": "2026-09-10T09:35:14",
   "articles": [
+    {
+      "id": "b2a57f4df5",
+      "title": "Zenless Zone Zero 与 UnGodly 成为首批在 Apple 折叠屏 iPhone Duo 上演示的游戏",
+      "zh_desc": "Apple 联合 HoYoverse 与美国初创公司 Azra，首次在其新款折叠屏 iPhone Duo 上演示游戏运行效果。对关注新硬件形态、手游适配与大屏交互机会的从业者有一定参考价值。",
+      "url": "https://mobilegamer.biz/zenless-zone-zero-and-ungodly-are-the-first-games-to-be-demoed-on-apples-new-iphone-duo-foldable/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-10T01:14:53",
+      "fetched_at": "2026-09-10T09:35:14",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Zenless Zone Zero",
+          "desc": "Hoyoverse 推出的大型开放世界抽卡游戏，已上线应用商店，并在 Apple 折叠屏 iPhone Duo 上演示。"
+        },
+        {
+          "name": "UnGodly",
+          "desc": "Azra Games 开发的华丽 RPG，仍处于 iOS 和 Android 预注册阶段，并在 iPhone Duo 上演示。"
+        },
+        {
+          "name": "Genshin Impact",
+          "desc": "Hoyoverse 旗下开放世界抽卡游戏，文中以 Genshin Impact maker 指代其开发商。"
+        }
+      ]
+    },
     {
       "id": "d06069a438",
       "title": "Mark Cerny 与 Geoff Keighley 推出大学附属奖学金项目",
