@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-10T09:35:14",
+  "updated_at": "2026-09-10T17:04:11",
   "articles": [
+    {
+      "id": "d172b67959",
+      "title": "Xbox 将发行 Kojima Productions 的 Physint，此前 PlayStation 意外通知取消该项目",
+      "zh_desc": "报道称 Kojima Productions 在 6 月中旬意外收到 PlayStation Studios 取消 Physint 项目的通知，随后由 Xbox 接手发行。属于主机游戏发行格局与厂商合作动态资讯，对休闲手游从业者参考价值有限。",
+      "url": "https://www.gamesindustry.biz/xbox-to-publish-kojima-productions-physint-after-it-unexpectedly-received-notice-from-playstation-that-it-would-cancel-the-project",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-10T07:34:19",
+      "fetched_at": "2026-09-10T17:04:11",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Physint",
+          "desc": "小岛制作开发的动作谍战游戏，原计划为平台独占，现由 Xbox 发行。"
+        },
+        {
+          "name": "OD",
+          "desc": "小岛制作与 Xbox 已有合作项目，文章仅提及名称，未说明具体类型或特点。"
+        }
+      ]
+    },
     {
       "id": "b2a57f4df5",
       "title": "Zenless Zone Zero 与 UnGodly 成为首批在 Apple 折叠屏 iPhone Duo 上演示的游戏",
