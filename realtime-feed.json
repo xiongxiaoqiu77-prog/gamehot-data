@@ -1,6 +1,140 @@
 {
-  "updated_at": "2026-09-11T05:20:41",
+  "updated_at": "2026-09-12T07:04:42",
   "articles": [
+    {
+      "id": "e60d94d33c",
+      "title": "Saber Interactive 的 Tim Willits 谈生成式 AI、研发迁出北美与拥抱知名 IP",
+      "zh_desc": "Saber Interactive 首席创意官 Tim Willits 谈生成式 AI、将开发迁出北美以及拥抱知名 IP 的策略，并回应此前「编剧被 ChatGPT 取代」的争议。反映中大型厂商的研发布局与 AI 态度。",
+      "url": "https://www.gamesindustry.biz/saber-interactives-tim-willits-on-generative-ai-moving-development-out-of-north-america-and-embracing-recognisable-ip",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-11T12:40:00",
+      "fetched_at": "2026-09-12T07:04:42",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Space Marine",
+          "desc": "文章称 Saber Interactive 未在该游戏中使用生成式 AI。"
+        },
+        {
+          "name": "Hellraiser",
+          "desc": "文章称 Saber Interactive 未在该游戏中使用生成式 AI。"
+        },
+        {
+          "name": "Stuntman",
+          "desc": "文章称 Saber Interactive 未在该游戏中使用生成式 AI。"
+        },
+        {
+          "name": "Rideshare Stimulator",
+          "desc": "Saber Interactive 的游戏，在 Free Ride 模式中包含 AI 生成的乘客任务，用于试验生成式 AI。"
+        }
+      ]
+    },
+    {
+      "id": "49034ef0a6",
+      "title": "沙特 PIF 据报正考虑将 EA 与 Savvy Games Group 合并",
+      "zh_desc": "据报道，沙特公共投资基金（PIF）正计划将 Electronic Arts 与其子公司 Savvy Games Group 合并。涉及中东资本对全球游戏发行格局的整合动向。",
+      "url": "https://www.gamesindustry.biz/saudi-arabias-pif-reportedly-considering-to-combine-ea-with-savvy-games-group",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-11T08:29:50",
+      "fetched_at": "2026-09-12T07:04:42",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "3666e43e6b",
+      "title": "被应用商店和网页商店的费用搞晕了？试试我们的佣金计算器",
+      "zh_desc": "只需勾选所在地、商业模式等条件，即可估算 Apple、Google 或网页商店服务商可能抽取的佣金比例。对关注手游分成结构与支付渠道成本的从业者有实用参考价值。",
+      "url": "https://mobilegamer.biz/__trashed-2/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-11T11:57:14",
+      "fetched_at": "2026-09-12T07:04:42",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "78edeafc0f",
+      "title": "新游速览：Monster Hunter Outlanders、Warhammer Boltgun Boom、Pixel Gun 2、Pusheen's Place 等",
+      "zh_desc": "汇总近期上线与软启动的手游，包括 Supersonic、Popcore、Rollic 等厂商的新作，以及 AI-first 工作室 Atelico 的封闭测试。对关注休闲/超休闲赛道新品与发行动向的从业者有价值。",
+      "url": "https://mobilegamer.biz/new-game-digest-monster-hunter-outlanders-warhammer-boltgun-boom-pixel-gun-2-pusheens-place-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-11T10:06:52",
+      "fetched_at": "2026-09-12T07:04:42",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monster Hunter Outlanders",
+          "desc": "Timi 与 Capcom 合作的怪物猎人系列移动端新作，在 Apple 主题演讲中展示，将于今年晚些时候推出。"
+        },
+        {
+          "name": "UnGodly",
+          "desc": "Azra Games 的华丽 RPG，被用于展示 iPhone Duo 的游戏能力。"
+        },
+        {
+          "name": "Zenless Zone Zero",
+          "desc": "Hoyoverse 的游戏，被用于展示 iPhone Duo 的游戏能力。"
+        },
+        {
+          "name": "Warhammer 40,000: Boltgun Boom",
+          "desc": "Nitro Games 开发的 Warhammer 40,000 移动端游戏，将于 9 月 23 日登陆 iOS 和 Android。"
+        },
+        {
+          "name": "Pusheen’s Place",
+          "desc": "首款官方授权的 Pusheen the Cat 游戏，Apple Arcade 独占，10 月 1 日推出，是建造和装饰主题的舒适生活模拟。"
+        },
+        {
+          "name": "River City Survivors",
+          "desc": "《热血》系列的类《吸血鬼幸存者》衍生游戏，10 月 1 日加入 Apple Arcade。"
+        },
+        {
+          "name": "Terraria+",
+          "desc": "现有移动游戏加入 Apple Arcade 的版本，移除内购和/或广告变现。"
+        },
+        {
+          "name": "Touchgrind BMX 2+",
+          "desc": "现有移动游戏加入 Apple Arcade 的版本，移除内购和/或广告变现。"
+        },
+        {
+          "name": "4 Pics 1 Word+",
+          "desc": "现有移动游戏加入 Apple Arcade 的版本，移除内购和/或广告变现。"
+        },
+        {
+          "name": "Pixel Gun 2",
+          "desc": "Cubic Games 的系列新作，全球 iOS 和 Android 上线，系列下载量已超 3 亿。"
+        },
+        {
+          "name": "Absolum",
+          "desc": "Dotemu、Guard Crush Games 和 Supamonks 开发的 roguelite 横版格斗游戏，11 月 5 日以 8.99 美元推出。"
+        },
+        {
+          "name": "Dig Treasure",
+          "desc": "Popcore 的休闲隐藏物品解谜游戏，玩家打破方块寻找埋藏物品，处于 iOS 早期测试。"
+        },
+        {
+          "name": "Paws Out",
+          "desc": "Rollic 的益智游戏，玩家拖动同色猫穿过狭窄空间到达门口，处于 iOS 早期测试。"
+        },
+        {
+          "name": "ArrowIt",
+          "desc": "Supersonic（Tripledot 旗下）发行的益智游戏，玩家按正确顺序点击缠绕板上的箭头，在巴西、以色列和菲律宾 Android 软启动。"
+        },
+        {
+          "name": "Villain",
+          "desc": "Triomatica Games 的剧院主题逻辑解谜游戏，登陆 iOS 和 Android，是 2027 年初完整版《I Want to Play the Villain》的第一章。"
+        },
+        {
+          "name": "Bobium Brawlers",
+          "desc": "文章末尾提及的游戏，正文在此处截断，暂无更多介绍。"
+        }
+      ]
+    },
     {
       "id": "a3635d9c6d",
       "title": "Xbox 将发行小岛工作室的 Physint，此前 PlayStation 放弃该项目",
