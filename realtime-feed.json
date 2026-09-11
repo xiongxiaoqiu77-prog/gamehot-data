@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-12T07:04:42",
+  "updated_at": "2026-09-12T07:36:42",
   "articles": [
+    {
+      "id": "829fef7888",
+      "title": "工会状态：游戏行业工会化的兴起",
+      "zh_desc": "梳理近十年游戏行业工会化的发展脉络，分析全球从业者为争取权益而组织工会的背景与进展。适合了解行业用人环境变化。",
+      "url": "https://www.gamesindustry.biz/state-of-the-unions-the-rise-of-unionisation-in-games-workplaces",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-11T15:59:00",
+      "fetched_at": "2026-09-12T07:36:42",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "84b8530934",
+      "title": "欧洲工作室 2025 年外部人才支出增长 63%",
+      "zh_desc": "数据显示 2025 年欧洲工作室在外部角色上的支出增长 63%，高于全球 55% 的增速。反映行业外包化与用人结构的变化趋势。",
+      "url": "https://www.gamesindustry.biz/european-studio-expenditure-on-external-talent-rises-63-in-2025",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-11T13:46:06",
+      "fetched_at": "2026-09-12T07:36:42",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "e60d94d33c",
       "title": "Saber Interactive 的 Tim Willits 谈生成式 AI、研发迁出北美与拥抱知名 IP",
