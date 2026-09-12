@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-12T10:14:48",
+  "updated_at": "2026-09-12T18:10:23",
   "articles": [
+    {
+      "id": "ee455c8a4d",
+      "title": "Marvel's Wolverine | 媒体评分综述",
+      "zh_desc": "汇总媒体对 Insomniac Games 开发的 Marvel's Wolverine 的评价与口碑走向，梳理其从公布到上市的市场历程。属于主机大作舆情，对三消/休闲手游从业者参考价值有限，可作行业氛围参考。",
+      "url": "https://www.gamesindustry.biz/marvels-wolverine-critical-consensus",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-11T13:19:37",
+      "fetched_at": "2026-09-12T18:10:23",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Marvel's Wolverine",
+          "desc": "Insomniac开发的PlayStation第一方独占动作游戏，以金刚狼为主角，采用线性流程和偏格斗/反击的战斗，媒体评价混合（Metacritic 78）。"
+        },
+        {
+          "name": "Spider-Man",
+          "desc": "Insomniac开发的蜘蛛侠系列游戏，以流畅移动、蛛丝投掷和三维战斗为特点，本文将其与《Marvel's Wolverine》对比。"
+        },
+        {
+          "name": "Physint",
+          "desc": "小岛秀夫相关的游戏项目，文中仅作为PlayStation与其分离的背景提及。"
+        }
+      ]
+    },
     {
       "id": "3fc3c317c8",
       "title": "诚实的意见还是诽谤？律师解析其中的法律细微差别",
