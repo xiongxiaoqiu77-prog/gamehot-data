@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-12T07:36:42",
+  "updated_at": "2026-09-12T09:11:28",
   "articles": [
+    {
+      "id": "9c1119172d",
+      "title": "波兰游戏产业拥有超 800 家公司、14000 名从业者，但收入出现下滑",
+      "zh_desc": "波兰企业发展局在《波兰游戏产业报告 2025》中披露当地产业规模、从业人数与营收下滑等关键数据。对了解欧洲区域市场结构与研发外包供给有参考价值。",
+      "url": "https://gameworldobserver.com/2026/09/11/the-polish-game-development-industry-consists-of-over-800-companies-14000-people-and-a-decline-in-revenue",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-11T15:24:05",
+      "fetched_at": "2026-09-12T09:11:28",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "829fef7888",
       "title": "工会状态：游戏行业工会化的兴起",
