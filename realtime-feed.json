@@ -1,6 +1,64 @@
 {
-  "updated_at": "2026-09-12T09:42:59",
+  "updated_at": "2026-09-12T10:14:48",
   "articles": [
+    {
+      "id": "3fc3c317c8",
+      "title": "诚实的意见还是诽谤？律师解析其中的法律细微差别",
+      "zh_desc": "Rockstar 指控一批前员工在 Discord 上诽谤工作室，本文由律师解释「诽谤」在法律上的确切定义与边界。对关注游戏行业劳资纠纷、舆情与法律风险的从业者有参考价值。",
+      "url": "https://www.gamedeveloper.com/business/an-honest-opinion-or-defamation-a-solicitor-outlines-the-legal-nuance",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-11T13:27:31",
+      "fetched_at": "2026-09-12T10:14:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar 开发的开放世界动作冒险游戏系列最新作；文中提及其开发商被前员工指控诽谤。"
+        }
+      ]
+    },
+    {
+      "id": "f8a5a06491",
+      "title": "Rockstar 与被解雇的 GTA 开发者在工会打压仲裁中阐明核心论点",
+      "zh_desc": "Game Developer 获取的法律文件显示，双方在针对 Rockstar 的工会打压仲裁案中各自陈述了核心主张。属于游戏公司劳资与法务动态类资讯。",
+      "url": "https://www.gamedeveloper.com/production/rockstar-and-fired-gta-developers-outline-core-arguments-during-union-busting-tribunal",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-11T10:26:10",
+      "fetched_at": "2026-09-12T10:14:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA",
+          "desc": "Rockstar 开发的开放世界动作冒险游戏系列；文章讨论其开发团队被解雇与工会纠纷。"
+        }
+      ]
+    },
+    {
+      "id": "6258be3b6a",
+      "title": "报道：Steam 现要求澳大利亚用户以信用卡验证年龄",
+      "zh_desc": "多名用户称 Valve 已对澳大利亚 Steam 用户启用年龄验证，以访问 R18+ 分级游戏。反映平台合规与分区域监管趋势的行业资讯。",
+      "url": "https://www.gamedeveloper.com/pc/report-steam-now-requires-australian-users-to-verify-their-age-with-credit-cards",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-10T09:24:59",
+      "fetched_at": "2026-09-12T10:14:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Doom Eternal",
+          "desc": "第一人称射击游戏，文中作为 Steam 澳大利亚 R18+ 年龄验证的商店页面示例被提及。"
+        },
+        {
+          "name": "Ace Attorney",
+          "desc": "法庭辩论冒险游戏系列，文中在作者简介的播客介绍中被提及。"
+        }
+      ]
+    },
     {
       "id": "19d848ebed",
       "title": "善意透支：主机品牌的品牌价值与用户忠诚正面临考验",
