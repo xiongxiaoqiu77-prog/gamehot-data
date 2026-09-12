@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-12T09:11:28",
+  "updated_at": "2026-09-12T09:42:59",
   "articles": [
+    {
+      "id": "19d848ebed",
+      "title": "善意透支：主机品牌的品牌价值与用户忠诚正面临考验",
+      "zh_desc": "GamesIndustry.biz 评论文章指出，PlayStation 与 Xbox 每一次决策与发布背后都悬着下一代硬件的时间倒计时，厂商需要说服玩家接受高昂定价。属于行业观察，与休闲手游关联度一般。",
+      "url": "https://www.gamesindustry.biz/goodwill-hunting-consoles-brand-value-and-loyalty-is-being-tested-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-11T16:28:42",
+      "fetched_at": "2026-09-12T09:42:59",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Physint",
+          "desc": "小岛秀夫即将推出的游戏，最初由索尼在 State of Play 公布，后项目被索尼放弃、转由 Xbox Game Studios 接手发行。"
+        },
+        {
+          "name": "Death Stranding",
+          "desc": "小岛秀夫与索尼此前合作、媒体评价普遍良好的游戏。"
+        }
+      ]
+    },
+    {
+      "id": "025ce96a7b",
+      "title": "Saber Interactive 称\"在北美已无实质研发业务\"",
+      "zh_desc": "Saber Interactive 首席创意官 Tim Willits 表示公司\"在北美已不再有真正的研发\"。反映海外工作室产能迁移与外包格局变化，属于公司动态类行业资讯。",
+      "url": "https://www.gamesindustry.biz/saber-interactive-has-no-real-development-in-north-america-any-more",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-11T08:27:29",
+      "fetched_at": "2026-09-12T09:42:59",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Insurgency: Sandstorm",
+          "desc": "New World Interactive 开发的 2018 年射击游戏，并于今年 5 月获得重大更新。"
+        },
+        {
+          "name": "SnowRunner",
+          "desc": "2021 年推出的游戏，开发成本仅 600 万美元，却已创下数亿美元收入。"
+        },
+        {
+          "name": "Warhammer 40,000: Space Marine 2",
+          "desc": "开发成本仅某北美大厂新作的三分之一，但销量多出 1100 万份。"
+        }
+      ]
+    },
     {
       "id": "9c1119172d",
       "title": "波兰游戏产业拥有超 800 家公司、14000 名从业者，但收入出现下滑",
