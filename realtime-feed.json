@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-12T18:10:23",
+  "updated_at": "2026-09-14T12:45:51",
   "articles": [
+    {
+      "id": "03069fe86e",
+      "title": "Roblox 将推出基于浏览器与离线的游戏功能",
+      "zh_desc": "报道称 Roblox 计划引入浏览器端游玩与离线游戏能力，反映平台在分发与可及性上的新动向。属于一般性游戏行业资讯，对休闲游戏平台的渠道与用户触达策略有间接参考意义。",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzdyZ1BfUEhfTnVLblhRVVpRdmVyR0p6aHFhVWFtZG9jY3pnMEtpWkozSTlKYjJTODZsZk5RdTJpektJY2lFT0U4THlWQ3ZUSGcwNXRqOFJCdUx1NWMzRWhMX2xaYjJ5bzNwbHpuWW1mVDJUWFgwNmNFWWtpX2M5SGNJMkRYQ1NsMXR0TWFB?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-12T15:37:58",
+      "fetched_at": "2026-09-14T12:45:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "一个用户生成内容的大型多人在线游戏平台，玩家可在其中创建和游玩各类虚拟世界体验。"
+        }
+      ]
+    },
     {
       "id": "ee455c8a4d",
       "title": "Marvel's Wolverine | 媒体评分综述",
