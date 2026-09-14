@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-15T00:27:31",
+  "updated_at": "2026-09-15T00:59:31",
   "articles": [
+    {
+      "id": "6023c633f3",
+      "title": "Smilegate 创始人的前妻在诉讼中赢得公司 35% 股份",
+      "zh_desc": "韩国 Smilegate 创始人权赫彬离婚诉讼后，前妻李和珍获得公司 35% 股份；Smilegate 以 Crossfire 和 Lost Ark 闻名。属于重大公司股权与法律动态，对休闲手游从业者有行业观察价值但非品类分析。",
+      "url": "https://gameworldobserver.com/2026/09/14/the-ex-wife-of-the-smilegate-founder-won-35-of-the-companys-shares-in-a-lawsuit-against-him",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T11:55:52",
+      "fetched_at": "2026-09-15T00:59:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Crossfire",
+          "desc": "第一人称射击游戏，是 Smilegate 最知名的代表作之一。"
+        },
+        {
+          "name": "Lost Ark",
+          "desc": "MMORPG，Smilegate 的另一款知名代表作。"
+        },
+        {
+          "name": "Crossfire: Sierra Squad",
+          "desc": "《穿越火线》IP 的 VR 射击游戏，文中作为配图标题被提及。"
+        }
+      ]
+    },
     {
       "id": "8dbd85d45d",
       "title": "为什么没人预料到《Cyberpunk 2077》的崩盘",
