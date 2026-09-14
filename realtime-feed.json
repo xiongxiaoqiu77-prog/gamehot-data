@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-15T05:41:15",
+  "updated_at": "2026-09-15T07:16:09",
   "articles": [
+    {
+      "id": "0e17ed209a",
+      "title": "「问一下又不会怎样？」——Dlala Studios 谈如何大胆出手，为即将推出的游戏 Murals 请到喜剧传奇 Bob Mortimer",
+      "zh_desc": "Dlala Studios 分享了为即将推出的新作 Murals 争取英国喜剧巨星 Bob Mortimer 参与的过程，涉及明星合作谈判、创意取舍与内容营销思路。对关注游戏内容差异化与品牌联动的从业者有一定参考价值，但与休闲消除品类关联较弱。",
+      "url": "https://www.gamesindustry.biz/whats-the-harm-in-asking-dlala-studios-on-taking-a-big-swing-to-get-comedy-legend-bob-mortimer-for-the-upcoming-game-murals",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T12:30:00",
+      "fetched_at": "2026-09-15T07:16:09",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Murals",
+          "desc": "Dlala Studios 即将推出的游戏，Bob Mortimer 参与配音并饰演角色 Magic Dave。"
+        },
+        {
+          "name": "Battletoads",
+          "desc": "Dlala Studios 于 2020 年开发的游戏。"
+        }
+      ]
+    },
     {
       "id": "99d1f051c2",
       "title": "Valve 的 Steam Frame 定价 1,059 美元起",
