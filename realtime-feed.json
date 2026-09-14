@@ -1,6 +1,223 @@
 {
-  "updated_at": "2026-09-15T02:03:26",
+  "updated_at": "2026-09-15T05:41:15",
   "articles": [
+    {
+      "id": "99d1f051c2",
+      "title": "Valve 的 Steam Frame 定价 1,059 美元起",
+      "zh_desc": "Valve 公布 VR 头显 Steam Frame 的定价，并面向 VR 开发者推出开发套件。该消息属于 XR 硬件与平台动态，对关注 VR 游戏生态的从业者有参考价值，但与休闲手游和三消品类关联较弱。",
+      "url": "https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T18:04:06",
+      "fetched_at": "2026-09-15T05:41:15",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "c7a0c864eb",
+      "title": "《Moss》开发商 Polyarc 已关闭",
+      "zh_desc": "VR 游戏《Moss》开发商 Polyarc 在运营十余年后关闭。该消息反映 VR 内容团队和中小工作室的生存压力，但与休闲手游设计、运营和变现无直接关系。",
+      "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T13:14:51",
+      "fetched_at": "2026-09-15T05:41:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Moss",
+          "desc": "Polyarc 开发的 VR 冒险解谜系列，最初为 VR 设计，后又被重新构想至传统平台。"
+        }
+      ]
+    },
+    {
+      "id": "231072f132",
+      "title": "员工自治工作室 KO_OP 确认裁员",
+      "zh_desc": "《Goodbye Volcano High》和《Young Suns》开发商 KO_OP 确认裁撤 13 个岗位。属于游戏行业公司与人力动态，对观察独立工作室经营环境有参考，但与休闲消除品类关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T10:11:41",
+      "fetched_at": "2026-09-15T05:41:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Goodbye Volcano High",
+          "desc": "KO_OP 开发的叙事冒险游戏，文中作为该工作室代表作之一提及。"
+        },
+        {
+          "name": "Young Suns",
+          "desc": "多人生活模拟器，已在 Xbox 推出，并将登陆更多平台。"
+        }
+      ]
+    },
+    {
+      "id": "cbe30eaa00",
+      "title": "Level-5 CEO 承认在近期展示会中使用生成式 AI",
+      "zh_desc": "Level-5 社长兼 CEO 日野晃博承认近期数字展示会使用了生成式 AI，并为此道歉。该事件反映游戏厂商在宣传素材中使用 AI 的争议，对行业合规和玩家沟通有参考意义。",
+      "url": "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T20:10:38",
+      "fetched_at": "2026-09-15T05:41:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Professor Layton",
+          "desc": "Level-5 的解谜冒险系列，其近期展示会相关揭示被确认使用了生成式 AI 辅助制作。"
+        },
+        {
+          "name": "Yo-Kai Watch",
+          "desc": "Level-5 的角色扮演/收集系列，其近期展示会相关揭示同样涉及生成式 AI 使用。"
+        }
+      ]
+    },
+    {
+      "id": "afa8996121",
+      "title": "Valve 开放 Steam Frame 候补名单，起售价 1059 美元",
+      "zh_desc": "Valve 为其新 VR 系统 Steam Frame 开放候补名单，起售价 1059 美元。属于 VR 硬件与平台发行信息，对 XR 游戏开发者有参考，但并非休闲手游核心议题。",
+      "url": "https://www.gamesindustry.biz/valve-opens-waiting-list-for-steam-frame-starting-at-1059",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T18:03:34",
+      "fetched_at": "2026-09-15T05:41:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Half-Life: Alyx",
+          "desc": "Valve 的 VR 第一人称射击/冒险游戏，随 Steam Frame 各型号附带。"
+        }
+      ]
+    },
+    {
+      "id": "6576dfefb9",
+      "title": "Rockstar 与 IWGB 在仲裁庭开庭时陈述论点",
+      "zh_desc": "Rockstar 与英国独立工人工会 IWGB 在持续进行的就业仲裁庭上陈述各自论点，案件预计审理至 10 月 16 日。属于游戏行业劳动与公司治理新闻，对用工环境观察有参考价值。",
+      "url": "https://www.gamesindustry.biz/rockstar-and-iwgb-outline-arguments-at-start-of-tribunal",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T16:22:08",
+      "fetched_at": "2026-09-15T05:41:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar 的开放世界动作游戏，其未完成开发影像泄露被公司引为需保护机密信息的背景。"
+        }
+      ]
+    },
+    {
+      "id": "cb263ea2ba",
+      "title": "据称 PlayStation 对 Kojima Productions 的 Physint 有预算、盈利潜力和独占性担忧",
+      "zh_desc": "报道称 PlayStation 因预算、潜在盈利能力和独占性等担忧，停止参与 Kojima Productions 的 Physint。该消息反映 3A 与主机项目投资合作风险，与休闲手游领域关联较弱。",
+      "url": "https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T13:43:40",
+      "fetched_at": "2026-09-15T05:41:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Physint",
+          "desc": "Kojima Productions 的动作谍战游戏，PlayStation 因预算、盈利潜力和独占性担忧放弃合作，后转向 Xbox。"
+        },
+        {
+          "name": "Death Stranding",
+          "desc": "Kojima Productions 的开放世界动作冒险/送货游戏，限时独占 PlayStation 后登陆 PC、Xbox 和 Luna，未达 PlayStation 收入预期。"
+        },
+        {
+          "name": "Death Stranding 2: On the Beach",
+          "desc": "Death Stranding 续作，同样为限时独占，未达 PlayStation 收入预期。"
+        },
+        {
+          "name": "OD",
+          "desc": "Kojima Productions 与 Xbox 合作开发的恐怖游戏。"
+        }
+      ]
+    },
+    {
+      "id": "5d600fed6b",
+      "title": "新 StarCraft 作品将于 2030 年推出，为开放世界 FPS",
+      "zh_desc": "暴雪宣布下一款 StarCraft 作品将于 2030 年推出，并从 RTS 转向开放世界 FPS。属于重磅 IP 方向调整新闻，对行业趋势有参考，但与休闲消除品类无关。",
+      "url": "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T10:29:14",
+      "fetched_at": "2026-09-15T05:41:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "StarCraft (2030)",
+          "desc": "系列新作，从即时战略转向开放世界第一人称射击，计划 2030 年推出。"
+        },
+        {
+          "name": "StarCraft (original)",
+          "desc": "1998 年推出的原版即时战略游戏。"
+        },
+        {
+          "name": "StarCraft 2: Legacy of the Void",
+          "desc": "2015 年推出的即时战略作品，也是该系列上一部新作。"
+        },
+        {
+          "name": "StarCraft Ghost",
+          "desc": "2002 年公布、2006 年取消的 StarCraft 第一人称射击项目。"
+        },
+        {
+          "name": "Ares",
+          "desc": "2019 年取消的 StarCraft 项目代号，取消原因为优先开发 Diablo 4 和 Overwatch 2。"
+        },
+        {
+          "name": "Diablo 5",
+          "desc": "计划于 2029 年春季推出的 Diablo 新作。"
+        },
+        {
+          "name": "Diablo 4",
+          "desc": "暴雪的动作角色扮演游戏，文中提到将获得新内容。"
+        },
+        {
+          "name": "Overwatch 2",
+          "desc": "暴雪的团队射击游戏，文中作为取消 Ares 时优先开发的项目之一被提及。"
+        },
+        {
+          "name": "World of Warcraft: Forever",
+          "desc": "原版 World of Warcraft 的重制扩展版，2026 年 11 月 4 日发布，含新区域、任务、地下城、团本和新种族。"
+        }
+      ]
+    },
+    {
+      "id": "f66d43cf52",
+      "title": "《Moss》开发商 Polyarc Games 宣布关闭",
+      "zh_desc": "《Moss》开发商 Polyarc Games 宣布在成立 12 年后关闭。该消息反映 VR 工作室的生存状况，对 XR 生态和中小团队风险有参考，与休闲手游无直接关系。",
+      "url": "https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-closure",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T08:00:08",
+      "fetched_at": "2026-09-15T05:41:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Moss",
+          "desc": "Polyarc 的 VR 冒险解谜游戏，2018 年推出首作。"
+        },
+        {
+          "name": "Moss: The Forgotten Relic",
+          "desc": "将原两部 Moss 游戏整合到非 VR 平台的作品，于两个月前推出。"
+        },
+        {
+          "name": "Glassbreakers: Champions of Moss",
+          "desc": "在线竞技 VR 策略游戏，于去年推出。"
+        }
+      ]
+    },
     {
       "id": "fc42786864",
       "title": "超过 40% 取消 Xbox Game Pass、PlayStation Plus 和 Nintendo Switch Online 订阅的用户将原因归咎于涨价",
