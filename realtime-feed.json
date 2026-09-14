@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-15T00:59:31",
+  "updated_at": "2026-09-15T02:03:26",
   "articles": [
+    {
+      "id": "fc42786864",
+      "title": "超过 40% 取消 Xbox Game Pass、PlayStation Plus 和 Nintendo Switch Online 订阅的用户将原因归咎于涨价",
+      "zh_desc": "调查显示涨价是玩家取消主机订阅服务的主要原因。对做订阅制、季票或 Battle Pass 的手游团队而言，可作为定价与用户流失敏感度的参考数据。",
+      "url": "https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-14T17:30:55",
+      "fetched_at": "2026-09-15T02:03:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Call of Duty",
+          "desc": "第一人称射击游戏系列；文中提到Xbox Game Pass不再在发售首日包含新的《使命召唤》作品。"
+        }
+      ]
+    },
     {
       "id": "6023c633f3",
       "title": "Smilegate 创始人的前妻在诉讼中赢得公司 35% 股份",
