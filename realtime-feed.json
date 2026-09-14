@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-09-14T23:22:48",
+  "updated_at": "2026-09-15T00:27:31",
   "articles": [
+    {
+      "id": "8dbd85d45d",
+      "title": "为什么没人预料到《Cyberpunk 2077》的崩盘",
+      "zh_desc": "Deconstructor of Fun 邀请 Michal Nowakowski 复盘《Cyberpunk 2077》上线失利的那一周，以及促成 CD PROJEKT RED 崛起的关键交易。内容偏向大厂战略与项目管理复盘，对休闲游戏从业者的直接参考有限，但可借鉴其发行与预期管理经验。",
+      "url": "https://www.deconstructoroffun.com/blog/why-none-of-us-saw-cyberpunk-coming-apart",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-14T10:25:57",
+      "fetched_at": "2026-09-15T00:27:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "CD Projekt RED 开发的开放世界角色扮演游戏，2020 年发售时因严重技术问题被 PlayStation Store 下架，后续销量与口碑回升。"
+        }
+      ]
+    },
+    {
+      "id": "24e9cd51d2",
+      "title": "Roblox 创作者即将能以独立应用形式多平台发布游戏",
+      "zh_desc": "Roblox 将通过 Roblox Everywhere 计划，让创作者把游戏发布到移动端、PC 与主机。平台生态与分发渠道变化值得关注，但与休闲消除品类关联一般。",
+      "url": "https://www.gamesindustry.biz/roblox-creators-will-soon-be-able-to-publish-games-on-multiple-platforms-as-standalone-apps",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T12:58:00",
+      "fetched_at": "2026-09-15T00:27:31",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "bcd497635a",
+      "title": "玩具巨头 Mattel 盯上移动端，想做出自己的《Monopoly Go》",
+      "zh_desc": "拥有 UNO、Barbie 等 IP 的 Mattel 收购了 NetEase 在 Mattel163 的股份，并以 Mattel Game Studios 之名自建发行业务，COO Devin Nambiar 讲述其移动端野心。对休闲品类 IP 改编与发行策略有一定参考价值。",
+      "url": "https://mobilegamer.biz/toy-giant-mattel-has-set-its-sights-on-mobile-and-it-wants-a-monopoly-go-of-its-own/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-14T16:01:29",
+      "fetched_at": "2026-09-15T00:27:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "Scopely 与 Hasbro 合作的移动休闲棋盘游戏，成为现象级爆款，是 Mattel 想复制的目标。"
+        },
+        {
+          "name": "Monopoly",
+          "desc": "Hasbro 的经典棋盘游戏，被授权给 Scopely 后催生出爆款移动游戏《Monopoly Go》。"
+        },
+        {
+          "name": "Uno",
+          "desc": "Mattel 旗下卡牌 IP 改编的移动游戏，是 Mattel 当前流量、收入和参与度最大的游戏之一。"
+        },
+        {
+          "name": "Phase 10",
+          "desc": "Mattel Game Studios 运营的卡牌/休闲移动游戏。"
+        },
+        {
+          "name": "Skip-Bo",
+          "desc": "Mattel Game Studios 运营的卡牌/休闲移动游戏。"
+        },
+        {
+          "name": "Barbie Dreamhouse",
+          "desc": "Budge 开发的芭比 IP 授权游戏，属于 Mattel Game Studios 运营的 live titles。"
+        },
+        {
+          "name": "Barbie Merge Mystery",
+          "desc": "Rollic 开发的芭比 IP 合并解谜游戏，属于 Mattel Game Studios 运营的 live titles。"
+        },
+        {
+          "name": "Masters of the Universe: Until Next Time",
+          "desc": "Mattel Game Studios 内部开发的跑酷游戏，配合《宇宙巨人》品牌电影上映推出。"
+        }
+      ]
+    },
+    {
+      "id": "94b133df02",
+      "title": "Roblox 计划让创作者把游戏变成独立应用",
+      "zh_desc": "RDC 2026 还公布了离线游玩、网页即点即玩、2D 游戏支持与新的创作者分成工具。属平台政策与工具更新类资讯。",
+      "url": "https://mobilegamer.biz/roblox-to-let-creators-turn-their-games-into-standalone-apps/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-14T10:50:23",
+      "fetched_at": "2026-09-15T00:27:31",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "43cdb0a119",
       "title": "休闲游戏剧烈洗牌？最赚的消除二合收入占80%，下载量暴跌至25%",
