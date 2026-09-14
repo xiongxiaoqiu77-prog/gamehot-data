@@ -1,6 +1,64 @@
 {
-  "updated_at": "2026-09-14T12:45:51",
+  "updated_at": "2026-09-14T19:38:48",
   "articles": [
+    {
+      "id": "88c5503fa0",
+      "title": "独立游戏背后的新资本",
+      "zh_desc": "Naavik 周报梳理了近两周内三家知名开发商（thatgamecompany、Aggro Crab、Escape from Tarkov 团队等）相继推出自建发行业务的现象，分析独立游戏发行格局与资金流向的变化。对关注游戏行业资本与发行生态的从业者有一定的情报价值，但未涉及休闲品类玩法或变现细节。",
+      "url": "https://naavik.co/weekly-digest/the-new-money-behind-indie-games/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-13T10:57:25",
+      "fetched_at": "2026-09-14T19:38:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Journey",
+          "desc": "一款以情感体验为核心、无对白无文字交流的冒险游戏。"
+        },
+        {
+          "name": "Sky: Children of the Light",
+          "desc": "一款强调社交与探索的云端冒险游戏。"
+        },
+        {
+          "name": "PEAK",
+          "desc": "由Aggro Crab与Landfall联合开发的合作攀爬游戏。"
+        },
+        {
+          "name": "Escape from Tarkov",
+          "desc": "一款硬核战术撤离射击游戏。"
+        },
+        {
+          "name": "Among Us",
+          "desc": "一款社交推理派对游戏，玩家需要在飞船中找出内鬼。"
+        },
+        {
+          "name": "Vampire Survivors",
+          "desc": "一款割草式Roguelite生存游戏，以自动攻击和密集敌群为特点。"
+        },
+        {
+          "name": "Totally Accurate Battle Simulator",
+          "desc": "一款基于物理模拟的滑稽战争模拟游戏。"
+        },
+        {
+          "name": "Content Warning",
+          "desc": "一款合作拍摄恐怖视频的多人恐怖游戏。"
+        },
+        {
+          "name": "Phasmophobia",
+          "desc": "一款多人合作捉鬼恐怖游戏。"
+        },
+        {
+          "name": "Palworld",
+          "desc": "一款融合生物收集、生存建造与射击的开放世界游戏。"
+        },
+        {
+          "name": "Goat Simulator",
+          "desc": "一款以山羊为主角的无厘头物理沙盒游戏。"
+        }
+      ]
+    },
     {
       "id": "03069fe86e",
       "title": "Roblox 将推出基于浏览器与离线的游戏功能",
