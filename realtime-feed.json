@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-16T03:01:39",
+  "updated_at": "2026-09-16T04:05:31",
   "articles": [
+    {
+      "id": "df7d9cfb0b",
+      "title": "Roblox 将允许开发者把游戏以独立应用形式上架其他商店",
+      "zh_desc": "Roblox 宣布将放开限制，开发者未来可把基于 Roblox 制作的游戏以独立 App 形式发布到其他平台与应用商店，同时仍沿用 Roblox 现有的收入分成体系。对关注 UGC 平台生态与分发渠道变化的从业者，这是一条值得留意的平台侧政策动向，但与三消等休闲品类的玩法与变现设计关联有限。",
+      "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-15T19:52:45",
+      "fetched_at": "2026-09-16T04:05:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Steal an Egg",
+          "desc": "Roblox 平台上的用户生成游戏，被文章列为可能以独立应用形式上架外部商店的标题之一。"
+        },
+        {
+          "name": "Scream and Run",
+          "desc": "Roblox 平台上的用户生成游戏，被文章列为可能以独立应用形式上架外部商店的标题之一。"
+        },
+        {
+          "name": "Welcome to Bloxburg",
+          "desc": "Roblox 平台上的生活模拟/角色扮演类用户生成游戏，被文章列为可能以独立应用形式上架外部商店的标题之一。"
+        },
+        {
+          "name": "Marathon",
+          "desc": "Bungie 开发的科幻 PvP 提取射击游戏，文章中提及该作将回归最初的提取射击愿景。"
+        }
+      ]
+    },
     {
       "id": "9937f768ae",
       "title": "Bungie 对 Marathon 进行大规模重做，偏离最初的撤离射击设计愿景",
