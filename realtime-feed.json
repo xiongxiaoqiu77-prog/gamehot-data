@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-09-16T01:25:10",
+  "updated_at": "2026-09-16T02:29:14",
   "articles": [
+    {
+      "id": "97fd191ca2",
+      "title": "Wardogs 负责人称工作室不会聘用那些在社交媒体上抨击加班的人",
+      "zh_desc": "Game Developer 报道了 Wardogs 项目负责人关于加班（crunch）文化与招聘标准的争议性言论，称若员工真正在意作品就会感到被重视，否则会觉得被奴役。属于游戏行业职场与团队管理动态，对关注研发管理与人才策略的从业者有参考价值，但与休闲游戏设计本身关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-15T18:05:13",
+      "fetched_at": "2026-09-16T02:29:14",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Wardogs",
+          "desc": "Bulkhead 开发的游戏，报道提及其在抢先体验上线五天内销量达到 200 万份，并因加班文化引发讨论。"
+        },
+        {
+          "name": "Callisto Protocol",
+          "desc": "科幻生存恐怖游戏，文章将其列为曾出现加班问题的作品之一。"
+        },
+        {
+          "name": "Modern Warfare III",
+          "desc": "第一人称射击游戏，文章将其列为曾出现加班问题的作品之一。"
+        },
+        {
+          "name": "Fallout 76",
+          "desc": "在线动作角色扮演游戏，文章将其列为曾出现加班问题的作品之一。"
+        },
+        {
+          "name": "Metroid Dread",
+          "desc": "2D 动作冒险/银河恶魔城游戏，文章将其列为曾出现加班问题的作品之一。"
+        },
+        {
+          "name": "MindsEye",
+          "desc": "剧情驱动的动作冒险游戏，文章将其列为曾出现加班问题的作品之一。"
+        },
+        {
+          "name": "Balatro",
+          "desc": "扑克主题的 Roguelike 牌组构建游戏，文章提及其开发者因加班倦怠而推迟 1.1 更新。"
+        },
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "开放世界动作冒险游戏，文章提及多名 Rockstar 开发者指控公司推动加班。"
+        }
+      ]
+    },
     {
       "id": "3e50bf3c1e",
       "title": "为什么这位华盛顿州知名政客认为电子游戏可以成为「软实力」？",
