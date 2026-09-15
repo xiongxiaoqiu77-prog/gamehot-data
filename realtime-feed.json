@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-15T07:16:09",
+  "updated_at": "2026-09-15T16:16:54",
   "articles": [
+    {
+      "id": "4a7c746cc1",
+      "title": "Curve Games 与 Wayfinder Studios 合作，将发行在线合作 RPG《Wyldheart》",
+      "zh_desc": "Curve Games 宣布与独立工作室 Wayfinder Studios 达成发行合作，负责其在线合作 RPG 新作 Wyldheart 的发行。属于常规发行商动态，对关注休闲/手游赛道的从业者参考价值有限，但可留意 Curve Games 在合作玩法品类上的布局延伸。",
+      "url": "https://www.gamesindustry.biz/curve-games-partners-with-wayfinder-studios-to-publish-online-co-op-rpg-wyldheart",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-15T07:44:48",
+      "fetched_at": "2026-09-15T16:16:54",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Wyldheart",
+          "desc": "Wayfinder Studios开发、Curve Games发行的在线合作RPG，主打持久世界和私人服务器式社区体验。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "沙盒生存游戏，文中被引作玩家拥有个人服务器并与社区小规模游玩的典型例子。"
+        },
+        {
+          "name": "Valheim",
+          "desc": "合作生存沙盒游戏，文中与Minecraft并列作为私人服务器式游戏结构的参照。"
+        }
+      ]
+    },
     {
       "id": "0e17ed209a",
       "title": "「问一下又不会怎样？」——Dlala Studios 谈如何大胆出手，为即将推出的游戏 Murals 请到喜剧传奇 Bob Mortimer",
