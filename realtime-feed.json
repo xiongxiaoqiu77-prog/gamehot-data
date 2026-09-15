@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-16T00:52:50",
+  "updated_at": "2026-09-16T01:25:10",
   "articles": [
+    {
+      "id": "3e50bf3c1e",
+      "title": "为什么这位华盛顿州知名政客认为电子游戏可以成为「软实力」？",
+      "zh_desc": "华盛顿州州务卿 Steve Hobbs 在 SLICE 和 PAX West 2026 上向开发者推销「电子游戏即软实力」的理念。对关注游戏产业政策、政企关系及行业公共形象的从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-15T15:10:18",
+      "fetched_at": "2026-09-16T01:25:10",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "b635bc871f",
       "title": "Bohemia Interactive 收购 Everwind 开发商 Enjoy Studio 少数股权",
