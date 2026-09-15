@@ -5,114 +5,96 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 15 Sep 2026 07:01:21 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:00:12 +0800</lastBuildDate>
   <item>
-    <title>超过 40% 取消 Xbox Game Pass、PlayStation Plus 和 Nintendo Switch Online 订阅的用户将原因归咎于涨价</title>
-    <link>https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs</link>
-    <description>调查显示涨价是玩家取消主机订阅服务的主要原因。对做订阅制、季票或 Battle Pass 的手游团队而言，可作为定价与用户流失敏感度的参考数据。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 14 Sep 2026 17:30:55 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs</guid>
-  </item>
-  <item>
-    <title>为什么没人预料到《Cyberpunk 2077》的崩盘</title>
-    <link>https://www.deconstructoroffun.com/blog/why-none-of-us-saw-cyberpunk-coming-apart</link>
-    <description>Deconstructor of Fun 邀请 Michal Nowakowski 复盘《Cyberpunk 2077》上线失利的那一周，以及促成 CD PROJEKT RED 崛起的关键交易。内容偏向大厂战略与项目管理复盘，对休闲游戏从业者的直接参考有限，但可借鉴其发行与预期管理经验。</description>
-    <category>行业资讯</category>
-    <author>Deconstructor of Fun</author>
-    <pubDate>Mon, 14 Sep 2026 10:25:57 +0800</pubDate>
-    <guid isPermaLink="true">https://www.deconstructoroffun.com/blog/why-none-of-us-saw-cyberpunk-coming-apart</guid>
-  </item>
-  <item>
-    <title>玩具巨头 Mattel 盯上移动端，想做出自己的《Monopoly Go》</title>
-    <link>https://mobilegamer.biz/toy-giant-mattel-has-set-its-sights-on-mobile-and-it-wants-a-monopoly-go-of-its-own/</link>
-    <description>拥有 UNO、Barbie 等 IP 的 Mattel 收购了 NetEase 在 Mattel163 的股份，并以 Mattel Game Studios 之名自建发行业务，COO Devin Nambiar 讲述其移动端野心。对休闲品类 IP 改编与发行策略有一定参考价值。</description>
+    <title>水口哲也谈 Lumines 回归，以及买断制游戏为何可能反弹</title>
+    <link>https://mobilegamer.biz/tetsuya-mizuguchi-on-the-return-of-lumines-and-how-premium-games-could-bounce-back/</link>
+    <description>在推出 Lumines Remastered 后，水口哲也表示可能把更多作品带到移动端，并认为在多年 F2P 主导之后，移动玩家正越来越接受买断制游戏。对评估移动端休闲品类的付费模式与买断制机会有直接参考价值。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Mon, 14 Sep 2026 16:01:29 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/toy-giant-mattel-has-set-its-sights-on-mobile-and-it-wants-a-monopoly-go-of-its-own/</guid>
+    <pubDate>Tue, 15 Sep 2026 14:08:28 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/tetsuya-mizuguchi-on-the-return-of-lumines-and-how-premium-games-could-bounce-back/</guid>
   </item>
   <item>
-    <title>员工自治工作室 KO_OP 确认裁员</title>
-    <link>https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs</link>
-    <description>《Goodbye Volcano High》和《Young Suns》开发商 KO_OP 确认裁撤 13 个岗位。属于游戏行业公司与人力动态，对观察独立工作室经营环境有参考，但与休闲消除品类关联较弱。</description>
+    <title>Roblox 将允许开发者把游戏以独立应用形式上架其他商店</title>
+    <link>https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores</link>
+    <description>Roblox 宣布将放开限制，开发者未来可把基于 Roblox 制作的游戏以独立 App 形式发布到其他平台与应用商店，同时仍沿用 Roblox 现有的收入分成体系。对关注 UGC 平台生态与分发渠道变化的从业者，这是一条值得留意的平台侧政策动向，但与三消等休闲品类的玩法与变现设计关联有限。</description>
     <category>行业资讯</category>
     <author>Game Developer</author>
-    <pubDate>Mon, 14 Sep 2026 10:11:41 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs</guid>
+    <pubDate>Tue, 15 Sep 2026 19:52:45 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores</guid>
   </item>
   <item>
-    <title>Level-5 CEO 承认在近期展示会中使用生成式 AI</title>
-    <link>https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase</link>
-    <description>Level-5 社长兼 CEO 日野晃博承认近期数字展示会使用了生成式 AI，并为此道歉。该事件反映游戏厂商在宣传素材中使用 AI 的争议，对行业合规和玩家沟通有参考意义。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 14 Sep 2026 20:10:38 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase</guid>
-  </item>
-  <item>
-    <title>Valve 开放 Steam Frame 候补名单，起售价 1059 美元</title>
-    <link>https://www.gamesindustry.biz/valve-opens-waiting-list-for-steam-frame-starting-at-1059</link>
-    <description>Valve 为其新 VR 系统 Steam Frame 开放候补名单，起售价 1059 美元。属于 VR 硬件与平台发行信息，对 XR 游戏开发者有参考，但并非休闲手游核心议题。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 14 Sep 2026 18:03:34 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/valve-opens-waiting-list-for-steam-frame-starting-at-1059</guid>
-  </item>
-  <item>
-    <title>Rockstar 与 IWGB 在仲裁庭开庭时陈述论点</title>
-    <link>https://www.gamesindustry.biz/rockstar-and-iwgb-outline-arguments-at-start-of-tribunal</link>
-    <description>Rockstar 与英国独立工人工会 IWGB 在持续进行的就业仲裁庭上陈述各自论点，案件预计审理至 10 月 16 日。属于游戏行业劳动与公司治理新闻，对用工环境观察有参考价值。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 14 Sep 2026 16:22:08 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/rockstar-and-iwgb-outline-arguments-at-start-of-tribunal</guid>
-  </item>
-  <item>
-    <title>据称 PlayStation 对 Kojima Productions 的 Physint 有预算、盈利潜力和独占性担忧</title>
-    <link>https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint</link>
-    <description>报道称 PlayStation 因预算、潜在盈利能力和独占性等担忧，停止参与 Kojima Productions 的 Physint。该消息反映 3A 与主机项目投资合作风险，与休闲手游领域关联较弱。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 14 Sep 2026 13:43:40 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint</guid>
-  </item>
-  <item>
-    <title>新 StarCraft 作品将于 2030 年推出，为开放世界 FPS</title>
-    <link>https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps</link>
-    <description>暴雪宣布下一款 StarCraft 作品将于 2030 年推出，并从 RTS 转向开放世界 FPS。属于重磅 IP 方向调整新闻，对行业趋势有参考，但与休闲消除品类无关。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 14 Sep 2026 10:29:14 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps</guid>
-  </item>
-  <item>
-    <title>《Moss》开发商 Polyarc Games 宣布关闭</title>
-    <link>https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-closure</link>
-    <description>《Moss》开发商 Polyarc Games 宣布在成立 12 年后关闭。该消息反映 VR 工作室的生存状况，对 XR 生态和中小团队风险有参考，与休闲手游无直接关系。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 14 Sep 2026 08:00:08 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-closure</guid>
-  </item>
-  <item>
-    <title>Smilegate 创始人的前妻在诉讼中赢得公司 35% 股份</title>
-    <link>https://gameworldobserver.com/2026/09/14/the-ex-wife-of-the-smilegate-founder-won-35-of-the-companys-shares-in-a-lawsuit-against-him</link>
-    <description>韩国 Smilegate 创始人权赫彬离婚诉讼后，前妻李和珍获得公司 35% 股份；Smilegate 以 Crossfire 和 Lost Ark 闻名。属于重大公司股权与法律动态，对休闲手游从业者有行业观察价值但非品类分析。</description>
-    <category>行业资讯</category>
-    <author>Game World Observer</author>
-    <pubDate>Mon, 14 Sep 2026 11:55:52 +0800</pubDate>
-    <guid isPermaLink="true">https://gameworldobserver.com/2026/09/14/the-ex-wife-of-the-smilegate-founder-won-35-of-the-companys-shares-in-a-lawsuit-against-him</guid>
-  </item>
-  <item>
-    <title>Roblox 计划让创作者把游戏变成独立应用</title>
-    <link>https://mobilegamer.biz/roblox-to-let-creators-turn-their-games-into-standalone-apps/</link>
-    <description>RDC 2026 还公布了离线游玩、网页即点即玩、2D 游戏支持与新的创作者分成工具。属平台政策与工具更新类资讯。</description>
+    <title>Candy Crush 开发商 King 拒绝集体谈判协议，员工或于 9 月 25 日罢工</title>
+    <link>https://mobilegamer.biz/king-staff-could-strike-after-the-candy-crush-maker-rejects-collective-bargaining-agreement/</link>
+    <description>瑞典工会 Sveriges Ingenjörer 与 Unionen 表示，若 King 不改变立场，罢工可能自 9 月 25 日开始。作为头部休闲游戏大厂的劳资动态，对观察 King 后续产能与运营节奏有间接意义。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Mon, 14 Sep 2026 10:50:23 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/roblox-to-let-creators-turn-their-games-into-standalone-apps/</guid>
+    <pubDate>Tue, 15 Sep 2026 11:07:13 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/king-staff-could-strike-after-the-candy-crush-maker-rejects-collective-bargaining-agreement/</guid>
+  </item>
+  <item>
+    <title>Bungie 对 Marathon 进行大规模重做，偏离最初的撤离射击设计愿景</title>
+    <link>https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision</link>
+    <description>Bungie 宣布将依据玩家反馈对 Marathon 进行方向性调整，团队称需要"同时改变我们所构建的内容以及交付方式"。属于服务型射击游戏的研发与运营动态，对休闲品类从业者参考价值有限。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Tue, 15 Sep 2026 19:00:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision</guid>
+  </item>
+  <item>
+    <title>Wardogs 负责人称工作室不会聘用那些在社交媒体上抨击加班的人</title>
+    <link>https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media</link>
+    <description>Game Developer 报道了 Wardogs 项目负责人关于加班（crunch）文化与招聘标准的争议性言论，称若员工真正在意作品就会感到被重视，否则会觉得被奴役。属于游戏行业职场与团队管理动态，对关注研发管理与人才策略的从业者有参考价值，但与休闲游戏设计本身关联较弱。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Tue, 15 Sep 2026 18:05:13 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media</guid>
+  </item>
+  <item>
+    <title>为什么这位华盛顿州知名政客认为电子游戏可以成为「软实力」？</title>
+    <link>https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-</link>
+    <description>华盛顿州州务卿 Steve Hobbs 在 SLICE 和 PAX West 2026 上向开发者推销「电子游戏即软实力」的理念。对关注游戏产业政策、政企关系及行业公共形象的从业者有一定参考价值。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Tue, 15 Sep 2026 15:10:18 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-</guid>
+  </item>
+  <item>
+    <title>Bohemia Interactive 收购 Everwind 开发商 Enjoy Studio 少数股权</title>
+    <link>https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio</link>
+    <description>Bohemia Interactive 宣布收购《Everwind》开发商 Enjoy Studio 的少数股权，双方希望共同制作更好的游戏。这是游戏行业投资/并购动态，与休闲消除类手游的机制和运营关联较弱。可作为了解中型开发商资本合作的参考。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Tue, 15 Sep 2026 13:19:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio</guid>
+  </item>
+  <item>
+    <title>Sega 与 Netflix 宣布合作开发 Crazy Taxi、Sonic 和 Stranger Than Heaven 改编作品</title>
+    <link>https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations</link>
+    <description>Sega 与 Netflix 达成多作品合作，将围绕 Crazy Taxi、Sonic 和 Stranger Than Heaven 进行改编开发。该消息属于影视/游戏 IP 跨媒介新闻，对休闲手游从业者的直接玩法与变现参考有限。可关注头部 IP 的多平台运营策略。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Tue, 15 Sep 2026 10:47:08 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations</guid>
+  </item>
+  <item>
+    <title>Team17 母公司 Everplay 增持 Wardogs 开发商 Bulkhead 股份，并公布强劲 FY26 业绩</title>
+    <link>https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results</link>
+    <description>Team17 母公司 Everplay 增持 Wardogs 开发商 Bulkhead 的股份，并预计全年业绩强劲，Hell Let Loose: Vietnam 等产品表现超预期。这是游戏公司财务与投资动态，不涉及休闲消除类玩法或数值设计。对关注买量/发行商投资组合的从业者有一定参考。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Tue, 15 Sep 2026 09:43:03 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results</guid>
+  </item>
+  <item>
+    <title>为什么为游戏续作更换主角可能是个错误</title>
+    <link>https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake</link>
+    <description>北欧游戏行业资深人士 Christian Fonnesbech 结合其在 Nordisk Film Games 与 Leverage 的 IP 开发经验，讨论续作更换主角可能带来的 IP 风险。属 IP 与叙事层面的经验分享，对休闲游戏玩法与数值设计的直接价值有限。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Tue, 15 Sep 2026 12:30:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake</guid>
   </item>
   </channel>
 </rss>
