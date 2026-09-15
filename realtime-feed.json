@@ -1,6 +1,108 @@
 {
-  "updated_at": "2026-09-15T16:16:54",
+  "updated_at": "2026-09-16T00:19:53",
   "articles": [
+    {
+      "id": "f2923f1f49",
+      "title": "为什么为游戏续作更换主角可能是个错误",
+      "zh_desc": "北欧游戏行业资深人士 Christian Fonnesbech 结合其在 Nordisk Film Games 与 Leverage 的 IP 开发经验，讨论续作更换主角可能带来的 IP 风险。属 IP 与叙事层面的经验分享，对休闲游戏玩法与数值设计的直接价值有限。",
+      "url": "https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-15T12:30:00",
+      "fetched_at": "2026-09-16T00:19:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dead Island",
+          "desc": "丧尸题材生存恐怖动作角色扮演游戏系列，以开放区域和近战武器战斗为特点。"
+        },
+        {
+          "name": "Metro",
+          "desc": "后末日生存恐怖第一人称射击游戏系列，改编自同名小说，强调氛围与资源管理。"
+        },
+        {
+          "name": "Conan Exiles",
+          "desc": "基于蛮王柯南世界的开放世界生存建造游戏，包含战斗、制作与奴役等要素。"
+        },
+        {
+          "name": "Dune Awakening",
+          "desc": "基于《沙丘》的开放世界生存 MMO 游戏，融合探索、建造与多人互动。"
+        },
+        {
+          "name": "Exoborne",
+          "desc": "战术撤离射击游戏，背景设定在极端天气与灾难后的开放世界。"
+        },
+        {
+          "name": "The Dark Pictures Anthology",
+          "desc": "互动电影式恐怖冒险游戏选集系列，每部讲述独立恐怖故事并强调选择影响。"
+        },
+        {
+          "name": "Hitman",
+          "desc": "潜行暗杀类游戏系列，玩家常扮演代号 47 的杀手，通过伪装与策略完成任务。"
+        }
+      ]
+    },
+    {
+      "id": "d7a930dfc9",
+      "title": "水口哲也谈 Lumines 回归，以及买断制游戏为何可能反弹",
+      "zh_desc": "在推出 Lumines Remastered 后，水口哲也表示可能把更多作品带到移动端，并认为在多年 F2P 主导之后，移动玩家正越来越接受买断制游戏。对评估移动端休闲品类的付费模式与买断制机会有直接参考价值。",
+      "url": "https://mobilegamer.biz/tetsuya-mizuguchi-on-the-return-of-lumines-and-how-premium-games-could-bounce-back/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-15T14:08:28",
+      "fetched_at": "2026-09-16T00:19:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Lumines",
+          "desc": "起源于 PSP 的音乐节奏方块益智游戏，玩家随节奏消除同色方块。"
+        },
+        {
+          "name": "Lumines Remastered",
+          "desc": "Lumines 的高清重制版，登陆移动端、PC 与主机，保留原版音乐解谜玩法。"
+        },
+        {
+          "name": "Lumines Arise",
+          "desc": "Lumines 系列回归新作，登陆 PS5、PSVR 与 PC，并推动原版登陆移动端。"
+        },
+        {
+          "name": "Lumines: Puzzle & Music",
+          "desc": "2016 年移动端 Lumines 改编作，采用竖屏单手操作并含 live service 元素。"
+        },
+        {
+          "name": "Rez",
+          "desc": "音乐节奏射击游戏，以视听同步和抽象风格著称。"
+        },
+        {
+          "name": "Space Channel 5",
+          "desc": "音乐节奏舞蹈游戏，玩家跟随节拍输入指令进行舞蹈对战。"
+        },
+        {
+          "name": "Child of Eden",
+          "desc": "音乐节奏射击游戏，延续 Rez 式的视听互动体验。"
+        }
+      ]
+    },
+    {
+      "id": "f6357dad5a",
+      "title": "Candy Crush 开发商 King 拒绝集体谈判协议，员工或于 9 月 25 日罢工",
+      "zh_desc": "瑞典工会 Sveriges Ingenjörer 与 Unionen 表示，若 King 不改变立场，罢工可能自 9 月 25 日开始。作为头部休闲游戏大厂的劳资动态，对观察 King 后续产能与运营节奏有间接意义。",
+      "url": "https://mobilegamer.biz/king-staff-could-strike-after-the-candy-crush-maker-rejects-collective-bargaining-agreement/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-15T11:07:13",
+      "fetched_at": "2026-09-16T00:19:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Candy Crush",
+          "desc": "King 旗下的三消益智游戏系列，也是其最具代表性的核心 IP。"
+        }
+      ]
+    },
     {
       "id": "4a7c746cc1",
       "title": "Curve Games 与 Wayfinder Studios 合作，将发行在线合作 RPG《Wyldheart》",
