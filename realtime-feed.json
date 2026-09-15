@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-16T02:29:14",
+  "updated_at": "2026-09-16T03:01:39",
   "articles": [
+    {
+      "id": "9937f768ae",
+      "title": "Bungie 对 Marathon 进行大规模重做，偏离最初的撤离射击设计愿景",
+      "zh_desc": "Bungie 宣布将依据玩家反馈对 Marathon 进行方向性调整，团队称需要\"同时改变我们所构建的内容以及交付方式\"。属于服务型射击游戏的研发与运营动态，对休闲品类从业者参考价值有限。",
+      "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-15T19:00:00",
+      "fetched_at": "2026-09-16T03:01:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Marathon",
+          "desc": "Bungie 开发的撤离射击游戏，正被大规模重做并加入永久 PvE 模式 Symbiosis。"
+        },
+        {
+          "name": "Destiny 2",
+          "desc": "Bungie 的在线射击游戏，已宣布结束实时开发。"
+        }
+      ]
+    },
     {
       "id": "97fd191ca2",
       "title": "Wardogs 负责人称工作室不会聘用那些在社交媒体上抨击加班的人",
