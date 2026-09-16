@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-09-17T01:27:35",
+  "updated_at": "2026-09-17T02:00:43",
   "articles": [
+    {
+      "id": "1c809b0557",
+      "title": "“我希望 Criterion 被视为英国最好的工作室”——Burnout 老家为何在 Battlefield 中仍有未来",
+      "zh_desc": "文章讲述 Criterion 工作室如何从竞速游戏转向支持 Battlefield 系列，并探讨其未来定位。属于主机大厂的组织与产品线变迁报道，对休闲手游团队借鉴价值有限。",
+      "url": "https://www.gamesindustry.biz/i-really-want-criterion-to-be-considered-the-best-studio-in-the-uk-why-the-home-of-burnout-has-a-future-with-battlefield",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T13:07:10",
+      "fetched_at": "2026-09-17T02:00:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Burnout",
+          "desc": "Criterion成名的竞速游戏系列，以Ronin追车为灵感，包含混乱破坏和朋克摇滚配乐。"
+        },
+        {
+          "name": "Need for Speed",
+          "desc": "竞速游戏系列，Criterion与Ghost Games曾运用赛车专长参与开发。"
+        },
+        {
+          "name": "Need for Speed Unbound",
+          "desc": "2022年推出的Need for Speed系列作品，文中称为该系列目前最新作。"
+        },
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "Fuse Games即将推出的podracing竞速游戏，融入Burnout风格。"
+        },
+        {
+          "name": "Wreckreation",
+          "desc": "由前Criterion成员创立的Three Fields推出的游戏。"
+        },
+        {
+          "name": "Wreckreation 2",
+          "desc": "由When Tides Turn正在开发的续作。"
+        },
+        {
+          "name": "Battlefield",
+          "desc": "军事射击游戏系列，Criterion目前将其作为开发重点。"
+        },
+        {
+          "name": "Battlefield 6",
+          "desc": "近期取得巨大成功的Battlefield作品，Criterion与EA Motive、Ripple Effect、DICE合作交付关键元素。"
+        },
+        {
+          "name": "Battlefield 5",
+          "desc": "2018年发行的Battlefield系列作品，Criterion曾参与开发。"
+        },
+        {
+          "name": "Battlefield 2042",
+          "desc": "2020年发行的Battlefield系列作品，Criterion曾参与开发。"
+        }
+      ]
+    },
     {
       "id": "4d8279f488",
       "title": "三上真司将入选 2026 DICE Awards 的 AIAS 名人堂",
