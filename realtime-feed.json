@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-17T02:00:43",
+  "updated_at": "2026-09-17T05:10:15",
   "articles": [
+    {
+      "id": "fbde6f2136",
+      "title": "报道：MindsEye 开发商 Build a Rocket Boy 在再度裁员后疑似将关闭",
+      "zh_desc": "据多位员工在社交媒体发布告别帖，MindsEye 开发商 Build a Rocket Boy 在最新一轮裁员后疑似走向关停。属于主机/PC 大制作领域的公司动态，对休闲手游从业者的直接参考价值有限，可作为行业景气度参考。",
+      "url": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T18:00:00",
+      "fetched_at": "2026-09-17T05:10:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "MindsEye",
+          "desc": "一款动作冒险游戏，2025年6月发售后因Bug、性能问题和差评而陷入困境。"
+        },
+        {
+          "name": "Hitman",
+          "desc": "IO Interactive 开发的潜行动作暗杀游戏系列，文中以其开发商身份被提及。"
+        }
+      ]
+    },
+    {
+      "id": "ea10b10bf3",
+      "title": "三上真司将于本周晚些时候入选 AIAS 名人堂",
+      "zh_desc": "美国互动艺术与科学学院（AIAS）宣布，《Resident Evil》创作者三上真司将入选其名人堂。属于行业荣誉类新闻，与休闲消除品类关联较弱。",
+      "url": "https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T20:21:48",
+      "fetched_at": "2026-09-17T05:10:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Resident Evil",
+          "desc": "三上真司创作的生存恐怖游戏系列。"
+        },
+        {
+          "name": "Devil May Cry",
+          "desc": "三上真司参与打造的风格化动作游戏系列。"
+        },
+        {
+          "name": "The Evil Within",
+          "desc": "三上真司参与的生存恐怖游戏。"
+        },
+        {
+          "name": "Hi-Fi Rush",
+          "desc": "节奏动作游戏。"
+        },
+        {
+          "name": "Ghostwire: Tokyo",
+          "desc": "超自然题材动作冒险游戏。"
+        },
+        {
+          "name": "Mortal Kombat",
+          "desc": "Ed Boon 联合创作的格斗游戏系列。"
+        }
+      ]
+    },
+    {
+      "id": "80965c468b",
+      "title": "MindsEye 开发者称 Build A Rocket Boy 再度进行裁员",
+      "zh_desc": "苏格兰工作室 Build A Rocket Boy 据报启动了新一轮裁员。为常规游戏公司人事动态，可作为行业融资与用工环境变化的侧写。",
+      "url": "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T17:32:12",
+      "fetched_at": "2026-09-17T05:10:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "MindsEye",
+          "desc": "一款动作冒险游戏，2025年6月推出后反响不佳，并伴随裁员与发行协议终止。"
+        }
+      ]
+    },
     {
       "id": "1c809b0557",
       "title": "“我希望 Criterion 被视为英国最好的工作室”——Burnout 老家为何在 Battlefield 中仍有未来",
