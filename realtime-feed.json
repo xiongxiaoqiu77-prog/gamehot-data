@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-16T04:05:31",
+  "updated_at": "2026-09-16T13:07:02",
   "articles": [
+    {
+      "id": "23455d79a3",
+      "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
+      "zh_desc": "汇总 Steam Frame 开启预购、WPS 支持 Markdown、华为问界合作调整等科技与游戏硬件新闻。对休闲游戏从业者仅有平台与硬件动态参考价值，未涉及玩法、数值或变现分析。",
+      "url": "https://sspai.com/post/114638",
+      "source": "少数派",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T00:39:40",
+      "fetched_at": "2026-09-16T13:07:02",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "Half-Life: Alyx",
+          "desc": "Valve 推出的 VR 第一人称射击游戏，被视为 VR 平台的招牌体验。"
+        }
+      ]
+    },
     {
       "id": "df7d9cfb0b",
       "title": "Roblox 将允许开发者把游戏以独立应用形式上架其他商店",
