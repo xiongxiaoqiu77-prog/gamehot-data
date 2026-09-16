@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-09-17T00:54:57",
+  "updated_at": "2026-09-17T01:27:35",
   "articles": [
+    {
+      "id": "4d8279f488",
+      "title": "三上真司将入选 2026 DICE Awards 的 AIAS 名人堂",
+      "zh_desc": "AIAS 宣布《Resident Evil》导演三上真司将进入名人堂，由须田刚一（Goichi Suda）在 2026 年 DICE Awards 上颁奖。属于行业人物荣誉类资讯，对休闲游戏从业者的直接参考价值有限。",
+      "url": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T16:31:40",
+      "fetched_at": "2026-09-17T01:27:35",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Resident Evil",
+          "desc": "生存恐怖游戏系列，三上真司被视为该系列先驱之一。"
+        },
+        {
+          "name": "Killer7",
+          "desc": "三上真司与须田刚一合作过的动作冒险游戏。"
+        },
+        {
+          "name": "Shadows of the Damned",
+          "desc": "三上真司与须田刚一合作过的动作恐怖射击游戏。"
+        },
+        {
+          "name": "The Evil Within",
+          "desc": "由三上真司创立并领导的 Tango Gameworks 开发的生存恐怖游戏。"
+        },
+        {
+          "name": "Hi-Fi Rush",
+          "desc": "由 Tango Gameworks 开发的节奏动作游戏。"
+        },
+        {
+          "name": "Stellar Blade",
+          "desc": "由 Shift Up 开发的动作冒险游戏；文中称 Shift Up 收购了 Unbound。"
+        }
+      ]
+    },
+    {
+      "id": "5f1c0300ea",
+      "title": "动视暴雪遭前员工起诉，指控性骚扰与报复",
+      "zh_desc": "一名在动视暴雪工作了 14 年的女性员工起诉 10 名男性存在性行为不当与打击报复。属于公司治理与职场文化层面的行业新闻，与休闲游戏设计运营无直接关联。",
+      "url": "https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T13:20:17",
+      "fetched_at": "2026-09-17T01:27:35",
+      "lang": "en",
+      "games": [
+        {
+          "name": "World of Warcraft",
+          "desc": "暴雪旗下的大型多人在线角色扮演游戏（MMORPG），文中作为动视暴雪相关诉讼背景提及。"
+        },
+        {
+          "name": "GTA",
+          "desc": "Rockstar 旗下开放世界动作冒险游戏系列；文中相关链接提及被解雇的 GTA 开发者。"
+        }
+      ]
+    },
     {
       "id": "79fda3645d",
       "title": "英国 Reform UK 在其 iOS 与 Android 应用中上线「阻止偷渡船」小游戏",
