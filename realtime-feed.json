@@ -1,6 +1,115 @@
 {
-  "updated_at": "2026-09-16T16:20:02",
+  "updated_at": "2026-09-17T00:21:46",
   "articles": [
+    {
+      "id": "88a152ab2b",
+      "title": "Just Dessert vs. Gossip Harbor：谁的合并玩法做得更好？",
+      "zh_desc": "文章对 Just Dessert 与 Gossip Harbor 两款合并类休闲游戏进行拆解比较，分析它们在合并机制、关卡节奏、资源循环与整体体验上的差异。对关注 merge 品类设计、竞品拆解和休闲手游进化的从业者有较高参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/just-dessert-vs-gossip-harbor-who-merged-it-better",
+      "source": "Deconstructor of Fun",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-09-16T12:47:14",
+      "fetched_at": "2026-09-17T00:21:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Just Desserts",
+          "desc": "Century Games 推出的合并类软发布手游，标题中亦写作 Just Dessert，文章将其与 Gossip Harbor 对比。"
+        },
+        {
+          "name": "Gossip Harbor",
+          "desc": "Microfun 旗下的合并类手游，当前合并品类头部产品，并跻身全球手游收入 Top 5。"
+        },
+        {
+          "name": "Love & Pies",
+          "desc": "Trailmix（Supercell 旗下工作室）开发的合并类游戏，是 Gossip Harbor 的灵感来源。"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "Century Games 旗下成功策略游戏之一，文章用它说明 Century Games 的背景。"
+        },
+        {
+          "name": "Kingshot",
+          "desc": "Century Games 旗下成功策略游戏之一，与 Whiteout Survival 并列提及。"
+        },
+        {
+          "name": "Travel Town",
+          "desc": "作者提到的爆款合并类游戏，作者称从中获得游戏设计经验。"
+        }
+      ]
+    },
+    {
+      "id": "3777c1151a",
+      "title": "数据摘要：Roblox 股价上涨 11%，8 月头部发行商，Heartopia、Clash of Critters、Newzoo 数据等",
+      "zh_desc": "本周移动游戏数据汇总涵盖 Roblox 股价表现、8 月头部发行商、Heartopia、Clash of Critters、Newzoo 统计，以及 Pocket Worlds 收购 Hotel Hideaway 等动态。对关注手游市场格局和竞品表现的从业者有资讯价值。",
+      "url": "https://mobilegamer.biz/data-digest-roblox-shares-jump-11-augusts-top-publishers-heartopia-clash-of-critters-newzoo-stats-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-16T13:04:54",
+      "fetched_at": "2026-09-17T00:21:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "大型用户生成内容游戏平台，文章提及其股价上涨与开发者工具更新。"
+        },
+        {
+          "name": "Fate/Grand Order",
+          "desc": "索尼旗下二次元 RPG 手游，其周年庆与夏季活动推动 IAP 收入增长。"
+        },
+        {
+          "name": "Lordrush",
+          "desc": "Century Games 发布的新游戏，文中未说明具体玩法类型。"
+        },
+        {
+          "name": "Hotel Legacy",
+          "desc": "Century Games 发布的新游戏，文中未说明具体玩法类型。"
+        },
+        {
+          "name": "Heartopia",
+          "desc": "XD Network 的生活模拟手游，月 IAP 收入达到 2000 万美元并创模拟品类纪录。"
+        },
+        {
+          "name": "Aobi Island",
+          "desc": "生活/模拟类游戏，此前以每月 770 万美元保持模拟品类月流水纪录。"
+        },
+        {
+          "name": "Hotel Hideaway",
+          "desc": "Sulake 开发的 3D 社交世界游戏，被 Pocket Worlds 收购。"
+        },
+        {
+          "name": "Habbo Hotel",
+          "desc": "Sulake 旗下虚拟社交世界/游戏，文中作为 Hotel Hideaway 开发商背景提及。"
+        },
+        {
+          "name": "Highrise",
+          "desc": "Pocket Worlds 旗下的社交游戏/平台，与 Everskies 一同归入其产品组合。"
+        },
+        {
+          "name": "Everskies",
+          "desc": "Pocket Worlds 旗下的社交游戏/平台，与 Highrise 一同归入其产品组合。"
+        },
+        {
+          "name": "Clash of Critters",
+          "desc": "Farlight Games 的 coin looter 游戏，采用 plinko 式机制并进入品类收入前五。"
+        }
+      ]
+    },
+    {
+      "id": "1d5cfa4e7f",
+      "title": "报道：欧盟计划限制儿童访问在线游戏",
+      "zh_desc": "据 Politico 报道，欧盟拟在未成年人保护计划中限制儿童访问在线游戏。该政策若落地可能影响手游的年龄门槛、合规与用户获取，对休闲游戏运营者有间接参考价值。",
+      "url": "https://gameworldobserver.com/2026/09/16/report-the-european-union-plans-to-restrict-childrens-access-to-online-games",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T14:10:10",
+      "fetched_at": "2026-09-17T00:21:46",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "1f018c16b7",
       "title": "Bohemia Interactive 收购 Everwind 开发商 Enjoy Studio 少数股权",
