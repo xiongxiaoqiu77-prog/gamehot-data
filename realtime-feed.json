@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-17T00:21:46",
+  "updated_at": "2026-09-17T00:54:57",
   "articles": [
+    {
+      "id": "79fda3645d",
+      "title": "英国 Reform UK 在其 iOS 与 Android 应用中上线「阻止偷渡船」小游戏",
+      "zh_desc": "英国极右翼政党 Reform UK 在 Small Boat Watch 应用内加入了一款名为 Small Boat Scramble 的街机小游戏。对关注移动端轻度游戏与政治传播结合、应用内小游戏运营的从业者有一定观察价值。",
+      "url": "https://mobilegamer.biz/reform-uk-launched-a-stop-the-boats-game-within-its-ios-and-android-app/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T09:21:24",
+      "fetched_at": "2026-09-17T00:54:57",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Small Boat Scramble",
+          "desc": "Reform UK 在 Small Boat Watch 应用中内置的小游戏，玩家通过弹开载有移民的小船来阻止其抵达英国海岸并争取高分。"
+        },
+        {
+          "name": "Snake",
+          "desc": "经典贪吃蛇类移动游戏，文中称特朗普白宫网站发布的 MAGA 风格游戏对其进行了极右翼化重制。"
+        },
+        {
+          "name": "Flappy Bird",
+          "desc": "经典休闲点击躲避障碍游戏，文中称特朗普白宫网站发布的 MAGA 风格游戏对其进行了极右翼化重制。"
+        }
+      ]
+    },
     {
       "id": "88a152ab2b",
       "title": "Just Dessert vs. Gossip Harbor：谁的合并玩法做得更好？",
