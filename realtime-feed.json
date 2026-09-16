@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-16T13:40:08",
+  "updated_at": "2026-09-16T15:48:11",
   "articles": [
+    {
+      "id": "861a29dc11",
+      "title": "为什么 Nintendo Life 的发行商要推出新的 PC 游戏网站",
+      "zh_desc": "Games media 出版商 Hookshot 推出全新 PC 游戏媒体 Steam Hype，成为其继 Nintendo Life、Push Square、Pure Xbox 和 Time Extension 之后的第五个站点。该消息属于游戏媒体行业动态，对休闲手游从业者仅有间接参考价值。",
+      "url": "https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T06:30:00",
+      "fetched_at": "2026-09-16T15:48:11",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "c00319bf1e",
       "title": "游戏业是否处在 AI 泡沫中？交易数据怎么说",
