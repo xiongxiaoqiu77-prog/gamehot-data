@@ -5,96 +5,87 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:00:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:01:07 +0800</lastBuildDate>
   <item>
-    <title>水口哲也谈 Lumines 回归，以及买断制游戏为何可能反弹</title>
-    <link>https://mobilegamer.biz/tetsuya-mizuguchi-on-the-return-of-lumines-and-how-premium-games-could-bounce-back/</link>
-    <description>在推出 Lumines Remastered 后，水口哲也表示可能把更多作品带到移动端，并认为在多年 F2P 主导之后，移动玩家正越来越接受买断制游戏。对评估移动端休闲品类的付费模式与买断制机会有直接参考价值。</description>
+    <title>Just Dessert vs. Gossip Harbor：谁的合并玩法做得更好？</title>
+    <link>https://www.deconstructoroffun.com/blog/just-dessert-vs-gossip-harbor-who-merged-it-better</link>
+    <description>文章对 Just Dessert 与 Gossip Harbor 两款合并类休闲游戏进行拆解比较，分析它们在合并机制、关卡节奏、资源循环与整体体验上的差异。对关注 merge 品类设计、竞品拆解和休闲手游进化的从业者有较高参考价值。</description>
+    <category>深度拆解</category>
+    <author>Deconstructor of Fun</author>
+    <pubDate>Wed, 16 Sep 2026 12:47:14 +0800</pubDate>
+    <guid isPermaLink="true">https://www.deconstructoroffun.com/blog/just-dessert-vs-gossip-harbor-who-merged-it-better</guid>
+  </item>
+  <item>
+    <title>数据摘要：Roblox 股价上涨 11%，8 月头部发行商，Heartopia、Clash of Critters、Newzoo 数据等</title>
+    <link>https://mobilegamer.biz/data-digest-roblox-shares-jump-11-augusts-top-publishers-heartopia-clash-of-critters-newzoo-stats-more/</link>
+    <description>本周移动游戏数据汇总涵盖 Roblox 股价表现、8 月头部发行商、Heartopia、Clash of Critters、Newzoo 统计，以及 Pocket Worlds 收购 Hotel Hideaway 等动态。对关注手游市场格局和竞品表现的从业者有资讯价值。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 15 Sep 2026 14:08:28 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/tetsuya-mizuguchi-on-the-return-of-lumines-and-how-premium-games-could-bounce-back/</guid>
+    <pubDate>Wed, 16 Sep 2026 13:04:54 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/data-digest-roblox-shares-jump-11-augusts-top-publishers-heartopia-clash-of-critters-newzoo-stats-more/</guid>
   </item>
   <item>
-    <title>Roblox 将允许开发者把游戏以独立应用形式上架其他商店</title>
-    <link>https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores</link>
-    <description>Roblox 宣布将放开限制，开发者未来可把基于 Roblox 制作的游戏以独立 App 形式发布到其他平台与应用商店，同时仍沿用 Roblox 现有的收入分成体系。对关注 UGC 平台生态与分发渠道变化的从业者，这是一条值得留意的平台侧政策动向，但与三消等休闲品类的玩法与变现设计关联有限。</description>
+    <title>1312 Interactive 完成 100 万美元种子轮融资</title>
+    <link>https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round</link>
+    <description>游戏发行商 1312 Interactive 获得 100 万美元种子轮融资，属于早期游戏公司融资动态，对休闲游戏赛道的直接参考价值有限。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 16 Sep 2026 13:25:18 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round</guid>
+  </item>
+  <item>
+    <title>报道：MindsEye 开发商 Build a Rocket Boy 在再度裁员后疑似将关闭</title>
+    <link>https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs</link>
+    <description>据多位员工在社交媒体发布告别帖，MindsEye 开发商 Build a Rocket Boy 在最新一轮裁员后疑似走向关停。属于主机/PC 大制作领域的公司动态，对休闲手游从业者的直接参考价值有限，可作为行业景气度参考。</description>
     <category>行业资讯</category>
     <author>Game Developer</author>
-    <pubDate>Tue, 15 Sep 2026 19:52:45 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores</guid>
+    <pubDate>Wed, 16 Sep 2026 18:00:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs</guid>
   </item>
   <item>
-    <title>Candy Crush 开发商 King 拒绝集体谈判协议，员工或于 9 月 25 日罢工</title>
-    <link>https://mobilegamer.biz/king-staff-could-strike-after-the-candy-crush-maker-rejects-collective-bargaining-agreement/</link>
-    <description>瑞典工会 Sveriges Ingenjörer 与 Unionen 表示，若 King 不改变立场，罢工可能自 9 月 25 日开始。作为头部休闲游戏大厂的劳资动态，对观察 King 后续产能与运营节奏有间接意义。</description>
+    <title>“我希望 Criterion 被视为英国最好的工作室”——Burnout 老家为何在 Battlefield 中仍有未来</title>
+    <link>https://www.gamesindustry.biz/i-really-want-criterion-to-be-considered-the-best-studio-in-the-uk-why-the-home-of-burnout-has-a-future-with-battlefield</link>
+    <description>文章讲述 Criterion 工作室如何从竞速游戏转向支持 Battlefield 系列，并探讨其未来定位。属于主机大厂的组织与产品线变迁报道，对休闲手游团队借鉴价值有限。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 16 Sep 2026 13:07:10 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/i-really-want-criterion-to-be-considered-the-best-studio-in-the-uk-why-the-home-of-burnout-has-a-future-with-battlefield</guid>
+  </item>
+  <item>
+    <title>三上真司将入选 2026 DICE Awards 的 AIAS 名人堂</title>
+    <link>https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards</link>
+    <description>AIAS 宣布《Resident Evil》导演三上真司将进入名人堂，由须田刚一（Goichi Suda）在 2026 年 DICE Awards 上颁奖。属于行业人物荣誉类资讯，对休闲游戏从业者的直接参考价值有限。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Wed, 16 Sep 2026 16:31:40 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards</guid>
+  </item>
+  <item>
+    <title>动视暴雪遭前员工起诉，指控性骚扰与报复</title>
+    <link>https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment</link>
+    <description>一名在动视暴雪工作了 14 年的女性员工起诉 10 名男性存在性行为不当与打击报复。属于公司治理与职场文化层面的行业新闻，与休闲游戏设计运营无直接关联。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Wed, 16 Sep 2026 13:20:17 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment</guid>
+  </item>
+  <item>
+    <title>英国 Reform UK 在其 iOS 与 Android 应用中上线「阻止偷渡船」小游戏</title>
+    <link>https://mobilegamer.biz/reform-uk-launched-a-stop-the-boats-game-within-its-ios-and-android-app/</link>
+    <description>英国极右翼政党 Reform UK 在 Small Boat Watch 应用内加入了一款名为 Small Boat Scramble 的街机小游戏。对关注移动端轻度游戏与政治传播结合、应用内小游戏运营的从业者有一定观察价值。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 15 Sep 2026 11:07:13 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/king-staff-could-strike-after-the-candy-crush-maker-rejects-collective-bargaining-agreement/</guid>
+    <pubDate>Wed, 16 Sep 2026 09:21:24 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/reform-uk-launched-a-stop-the-boats-game-within-its-ios-and-android-app/</guid>
   </item>
   <item>
-    <title>Bungie 对 Marathon 进行大规模重做，偏离最初的撤离射击设计愿景</title>
-    <link>https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision</link>
-    <description>Bungie 宣布将依据玩家反馈对 Marathon 进行方向性调整，团队称需要"同时改变我们所构建的内容以及交付方式"。属于服务型射击游戏的研发与运营动态，对休闲品类从业者参考价值有限。</description>
+    <title>报道：欧盟计划限制儿童访问在线游戏</title>
+    <link>https://gameworldobserver.com/2026/09/16/report-the-european-union-plans-to-restrict-childrens-access-to-online-games</link>
+    <description>据 Politico 报道，欧盟拟在未成年人保护计划中限制儿童访问在线游戏。该政策若落地可能影响手游的年龄门槛、合规与用户获取，对休闲游戏运营者有间接参考价值。</description>
     <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Tue, 15 Sep 2026 19:00:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision</guid>
-  </item>
-  <item>
-    <title>Wardogs 负责人称工作室不会聘用那些在社交媒体上抨击加班的人</title>
-    <link>https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media</link>
-    <description>Game Developer 报道了 Wardogs 项目负责人关于加班（crunch）文化与招聘标准的争议性言论，称若员工真正在意作品就会感到被重视，否则会觉得被奴役。属于游戏行业职场与团队管理动态，对关注研发管理与人才策略的从业者有参考价值，但与休闲游戏设计本身关联较弱。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Tue, 15 Sep 2026 18:05:13 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media</guid>
-  </item>
-  <item>
-    <title>为什么这位华盛顿州知名政客认为电子游戏可以成为「软实力」？</title>
-    <link>https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-</link>
-    <description>华盛顿州州务卿 Steve Hobbs 在 SLICE 和 PAX West 2026 上向开发者推销「电子游戏即软实力」的理念。对关注游戏产业政策、政企关系及行业公共形象的从业者有一定参考价值。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Tue, 15 Sep 2026 15:10:18 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-</guid>
-  </item>
-  <item>
-    <title>Bohemia Interactive 收购 Everwind 开发商 Enjoy Studio 少数股权</title>
-    <link>https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio</link>
-    <description>Bohemia Interactive 宣布收购《Everwind》开发商 Enjoy Studio 的少数股权，双方希望共同制作更好的游戏。这是游戏行业投资/并购动态，与休闲消除类手游的机制和运营关联较弱。可作为了解中型开发商资本合作的参考。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Tue, 15 Sep 2026 13:19:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio</guid>
-  </item>
-  <item>
-    <title>Sega 与 Netflix 宣布合作开发 Crazy Taxi、Sonic 和 Stranger Than Heaven 改编作品</title>
-    <link>https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations</link>
-    <description>Sega 与 Netflix 达成多作品合作，将围绕 Crazy Taxi、Sonic 和 Stranger Than Heaven 进行改编开发。该消息属于影视/游戏 IP 跨媒介新闻，对休闲手游从业者的直接玩法与变现参考有限。可关注头部 IP 的多平台运营策略。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 15 Sep 2026 10:47:08 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations</guid>
-  </item>
-  <item>
-    <title>Team17 母公司 Everplay 增持 Wardogs 开发商 Bulkhead 股份，并公布强劲 FY26 业绩</title>
-    <link>https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results</link>
-    <description>Team17 母公司 Everplay 增持 Wardogs 开发商 Bulkhead 的股份，并预计全年业绩强劲，Hell Let Loose: Vietnam 等产品表现超预期。这是游戏公司财务与投资动态，不涉及休闲消除类玩法或数值设计。对关注买量/发行商投资组合的从业者有一定参考。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 15 Sep 2026 09:43:03 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results</guid>
-  </item>
-  <item>
-    <title>为什么为游戏续作更换主角可能是个错误</title>
-    <link>https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake</link>
-    <description>北欧游戏行业资深人士 Christian Fonnesbech 结合其在 Nordisk Film Games 与 Leverage 的 IP 开发经验，讨论续作更换主角可能带来的 IP 风险。属 IP 与叙事层面的经验分享，对休闲游戏玩法与数值设计的直接价值有限。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 15 Sep 2026 12:30:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake</guid>
+    <author>Game World Observer</author>
+    <pubDate>Wed, 16 Sep 2026 14:10:10 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/09/16/report-the-european-union-plans-to-restrict-childrens-access-to-online-games</guid>
   </item>
   </channel>
 </rss>
