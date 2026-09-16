@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-16T15:48:11",
+  "updated_at": "2026-09-16T16:20:02",
   "articles": [
+    {
+      "id": "1f018c16b7",
+      "title": "Bohemia Interactive 收购 Everwind 开发商 Enjoy Studio 少数股权",
+      "zh_desc": "Bohemia Interactive 入股波兰工作室 Enjoy Studio，后者正在开发合作射击生存 RPG《Everwind》。属于典型的主机/PC 向厂商投资动态，与休闲三消赛道关联有限，可作为行业资本流动的参考信息。",
+      "url": "https://www.gamesindustry.biz/bohemia-interactive-takes-minority-stake-in-everwind-developer-enjoy-studio",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T07:57:45",
+      "fetched_at": "2026-09-16T16:20:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Everwind",
+          "desc": "合作 FPS 生存 RPG，由 Enjoy Studio 开发，2026 年 3 月 Steam 抢先体验，销量超 30 万份。"
+        },
+        {
+          "name": "The Witch of Fern Island",
+          "desc": "开放世界生活模拟游戏，是 Enjoy Studio 的首部作品，由 indie.io 发行。"
+        },
+        {
+          "name": "Space Tail",
+          "desc": "2.5D 冒险平台游戏，由 Bohemia Interactive 发行。"
+        },
+        {
+          "name": "One Lonely Outpost",
+          "desc": "Aurorian Studios 的游戏，Enjoy Studio 为其提供 UI 重设计和多平台制作支持。"
+        }
+      ]
+    },
     {
       "id": "861a29dc11",
       "title": "为什么 Nintendo Life 的发行商要推出新的 PC 游戏网站",
