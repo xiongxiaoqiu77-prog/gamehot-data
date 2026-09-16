@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-16T13:07:02",
+  "updated_at": "2026-09-16T13:40:08",
   "articles": [
+    {
+      "id": "c00319bf1e",
+      "title": "游戏业是否处在 AI 泡沫中？交易数据怎么说",
+      "zh_desc": "文章围绕 2026 年第二季度游戏融资规模创 12 个月新高、超 25 亿美元且轮次不足 100 笔展开，并邀请 Drake Star 的 Michael Metzger 解读这一信号。对从业者而言，可用于判断资本环境、AI 热度与并购融资趋势，但与休闲游戏具体设计运营关联较间接。",
+      "url": "https://naavik.co/podcast/is-gaming-in-an-ai-bubble-what-the-deal-data-says/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-15T04:31:55",
+      "fetched_at": "2026-09-16T13:40:08",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "23455d79a3",
       "title": "派早报：Steam Frame 开启预购、WPS 多端支持 Markdown 等",
