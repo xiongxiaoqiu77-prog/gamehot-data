@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-09-17T05:10:15",
+  "updated_at": "2026-09-17T05:42:40",
   "articles": [
+    {
+      "id": "5450682202",
+      "title": "1312 Interactive 完成 100 万美元种子轮融资",
+      "zh_desc": "游戏发行商 1312 Interactive 获得 100 万美元种子轮融资，属于早期游戏公司融资动态，对休闲游戏赛道的直接参考价值有限。",
+      "url": "https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T13:25:18",
+      "fetched_at": "2026-09-17T05:42:40",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Winds of Arcana: Ruination",
+          "desc": "由 Brewed Games 开发、1312 Interactive 于2025年发行的游戏。"
+        },
+        {
+          "name": "Palm Sugar: A Village Story",
+          "desc": "由 Mono Tusk Studios 开发、1312 Interactive 上月发行的游戏。"
+        },
+        {
+          "name": "Souls of Bombarika",
+          "desc": "由 Street Lamp Games 开发、计划于10月发行的游戏。"
+        },
+        {
+          "name": "We Are So Cooked",
+          "desc": "由 Dwarven Brothers 开发、计划于10月发行的游戏。"
+        },
+        {
+          "name": "Spaceman Biff",
+          "desc": "由 Prescription Studios 开发、将由1312 Interactive发行的游戏。"
+        }
+      ]
+    },
     {
       "id": "fbde6f2136",
       "title": "报道：MindsEye 开发商 Build a Rocket Boy 在再度裁员后疑似将关闭",
