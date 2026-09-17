@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-17T05:42:40",
+  "updated_at": "2026-09-17T10:26:09",
   "articles": [
+    {
+      "id": "e26b90178c",
+      "title": "2026 年 GamesIndustry.biz 英国最佳工作场所奖首批入围名单公布",
+      "zh_desc": "GamesIndustry.biz 公布 2026 年度英国 Best Places To Work Awards 首批入围公司名单。属于游戏行业雇主品牌与人力资源动态，与三消/休闲手游的玩法、数值、变现等核心议题关联不大，仅可作行业生态参考。",
+      "url": "https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-16T16:08:21",
+      "fetched_at": "2026-09-17T10:26:09",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "5450682202",
       "title": "1312 Interactive 完成 100 万美元种子轮融资",
