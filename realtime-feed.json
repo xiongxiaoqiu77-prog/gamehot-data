@@ -1,6 +1,98 @@
 {
-  "updated_at": "2026-09-18T01:03:42",
+  "updated_at": "2026-09-18T04:08:45",
   "articles": [
+    {
+      "id": "04de6a52ac",
+      "title": "Take-Two CEO Strauss Zelnick 称 GTA VI 仍需「大力营销」，尽管品牌已全球知名",
+      "zh_desc": "Zelnick 表示即便 GTA VI 拥有全球级品牌认知，依然需要积极营销，因为「我们无法让人相信不好的东西是好的」。对休闲游戏从业者而言，这是关于品牌存量与营销投入关系的行业观点参考。",
+      "url": "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-17T17:49:42",
+      "fetched_at": "2026-09-18T04:08:45",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI (GTA VI)",
+          "desc": "Rockstar Games 开发的开放世界动作冒险游戏，文中称其仍需大力营销，尽管品牌已全球知名。"
+        }
+      ]
+    },
+    {
+      "id": "9f9f0e14b0",
+      "title": "Hyper Light Drifter 开发商 Heart Machine 裁掉大部分员工",
+      "zh_desc": "报道称该工作室近年已大幅缩编，如今走到存亡关口。可作为中小型工作室在发行依赖与现金流风险上的警示案例。",
+      "url": "https://www.gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-17T09:13:32",
+      "fetched_at": "2026-09-18T04:08:45",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hyper Light Drifter",
+          "desc": "Heart Machine 开发的知名独立动作冒险游戏，文章以其开发者身份引出工作室裁员消息。"
+        },
+        {
+          "name": "Hyper Light Breaker",
+          "desc": "Heart Machine 开发的游戏，曾进入早期访问阶段，后被工作室放弃并引发进一步裁员。"
+        }
+      ]
+    },
+    {
+      "id": "da0dc1a962",
+      "title": "Heart Machine 发行协议告吹后面临可能关闭，大部分员工已被裁",
+      "zh_desc": "GamesIndustry.biz 报道 Hyper Light Drifter 开发商因发行合作破裂而濒临关门。反映独立工作室对发行方资金的强依赖及其风险。",
+      "url": "https://www.gamesindustry.biz/heart-machine-faces-possible-closure-after-publishing-deal-falls-through-majority-of-staff-laid-off",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-17T08:39:10",
+      "fetched_at": "2026-09-18T04:08:45",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hyper Light Drifter",
+          "desc": "Heart Machine 开发的知名独立动作冒险游戏，文章以该作开发者身份报道工作室可能关闭。"
+        },
+        {
+          "name": "Hyper Light Breaker",
+          "desc": "Heart Machine 开发的游戏，曾进入早期访问阶段，开发结束后工作室出现裁员。"
+        },
+        {
+          "name": "Possessor(s)",
+          "desc": "Heart Machine 开发的游戏，文中提到其发售前受裁员影响的员工担忧原开发人员已不在公司。"
+        }
+      ]
+    },
+    {
+      "id": "f678d6f22d",
+      "title": "Video Games Europe 警告欧盟 KIDS Act 拟议的全面限制措施",
+      "zh_desc": "欧盟委员会提出针对游戏和社交媒体公司的一系列限制，Video Games Europe 认为部分措施过于宽泛并呼吁进一步磋商。手游厂商需关注该法案对合规、投放与变现策略的潜在影响。",
+      "url": "https://mobilegamer.biz/video-games-europe-warns-against-sweeping-restrictions-proposed-in-the-eu-kids-act/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-17T19:40:26",
+      "fetched_at": "2026-09-18T04:08:45",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "4adc0dbf50",
+      "title": "游戏市场规模、份额与增长报告 2035 | MRFR",
+      "zh_desc": "Market Research Future 发布的全球游戏市场规模与增长预测报告。可作为行业宏观参考，但与休闲消除品类的具体设计或变现关联有限。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MWjRiQWJwN1RGNW1lY3VpNVVRWHkwdmV2dndzdXRRTDBRX0pPX2lTeWhCNjF1RlQ3aWl2SXlFOHNwQ08yN1VYaGVPTE1XMmdZdUR6Z3JDQ0w0SkRXYWJXeFZIS0lSZ0xkUl9EcTdMNnBhQQ?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-15T07:00:00",
+      "fetched_at": "2026-09-18T04:08:45",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "59aa418735",
       "title": "Nex Playground 开发商获超 1.5 亿美元融资，加速全球化扩张",
