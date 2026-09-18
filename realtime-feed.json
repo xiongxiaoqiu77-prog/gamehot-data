@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-18T09:40:00",
+  "updated_at": "2026-09-18T16:04:05",
   "articles": [
+    {
+      "id": "5aee1d6e79",
+      "title": "GDC Festival of Gaming 任命四位顾问委员会成员",
+      "zh_desc": "GDC Festival of Gaming 宣布新增四位顾问委员会成员，参与大会内容策划与方向制定。属于行业会议人事动态，对休闲游戏从业者的直接参考价值有限。",
+      "url": "https://www.gamesindustry.biz/gdc-festival-of-gaming-appoints-four-members-to-advisory-board",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-18T07:36:32",
+      "fetched_at": "2026-09-18T16:04:05",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "e2f1cb91a7",
       "title": "东京电玩展（TGS）",
