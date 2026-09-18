@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-09-18T04:08:45",
+  "updated_at": "2026-09-18T09:40:00",
   "articles": [
+    {
+      "id": "e2f1cb91a7",
+      "title": "东京电玩展（TGS）",
+      "zh_desc": "Game Developer 的 Tokyo Game Show（TGS）活动页面，汇总东京电玩展相关信息。对休闲游戏从业者而言，可作为了解日本及全球游戏行业展会动态的入口，但缺少具体玩法、设计或变现分析。",
+      "url": "https://www.gamedeveloper.com/events/tokyo-game-show-tgs-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-17T07:00:00",
+      "fetched_at": "2026-09-18T09:40:00",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA VI",
+          "desc": "开放世界动作冒险游戏；Take-Two CEO 表示尽管全球品牌知名度很高，仍需对其进行积极营销。"
+        },
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "《星球大战》题材游戏；播客中讨论其制作策略，嘉宾为 Greg Foertsch。"
+        },
+        {
+          "name": "Tetris",
+          "desc": "经典益智消除游戏；文章提到特朗普政府下架了一款 Tetris 克隆，因公司警告版权问题。"
+        }
+      ]
+    },
     {
       "id": "04de6a52ac",
       "title": "Take-Two CEO Strauss Zelnick 称 GTA VI 仍需「大力营销」，尽管品牌已全球知名",
