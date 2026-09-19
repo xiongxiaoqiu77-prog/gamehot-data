@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-09-19T17:28:10",
+  "updated_at": "2026-09-19T18:56:24",
   "articles": [
+    {
+      "id": "8fdc60d86a",
+      "title": "裁员潮之后如何管理团队士气：他们见过太多人失业，这会产生影响",
+      "zh_desc": "探讨游戏行业连续多年大规模裁员后，团队士气受损的现状与管理者的应对方式。对关注组织稳定与团队管理的从业者有参考意义。",
+      "url": "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-18T15:52:17",
+      "fetched_at": "2026-09-19T18:56:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "We Happy Few",
+          "desc": "Compulsion Games 开发的复古反乌托邦生存动作冒险游戏，文中作为该工作室代表作被提及。"
+        }
+      ]
+    },
+    {
+      "id": "c3b41f761b",
+      "title": "AI、创意迭代速度与玩家质量正在重塑手游营销",
+      "zh_desc": "基于 SocialPeta、Playio 与 Funtap Games 联合发布的《2026 全球手游与 AI 营销洞察》，分析 2026 上半年手游广告策略变化：创意迭代更快、AI 应用扩大、投放更看重玩家质量。对休闲手游买量与 UA 团队有直接参考价值。",
+      "url": "https://gameworldobserver.com/2026/09/18/ai-creative-velocity-and-player-intelligence-are-reshaping-mobile-game-marketing",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-18T10:29:39",
+      "fetched_at": "2026-09-19T18:56:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Tile Explorer",
+          "desc": "Oakever Games 旗下休闲益智手游，出现在 2026 上半年 iOS/Android 领先广告主之列。"
+        },
+        {
+          "name": "Vita Mahjong",
+          "desc": "Oakever Games 旗下麻将题材益智手游，出现在上半年领先广告主之列。"
+        },
+        {
+          "name": "Zen Word",
+          "desc": "Oakever Games 旗下文字益智手游，出现在上半年领先广告主之列。"
+        },
+        {
+          "name": "Block Blast!",
+          "desc": "休闲方块消除手游，在上半年 iOS/Android 广告主排名中保持强势位置。"
+        },
+        {
+          "name": "MONOPOLY GO!",
+          "desc": "基于 Monopoly IP 的休闲棋盘手游，在上半年排名中保持强势位置。"
+        },
+        {
+          "name": "Dark War: Survival",
+          "desc": "生存类策略手游，在上半年排名中保持强势位置。"
+        },
+        {
+          "name": "Tân 3Q MAX",
+          "desc": "Funtap Games 应用其 AI 辅助创意流程的手游之一，文中作为案例名称提及。"
+        }
+      ]
+    },
     {
       "id": "da728c8bb9",
       "title": "米哈游获中国法院判决赔偿 11.2 万美元，AI 语音服务模仿 Genshin Impact 角色",
