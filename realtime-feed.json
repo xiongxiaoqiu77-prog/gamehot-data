@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-19T20:00:37",
+  "updated_at": "2026-09-19T20:33:40",
   "articles": [
+    {
+      "id": "5dfb971479",
+      "title": "聚焦：AAA 游戏必须迎合注意力分散的玩家吗？| 观点",
+      "zh_desc": "评论文章讨论开发预算膨胀如何扭曲行业风险偏好——追逐成熟 IP、押注极低概率的巨额回报。对理解行业结构性压力有参考价值，但不涉及休闲手游的设计或变现细节。",
+      "url": "https://www.gamesindustry.biz/pulling-focus-must-aaa-pander-to-the-distracted-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-18T13:45:12",
+      "fetched_at": "2026-09-19T20:33:40",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "被文章作为 AAA 游戏巨额开发预算的典型代表，提及其真实头发物理等细节耗费了大量开发时间和资金。"
+        }
+      ]
+    },
     {
       "id": "45941a81c8",
       "title": "GamesIndustry.biz HR Summit 确认 AI 影响、神经多样性团队与个人韧性等议题",
