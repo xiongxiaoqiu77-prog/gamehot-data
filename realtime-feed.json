@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-09-19T18:56:24",
+  "updated_at": "2026-09-19T20:00:37",
   "articles": [
+    {
+      "id": "45941a81c8",
+      "title": "GamesIndustry.biz HR Summit 确认 AI 影响、神经多样性团队与个人韧性等议题",
+      "zh_desc": "GamesIndustry.biz HR Summit 公布首批讨论议题，涵盖 AI 影响管理、神经多样性团队和个人韧性，将于下月在伦敦举办。属于游戏行业人力资源会议资讯，对休闲游戏团队管理有间接参考，但不涉及玩法或变现。",
+      "url": "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodivergent-teams-and-personal-resilience-confirmed-for-gamesindustrybiz-hr-summit",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-18T15:44:15",
+      "fetched_at": "2026-09-19T20:00:37",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "2c5ba3f060",
+      "title": "《Dredge》开发商 Black Salt Games 成立新工作室 Team Trifold 与 Saltworks Entertainment",
+      "zh_desc": "《Dredge》开发商 Black Salt Games 成立新工作室 Team Trifold，并推出白标发行品牌 Saltworks Entertainment。属于独立游戏公司动态，对休闲游戏行业有一般性参考。",
+      "url": "https://www.gamesindustry.biz/black-salt-games-establishes-indie-studio-team-trifold-under-new-saltworks-entertainment-label",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-18T08:04:19",
+      "fetched_at": "2026-09-19T20:00:37",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dredge",
+          "desc": "Black Salt Games 开发的游戏，其商业成功为 Team Trifold 新作《Nothing Lost》的开发与发行提供了资金支持。"
+        },
+        {
+          "name": "Nothing Lost",
+          "desc": "Team Trifold 的首部作品，受《通灵王》启发，试图颠覆 roguelike 循环并以死亡作为核心推进机制。"
+        }
+      ]
+    },
+    {
+      "id": "77e79fe8ad",
+      "title": "NZGDC 2026：新西兰游戏开发者大会近十年后重返奥克兰",
+      "zh_desc": "新西兰游戏开发者大会 NZGDC 2026 将重返奥克兰，主题为“Shaping Our World”，于 9 月 30 日至 10 月 3 日举行。属于游戏行业会议资讯，对休闲游戏从业者提供一般性行业动态参考。",
+      "url": "https://gameworldobserver.com/2026/09/18/nzgdc-2026-new-zealands-games-conference-returns-to-auckland-after-nearly-a-decad",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-18T11:06:25",
+      "fetched_at": "2026-09-19T20:00:37",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "8fdc60d86a",
       "title": "裁员潮之后如何管理团队士气：他们见过太多人失业，这会产生影响",
