@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-19T20:33:40",
+  "updated_at": "2026-09-19T21:06:07",
   "articles": [
+    {
+      "id": "00b09508aa",
+      "title": "ARM 等工具厂商如何与开发者协作：对话 Peter Hodges",
+      "zh_desc": "ARM 的 Peter Hodges 做客节目，聊游戏开发工具链与开发者协作方式，并谈及 1969 年的七分钟短片《Lemon》。内容偏通用引擎与工具生态，与休闲消除品类的直接关联有限。",
+      "url": "https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-18T14:35:00",
+      "fetched_at": "2026-09-19T21:06:07",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Genshin Impact",
+          "desc": "米哈游开发的开放世界动作角色扮演游戏，以元素战斗和抽卡角色收集为特色。"
+        },
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "设定在《星球大战》宇宙中的回合制策略游戏。"
+        }
+      ]
+    },
     {
       "id": "5dfb971479",
       "title": "聚焦：AAA 游戏必须迎合注意力分散的玩家吗？| 观点",
