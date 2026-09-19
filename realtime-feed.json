@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-09-18T18:11:04",
+  "updated_at": "2026-09-19T17:28:10",
   "articles": [
+    {
+      "id": "da728c8bb9",
+      "title": "米哈游获中国法院判决赔偿 11.2 万美元，AI 语音服务模仿 Genshin Impact 角色",
+      "zh_desc": "上海法院就第三方 AI 语音服务未经授权模仿 Genshin Impact 角色作出判决，或为国内生成式 AI 使用划定边界。对从业者而言，这是观察 AI 语音、角色 IP 授权与合规风险的重要案例。",
+      "url": "https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-18T15:15:39",
+      "fetched_at": "2026-09-19T17:28:10",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "3417dc4e13",
+      "title": "King 员工因集体协议谈判破裂宣布罢工",
+      "zh_desc": "Candy Crush 开发商 King 的工会员工表示，若谈判僵局无法打破，将于 9 月 25 日停工。此事关系到头部休闲游戏厂商的研发节奏与人力稳定性，值得关注其后续对内容更新和 LiveOps 的影响。",
+      "url": "https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-18T12:03:39",
+      "fetched_at": "2026-09-19T17:28:10",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a2e7120709",
+      "title": "Strauss Zelnick 强调 GTA 这类知名 IP 依然需要营销：「你必须持续制造热情」",
+      "zh_desc": "Take-Two 总裁表示即便是 GTA 6 这样的成熟品牌也需持续投放营销以维持声量。对休闲游戏买量与品牌运营有一定参考价值，但内容较为泛化。",
+      "url": "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-18T10:22:40",
+      "fetched_at": "2026-09-19T17:28:10",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "ef3ef3ea53",
+      "title": "King 瑞典员工在集体谈判协议被拒后发起罢工",
+      "zh_desc": "瑞典工会 Unionen 与 Sveriges Ingenjörer 已向 King 发出罢工通知，起因是管理层上月否决集体谈判协议提案。头部消除游戏厂商的劳资摩擦可能影响产品迭代与运营节奏。",
+      "url": "https://www.gamesindustry.biz/king-workers-to-strike-in-sweden-following-rejection-of-collective-bargaining-agreement",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-18T09:51:27",
+      "fetched_at": "2026-09-19T17:28:10",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "e780068e39",
+      "title": "新游速览：Dave the Diver、Aniimo、Game Freak 新作、Moon Active 与 Noodlecake 等",
+      "zh_desc": "汇总本周手游新作动态，涉及 Moon Active、Noodlecake、Playdigious、NC、Koei Tecmo 等厂商。对跟踪休闲/移动游戏新品布局与买量题材具有一定参考价值。",
+      "url": "https://mobilegamer.biz/new-game-digest-dave-the-diver-aniimo-new-game-freak-moon-active-and-noodlecake-titles-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-18T10:34:13",
+      "fetched_at": "2026-09-19T17:28:10",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "421f1f57f6",
       "title": "休闲游戏增长放缓后，最抢眼的机会，变成了二合",
