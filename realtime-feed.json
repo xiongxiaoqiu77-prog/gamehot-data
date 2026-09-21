@@ -1,6 +1,158 @@
 {
-  "updated_at": "2026-09-22T04:18:56",
+  "updated_at": "2026-09-22T07:23:51",
   "articles": [
+    {
+      "id": "c034ec82f9",
+      "title": "Bungie 宣称“没打算放弃 Destiny”，并阐述工作室未来",
+      "zh_desc": "Bungie 表示 Destiny 是工作室未来的基础，并公布后续规划。对从业者而言，可借此观察头部工作室如何维护长线服务型 IP 与项目组合。",
+      "url": "https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-21T20:30:57",
+      "fetched_at": "2026-09-22T07:23:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Destiny",
+          "desc": "Bungie 的长期运营科幻射击游戏系列，文中称其是工作室未来的基础，并将回归该系列开发。"
+        },
+        {
+          "name": "Destiny 2",
+          "desc": "Bungie 的在线科幻射击游戏，曾于2026年宣布结束活跃开发，现在计划解封旧资料片内容。"
+        },
+        {
+          "name": "Marathon",
+          "desc": "Bungie 开发的游戏项目，文中提到工作室计划对其进行重大整改，并由 Josh Deane 担任总经理。"
+        }
+      ]
+    },
+    {
+      "id": "a6d97749e9",
+      "title": "Sony 似乎在一些地区审查 Marvel's Wolverine 中的 LGBTQ 内容",
+      "zh_desc": "报道称 Marvel's Wolverine 在部分地区未提及或隐去同性婚姻相关内容。对从业者而言，这反映了区域发行合规与内容本地化中的审查风险。",
+      "url": "https://www.gamedeveloper.com/console/sony-appears-to-censor-lgbtq-content-marvel-s-wolverine-for-some-regions",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-21T19:00:10",
+      "fetched_at": "2026-09-22T07:23:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Marvel's Wolverine",
+          "desc": "Insomniac Games 与 Sony 推出的漫威超级英雄动作游戏，文中报道其 LGBTQ 内容在部分区域被审查。"
+        },
+        {
+          "name": "Marvel's Spider-Man 2",
+          "desc": "2023 年的漫威超级英雄游戏，文中作为 Sony 此前在中东地区修改 LGBTQ 内容的先例被提及。"
+        }
+      ]
+    },
+    {
+      "id": "05c5dfab83",
+      "title": "Kojima Productions 的生存故事可能让挣扎中的开发者感同身受",
+      "zh_desc": "文章讲述 Kojima Productions 即便拥有知名制作人也需应对银行贷款和经营压力。对从业者而言，可了解中型工作室的现金流与融资现实。",
+      "url": "https://www.gamedeveloper.com/business/kojima-productions-survival-story-may-sound-strikingly-familiar-to-struggling-devs",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-21T16:10:05",
+      "fetched_at": "2026-09-22T07:23:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Physint",
+          "desc": "Kojima Productions 的谍战动作游戏项目，被视为《Metal Gear Solid》系列的精神续作，因 Sony 停止资助而转向 Xbox 合作。"
+        },
+        {
+          "name": "OD",
+          "desc": "Kojima Productions 的另一款游戏项目，文中提到部分 Physint 开发者被调至该项目以维持运营。"
+        },
+        {
+          "name": "Metal Gear Solid",
+          "desc": "Kojima 的经典谍战动作游戏系列，文中称 Physint 是其精神续作。"
+        },
+        {
+          "name": "Death Stranding",
+          "desc": "Kojima Productions 的游戏，文中提到其发售后帮助工作室获得银行贷款。"
+        }
+      ]
+    },
+    {
+      "id": "2a0b729aa3",
+      "title": "法国发行商 Dear Villagers 确认裁员",
+      "zh_desc": "以 Caravan SandWitch 和 The Forgotten City 等作品闻名的发行商 Dear Villagers 确认裁员。对从业者而言，这是欧洲发行商收缩与行业成本压力的信号。",
+      "url": "https://www.gamedeveloper.com/business/french-publisher-dear-villagers-confirms-layoffs",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-21T15:01:08",
+      "fetched_at": "2026-09-22T07:23:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Caravan SandWitch",
+          "desc": "Dear Villagers 发行的游戏之一，文中作为该发行商的代表作品在裁员新闻中提及。"
+        },
+        {
+          "name": "The Forgotten City",
+          "desc": "Dear Villagers 发行的游戏之一，文中作为该发行商的代表作品在裁员新闻中提及。"
+        }
+      ]
+    },
+    {
+      "id": "39992685ef",
+      "title": "“令人悲伤且毁灭性”——Black Myth: Wukong 实体发行商哀叹 PlayStation 光盘的消失",
+      "zh_desc": "PM Studios 对 PlayStation 光盘载体衰退表示惋惜，并回顾实体游戏发行业务的变化。对从业者而言，实体发行渠道萎缩会影响发行策略与收藏市场。",
+      "url": "https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-21T16:24:23",
+      "fetched_at": "2026-09-22T07:23:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Black Myth: Wukong",
+          "desc": "PM Studios 负责实体发行的动作角色扮演游戏，文中称其是公司最大风险之一，但取得了远超预期的巨大成功。"
+        },
+        {
+          "name": "DJMax",
+          "desc": "韩国节奏动作游戏系列，文中提到 PM Studios 早年将其带到美国市场。"
+        },
+        {
+          "name": "Bluey's Quest For The Gold Pen",
+          "desc": "PM Studios 发行的儿童游戏，文中用来强调实体游戏在低龄玩家市场仍有需求。"
+        }
+      ]
+    },
+    {
+      "id": "d7266b29d5",
+      "title": "小岛秀夫“无法理解”为何 Physint 会被 Sony 列入取消名单",
+      "zh_desc": "小岛秀夫认为 Physint 是他可能创造的销量最高作品，因此不应被取消。对从业者而言，这体现了头部创作者与平台方在项目风险管理上的张力。",
+      "url": "https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-21T08:35:21",
+      "fetched_at": "2026-09-22T07:23:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Physint",
+          "desc": "Kojima Productions 的游戏项目，Kojima 称其本应是工作室最能卖的作品，却遭 Sony 取消资助并转由 Xbox 合作。"
+        },
+        {
+          "name": "OD",
+          "desc": "Kojima Productions 的即将推出的恐怖游戏，文中称 Xbox 也在制作该项目。"
+        },
+        {
+          "name": "Death Stranding",
+          "desc": "Kojima Productions 的游戏，文中提到其与续作未达收入预期，是 Sony 对合作产生疑虑的背景之一。"
+        }
+      ]
+    },
     {
       "id": "b0b084ed91",
       "title": "从零 Offer 到收入纪录：一次断掉退路的运营实验",
