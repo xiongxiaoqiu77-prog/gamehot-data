@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-09-21T17:24:24",
+  "updated_at": "2026-09-21T20:06:00",
   "articles": [
+    {
+      "id": "dd5dfbc29e",
+      "title": "授权 IP 的真实价值",
+      "zh_desc": "文章以 Star Wars Zero Company 为例剖析授权 IP 游戏的真实商业价值：该作口碑与销量俱佳（超 80 万份、约 3600 万美元收入），但联合创始人诉讼文件显示发售前团队 80% 已被停职。对关注 IP 授权合作、项目成本结构与团队风险的从业者有参考意义。",
+      "url": "https://naavik.co/weekly-digest/the-real-value-of-licensed-ip/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-20T10:44:49",
+      "fetched_at": "2026-09-21T20:06:00",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "《星球大战》授权游戏，近期发售并获得媒体与消费者好评，销量超80万份、收入3600万美元，但发售前团队80%被强制休假。"
+        },
+        {
+          "name": "Marvel Rivals",
+          "desc": "文章作为外部授权 IP 游戏示例提及的漫威题材团队射击游戏。"
+        },
+        {
+          "name": "Marvel’s Spider-Man",
+          "desc": "文章作为外部授权 IP 游戏示例提及的漫威蜘蛛侠题材动作冒险游戏。"
+        },
+        {
+          "name": "Warhammer 40,000: Space Marine",
+          "desc": "文章作为外部授权 IP 游戏示例提及的战锤 40,000 题材动作射击游戏。"
+        },
+        {
+          "name": "Assassin’s Creed",
+          "desc": "育碧自有/集团控制的动作冒险游戏系列，文章作为 Owned/Group-Controlled IP 示例提及。"
+        }
+      ]
+    },
     {
       "id": "30a8c59b54",
       "title": "北京SLG大厂加码二合，柠檬微趣的主场又热闹了",
