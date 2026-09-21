@@ -5,15 +5,69 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Sep 2026 07:43:42 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:00:10 +0800</lastBuildDate>
   <item>
-    <title>休闲游戏增长放缓后，最抢眼的机会，变成了二合</title>
-    <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZWnl3b3g1aDNwejJrUFpFVndHMU1TMzVVTEpiYUJWM01Ec0p6bkE1UjVWMFdDZk83WEh4Z0VHUS1hZkNkaWRnWjRRS0l2ZHFTSW9tcGFkazNpdw?oc=5</link>
-    <description>文章来自 Enjoy出海，分析休闲游戏大盘增长放缓的背景下，二合（Merge-2/合并）品类如何成为新的增长突破口，涉及品类走势、买量表现与产品机会判断。对关注消除/合并赛道选品与立项的从业者有较强参考价值。</description>
+    <title>从零 Offer 到收入纪录：一次断掉退路的运营实验</title>
+    <link>https://www.deconstructoroffun.com/blog/from-zero-offers-to-record-revenue</link>
+    <description>讲述一位运营者如何主动砍掉全部 Offer、断掉退路，最终反而做出收入新高的真实案例。对休闲手游的变现设计、Offer 策略与 LiveOps 决策有直接的实操参考价值。</description>
+    <category>深度拆解</category>
+    <author>Deconstructor of Fun</author>
+    <pubDate>Mon, 21 Sep 2026 13:05:28 +0800</pubDate>
+    <guid isPermaLink="true">https://www.deconstructoroffun.com/blog/from-zero-offers-to-record-revenue</guid>
+  </item>
+  <item>
+    <title>北京SLG大厂加码二合，柠檬微趣的主场又热闹了</title>
+    <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE52LVpKSFJPMHQtS2I3X1k2azdJb0o0SkpTNkNuU080YmVyYTJ2M28yRkxTU2VvVFNQUldMVlRONDhsYnozWTducFlDdHo?oc=5</link>
+    <description>白鲸出海报道北京SLG大厂加码二合赛道，柠檬微趣所在的合并消除市场重新升温。对关注休闲消除/二合品类竞争格局、产品布局与买量策略的从业者具有参考价值。</description>
     <category>行业资讯</category>
     <author>Google News</author>
-    <pubDate>Fri, 18 Sep 2026 10:01:58 +0800</pubDate>
-    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZWnl3b3g1aDNwejJrUFpFVndHMU1TMzVVTEpiYUJWM01Ec0p6bkE1UjVWMFdDZk83WEh4Z0VHUS1hZkNkaWRnWjRRS0l2ZHFTSW9tcGFkazNpdw?oc=5</guid>
+    <pubDate>Mon, 21 Sep 2026 08:15:07 +0800</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiTEFVX3lxTE52LVpKSFJPMHQtS2I3X1k2azdJb0o0SkpTNkNuU080YmVyYTJ2M28yRkxTU2VvVFNQUldMVlRONDhsYnozWTducFlDdHo?oc=5</guid>
+  </item>
+  <item>
+    <title>Vita Mahjong、Amaze Go、Meowdoku 开发商 Oakever Games 应对抄袭指控</title>
+    <link>https://mobilegamer.biz/vita-mahjong-amaze-go-and-meowdoku-maker-oakever-games-fights-cloning-accusations/</link>
+    <description>Oakever Games 已在侵权案中败给 Block Blast 开发商 Hungry Studio，目前又面临 Avia Games 的诉讼，行业传言称这只是冰山一角。对休闲品类玩法克隆与法律边界的判断有参考价值。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Mon, 21 Sep 2026 15:29:07 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/vita-mahjong-amaze-go-and-meowdoku-maker-oakever-games-fights-cloning-accusations/</guid>
+  </item>
+  <item>
+    <title>Microsoft 想出在加载界面与过场动画中插入广告的方法</title>
+    <link>https://gameworldobserver.com/2026/09/21/microsoft-has-come-up-with-a-way-to-add-ads-to-loading-screens-and-cutscenes</link>
+    <description>微软游戏部门申请了一项将广告整合进主机与 PC 游戏的专利，覆盖加载画面和过场动画。对研究游戏内广告位设计与变现边界有参考意义。</description>
+    <category>行业资讯</category>
+    <author>Game World Observer</author>
+    <pubDate>Mon, 21 Sep 2026 12:03:15 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/09/21/microsoft-has-come-up-with-a-way-to-add-ads-to-loading-screens-and-cutscenes</guid>
+  </item>
+  <item>
+    <title>Activision 援引数据称游戏作弊已形成 85 亿美元产业；69% 的在线多人工作室认为作弊是「显著或非常严重问题」</title>
+    <link>https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem</link>
+    <description>Call of Duty 反作弊团队 Team Ricochet 引用数据说明作弊产业规模，并给出工作室层面的调研结果。对评估在线游戏反作弊投入与安全成本有参考价值。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Mon, 21 Sep 2026 13:27:45 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem</guid>
+  </item>
+  <item>
+    <title>Tokyo Game Show 2026 回望过去，AI 未来仍不明朗｜观点</title>
+    <link>https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion</link>
+    <description>对 TGS 30 周年的现场观察与评论，指出展会更多在致敬历史，对 AI 驱动的行业未来仍缺乏清晰答案。属于行业趋势评论。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Mon, 21 Sep 2026 12:01:04 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion</guid>
+  </item>
+  <item>
+    <title>招聘汇总：King、Scopely、Loom、Funday、Tactile、Zynga 等公司人事变动</title>
+    <link>https://mobilegamer.biz/jobs-digest-moves-and-promotions-at-king-scopely-loom-funday-tactile-zynga-and-more/</link>
+    <description>汇总 King、Scopely、Zynga、Tripledot、Trailmix 等手游公司的最新招聘与晋升动态。便于从业者把握休闲手游领域的人才流动与团队扩张方向。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Mon, 21 Sep 2026 09:30:11 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/jobs-digest-moves-and-promotions-at-king-scopely-loom-funday-tactile-zynga-and-more/</guid>
   </item>
   </channel>
 </rss>
