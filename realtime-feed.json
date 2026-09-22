@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-22T08:28:01",
+  "updated_at": "2026-09-22T15:57:49",
   "articles": [
+    {
+      "id": "81f9c14a9c",
+      "title": "Xbox 据称将于本周宣布第二轮裁员",
+      "zh_desc": "据 The Information 报道，Xbox 正准备在本周进行第二轮裁员。属于主机与平台侧的公司动态，与休闲手游直接关联有限，可作行业大环境参考。",
+      "url": "https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T07:55:38",
+      "fetched_at": "2026-09-22T15:57:49",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Physint",
+          "desc": "Kojima Productions 即将推出的游戏，Xbox 将负责发行。"
+        }
+      ]
+    },
     {
       "id": "f3cdbc877d",
       "title": "Northern Forge Studios 与 Runaway Play 领跑 2026 Green Games Jam Awards",
