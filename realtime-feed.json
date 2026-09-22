@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-09-22T07:23:51",
+  "updated_at": "2026-09-22T08:28:01",
   "articles": [
+    {
+      "id": "f3cdbc877d",
+      "title": "Northern Forge Studios 与 Runaway Play 领跑 2026 Green Games Jam Awards",
+      "zh_desc": "2026 Green Games Jam Awards 由 Playing for the Planet 主办，表彰在可持续游戏开发和环保叙事方面表现突出的开发者。该资讯反映游戏行业在环保议题上的动向，但对三消/休闲手游玩法、变现和 LiveOps 的直接参考有限。",
+      "url": "https://www.gamesindustry.biz/northern-forge-studios-and-runaway-play-lead-green-games-jam-awards-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-21T11:34:05",
+      "fetched_at": "2026-09-22T08:28:01",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Orna: The GPS RPG",
+          "desc": "Northern Forge Studios 的 GPS RPG，获最佳小型工作室奖和 UNEP's Choice。"
+        },
+        {
+          "name": "Flutter: Butterfly Sanctuary",
+          "desc": "Runaway Play 的蝴蝶保护区主题游戏，获最佳叙事奖。"
+        },
+        {
+          "name": "Splash – Fish Aquarium",
+          "desc": "Runaway Play 的水族馆/鱼类主题游戏，获 Google's Choice。"
+        },
+        {
+          "name": "Angry Birds Friends",
+          "desc": "Rovio Entertainment 的愤怒的小鸟系列游戏，与 Angry Birds Dream Blast 共同获最佳筹款奖。"
+        },
+        {
+          "name": "Angry Birds Dream Blast",
+          "desc": "Rovio Entertainment 的愤怒的小鸟系列游戏，与 Angry Birds Friends 共同获最佳筹款奖。"
+        },
+        {
+          "name": "Cards, the Universe and Everything",
+          "desc": "Avid Games 的游戏，入围最佳新人和最佳小型工作室。"
+        },
+        {
+          "name": "Lords Mobile",
+          "desc": "IGG 的游戏，获最佳雨林内容奖，并入围最佳新人和 Google's Choice。"
+        },
+        {
+          "name": "Seekers Notes",
+          "desc": "Mytona 的游戏，获最佳新人奖。"
+        },
+        {
+          "name": "Hope's Adventure",
+          "desc": "Green Leap Games 的游戏，获最佳珊瑚礁内容奖，并入围最佳叙事。"
+        },
+        {
+          "name": "Sunshine Island",
+          "desc": "New Moon Studios 的游戏，入围最佳珊瑚礁内容。"
+        },
+        {
+          "name": "Call of Dragons",
+          "desc": "Lilith Games 的游戏，入围最佳雨林内容。"
+        },
+        {
+          "name": "June's Journey",
+          "desc": "Wooga 的游戏，入围最佳雨林、最佳叙事和最佳筹款。"
+        },
+        {
+          "name": "Canasta Fun & Friends",
+          "desc": "GameDuell 的卡牌游戏，入围最佳筹款。"
+        },
+        {
+          "name": "Rummy Fun",
+          "desc": "GameDuell 的卡牌游戏，入围最佳筹款。"
+        },
+        {
+          "name": "Skat Treff",
+          "desc": "GameDuell 的卡牌游戏，入围最佳筹款。"
+        },
+        {
+          "name": "Tarot Classique",
+          "desc": "GameDuell 的卡牌游戏，入围最佳筹款。"
+        }
+      ]
+    },
     {
       "id": "c034ec82f9",
       "title": "Bungie 宣称“没打算放弃 Destiny”，并阐述工作室未来",
