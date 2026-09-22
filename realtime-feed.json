@@ -1,6 +1,147 @@
 {
-  "updated_at": "2026-09-22T20:12:02",
+  "updated_at": "2026-09-23T01:43:24",
   "articles": [
+    {
+      "id": "a6eb58aa29",
+      "title": "「已经没有简单答案，也没有现成剧本」——Secret Mode 以两条差异化路线下注",
+      "zh_desc": "独立发行商 Secret Mode 脱离 Sumo Digital 后的发行策略访谈，谈两条不同产品线的布局思路。对理解中小发行商的产品组合与风险对冲有一定启发。",
+      "url": "https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T12:00:00",
+      "fetched_at": "2026-09-23T01:43:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "高预算《星球大战》竞速游戏，由 Fuse Games 开发、Secret Mode 发行，预计 10 月 6 日推出。"
+        }
+      ]
+    },
+    {
+      "id": "67e4377658",
+      "title": "Bungie 称「与 Destiny 还没结束」，计划恢复已归档的 Destiny 2 内容以重建玩家信任",
+      "zh_desc": "在 Destiny 2 最后一次更新三个月后，Bungie 宣布重新上线被「封存」的战役、突袭与地图。涉及长线运营产品的资产复用与玩家信任修复，对 LiveOps 从业者有一定借鉴意义。",
+      "url": "https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T09:43:57",
+      "fetched_at": "2026-09-23T01:43:24",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "41f6219de7",
+      "title": "Monopoly Go 公布 KPop Demon Hunters 与 Ghostbusters 全新联动",
+      "zh_desc": "Scopely 的 Monopoly Go 推出 Monster Mash 赛季，时间为 9 月 23 日至 11 月 25 日，并联动 KPop Demon Hunters 与 Ghostbusters。可作为休闲手游 IP 联动节奏与赛季化 LiveOps 排期的观察案例。",
+      "url": "https://mobilegamer.biz/monopoly-go-reveals-new-kpop-demon-hunters-and-ghostbusters-crossovers/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-22T15:26:23",
+      "fetched_at": "2026-09-23T01:43:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "Scopely 的移动大富翁游戏，下载量超 3 亿，是达到 60 亿美元 IAP 收入最快的游戏。"
+        },
+        {
+          "name": "Monster Strike",
+          "desc": "热门移动游戏，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+        },
+        {
+          "name": "Honor of Kings",
+          "desc": "热门移动 MOBA，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+        },
+        {
+          "name": "Royal Match",
+          "desc": "热门移动三消游戏，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+        },
+        {
+          "name": "Genshin Impact",
+          "desc": "开放世界动作 RPG，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+        },
+        {
+          "name": "Clash of Clans",
+          "desc": "策略建造移动游戏，被文章列为 Monopoly Go 更快达到 60 亿美元 IAP 收入的对比对象。"
+        }
+      ]
+    },
+    {
+      "id": "a561986cc0",
+      "title": "King 在最新一轮 Xbox 裁员中似乎幸免于难",
+      "zh_desc": "报道称 Candy Crush 开发商 King 未受大规模裁员冲击，其职责范围扩大并接手 Microsoft Casual Games。对关注休闲手游大厂组织架构与业务整合的从业者有参考价值。",
+      "url": "https://mobilegamer.biz/king-escapes-major-layoffs-in-latest-round-of-xbox-cuts/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-22T14:25:21",
+      "fetched_at": "2026-09-23T01:43:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Solitaire Collection",
+          "desc": "Microsoft Casual Games 的常青 PC/移动纸牌游戏合集，文章称 King 扩大职权后纳入该业务。"
+        },
+        {
+          "name": "Minesweeper",
+          "desc": "Microsoft Casual Games 的常青 PC/移动益智游戏，文章明确提及。"
+        },
+        {
+          "name": "Mahjong",
+          "desc": "Microsoft Casual Games 的常青 PC/移动麻将益智游戏，文章明确提及。"
+        },
+        {
+          "name": "Candy Crush",
+          "desc": "King 的知名移动三消游戏，文章以“Candy Crush maker”指代 King。"
+        },
+        {
+          "name": "Halo",
+          "desc": "Xbox 第一方科幻射击游戏系列，文章称 Activision 将开发下一部。"
+        }
+      ]
+    },
+    {
+      "id": "f7f3dfae88",
+      "title": "被 Atari 收购后，Hipster Whale 可能复活或重塑多款复古经典",
+      "zh_desc": "Hipster Whale 联合创始人 Matt Hall 表示，Pong、Breakout、Centipede、Missile Command 等经典 IP 有望在移动端被重制或重新演绎。属于休闲手游 IP 改编方向的资讯，但缺少具体设计细节。",
+      "url": "https://mobilegamer.biz/hipster-whale-could-revive-or-reimagine-a-range-of-retro-classics-after-atari-acquisition/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T10:50:20",
+      "fetched_at": "2026-09-23T01:43:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Crossy Road",
+          "desc": "Hipster Whale 的突破性无尽过马路街机手游，下载超 3.4 亿，2014 年发布后 90 天内收入 1000 万美元。"
+        },
+        {
+          "name": "Pong",
+          "desc": "Atari 经典街机乒乓游戏，文章称目前未登陆移动端，Hall 有意将其带回。"
+        },
+        {
+          "name": "Breakout",
+          "desc": "Atari 经典打砖块街机游戏，文章称目前未登陆移动端。"
+        },
+        {
+          "name": "Centipede",
+          "desc": "Atari 经典射击街机游戏，文章称目前未登陆移动端。"
+        },
+        {
+          "name": "Missile Command",
+          "desc": "Atari 经典导弹防御街机游戏，文章称目前未登陆移动端。"
+        },
+        {
+          "name": "Atari 50",
+          "desc": "Atari 复古游戏合集/交互式纪录作品，文章称类似合集也应登陆移动端。"
+        }
+      ]
+    },
     {
       "id": "85bde8e540",
       "title": "北京SLG大厂加码二合，柠檬微趣的主场又热闹了",
