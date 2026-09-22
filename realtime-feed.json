@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-09-23T01:43:24",
+  "updated_at": "2026-09-23T06:43:38",
   "articles": [
+    {
+      "id": "a35539e7da",
+      "title": "「我们想保持非常简单」：Nex Playground 如何在硬件危机中超出预期",
+      "zh_desc": "Nex Playground 团队分享其在硬件成本上涨环境下的经营思路，强调必须留出利润空间才能持续投入逐年上涨的软件开发成本。对做家庭休闲游戏硬件／平台的公司而言，是一份关于硬件与软件投入平衡的实战参考。",
+      "url": "https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T15:15:00",
+      "fetched_at": "2026-09-23T06:43:38",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Sonic Forces",
+          "desc": "索尼克系列的动作平台游戏，玩家可操控索尼克等角色并使用自定义英雄对抗蛋头博士。"
+        },
+        {
+          "name": "Pac-Man",
+          "desc": "经典街机迷宫追逐游戏，玩家操控吃豆人吃掉豆子并躲避幽灵。"
+        },
+        {
+          "name": "Escape From Tarkov",
+          "desc": "硬核战术生存射击游戏，以高拟真战斗、物资搜集和撤离玩法为核心。"
+        }
+      ]
+    },
+    {
+      "id": "82953d6bc8",
+      "title": "Jewel Match Solitaire X 评测",
+      "zh_desc": "对 Jewel Match Solitaire X 这款融合宝石消除与纸牌接龙的休闲游戏进行评测，介绍其玩法循环与关卡体验。可作为消除＋接龙混合品类的产品观察参考，但缺少玩法机制与数值层面的深度拆解。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lVEF2UHVDb1ZrZWNTRkZ1OGpnZGJFM2d3SW1GQVFIMEF6WXAwZWRQRnpMOVBLdzlfMm5TOGxyemlkQVFXRGN2WjVSMmhjRTRpeGxoZVhvRjZnbXhlZ1R6UFF4cmZkbnB2MXc?oc=5",
+      "source": "重点游戏-Disney Solitaire",
+      "category": "泛游戏",
+      "score": 6,
+      "published_at": "2026-09-22T12:13:09",
+      "fetched_at": "2026-09-23T06:43:38",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Jewel Match Solitaire X",
+          "desc": "一款结合纸牌接龙与宝石消除/装饰元素的休闲益智游戏。"
+        }
+      ]
+    },
     {
       "id": "a6eb58aa29",
       "title": "「已经没有简单答案，也没有现成剧本」——Secret Mode 以两条差异化路线下注",
