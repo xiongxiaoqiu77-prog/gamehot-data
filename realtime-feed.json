@@ -1,6 +1,214 @@
 {
-  "updated_at": "2026-09-23T06:43:38",
+  "updated_at": "2026-09-23T07:16:13",
   "articles": [
+    {
+      "id": "e1964f0a5a",
+      "title": "Escape From Tarkov 开发商成立发行部门，押注「高风险」硬核游戏",
+      "zh_desc": "Battlestate Games 宣布成立发行业务，计划为「硬核」向游戏提供发行支持，延续其自研自发的路线。对从业者而言，这是一则关于中型厂商向发行端延伸、寻找差异化品类定位的行业动态，与休闲/三消赛道关联度较低。",
+      "url": "https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T14:34:35",
+      "fetched_at": "2026-09-23T07:16:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Escape From Tarkov",
+          "desc": "硬核撤离射击游戏，其开发商成立发行部门并押注高风险硬核作品。"
+        },
+        {
+          "name": "Destiny",
+          "desc": "Bungie 的科幻射击与服务型游戏系列，工作室称尚未结束对该系列的支持。"
+        },
+        {
+          "name": "Marvel's Wolverine",
+          "desc": "漫威题材动作游戏，因部分区域疑似审查 LGBTQ 内容引发关注。"
+        },
+        {
+          "name": "Genshin Impact",
+          "desc": "米哈游的开放世界动作角色扮演游戏，因 AI 语音服务模仿角色声音被法院判赔。"
+        },
+        {
+          "name": "GTA VI",
+          "desc": "Rockstar 的开放世界犯罪题材新作，Take-Two CEO 称仍需强势营销。"
+        },
+        {
+          "name": "Hyper Light Drifter",
+          "desc": "Heart Machine 的像素风动作冒险游戏，其开发商已裁掉大部分员工。"
+        },
+        {
+          "name": "MindsEye",
+          "desc": "Build a Rocket Boy 开发的游戏，其工作室在更多裁员后可能关闭。"
+        }
+      ]
+    },
+    {
+      "id": "86944ae856",
+      "title": "Xbox 继续「重置」：Halo Studios 裁员、Undead Labs 被剥离",
+      "zh_desc": "报道称下一部 Halo 将由 Activision 开发，Ninja Theory 面临关闭，Undead Labs 被剥离。属于主机/3A 领域的公司重组新闻，可作为了解大厂组织与 IP 归属变化的参考，对休闲手游设计无直接价值。",
+      "url": "https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T14:18:45",
+      "fetched_at": "2026-09-23T07:16:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Halo",
+          "desc": "Xbox 科幻射击游戏系列，下一作将由 Activision 新团队开发。"
+        },
+        {
+          "name": "State of Decay 3",
+          "desc": "Undead Labs 的僵尸生存游戏，将由新发行商首日登陆 Game Pass。"
+        },
+        {
+          "name": "Psychonauts",
+          "desc": "Double Fine 的平台冒险游戏，其工作室此前从 Xbox 剥离。"
+        },
+        {
+          "name": "South of Midnight",
+          "desc": "Compulsion Games 的南方哥特风格动作冒险游戏，其工作室从 Xbox 剥离。"
+        },
+        {
+          "name": "Senua",
+          "desc": "Ninja Theory 的心理动作游戏系列，其开发商面临关闭。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "Activision 的军事射击游戏系列，其制作方将参与开发下一部 Halo。"
+        },
+        {
+          "name": "Grounded",
+          "desc": "Obsidian 的微观世界合作生存冒险游戏，团队将继续开发该项目。"
+        },
+        {
+          "name": "Fallout",
+          "desc": "Bethesda 的废土题材角色扮演游戏系列，将与 Bethesda Game Studios 合作推出新作。"
+        }
+      ]
+    },
+    {
+      "id": "58e1f8e21c",
+      "title": "Rockstar 在 GTA VI 上线前公布 Mod 规则：「不要」触碰官方剧情",
+      "zh_desc": "Rockstar 明确官方剧情、角色及「既定连续性」内容不得用于 Mod，为 GTA VI 上线前的社区创作划定边界。这是关于 IP 管理与 UGC 生态的行业政策资讯，对休闲游戏社区运营有一定借鉴意义。",
+      "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T12:33:14",
+      "fetched_at": "2026-09-23T07:16:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar 的开放世界犯罪题材新作，上线前官方明确 Mod 规则不得改动官方剧情。"
+        },
+        {
+          "name": "Grand Theft Auto V",
+          "desc": "Rockstar 的开放世界犯罪游戏，已有成熟 Mod 与角色扮演社区，同样受新规约束。"
+        },
+        {
+          "name": "Red Dead Redemption II",
+          "desc": "Rockstar 的西部题材开放世界动作冒险游戏，Mod 社区成熟并受新规约束。"
+        }
+      ]
+    },
+    {
+      "id": "6a7478fca7",
+      "title": "Xbox 将 Rare 与 Halo 品牌转让给 Activision，拟关闭 Ninja Theory，并确认再裁 268 个岗位",
+      "zh_desc": "微软通过 Xbox Wire 公布工作室架构重组：Rare 与 Halo 归属 Activision，Ninja Theory 拟关闭，Halo Studios 大幅裁员。属于大型发行商组织调整新闻，供了解行业资本与 IP 流向，与休闲品类设计无直接关系。",
+      "url": "https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T14:06:00",
+      "fetched_at": "2026-09-23T07:16:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Halo",
+          "desc": "Xbox 科幻射击游戏系列，品牌所有权转给 Activision，下一作由新团队开发。"
+        },
+        {
+          "name": "State of Decay 3",
+          "desc": "Undead Labs 的僵尸生存游戏，将由新发行商首日登陆 Game Pass。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "Activision 的军事射击游戏系列，其开发计划与下一部 Halo 分开。"
+        },
+        {
+          "name": "Age of Empires",
+          "desc": "World's Edge 负责的即时战略游戏系列，随工作室划归 Activision。"
+        },
+        {
+          "name": "Grounded",
+          "desc": "Obsidian 的微观世界合作生存冒险游戏，团队将继续开发。"
+        },
+        {
+          "name": "Fallout",
+          "desc": "Bethesda 的废土题材角色扮演游戏系列，Obsidian 将继续参与此前公布的新作。"
+        },
+        {
+          "name": "Forza",
+          "desc": "Turn 10 与 Playground 的赛车游戏系列，合并后工作室重点之一。"
+        },
+        {
+          "name": "Fable",
+          "desc": "Playground 的动作角色扮演游戏系列，合并后工作室重点之一。"
+        }
+      ]
+    },
+    {
+      "id": "c31a36aaf6",
+      "title": "IO Interactive「别无选择」，007 First Light 的 Switch 2 版第三次延期",
+      "zh_desc": "IO Interactive 宣布 007 First Light 的 Nintendo Switch 2 版本第三度推迟，预计 2027 年 3 月发售。属于新游排期与平台适配的行业资讯，可作为观察跨平台发行节奏的案例。",
+      "url": "https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T10:55:16",
+      "fetched_at": "2026-09-23T07:16:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "007 First Light",
+          "desc": "IO Interactive 的詹姆斯·邦德题材动作冒险与间谍游戏，Switch 2 版第三次延期至 2027 年 3 月。"
+        }
+      ]
+    },
+    {
+      "id": "30a00dd23f",
+      "title": "官方确认：Xbox 裁员 268 人，Ninja Theory 面临潜在关闭",
+      "zh_desc": "微软正式公布游戏部门新变动，近 300 名员工受影响。属于主机与 3A 领域的公司动态资讯，与休闲/手游赛道的设计运营关联较弱。",
+      "url": "https://gameworldobserver.com/2026/09/22/official-xbox-to-lay-off-268-employees-and-ninja-theory-faces-potential-closure",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-22T14:47:41",
+      "fetched_at": "2026-09-23T07:16:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Senua",
+          "desc": "Ninja Theory 的《地狱之刃》系列心理动作游戏，工作室面临潜在关闭。"
+        },
+        {
+          "name": "Minesweeper",
+          "desc": "微软经典益智游戏，隶属 Microsoft Casual Games 并将并入 King。"
+        },
+        {
+          "name": "Solitaire Collection",
+          "desc": "微软纸牌合集休闲卡牌游戏，隶属 Microsoft Casual Games 并将并入 King。"
+        },
+        {
+          "name": "Halo",
+          "desc": "微软科幻射击游戏系列，Activision 将主导未来开发。"
+        }
+      ]
+    },
     {
       "id": "a35539e7da",
       "title": "「我们想保持非常简单」：Nex Playground 如何在硬件危机中超出预期",
