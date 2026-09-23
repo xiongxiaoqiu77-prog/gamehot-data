@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-23T19:00:31",
+  "updated_at": "2026-09-23T20:05:40",
   "articles": [
+    {
+      "id": "1d6c72a62b",
+      "title": "数据摘要：移动游戏增长最快榜单、中国数据、Google Play 提交量翻倍等 - Mobilegamer.biz",
+      "zh_desc": "该数据摘要汇总移动游戏增长最快产品、中国市场数据，以及 Google Play 提交量翻倍等动态。适合从业者快速把握手游市场趋势、品类竞争与渠道变化。内容以行业数据资讯为主，未深入拆解具体产品玩法或变现机制。",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUUd6ZS1acW5na3NzUmFPSHRSRXBIWVczUk5NYjc3X19jOVBaSnozUkZXelI3R0xBV05uU1pva0hqSEUySHRWS0FwbDY4dVAtamxNSkFyVmd1azYxYU80WndBci1pQ0xpTV9GS2N5V0JBUnJYY0Q5WUZHMWxqSWRCRTMtOVNmMGpRYnZTWGpuUzNUbE5KRjdJS0FFZWl5bXhxazBZaXE4ZmNGTnowS0N1SGZpalk?oc=5",
+      "source": "重点游戏-Gossip Harbor",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-23T10:17:49",
+      "fetched_at": "2026-09-23T20:05:40",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "9d01a2f593",
       "title": "AI 如何让游戏创作更易上手",
