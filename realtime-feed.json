@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-23T18:28:11",
+  "updated_at": "2026-09-23T19:00:31",
   "articles": [
+    {
+      "id": "9d01a2f593",
+      "title": "AI 如何让游戏创作更易上手",
+      "zh_desc": "Naavik 播客对话 The Sandbox CEO Robby Yung，讨论 Sandbox Studio 如何借助 AI 辅助 UGC 开发，让创作者更易构建可跨平台触达玩家的可靠游戏。对关注 AI 工具、UGC 生态和游戏创作门槛变化的从业者有参考价值。",
+      "url": "https://naavik.co/podcast/how-ai-makes-game-creation-more-accessible/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-22T10:20:52",
+      "fetched_at": "2026-09-23T19:00:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Sandbox",
+          "desc": "一个基于 Web3 的 UGC 虚拟世界平台，创作者可利用其工具制作并发布多人游戏体验。"
+        }
+      ]
+    },
     {
       "id": "96fb803e33",
       "title": "创纪录流水与 AI 驱动的效率提升，指向游戏行业全年持续高增长 | Frontline",
