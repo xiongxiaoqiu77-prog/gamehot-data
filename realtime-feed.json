@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-23T17:23:39",
+  "updated_at": "2026-09-23T18:28:11",
   "articles": [
+    {
+      "id": "96fb803e33",
+      "title": "创纪录流水与 AI 驱动的效率提升，指向游戏行业全年持续高增长 | Frontline",
+      "zh_desc": "报道游戏行业实现创纪录的 Gross Billings，并指出 AI 带来的效率提升正推动全年持续高增长。对关注手游大盘景气度、买量与研发成本结构的从业者具有参考价值，可辅助判断休闲游戏赛道的投放与变现环境。",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUxnU2lOZG1uYnN6QkZFVzRZWjMzMFRtU09IVmlWenZjYkxtMXI1RklSYk5yVU0tS0ptclUyMjRwc0V6MVl5cjVRLTA0VlA4TFJWRERiVVRQOHNzNC1hRUw3cmhVa3VEOVBnY0o5YjNSYndDNkhhckdCTXZtVU8yazk1VzJSclFHdEdDZGctdDRZXzQxN2FqUDB5RG9WVnBqQTk3cWFLRmhGQXM?oc=5",
+      "source": "重点游戏-Tasty Travels",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-23T09:53:02",
+      "fetched_at": "2026-09-23T18:28:11",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "35a1c37a34",
       "title": "Undead Labs 确认成为“员工持股工作室”，大量员工面临裁员",
