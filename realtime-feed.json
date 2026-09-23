@@ -1,6 +1,185 @@
 {
-  "updated_at": "2026-09-24T07:02:56",
+  "updated_at": "2026-09-24T07:35:51",
   "articles": [
+    {
+      "id": "d696ec3721",
+      "title": "Discord 重新推出基于「账号信号」方法论的年龄验证政策",
+      "zh_desc": "Discord 表示已建立基于「账号信号」的年龄估算模型，用于判定用户所属年龄段，从而在无需视频自拍或身份证件的情况下完成验证。对休闲游戏从业者而言，年龄验证机制会直接影响年轻用户的可触达性、社交功能开放度以及买量投放的受众策略。",
+      "url": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-23T18:30:00",
+      "fetched_at": "2026-09-24T07:35:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "大型多人在线游戏平台，用户可创建和游玩各种体验；文中因其与Discord共同被起诉而提及。"
+        }
+      ]
+    },
+    {
+      "id": "209a8008f9",
+      "title": "报道：Bethesda 总裁向 Obsidian 员工表示合并后不会失去「创作身份」",
+      "zh_desc": "Bethesda 总裁 Jill Braff 据称将 Obsidian 并入 Bethesda 的举措称为「主要是汇报结构的调整」，意在安抚团队。这属于厂商组织架构变动类资讯，对关注工作室并购与研发团队稳定性的从业者有参考价值。",
+      "url": "https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-23T17:03:46",
+      "fetched_at": "2026-09-24T07:35:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fallout: New Vegas",
+          "desc": "Obsidian开发的后末日角色扮演游戏，也是其与Bethesda合作过的《Fallout》系列作品。"
+        },
+        {
+          "name": "Pentiment",
+          "desc": "Obsidian开发的叙事驱动游戏，文中以该作与《Fallout: New Vegas》指代其创作背景。"
+        },
+        {
+          "name": "Fallout 5",
+          "desc": "Bethesda Game Studios正在预制作的后末日角色扮演游戏。"
+        },
+        {
+          "name": "Fallout 3",
+          "desc": "Bethesda开发的后末日角色扮演游戏，文中提到其重制版正在推进。"
+        },
+        {
+          "name": "Fallout",
+          "desc": "后末日角色扮演游戏系列，文中称Bethesda Game Studios将继续领导该系列并推进新项目。"
+        }
+      ]
+    },
+    {
+      "id": "05cb337d69",
+      "title": "Undead Labs 从 Xbox 拆分后进行「大规模」裁员",
+      "zh_desc": "微软今年早些时候已释放出剥离这家西雅图工作室的意向，如今 Undead Labs 确认进行大规模裁员。该消息反映出主机与 PC 端厂商持续收缩的行业趋势，可作为判断行业资金与团队流动的参考。",
+      "url": "https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-23T11:22:24",
+      "fetched_at": "2026-09-24T07:35:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "State of Decay 3",
+          "desc": "Undead Labs开发的丧尸生存动作游戏，从Xbox拆分后仍计划由新发行商发行并首发Xbox Game Pass。"
+        },
+        {
+          "name": "State of Decay",
+          "desc": "Undead Labs的丧尸生存游戏系列，文中称许多被裁员工多年投入该系列开发。"
+        }
+      ]
+    },
+    {
+      "id": "d860a56ac8",
+      "title": "Bethesda 老板确认 Obsidian 仍将保持「独立」团队",
+      "zh_desc": "Bethesda 负责人 Jill Braff 致信全体员工，确认《Grounded》开发商 Obsidian Entertainment 将保持「独立」团队定位并保留现有管理层架构。属于公司组织动态类新闻，与休闲游戏玩法设计关联较弱。",
+      "url": "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-23T18:47:06",
+      "fetched_at": "2026-09-24T07:35:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grounded",
+          "desc": "Obsidian开发的合作生存冒险游戏，文中以“Grounded开发者”指代Obsidian。"
+        },
+        {
+          "name": "Halo",
+          "desc": "经典科幻第一人称射击游戏系列，文中提到其所有权随Xbox重组转入Activision。"
+        },
+        {
+          "name": "Fallout",
+          "desc": "后末日角色扮演游戏系列，文中称Bethesda Game Studios将继续领导该系列，并有新项目推进。"
+        }
+      ]
+    },
+    {
+      "id": "920d731507",
+      "title": "《Age of Empires》开发商 World's Edge 转入 Activision 后遭裁员",
+      "zh_desc": "《Age of Empires》工作室 World's Edge 在移交给 Activision 后被裁员，受影响的员工数量「略低于半数」。这是大型发行商重组背景下的团队变动消息，对关注行业人力与项目稳定性的从业者有参考意义。",
+      "url": "https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-23T13:56:13",
+      "fetched_at": "2026-09-24T07:35:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Age of Empires",
+          "desc": "历史题材实时战略游戏系列，World's Edge负责开发/管理，文中报道该团队转入Activision后遭裁员。"
+        },
+        {
+          "name": "Halo",
+          "desc": "经典科幻第一人称射击游戏系列，文中提到其与Rare、World's Edge一同转入Activision。"
+        },
+        {
+          "name": "State of Decay",
+          "desc": "丧尸生存游戏系列，文中在Undead Labs拆分裁员声明中被提及。"
+        }
+      ]
+    },
+    {
+      "id": "8901226b38",
+      "title": "新发行商 PUBLSH 成立，首作 Pera Coda 灵感源自 Disco Elysium",
+      "zh_desc": "由营销机构 Petrol 前管理层创立的新发行商 PUBLSH 正式亮相，并公布首款作品 Pera Coda。属于新发行商与新游公布类资讯，与休闲消除品类的设计或变现关联有限。",
+      "url": "https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-23T13:00:00",
+      "fetched_at": "2026-09-24T07:35:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Pera Coda",
+          "desc": "Elyzio/Falan Studio开发的分集式谋杀悬疑游戏，受《Disco Elysium》启发，结合点击式调查与心理叙事，计划2027年登陆PC。"
+        },
+        {
+          "name": "Disco Elysium",
+          "desc": "作为《Pera Coda》灵感来源的侦探角色扮演游戏。"
+        }
+      ]
+    },
+    {
+      "id": "a5c7f52f34",
+      "title": "Discord 在隐私争议后重新上线年龄验证",
+      "zh_desc": "Discord 面向所有用户重新启动年龄验证流程，并新增无需视频自拍或身份证件的替代验证方式。对依赖 Discord 做社区运营与用户触达的游戏团队而言，验证流程变化会影响社区拉新与用户分层运营。",
+      "url": "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-23T10:11:43",
+      "fetched_at": "2026-09-24T07:35:51",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "50180e90e1",
+      "title": "Saber Interactive、MY.GAMES、Playkot、Rockbite Games 等将出席 WN Yerevan'26",
+      "zh_desc": "WN Yerevan'26 公布了首批议程细节，这是一场面向游戏开发者与发行商的商务活动，将于数周后在亚美尼亚举办。属于行业会议与商务对接资讯，可帮助从业者了解区域游戏商务活动布局。",
+      "url": "https://gameworldobserver.com/2026/09/23/saber-interactive-my-games-playkot-rockbite-games-and-many-others-will-be-presenting-at-wn-yerevan26-29380",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-23T09:52:42",
+      "fetched_at": "2026-09-24T07:35:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Warhammer 40,000: Space Marine 2",
+          "desc": "基于战锤40K的第三人称动作射击游戏，文中以其为例说明成就系统如何影响玩家体验和内容引入。"
+        }
+      ]
+    },
     {
       "id": "20cc96ff23",
       "title": "Sensor Tower：2026 上半年日本 PC 与 PlayStation 销量增长 13% 至 2100 万台，Resident Evil Requiem 领跑",
