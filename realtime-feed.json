@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-09-24T06:30:33",
+  "updated_at": "2026-09-24T07:02:56",
   "articles": [
+    {
+      "id": "20cc96ff23",
+      "title": "Sensor Tower：2026 上半年日本 PC 与 PlayStation 销量增长 13% 至 2100 万台，Resident Evil Requiem 领跑",
+      "zh_desc": "Sensor Tower 数据显示 2026 年上半年日本 PC 与 PlayStation 硬件销量同比增长 13%，达 2100 万台，主要由 Resident Evil Requiem 带动。属主机/PC 市场数据报告，对休闲手游参考价值有限。",
+      "url": "https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-23T12:55:38",
+      "fetched_at": "2026-09-24T07:02:56",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Resident Evil Requiem",
+          "desc": "卡普空《生化危机》系列新作，2026年上半年领跑日本PC与PlayStation销量，Steam首月销量约260万份。"
+        },
+        {
+          "name": "Pragmata",
+          "desc": "卡普空旗下游戏，文章提及它与《Resident Evil Requiem》共同推动公司最新财务业绩。"
+        },
+        {
+          "name": "Resident Evil 4",
+          "desc": "卡普空《生化危机》系列作品，文章称其持续销售增长。"
+        },
+        {
+          "name": "Resident Evil 2",
+          "desc": "卡普空《生化危机》系列作品，文章称其持续销售增长。"
+        },
+        {
+          "name": "eFootball",
+          "desc": "科乐美足球手游，2026年1至7月日本收入最高的移动游戏，受益于世界杯相关足球主题内容。"
+        },
+        {
+          "name": "Monster Strike",
+          "desc": "日本移动游戏，2026年1至7月日本移动游戏收入排名第二。"
+        },
+        {
+          "name": "Last War: Survival",
+          "desc": "策略生存类移动游戏，2026年1至7月日本移动游戏收入排名第三。"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "生存策略类移动游戏，2026年1至7月日本移动游戏收入排名第四。"
+        },
+        {
+          "name": "Dragon Quest Smash/Grow",
+          "desc": "动作RPG手游，2026年1至7月日本动作RPG品类IAP收入排名第一。"
+        }
+      ]
+    },
     {
       "id": "62a1319d22",
       "title": "EU KIDS Act：游戏开发者需要了解什么",
