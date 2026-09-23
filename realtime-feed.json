@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-09-23T07:16:13",
+  "updated_at": "2026-09-23T17:23:39",
   "articles": [
+    {
+      "id": "35a1c37a34",
+      "title": "Undead Labs 确认成为“员工持股工作室”，大量员工面临裁员",
+      "zh_desc": "Undead Labs 宣布独立并转为员工持股的工作室，同时确认将有相当数量员工被裁。该消息属于一般游戏行业公司动态，与休闲/三消手游的设计、运营和变现关联较弱。",
+      "url": "https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-23T07:57:04",
+      "fetched_at": "2026-09-23T17:23:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "State of Decay",
+          "desc": "开放世界僵尸生存游戏系列，由 Undead Labs 开发。"
+        },
+        {
+          "name": "State of Decay 3",
+          "desc": "《State of Decay》系列续作，僵尸生存游戏，计划 2027 年登陆 Xbox、Game Pass、PC 和 PlayStation。"
+        },
+        {
+          "name": "Halo",
+          "desc": "科幻第一人称射击游戏系列，文中提到该系列已转移至 Activision，下一部将由新团队负责。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "动视发行的第一人称射击游戏系列，文中提到 Halo 新作团队与 Call of Duty 开发计划分开。"
+        },
+        {
+          "name": "Age of Empires",
+          "desc": "历史题材即时战略游戏系列，World's Edge 工作室将纳入 Activision 职责范围。"
+        },
+        {
+          "name": "Hellblade",
+          "desc": "Ninja Theory 开发的动作冒险/心理恐怖游戏系列，文中称该工作室面临关闭。"
+        }
+      ]
+    },
     {
       "id": "e1964f0a5a",
       "title": "Escape From Tarkov 开发商成立发行部门，押注「高风险」硬核游戏",
