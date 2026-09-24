@@ -1,6 +1,177 @@
 {
-  "updated_at": "2026-09-24T16:04:48",
+  "updated_at": "2026-09-25T02:09:58",
   "articles": [
+    {
+      "id": "a3228fceac",
+      "title": "爱尔兰游戏基金扩展，新增多条资助通道",
+      "zh_desc": "爱尔兰游戏基金新增开发基金、原型基金与发行基金三类资助路径，帮助当地开发者获得更细分的资金支持。对关注欧洲中小团队融资环境的从业者有一定参考价值，但与休闲游戏玩法设计关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-24T11:10:22",
+      "fetched_at": "2026-09-25T02:09:58",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "6eb8d771ea",
+      "title": "荷兰消费者组织起诉 Epic，指控 Fortnite 误导未成年玩家并索赔逾 1 亿欧元",
+      "zh_desc": "荷兰消费者组织 SMC 对 Epic Games 提起集体诉讼，称 Fortnite 在内购设计上误导年轻玩家，索赔金额超过 1 亿欧元。该案反映了欧美对面向未成年人变现机制的监管收紧，对休闲手游的付费设计合规有警示意义。",
+      "url": "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-24T13:48:19",
+      "fetched_at": "2026-09-25T02:09:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic Games 的免费大逃杀/建造竞技游戏，拥有 V-Bucks 虚拟货币与限时道具商店，本案指控其诱导未成年玩家消费。"
+        }
+      ]
+    },
+    {
+      "id": "986155c873",
+      "title": "纠偏旧账：MobyGames 允许开发者认领未被署名的作品",
+      "zh_desc": "MobyGames 推出机制，让开发者可以认领自己参与过但未获署名的游戏条目。属于游戏行业档案与文化层面的动态，对从业者了解行业历史记录方式有轻微价值，但与休闲游戏设计运营无关。",
+      "url": "https://www.gamesindustry.biz/righting-old-wrongs-mobygames-on-letting-developers-claim-games-they-werent-credited-for",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-24T12:00:00",
+      "fetched_at": "2026-09-25T02:09:58",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "76c5e7e4b1",
+      "title": "TinyBuild 2026 上半年营收增长 18% 至 2000 万美元，85% 来自自有及第二方 IP",
+      "zh_desc": "TinyBuild 公布 2026 年上半年财报，营收 2000 万美元，同比增长 18%，主要来自老产品线表现与新作发行，其中 85% 收入源于自有和第二方 IP。对关注中小发行商 IP 策略的从业者有参考意义。",
+      "url": "https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-24T10:12:10",
+      "fetched_at": "2026-09-25T02:09:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hello Neighbor",
+          "desc": "TinyBuild 的常青目录游戏之一，在 2026 上半年持续贡献收入。"
+        },
+        {
+          "name": "Graveyard Keeper",
+          "desc": "TinyBuild 的常青目录游戏之一，在 2026 上半年持续贡献收入。"
+        },
+        {
+          "name": "Hozy",
+          "desc": "TinyBuild 在 2026 上半年成功发行的新作之一。"
+        },
+        {
+          "name": "All Will Fall",
+          "desc": "TinyBuild 在 2026 上半年成功发行的新作之一。"
+        },
+        {
+          "name": "Sand: Raiders of Sophie",
+          "desc": "TinyBuild 在 2026 上半年成功发行的新作之一。"
+        },
+        {
+          "name": "I Am Future",
+          "desc": "TinyBuild 报告期内登陆主机平台的游戏。"
+        },
+        {
+          "name": "The King is Watching",
+          "desc": "TinyBuild 报告期内推出 DLC 的游戏。"
+        },
+        {
+          "name": "Kill It With Fire 2",
+          "desc": "TinyBuild 报告期内登陆 Switch 的游戏。"
+        }
+      ]
+    },
+    {
+      "id": "1bcec54c04",
+      "title": "Supercell 的怪物狩猎游戏 Mo.co 将「重返 beta」",
+      "zh_desc": "Supercell 的 Mo.co 项目将重新进入 beta 阶段，团队在「低维护」状态下继续迭代并测试新功能。该案例展示了头部厂商对表现不佳新游的处理策略，对关注手游新品生命周期管理的从业者有借鉴价值。",
+      "url": "https://mobilegamer.biz/supercells-monster-hunting-game-mo-co-is-going-back-into-beta/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-24T14:10:30",
+      "fetched_at": "2026-09-25T02:09:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mo.co",
+          "desc": "Supercell 的怪物狩猎手游，曾以邀请制上线，因表现不及预期而重回 beta 开发阶段。"
+        }
+      ]
+    },
+    {
+      "id": "010acfd855",
+      "title": "YouTube 悄然将 Playables 推向 50 多个市场",
+      "zh_desc": "YouTube 已将即时游玩小游戏平台 Playables 扩展至 50 多个市场，Google 员工透露明年可能引入内购。这是超休闲/即时游戏的重要新增分发渠道信号，对休闲游戏买量与变现布局具有直接参考价值。",
+      "url": "https://mobilegamer.biz/youtube-has-quietly-rolled-out-playables-across-europe/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-24T10:49:02",
+      "fetched_at": "2026-09-25T02:09:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Build A Queen",
+          "desc": "被移植到 YouTube Playables 的移动端网页游戏之一，与《Snake Clash》《Stealth Master》合计播放超 9000 万次。"
+        },
+        {
+          "name": "Snake Clash",
+          "desc": "被移植到 YouTube Playables 的移动端网页游戏之一，与《Build A Queen》《Stealth Master》合计播放超 9000 万次。"
+        },
+        {
+          "name": "Stealth Master",
+          "desc": "被移植到 YouTube Playables 的移动端网页游戏之一，与《Build A Queen》《Snake Clash》合计播放超 9000 万次。"
+        },
+        {
+          "name": "Tall Man Run",
+          "desc": "Supersonic 的移动端网页游戏，在 YouTube Playables 上播放量超过 1.06 亿次。"
+        },
+        {
+          "name": "Angry Birds Showdown",
+          "desc": "《愤怒的小鸟》系列游戏，在 YouTube Playables 早期公布中被重点展示。"
+        },
+        {
+          "name": "Cut The Rope",
+          "desc": "物理解谜游戏，在 YouTube Playables 早期公布中被重点展示。"
+        },
+        {
+          "name": "Tomb of the Mask",
+          "desc": "竖屏街机/跑酷解谜游戏，在 YouTube Playables 早期公布中被重点展示。"
+        },
+        {
+          "name": "Trivia Crack",
+          "desc": "问答竞猜游戏，在 YouTube Playables 早期公布中被重点展示。"
+        },
+        {
+          "name": "Words of Wonders",
+          "desc": "单词拼写/填字游戏，在 YouTube Playables 早期公布中被重点展示。"
+        }
+      ]
+    },
+    {
+      "id": "cabc66ba5a",
+      "title": "WN Conference Cyprus'26 在利马索尔举行，亮点回顾",
+      "zh_desc": "WN Media Group 主办的第五届塞浦路斯开发者与发行商大会回顾，介绍会议内容与参会者反馈。属于行业活动资讯，对关注欧洲游戏商务网络的从业者有一定参考价值。",
+      "url": "https://gameworldobserver.com/2026/09/24/the-wn-conference-cyprus26-took-place-in-limassol-here-are-the-highlights",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-24T14:45:29",
+      "fetched_at": "2026-09-25T02:09:58",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "0ea6b56c90",
       "title": "微软申请「广告积分」系统专利，可在 PC 和 Xbox 上不打断游戏体验地展示广告",
