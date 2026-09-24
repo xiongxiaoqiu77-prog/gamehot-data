@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-09-24T07:35:51",
+  "updated_at": "2026-09-24T16:04:48",
   "articles": [
+    {
+      "id": "0ea6b56c90",
+      "title": "微软申请「广告积分」系统专利，可在 PC 和 Xbox 上不打断游戏体验地展示广告",
+      "zh_desc": "微软提交了一项名为「ad-credit」的系统专利，计划在 PC 与 Xbox 游戏会话中以不打断玩法的方式插入广告与公告。对关注游戏内广告变现形式、以及如何平衡广告收入与玩家体验的从业者具有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-24T07:56:51",
+      "fetched_at": "2026-09-24T16:04:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Halo",
+          "desc": "微软旗下科幻第一人称射击游戏系列，文中提到其特许经营权将由 Activision 管理。"
+        },
+        {
+          "name": "Age of Empires",
+          "desc": "历史题材即时战略游戏系列，文中提到其开发商 World's Edge 被转入 Activision。"
+        }
+      ]
+    },
     {
       "id": "d696ec3721",
       "title": "Discord 重新推出基于「账号信号」方法论的年龄验证政策",
