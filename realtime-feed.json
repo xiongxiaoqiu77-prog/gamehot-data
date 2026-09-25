@@ -1,6 +1,72 @@
 {
-  "updated_at": "2026-09-26T00:42:55",
+  "updated_at": "2026-09-26T01:14:52",
   "articles": [
+    {
+      "id": "d3a6acdcff",
+      "title": "GamesIndustry.biz HR Summit 2026 完整议程公布",
+      "zh_desc": "2026年 GamesIndustry.biz 人力资源峰会公布完整嘉宾阵容，HR Confidence Club 创始人 Sarah Venables、Glowmade Studio CEO Jonny Hopper 以及 Playstack 的 Harvey Elliott 与 Carmen Martino 将带来主题演讲，Amiqus 继续担任赞助商。属于行业人才与组织层面的资讯，可供了解欧美游戏公司 HR 与团队管理趋势。",
+      "url": "https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T15:30:44",
+      "fetched_at": "2026-09-26T01:14:52",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "e6b447e4e2",
+      "title": "Xbox 的“重置”没有结束日期｜观点",
+      "zh_desc": "Xbox CEO Asha Sharma 在履新百日之际发文，提出未来百天要对业务进行“重置”，并坦承部门“问责余量”偏低、收入下滑，同时提及硬件元器件危机等宏观压力。文章认为这类措辞往往是裁员前兆，可帮助从业者感知大型平台方的组织与预算走向。",
+      "url": "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T13:00:00",
+      "fetched_at": "2026-09-26T01:14:52",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hellblade",
+          "desc": "Ninja Theory 开发的动作冒险游戏，文中提及其开发商命运不确定。"
+        },
+        {
+          "name": "Halo",
+          "desc": "微软旗下科幻第一人称射击系列，文中称 Activision 成为该系列的新管理者。"
+        }
+      ]
+    },
+    {
+      "id": "31811ac048",
+      "title": "Build A Rocket Boy 已任命破产管理人",
+      "zh_desc": "《MindsEye》开发商 Build A Rocket Boy 在最新一轮裁员后已任命破产管理人，公司经营陷入危机。这是当前游戏行业（尤其是高投入项目）风险加剧的又一案例，对关注厂商动态与行业景气度的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administrators",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T09:55:07",
+      "fetched_at": "2026-09-26T01:14:52",
+      "lang": "en",
+      "games": [
+        {
+          "name": "MindsEye",
+          "desc": "Build A Rocket Boy 的首部作品，于 2025 年 6 月发行，因评价和反响不佳而成为工作室危机的焦点。"
+        }
+      ]
+    },
+    {
+      "id": "33e222a902",
+      "title": "任天堂美国公司起诉 Reddit 用户盗版 Switch 软硬件，获赔 450 万美元",
+      "zh_desc": "任天堂美国公司在一起版权侵权案中胜诉，从 Reddit 用户 James C. Williams（网名“Archbox”）处获得 450 万美元赔偿。该案体现了平台方对破解与盗版行为的强硬维权立场，可作为理解主机厂商版权保护与合规风险的参考。",
+      "url": "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T08:04:53",
+      "fetched_at": "2026-09-26T01:14:52",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "9c8dc5fdbd",
       "title": "“众筹本质上是一场营销与社区运营”——2026 年开发者用 Kickstarter 融资须知",
