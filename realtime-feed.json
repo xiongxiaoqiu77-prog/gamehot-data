@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-26T02:49:20",
+  "updated_at": "2026-09-26T07:31:06",
   "articles": [
+    {
+      "id": "a3efe301ce",
+      "title": "创纪录流水总额叠加 AI 驱动的效率提升，游戏行业强劲势头或将贯穿全年",
+      "zh_desc": "报道游戏行业流水（gross billings）创下新高，并指出 AI 带来的研发与运营效率提升支撑行业全年增长预期。属于宏观市场与行业景气度资讯，可供休闲手游从业者判断大盘趋势与买量环境参考，但不含具体玩法或变现拆解。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3lXU0Z4a1d6dDVzWEY1T1NrLV9vMi1CbTQ3cTJQQXoyVnJDTEdCaVNqaFlTcjFjVkd3eWRDbHM2d0VpbVYza29IdlJveFpoQ21ua0pmRk5TTVl4Z3J2QnRUYlE5WFZsQTFlVmZJckw2VkNWSkF1cEloaENSbnZuTXlDb1dEeUlUNHplT0h4NFY3NXZFdkV4R1pOczNWbFhOdjdqZjVqMk5jSDNGTExz?oc=5",
+      "source": "重点游戏-Tasty Travels",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-23T09:53:02",
+      "fetched_at": "2026-09-26T07:31:06",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "80139a9c17",
       "title": "GDC Side Quest：与 Sam Carlisle 探讨联合开发（co-development）机会",
