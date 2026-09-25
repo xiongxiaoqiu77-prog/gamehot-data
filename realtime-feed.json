@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-25T08:13:37",
+  "updated_at": "2026-09-25T08:45:35",
   "articles": [
+    {
+      "id": "c96f5620af",
+      "title": "前 Avalanche Studios 负责人 Natalie Francis 加入 Massive Entertainment 出任总经理",
+      "zh_desc": "育碧旗下 Massive Entertainment 宣布由 Natalie Francis 自 10 月 1 日起担任总经理，此前 Thomas Andren 被任命为创意网络的总经理。属于欧美大厂管理层人事变动的行业动态，与休闲三消品类无直接关联。",
+      "url": "https://www.gamedeveloper.com/business/former-avalanche-studios-chief-natalie-francis-joins-massive-entertainment-as-managing-director",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-24T17:30:00",
+      "fetched_at": "2026-09-25T08:45:35",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Avatar: Frontiers of Pandora",
+          "desc": "《阿凡达》改编的第一人称动作冒险游戏，Massive Entertainment 近期参与开发的作品之一。"
+        },
+        {
+          "name": "Star Wars Outlaws",
+          "desc": "《星球大战》题材的开放世界动作冒险游戏，Massive Entertainment 近期参与开发的作品之一。"
+        },
+        {
+          "name": "Tom Clancy's The Division 2",
+          "desc": "《全境封锁》系列第三人称射击动作角色扮演游戏，Massive Entertainment 正在主导开发。"
+        },
+        {
+          "name": "Tom Clancy's The Division 3",
+          "desc": "《全境封锁》系列尚未推出的续作，Massive Entertainment 正在主导开发。"
+        }
+      ]
+    },
     {
       "id": "00212ddf19",
       "title": "Playtika 最成功的游戏如何变成其最大难题",
