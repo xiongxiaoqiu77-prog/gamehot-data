@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-26T01:14:52",
+  "updated_at": "2026-09-26T02:49:20",
   "articles": [
+    {
+      "id": "80139a9c17",
+      "title": "GDC Side Quest：与 Sam Carlisle 探讨联合开发（co-development）机会",
+      "zh_desc": "GDC Festival of Gaming 内容营销经理 Beth Elderkin 与 XDS Spark 联合创始人 Sam Carlisle 对话，讨论游戏联合开发生态的演变与新的合作机会。属于行业制作流程类资讯，对考虑外包或合作研发的团队有参考价值，但与休闲游戏玩法设计关联较弱。",
+      "url": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T18:37:03",
+      "fetched_at": "2026-09-26T02:49:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "一款《星球大战》宇宙背景的游戏项目，在文中仅作为相关播客主题被提及，未展开说明具体类型或特点。"
+        }
+      ]
+    },
     {
       "id": "d3a6acdcff",
       "title": "GamesIndustry.biz HR Summit 2026 完整议程公布",
