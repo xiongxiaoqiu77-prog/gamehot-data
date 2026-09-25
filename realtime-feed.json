@@ -1,6 +1,112 @@
 {
-  "updated_at": "2026-09-25T02:09:58",
+  "updated_at": "2026-09-25T08:13:37",
   "articles": [
+    {
+      "id": "00212ddf19",
+      "title": "Playtika 最成功的游戏如何变成其最大难题",
+      "zh_desc": "文章解析 Disney Solitaire 的爆发式成功，以及 Playtika 在 earn-out 交易结构下由此陷入的困境。对关注休闲手游并购、产品生命周期和财务对赌的从业者具有参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/how-playtikas-best-game-became-its-biggest-headache",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-09-24T18:10:33",
+      "fetched_at": "2026-09-25T08:13:37",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Disney Solitaire",
+          "desc": "SuperPlay 开发的迪士尼 IP 纸牌接龙游戏，推出后成为 Playtika 单季收入 1.42 亿美元的爆款。"
+        },
+        {
+          "name": "Domino Dreams",
+          "desc": "SuperPlay 此前发布的游戏，后被换皮改编为《Disney Solitaire》的卡牌玩法基础。"
+        },
+        {
+          "name": "Grand Harvest",
+          "desc": "Playtika 自有的前纸牌接龙品类领导者，采用偏提取式经济与高难度设计。"
+        }
+      ]
+    },
+    {
+      "id": "e36a4363b3",
+      "title": "Meta 发布约 100 克、售价 1300 美元的新 VR 眼镜",
+      "zh_desc": "Meta 推出轻量级 VR 眼镜，并宣布 Tetris Effect、Beat Saber 和 Ace Attorney 等新作将登陆该平台。对关注 VR/新兴平台与休闲游戏机会的从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-24T19:00:00",
+      "fetched_at": "2026-09-25T08:13:37",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Ace Attorney",
+          "desc": "Capcom 的法庭辩论冒险游戏系列，将在 Meta VR Glasses 上推出相关作品。"
+        },
+        {
+          "name": "Phoenix Wright Ace Attorney: Dual Destinies VR",
+          "desc": "《逆转裁判》第五部主线改编的 VR 律师冒险游戏，支持手势举证和语音喊出“异议”。"
+        },
+        {
+          "name": "Tetris Effect",
+          "desc": "经典音乐节奏方块游戏，另有混合现实版本《Tetris Effect: Mixed Realities》。"
+        },
+        {
+          "name": "Tetris Effect: Mixed Realities",
+          "desc": "《Tetris Effect》的手控、房间感知混合现实版本。"
+        },
+        {
+          "name": "Beat Saber",
+          "desc": "音乐节奏砍方块游戏，另有加入手部追踪的《Beat Saber: Flux》。"
+        },
+        {
+          "name": "Beat Saber: Flux",
+          "desc": "为节奏游戏《Beat Saber》加入手部追踪的新版本。"
+        },
+        {
+          "name": "Asgard's Wrath",
+          "desc": "Meta 关闭的 Sanzaru Games 开发的 VR 游戏。"
+        },
+        {
+          "name": "Deadpool VR",
+          "desc": "Meta 关闭的 Twisted Pixel Games 开发的 VR 游戏。"
+        },
+        {
+          "name": "Resident Evil 4 VR",
+          "desc": "Meta 关闭的 Armature Studio 开发的 VR 游戏。"
+        }
+      ]
+    },
+    {
+      "id": "34de63fa9c",
+      "title": "King 与瑞典工会签署协议，避免罢工",
+      "zh_desc": "Candy Crush 开发商 King 在 Stockholm 和 Malmo 办公室原定的罢工行动被取消。反映休闲手游大厂在瑞典的劳工关系与运营动态。",
+      "url": "https://mobilegamer.biz/king-averts-strikes-by-signing-agreement-with-swedish-unions/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-24T18:15:15",
+      "fetched_at": "2026-09-25T08:13:37",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Candy Crush",
+          "desc": "King 的旗舰三消游戏系列，文章称 King 为 Candy Crush maker。"
+        },
+        {
+          "name": "Solitaire Collection",
+          "desc": "Microsoft Casual Games 的常青纸牌游戏合集，现属于 King 扩展后的业务范围。"
+        },
+        {
+          "name": "Minesweeper",
+          "desc": "Microsoft Casual Games 的常青扫雷游戏。"
+        },
+        {
+          "name": "Mahjong",
+          "desc": "Microsoft Casual Games 的常青麻将游戏。"
+        }
+      ]
+    },
     {
       "id": "a3228fceac",
       "title": "爱尔兰游戏基金扩展，新增多条资助通道",
