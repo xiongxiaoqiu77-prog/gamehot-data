@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-09-25T08:45:35",
+  "updated_at": "2026-09-26T00:10:46",
   "articles": [
+    {
+      "id": "9629d15cf9",
+      "title": "King 与工会员工签署集体谈判协议",
+      "zh_desc": "King 与瑞典工会 Unionen 及 Sveriges Ingenjörer 签署集体谈判协议，此前一周工会刚刚发起工业行动威胁。这是瑞典游戏行业首份此类协议之一，对关注三消大厂组织架构与团队稳定性的从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T09:42:53",
+      "fetched_at": "2026-09-26T00:10:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Candy Crush",
+          "desc": "King 旗下移动端益智消除游戏，文章以“Candy Crush maker”指代 King。"
+        }
+      ]
+    },
+    {
+      "id": "ebfdec818a",
+      "title": "Trophy Games 从 Paradox Interactive 手中收购《Airport Simulator: First Class》开发商 Playrion",
+      "zh_desc": "丹麦工作室 Trophy Games 完成对模拟经营手游《Airport Simulator: First Class》开发商 Playrion 的收购，卖方为 Paradox Interactive。反映手游细分品类（模拟经营）的资产流动与厂商并购动态。",
+      "url": "https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T13:56:43",
+      "fetched_at": "2026-09-26T00:10:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Airport Simulator: First Class",
+          "desc": "Playrion 开发的机场模拟经营游戏，被 Trophy Games 收购并计划扩展为系列。"
+        },
+        {
+          "name": "Airline Manager 4",
+          "desc": "Trophy Games 于 2021 年收购的航空管理模拟游戏，是其系列化增长模式的起点。"
+        }
+      ]
+    },
+    {
+      "id": "14224660a2",
+      "title": "Meta 推出面向移动端与浏览器的 AI 游戏工具，并发布首日支持 Unity 的 VR 眼镜",
+      "zh_desc": "Meta 发布两款 AI 驱动的游戏工具，让用户通过提示词在手机和浏览器上创建 2D 与 3D 游戏，同时公布新一代 VR 眼镜并提供 Unity 首日支持。对关注移动端游戏创作门槛下降与平台分发的从业者值得留意。",
+      "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-25T13:07:11",
+      "fetched_at": "2026-09-26T00:10:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容的在线游戏平台，文中提及其 Roblox Studio 推出代理式 AI 功能。"
+        }
+      ]
+    },
+    {
+      "id": "bf470c02b0",
+      "title": "King 在工业行动呼声后与瑞典工会签署集体协议",
+      "zh_desc": "在上周工会号召工业行动之后，King 与瑞典工会 Unionen 和 Sveriges Ingenjörer 达成集体协议。对关注《Candy Crush》系列开发商内部运营与劳资环境的从业者有信息价值。",
+      "url": "https://www.gamesindustry.biz/king-signs-collective-agreement-with-swedish-trade-unions-following-call-to-industrial-action-last-week",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-25T09:08:17",
+      "fetched_at": "2026-09-26T00:10:46",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "bd98727c57",
+      "title": "新游速览：EA FC Mobile 27、Aniimo、Bloons、Kingdom Rush、Epic Mickey、Moco 等",
+      "zh_desc": "本期汇总多款移动端新游，包括 EA FC Mobile 27、Meta 的游戏创作应用、Popcore 新作、Sanrio 首款手游等。对关注休闲与手游赛道新品动向、竞品上架节奏的从业者有一定参考价值。",
+      "url": "https://mobilegamer.biz/new-game-digest-ea-fc-mobile-27-aniimo-bloons-kingdom-rush-epic-mickey-moco-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-25T10:31:16",
+      "fetched_at": "2026-09-26T00:10:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "EA Sports FC Mobile 27",
+          "desc": "EA 的年度足球手游更新，新增 PvE 模式、战术控制和视觉刷新。"
+        },
+        {
+          "name": "Aniimo",
+          "desc": "免费游玩生物收集开放世界 RPG，由 FunPlus 支持，已全球上线 iOS/Android。"
+        },
+        {
+          "name": "Bloons Blitz",
+          "desc": "Bloons 主题的子弹天堂游戏，风格类似 Vampire Survivors，将全球上线 iOS/Android。"
+        },
+        {
+          "name": "Kingdom Rush 6: Genesis",
+          "desc": "塔防系列第六部正统续作，已全球上线 Steam、App Store 和 Google Play。"
+        },
+        {
+          "name": "Disney Epic Mickey: Rebrushed",
+          "desc": "迪士尼米奇平台跳跃游戏复刻版，已登陆 iOS 和 Android。"
+        },
+        {
+          "name": "Mo.co",
+          "desc": "Supercell 的怪物狩猎游戏，因表现不佳而重回 beta 测试。"
+        },
+        {
+          "name": "People Tower",
+          "desc": "Popcore 的排序堆叠混合休闲解谜游戏，正在 iOS 早期测试。"
+        },
+        {
+          "name": "Sanrio Kawaii Me Live",
+          "desc": "Sanrio 首款移动游戏，免费游玩跳舞与节奏游戏，预计 2027 年 1 月上线。"
+        },
+        {
+          "name": "Athelan Battlegrounds",
+          "desc": "回合制战术 PvP 游戏，将于 11 月 25 日登陆 PC 和 Google Play。"
+        },
+        {
+          "name": "Zooyale",
+          "desc": "免费俯视角大逃杀游戏，支持最多 50 人，含动物/变异体变身，已全球上线。"
+        },
+        {
+          "name": "Vampire Survivors",
+          "desc": "被用作 Bloons Blitz 类型参照的子弹天堂/生存割草游戏。"
+        }
+      ]
+    },
+    {
+      "id": "5fa2316891",
+      "title": "Meta：Horizon Create 用户可用提示词做游戏并发布到 Instagram 和 Facebook",
+      "zh_desc": "Meta 在 Connect 大会上发布 Create 应用与 Studio 工具集，用户可通过提示词创建游戏并直接发布到 Instagram 与 Facebook，但上线时间未定。对关注 UGC 游戏分发与移动平台流量入口变化的从业者值得关注。",
+      "url": "https://mobilegamer.biz/horizon-create-users-can-create-and-publish-games-on-instagram-and-facebook-says-meta/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-25T10:04:31",
+      "fetched_at": "2026-09-26T00:10:46",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "633609f795",
+      "title": "Epic Games 因《Fortnite》「黑暗模式」被索赔 1 亿欧元",
+      "zh_desc": "荷兰消费者保护组织 Stichting Massaschade & Consument 针对 Epic Games 提起投诉，指控《Fortnite》存在诱导消费的「黑暗模式」，索赔金额达 1 亿欧元。对研究变现设计合规边界与用户付费体验的从业者有警示意义。",
+      "url": "https://gameworldobserver.com/2026/09/25/epic-games-is-seeking-to-claim-100-million-euros-due-to-dark-patterns-in-fortnite",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-25T14:08:50",
+      "fetched_at": "2026-09-26T00:10:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "免费大逃杀游戏，因 V-Bucks 内购、倒计时等“黑暗模式”及未成年人数据问题被荷兰消费者组织投诉。"
+        }
+      ]
+    },
     {
       "id": "c96f5620af",
       "title": "前 Avalanche Studios 负责人 Natalie Francis 加入 Massive Entertainment 出任总经理",
