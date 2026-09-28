@@ -1,6 +1,92 @@
 {
-  "updated_at": "2026-09-28T15:02:04",
+  "updated_at": "2026-09-28T19:46:55",
   "articles": [
+    {
+      "id": "f6b1e88f2d",
+      "title": "2026 年假日 Live-Ops：节庆活动的设计支柱",
+      "zh_desc": "文章拆解游戏内节庆活动的三大设计支柱——新颖内容、专属奖励与限时机制，并解释为何万圣节、圣诞节、情人节等季节性内容长期是 Live-Ops 的骨干，即便如今活动已常态化运行。对三消/休闲手游团队规划节日活动排期、奖励结构与内容复用节奏有直接参考价值。",
+      "url": "https://naavik.co/weekly-digest/tis-the-season-holiday-live-ops-in-2026/",
+      "source": "Naavik",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-09-27T11:15:10",
+      "fetched_at": "2026-09-28T19:46:55",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Candy Crush Saga",
+          "desc": "三消益智手游，文章将其列为受分析的头部移动游戏，常借助季节性 live-ops 运营。"
+        },
+        {
+          "name": "Clash of Clans",
+          "desc": "基地建设与策略战争手游，文章将其纳入头部移动游戏季节性活动分析。"
+        },
+        {
+          "name": "Coin Master",
+          "desc": "休闲社交博彩式手游，结合转盘、村庄建设与掠夺玩法，属于文章分析的头部移动游戏。"
+        },
+        {
+          "name": "Monster Strike",
+          "desc": "弹珠动作 RPG 手游，以联动和限时活动著称，被文章列入移动游戏分析样本。"
+        },
+        {
+          "name": "Pokémon GO",
+          "desc": "AR 定位捕捉宝可梦手游，依赖节庆和现实世界活动运营，被文章纳入分析。"
+        },
+        {
+          "name": "Monopoly GO",
+          "desc": "大富翁主题休闲手游，通过掷骰、建筑和活动推进，属于文章分析的头部移动游戏。"
+        },
+        {
+          "name": "Royal Match",
+          "desc": "三消益智手游，以关卡解谜和国王救援为特色，被文章列入季节性 live-ops 分析。"
+        },
+        {
+          "name": "Brawl Stars",
+          "desc": "快节奏多人竞技手游，含多种模式与赛季活动，被文章纳入头部移动游戏分析。"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "冰雪末日生存策略手游，强调联盟与资源管理，属于文章分析的头部移动游戏。"
+        },
+        {
+          "name": "Last War",
+          "desc": "生存与战争策略手游，以基地建设和联盟对战为核心，被文章列入分析样本。"
+        },
+        {
+          "name": "Honor of Kings (Global/China)",
+          "desc": "腾讯 MOBA 手游，文章将其全球与中国版本纳入季节性 live-ops 分析。"
+        },
+        {
+          "name": "PUBG (Global/China)",
+          "desc": "战术竞技射击游戏，文章特别提到 PUBG Mobile Global 的万圣节僵尸模式与限时皮肤带来收入提升。"
+        },
+        {
+          "name": "Genshin Impact",
+          "desc": "开放世界动作 RPG，以版本更新和节日活动驱动 live-ops，被文章列入分析。"
+        },
+        {
+          "name": "eFootball",
+          "desc": "足球模拟游戏，通过赛季活动和球员卡更新运营，被文章纳入头部移动游戏分析。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "第一人称射击游戏，文章提到其自 2020 年起每年举办万圣节活动 The Haunting。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "大逃杀与沙盒建造游戏，文章提到其自 2018 年起每年举办 Fortnitemares 万圣节活动。"
+        },
+        {
+          "name": "Merge Mansion",
+          "desc": "合并解谜叙事手游，文章提到其每年提供数周万圣节主题内容。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容的在线游戏平台，文章将其数据纳入假日 live-ops 观察。"
+        }
+      ]
+    },
     {
       "id": "0449ac4e00",
       "title": "摸鱼+3 | 还剩三天班，一天一个解谜游戏",
