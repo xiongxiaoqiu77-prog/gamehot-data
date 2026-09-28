@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-09-28T19:46:55",
+  "updated_at": "2026-09-29T01:32:34",
   "articles": [
+    {
+      "id": "471a0882e4",
+      "title": "Zynga 创始人 Mark Pincus：为什么你最钟爱的想法几乎总是错的",
+      "zh_desc": "Deconstructor of Fun 总结 Zynga 创始人 Mark Pincus 的五条经验教训，讨论创意立项为何常常自我欺骗，以及成功如何改变创始人的判断。对休闲游戏团队做立项筛选、快速验证与组织管理有参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/zynga-founder-mark-pincus-why-your-favourite-ideas-are-almost-always-wrong",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-09-28T11:18:10",
+      "fetched_at": "2026-09-29T01:32:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "FrontierVille",
+          "desc": "Zynga 推出的边疆拓荒主题社交模拟游戏。"
+        }
+      ]
+    },
+    {
+      "id": "db517220e2",
+      "title": "Steam Deck 上哪些标签的游戏最受欢迎——GameDiscoverCo 统计数据",
+      "zh_desc": "GameDiscoverCo 创始人 Simon Carless 通过 Steam 用户评论统计，分析 Steam Deck 用户偏好的游戏标签与品类。属于 PC 掌机平台的数据观察，对休闲手游从业者仅有间接参考价值。",
+      "url": "https://gameworldobserver.com/2026/09/28/games-with-which-tags-are-popular-on-the-steam-deck-statistics-from-gamediscoverco",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-28T13:02:10",
+      "fetched_at": "2026-09-29T01:32:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "UFO 50",
+          "desc": "收录 50 款复古风格小游戏的合集。"
+        },
+        {
+          "name": "Minishoot' Adventures",
+          "desc": "结合俯视角射击与类塞尔达探索的动作冒险游戏。"
+        },
+        {
+          "name": "Dungeons of Hinterberg",
+          "desc": "融合动作战斗、解谜与社交元素的冒险 RPG。"
+        },
+        {
+          "name": "Mina The Hollower",
+          "desc": "Game Boy 风格的动作冒险/类银河恶魔城游戏。"
+        },
+        {
+          "name": "Rogue Prince Of Persia",
+          "desc": "《波斯王子》衍生的 Roguelite 动作平台游戏。"
+        }
+      ]
+    },
     {
       "id": "f6b1e88f2d",
       "title": "2026 年假日 Live-Ops：节庆活动的设计支柱",
