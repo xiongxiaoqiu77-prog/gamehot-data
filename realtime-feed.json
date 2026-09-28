@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-09-29T06:42:44",
+  "updated_at": "2026-09-29T07:14:36",
   "articles": [
+    {
+      "id": "5d60ed5453",
+      "title": "报道：Sony 就取消 PlayStation 光盘支持一事调研开发者",
+      "zh_desc": "据报 Sony Interactive Entertainment 正就结束 PlayStation 主机光盘支持向开发者征询意见。这反映出平台方正加速向纯数字发行迁移，对关注发行渠道与用户获取方式的从业者值得留意。",
+      "url": "https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-28T15:23:57",
+      "fetched_at": "2026-09-29T07:14:36",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "e0c357045d",
+      "title": "本月玩什么｜鬼武者 剑之道、火焰纹章 万缕千丝、轨道双子星等",
+      "zh_desc": "少数派的新游月度推荐，点评《鬼武者》系列复活、《火焰纹章》世界观新作及双人历险游戏《轨道双子星》。属于玩家向评测与体验分享，可为了解主机/买断制新作提供参考，但与休闲手游设计关联较弱。",
+      "url": "https://sspai.com/post/115056",
+      "source": "少数派",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-09-27T09:50:09",
+      "fetched_at": "2026-09-29T07:14:36",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "鬼武者 剑之道",
+          "desc": "Capcom《鬼武者》系列复活新作，以江户初京都为舞台、围绕“鬼之笼手”和“一闪”机制的动作游戏。"
+        },
+        {
+          "name": "火焰纹章 万缕千丝",
+          "desc": "任天堂《火焰纹章》系列战棋新作，延续《风花雪月》世界观，舞台为芙朵拉南方的达古扎大陆。"
+        },
+        {
+          "name": "轨道双子星",
+          "desc": "文章标题提及的游戏，正文未展开介绍其类型或特点。"
+        },
+        {
+          "name": "新 鬼武者 DAWN OF DREAMS",
+          "desc": "2006 年《鬼武者》系列上一部正作，文章作为系列历史提及的动作游戏。"
+        },
+        {
+          "name": "战国 BASARA",
+          "desc": "Capcom 社内动作 IP，文章提及《鬼武者 剑之道》主创曾参与开发。"
+        },
+        {
+          "name": "怪物猎人",
+          "desc": "Capcom 社内动作 IP，文章提及《鬼武者 剑之道》主创曾参与开发。"
+        },
+        {
+          "name": "火焰纹章 暗黑龙与光之剑",
+          "desc": "1990 年 FC 初代《火焰纹章》，奠定国家战争、招募养成、回合制战棋与角色永久死亡等系列框架。"
+        },
+        {
+          "name": "火焰纹章 风花雪月",
+          "desc": "2019 年《火焰纹章》作品，以芙朵拉大陆士官学校、三学级选择和多结局推进为特点。"
+        },
+        {
+          "name": "火焰纹章无双",
+          "desc": "《火焰纹章》系列的无双衍生作，文章提及光荣特库摩曾参与其开发。"
+        }
+      ]
+    },
     {
       "id": "727c99a78e",
       "title": "「这是个好故事」：DICE 如何从 Battlefield 2042 的灾难性发售中反弹并推出 Battlefield 6",
