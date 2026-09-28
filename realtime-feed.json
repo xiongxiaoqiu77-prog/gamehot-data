@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-09-29T07:14:36",
+  "updated_at": "2026-09-29T07:46:20",
   "articles": [
+    {
+      "id": "eb02052a34",
+      "title": "Microsoft CEO 称 Xbox 只是在「精简」，三年内裁员逾 5,750 人",
+      "zh_desc": "微软 CEO 回应 Xbox 部门持续裁员的争议，将其描述为业务「精简」，并提及公司近年剥离或关闭了 Double Fine、Tango Gameworks 等多家工作室。对从业者而言，这是观察主机与大型游戏行业成本收缩、组织整合趋势的窗口。",
+      "url": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-28T12:16:59",
+      "fetched_at": "2026-09-29T07:46:20",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "31e92ebc51",
+      "title": "Wardogs 工作室负责人 Brammer：我不是「支持加班」，我只是「支持努力工作」",
+      "zh_desc": "Bulkhead 公司 CEO Joe Brammer 就此前关于 crunch（赶工加班）的言论作出澄清与解释。反映了欧美工作室在开发管理与用工文化上的持续争论，对了解海外团队运作有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/wardogs-studio-chief-brammer-insists-he-isnt-pro-crunch-i-am-pro-hard-work",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-28T11:14:50",
+      "fetched_at": "2026-09-29T07:46:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Wardogs",
+          "desc": "由 Bulkhead 开发的军事射击游戏，发售 18 天内销量超过 300 万份。"
+        }
+      ]
+    },
     {
       "id": "5d60ed5453",
       "title": "报道：Sony 就取消 PlayStation 光盘支持一事调研开发者",
