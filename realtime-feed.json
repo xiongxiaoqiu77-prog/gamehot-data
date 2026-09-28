@@ -1,6 +1,106 @@
 {
-  "updated_at": "2026-09-29T01:32:34",
+  "updated_at": "2026-09-29T06:42:44",
   "articles": [
+    {
+      "id": "727c99a78e",
+      "title": "「这是个好故事」：DICE 如何从 Battlefield 2042 的灾难性发售中反弹并推出 Battlefield 6",
+      "zh_desc": "文章讲述 Rebecka Coutaz 在 DICE 最艰难的时期加入，并带队从 Battlefield 2042 的口碑崩盘中恢复、最终推出 Battlefield 6 的过程。属于主机/PC 大作的团队与项目管理叙事，可作为研发管理参考，但与休闲消除品类无关。",
+      "url": "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-28T18:09:25",
+      "fetched_at": "2026-09-29T06:42:44",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Battlefield 2042",
+          "desc": "一款雄心勃勃的多人射击游戏，发售时因评价不佳和技术问题遭遇灾难性反响。"
+        },
+        {
+          "name": "Battlefield 6",
+          "desc": "战地系列的新作，被视为系列全新起点并承载着重返巅峰的期望。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "知名第一人称射击游戏系列，文中仅作为前资深开发者的背景经历被提及。"
+        }
+      ]
+    },
+    {
+      "id": "d0f2a0d9b4",
+      "title": "微软 CEO Nadella 称 Xbox 必须「发明」可持续的商业模式",
+      "zh_desc": "Satya Nadella 表示 Xbox 部门需要「发明」正确的可持续商业模式，以便让更多玩家接触到其游戏。涉及平台级商业模式探索，对关注订阅制与变现结构的从业者有一定参考，但落点在主机生态。",
+      "url": "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-28T09:05:32",
+      "fetched_at": "2026-09-29T06:42:44",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Halo",
+          "desc": "微软旗下标志性的科幻第一人称射击游戏系列，文中被提及将归入 Activision 管理。"
+        },
+        {
+          "name": "Age of Empires",
+          "desc": "微软旗下历史题材即时战略游戏系列，文中同样被提及将归入 Activision 管理。"
+        }
+      ]
+    },
+    {
+      "id": "3daa507680",
+      "title": "Trophy Games 以 260 万美元从 Paradox 手中收购 Airlines Manager 开发商 Playrion",
+      "zh_desc": "Trophy Games 收购 Paradox 旗下的 Playrion（《Airlines Manager》《Airport Simulator: First Class》开发商），并同步上调全年收入指引。属于手游公司并购与营收预期变化的动态，可观察中小型移动模拟/经营品类的资本流向。",
+      "url": "https://mobilegamer.biz/trophy-games-acquires-playrion-from-paradox-interactive-for-2-6m/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-28T13:14:04",
+      "fetched_at": "2026-09-29T06:42:44",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Airlines Manager",
+          "desc": "航空管理模拟游戏，Playrion 的代表作之一，也是本次收购涉及的核心游戏。"
+        },
+        {
+          "name": "Airport Simulator: First Class",
+          "desc": "机场模拟经营游戏，其底层技术将被 Trophy Games 用于打造新的模拟游戏系列。"
+        },
+        {
+          "name": "Airline Manager 4",
+          "desc": "航空管理游戏，2021 年被 Playrion 收购后成为其多款管理游戏系列的基础。"
+        },
+        {
+          "name": "The Ranchers",
+          "desc": "Playrion 即将推出的游戏，被纳入 Trophy Games 收购后的业绩指引。"
+        },
+        {
+          "name": "Space Manager",
+          "desc": "计划于 10 月 12 日发布的管理游戏，未纳入 Trophy Games 的业绩指引。"
+        }
+      ]
+    },
+    {
+      "id": "2c9ce4c4ea",
+      "title": "Gameloft 宣布运营 13 年的 Minion Rush 即将停运",
+      "zh_desc": "Gameloft 将于 10 月 30 日下架 Minion Rush，服务器在 2027 年 1 月 29 日关闭，结束这款 IP 休闲游戏长达 13 年的运营。对负责长线运营的从业者而言，是观察 IP 授权期限、产品生命周期末端与退场节奏的典型案例。",
+      "url": "https://mobilegamer.biz/gameloft-is-closing-minion-rush-after-a-13-year-run/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-28T09:45:04",
+      "fetched_at": "2026-09-29T06:42:44",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Minion Rush",
+          "desc": "基于小黄人 IP 的移动休闲跑酷平台游戏，运营 13 年后将于 2027 年停服。"
+        }
+      ]
+    },
     {
       "id": "471a0882e4",
       "title": "Zynga 创始人 Mark Pincus：为什么你最钟爱的想法几乎总是错的",
