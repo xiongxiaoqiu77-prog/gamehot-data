@@ -1,6 +1,145 @@
 {
-  "updated_at": "2026-09-29T10:33:58",
+  "updated_at": "2026-09-30T06:36:49",
   "articles": [
+    {
+      "id": "0b11dff545",
+      "title": "Steam 的折扣与活动标签页将很快完全由算法驱动",
+      "zh_desc": "Valve 宣布调整 Steam 折扣与活动标签页的展示逻辑，改为完全由算法决定玩家看到哪些游戏。对关注平台分发机制的从业者来说，这是一次关于商店曝光权分配方式变化的重要信号。",
+      "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T21:30:00",
+      "fetched_at": "2026-09-30T06:36:49",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "f2ab9aa13f",
+      "title": "Control Resonant 总监阐述为何应避免过度的「黄色油漆」引导",
+      "zh_desc": "Remedy 新作总监讨论设计中如何避免用显眼的黄色标记过度提示玩家，主张让玩家自行判断环境元素的意义。对关卡引导与玩家自主性设计有一定启发，但并非针对休闲品类的机制拆解。",
+      "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T15:33:32",
+      "fetched_at": "2026-09-30T06:36:49",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Control Resonant",
+          "desc": "Remedy 开发的超自然动作冒险游戏，玩家在重力扭曲的曼哈顿中探索，并刻意避免使用黄色油漆式引导。"
+        }
+      ]
+    },
+    {
+      "id": "2433bac6c9",
+      "title": "独立工作室如何在行业波动中生存 | 观点",
+      "zh_desc": "Unfrozen 创始人 Denis Fedorov 分享通过五家工作室共同持股、共享研发与营销能力但保留创作自由的模式来抵御行业波动。对中小团队的组织与商业模式设计有参考意义。",
+      "url": "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T14:39:42",
+      "fetched_at": "2026-09-30T06:36:49",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Iratus: Lord of the Dead",
+          "desc": "Unfrozen 开发的黑暗奇幻回合制策略/Roguelike 游戏，玩家扮演死灵法师。"
+        },
+        {
+          "name": "Heroes of Might & Magic: Olden Era",
+          "desc": "Unfrozen 开发的《魔法门之英雄无敌》系列回合制策略新作。"
+        },
+        {
+          "name": "Clair Obscur: Expedition 33",
+          "desc": "Sandfall Interactive 开发的回合制角色扮演游戏，以奇幻风格和弹反机制为特点。"
+        },
+        {
+          "name": "Kingdom Come: Deliverance 2",
+          "desc": "Warhorse Studios 开发的开放世界中世纪写实角色扮演游戏续作。"
+        }
+      ]
+    },
+    {
+      "id": "4e701490ce",
+      "title": "General Intuition 以 62 亿美元估值融资 2.2 亿美元，用游戏录像训练 AI",
+      "zh_desc": "该公司估值较 1 月接近翻三倍，核心方法是用游戏操作录像训练 AI 模型。对手游从业者而言，是观察 AI 与游戏数据资产结合趋势的一条融资动态。",
+      "url": "https://mobilegamer.biz/general-intuition-raises-220m-at-6-2bn-valuation-trains-ai-on-gameplay-clips/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T15:03:08",
+      "fetched_at": "2026-09-30T06:36:49",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Rocket League",
+          "desc": "一款多人在线车辆足球游戏，文中用于说明 AI 世界模型可实时生成类似多人游戏 demo。"
+        }
+      ]
+    },
+    {
+      "id": "a3edc934b6",
+      "title": "Zynga 创始人 Mark Pincus 称曾差点以 4 亿美元收购 Supercell",
+      "zh_desc": "Mark Pincus 回顾当年错过收购 Supercell 的机会，称「我们本有机会打造全球最大的游戏公司」。涉及休闲手游史上两家关键公司的资本往事，对理解品类格局演变有参考价值。",
+      "url": "https://mobilegamer.biz/zynga-founder-mark-pincus-claims-he-nearly-bought-supercell-for-400m/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-29T13:12:58",
+      "fetched_at": "2026-09-30T06:36:49",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hay Day",
+          "desc": "Supercell 开发的卡通风格农场经营模拟游戏。"
+        },
+        {
+          "name": "Clash of Clans",
+          "desc": "Supercell 开发的策略建造与部落对战手游。"
+        },
+        {
+          "name": "Draw Something",
+          "desc": "OMGPOP 开发的社交你画我猜游戏，曾被 Zynga 收购。"
+        }
+      ]
+    },
+    {
+      "id": "e082351114",
+      "title": "腾讯与 Capcom 合作的 Monster Hunter Outlanders 将于 10 月 29 日上线",
+      "zh_desc": "这款手游衍生作在公布近两年后确定于 10 月 29 日推出。属中重度手游新作发行资讯，可作为观察大厂 IP 手游化节奏的参考。",
+      "url": "https://mobilegamer.biz/tencent-and-capcom-collab-monster-hunter-outlanders-releases-october-29/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T09:44:59",
+      "fetched_at": "2026-09-30T06:36:49",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monster Hunter Outlanders",
+          "desc": "腾讯 TiMi 与 Capcom 合作开发的《怪物猎人》系列移动端衍生作，主打狩猎、制作、探索与原创角色。"
+        },
+        {
+          "name": "Honor of Kings",
+          "desc": "腾讯 TiMi 开发的 MOBA 手游，是全球头部畅销游戏之一。"
+        },
+        {
+          "name": "Call of Duty Mobile",
+          "desc": "TiMi 与 Activision 合作开发的《使命召唤》移动端射击游戏。"
+        },
+        {
+          "name": "Delta Force",
+          "desc": "TiMi 开发的射击游戏。"
+        },
+        {
+          "name": "Age of Empires Mobile",
+          "desc": "TiMi 与微软合作开发/运营的《帝国时代》移动端策略游戏。"
+        }
+      ]
+    },
     {
       "id": "d29c0fd2ee",
       "title": "英国国家电子游戏博物馆启动全英游戏保存调查",
