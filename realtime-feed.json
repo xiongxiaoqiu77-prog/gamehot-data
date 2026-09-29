@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-09-29T07:46:20",
+  "updated_at": "2026-09-29T10:33:58",
   "articles": [
+    {
+      "id": "d29c0fd2ee",
+      "title": "英国国家电子游戏博物馆启动全英游戏保存调查",
+      "zh_desc": "英国国家电子游戏博物馆发起全国性调查，旨在梳理英国电子游戏保存现状与历史资料保护情况。该资讯属于游戏行业文化遗产保护动态，对休闲手游设计与运营的参考价值有限。",
+      "url": "https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-28T18:14:39",
+      "fetched_at": "2026-09-29T10:33:58",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "eb02052a34",
       "title": "Microsoft CEO 称 Xbox 只是在「精简」，三年内裁员逾 5,750 人",
