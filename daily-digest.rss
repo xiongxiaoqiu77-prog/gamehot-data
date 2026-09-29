@@ -5,60 +5,60 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Sep 2026 07:01:05 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 07:01:02 +0800</lastBuildDate>
   <item>
-    <title>Zynga 创始人 Mark Pincus：为什么你最钟爱的想法几乎总是错的</title>
-    <link>https://www.deconstructoroffun.com/blog/zynga-founder-mark-pincus-why-your-favourite-ideas-are-almost-always-wrong</link>
-    <description>Deconstructor of Fun 总结 Zynga 创始人 Mark Pincus 的五条经验教训，讨论创意立项为何常常自我欺骗，以及成功如何改变创始人的判断。对休闲游戏团队做立项筛选、快速验证与组织管理有参考价值。</description>
-    <category>行业资讯</category>
-    <author>Deconstructor of Fun</author>
-    <pubDate>Mon, 28 Sep 2026 11:18:10 +0800</pubDate>
-    <guid isPermaLink="true">https://www.deconstructoroffun.com/blog/zynga-founder-mark-pincus-why-your-favourite-ideas-are-almost-always-wrong</guid>
-  </item>
-  <item>
-    <title>Trophy Games 以 260 万美元从 Paradox 手中收购 Airlines Manager 开发商 Playrion</title>
-    <link>https://mobilegamer.biz/trophy-games-acquires-playrion-from-paradox-interactive-for-2-6m/</link>
-    <description>Trophy Games 收购 Paradox 旗下的 Playrion（《Airlines Manager》《Airport Simulator: First Class》开发商），并同步上调全年收入指引。属于手游公司并购与营收预期变化的动态，可观察中小型移动模拟/经营品类的资本流向。</description>
+    <title>Zynga 创始人 Mark Pincus 称曾差点以 4 亿美元收购 Supercell</title>
+    <link>https://mobilegamer.biz/zynga-founder-mark-pincus-claims-he-nearly-bought-supercell-for-400m/</link>
+    <description>Mark Pincus 回顾当年错过收购 Supercell 的机会，称「我们本有机会打造全球最大的游戏公司」。涉及休闲手游史上两家关键公司的资本往事，对理解品类格局演变有参考价值。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Mon, 28 Sep 2026 13:14:04 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/trophy-games-acquires-playrion-from-paradox-interactive-for-2-6m/</guid>
+    <pubDate>Tue, 29 Sep 2026 13:12:58 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/zynga-founder-mark-pincus-claims-he-nearly-bought-supercell-for-400m/</guid>
   </item>
   <item>
-    <title>Gameloft 宣布运营 13 年的 Minion Rush 即将停运</title>
-    <link>https://mobilegamer.biz/gameloft-is-closing-minion-rush-after-a-13-year-run/</link>
-    <description>Gameloft 将于 10 月 30 日下架 Minion Rush，服务器在 2027 年 1 月 29 日关闭，结束这款 IP 休闲游戏长达 13 年的运营。对负责长线运营的从业者而言，是观察 IP 授权期限、产品生命周期末端与退场节奏的典型案例。</description>
+    <title>Steam 的折扣与活动标签页将很快完全由算法驱动</title>
+    <link>https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven</link>
+    <description>Valve 宣布调整 Steam 折扣与活动标签页的展示逻辑，改为完全由算法决定玩家看到哪些游戏。对关注平台分发机制的从业者来说，这是一次关于商店曝光权分配方式变化的重要信号。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Tue, 29 Sep 2026 21:30:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven</guid>
+  </item>
+  <item>
+    <title>Control Resonant 总监阐述为何应避免过度的「黄色油漆」引导</title>
+    <link>https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-</link>
+    <description>Remedy 新作总监讨论设计中如何避免用显眼的黄色标记过度提示玩家，主张让玩家自行判断环境元素的意义。对关卡引导与玩家自主性设计有一定启发，但并非针对休闲品类的机制拆解。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Tue, 29 Sep 2026 15:33:32 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-</guid>
+  </item>
+  <item>
+    <title>独立工作室如何在行业波动中生存 | 观点</title>
+    <link>https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion</link>
+    <description>Unfrozen 创始人 Denis Fedorov 分享通过五家工作室共同持股、共享研发与营销能力但保留创作自由的模式来抵御行业波动。对中小团队的组织与商业模式设计有参考意义。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Tue, 29 Sep 2026 14:39:42 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion</guid>
+  </item>
+  <item>
+    <title>General Intuition 以 62 亿美元估值融资 2.2 亿美元，用游戏录像训练 AI</title>
+    <link>https://mobilegamer.biz/general-intuition-raises-220m-at-6-2bn-valuation-trains-ai-on-gameplay-clips/</link>
+    <description>该公司估值较 1 月接近翻三倍，核心方法是用游戏操作录像训练 AI 模型。对手游从业者而言，是观察 AI 与游戏数据资产结合趋势的一条融资动态。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Mon, 28 Sep 2026 09:45:04 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/gameloft-is-closing-minion-rush-after-a-13-year-run/</guid>
+    <pubDate>Tue, 29 Sep 2026 15:03:08 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/general-intuition-raises-220m-at-6-2bn-valuation-trains-ai-on-gameplay-clips/</guid>
   </item>
   <item>
-    <title>「这是个好故事」：DICE 如何从 Battlefield 2042 的灾难性发售中反弹并推出 Battlefield 6</title>
-    <link>https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6</link>
-    <description>文章讲述 Rebecka Coutaz 在 DICE 最艰难的时期加入，并带队从 Battlefield 2042 的口碑崩盘中恢复、最终推出 Battlefield 6 的过程。属于主机/PC 大作的团队与项目管理叙事，可作为研发管理参考，但与休闲消除品类无关。</description>
+    <title>腾讯与 Capcom 合作的 Monster Hunter Outlanders 将于 10 月 29 日上线</title>
+    <link>https://mobilegamer.biz/tencent-and-capcom-collab-monster-hunter-outlanders-releases-october-29/</link>
+    <description>这款手游衍生作在公布近两年后确定于 10 月 29 日推出。属中重度手游新作发行资讯，可作为观察大厂 IP 手游化节奏的参考。</description>
     <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 28 Sep 2026 18:09:25 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6</guid>
-  </item>
-  <item>
-    <title>微软 CEO Nadella 称 Xbox 必须「发明」可持续的商业模式</title>
-    <link>https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model</link>
-    <description>Satya Nadella 表示 Xbox 部门需要「发明」正确的可持续商业模式，以便让更多玩家接触到其游戏。涉及平台级商业模式探索，对关注订阅制与变现结构的从业者有一定参考，但落点在主机生态。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 28 Sep 2026 09:05:32 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model</guid>
-  </item>
-  <item>
-    <title>Steam Deck 上哪些标签的游戏最受欢迎——GameDiscoverCo 统计数据</title>
-    <link>https://gameworldobserver.com/2026/09/28/games-with-which-tags-are-popular-on-the-steam-deck-statistics-from-gamediscoverco</link>
-    <description>GameDiscoverCo 创始人 Simon Carless 通过 Steam 用户评论统计，分析 Steam Deck 用户偏好的游戏标签与品类。属于 PC 掌机平台的数据观察，对休闲手游从业者仅有间接参考价值。</description>
-    <category>行业资讯</category>
-    <author>Game World Observer</author>
-    <pubDate>Mon, 28 Sep 2026 13:02:10 +0800</pubDate>
-    <guid isPermaLink="true">https://gameworldobserver.com/2026/09/28/games-with-which-tags-are-popular-on-the-steam-deck-statistics-from-gamediscoverco</guid>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Tue, 29 Sep 2026 09:44:59 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/tencent-and-capcom-collab-monster-hunter-outlanders-releases-october-29/</guid>
   </item>
   </channel>
 </rss>
