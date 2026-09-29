@@ -1,6 +1,72 @@
 {
-  "updated_at": "2026-09-30T06:36:49",
+  "updated_at": "2026-09-30T07:08:50",
   "articles": [
+    {
+      "id": "3da0849461",
+      "title": "“我们一直在超出自身产能：”Arc Raiders 高管称成功导致团队 burnout",
+      "zh_desc": "Embark 高管坦言 Arc Raiders 的成功带来玩家规模与团队产能失衡，并导致 burnout。对关注长线运营、LiveOps 团队负载与产能规划的手游从业者有一定间接参考。",
+      "url": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T14:10:05",
+      "fetched_at": "2026-09-30T07:08:50",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Arc Raiders",
+          "desc": "Embark Studios 的 live service 游戏，拥有超 1600 万玩家，需持续推出内容更新并面临团队 burnout 问题。"
+        }
+      ]
+    },
+    {
+      "id": "6c24771f91",
+      "title": "“为什么要放弃整个 11 月？”——与 GTA 6 正面竞争的独立游戏",
+      "zh_desc": "文章讨论多款独立游戏为何仍选择在 GTA 6 发售月上线，以及档期竞争与市场注意力分配。属于发行与市场动态，对手游买量和档期策略有间接启发。",
+      "url": "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T12:30:00",
+      "fetched_at": "2026-09-30T07:08:50",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "Rockstar 的犯罪题材大作，定于 11 月 19 日发售，预售超 560 万份且预算 reportedly 超 10 亿美元，被视为史上最大规模发售之一。"
+        },
+        {
+          "name": "Fable",
+          "desc": "Xbox 旗下游戏，为避开 GTA 6 从 2026 年 Q3 推迟至 2027 年 2 月。"
+        },
+        {
+          "name": "Squadron 42",
+          "desc": "Cloud Imperium 长期延期的游戏，为避开 GTA 6 的关注度而推迟至下一年。"
+        },
+        {
+          "name": "Flame, Forest and Flood",
+          "desc": "Fairy Mount 开发的多人策略游戏，面向全年龄段玩家，将于 11 月 19 日与 GTA 6 同期发售。"
+        }
+      ]
+    },
+    {
+      "id": "c3dddf65e1",
+      "title": "波兰分析师：The Witcher 3 重制版到年底将赚取数百万美元",
+      "zh_desc": "波兰分析师预计 The Witcher 3 重制版将在年底前为 CD PROJEKT RED 带来数百万美元收入。属于主机/PC 游戏商业与重制策略资讯，对休闲手游变现仅有间接参考。",
+      "url": "https://gameworldobserver.com/2026/09/29/the-remaster-of-the-witcher-3-will-earn-millions-of-dollars-by-the-end-of-the-year-according-to-polish-analysts",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T14:16:23",
+      "fetched_at": "2026-09-30T07:08:50",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Witcher 3: Wild Hunt — Remastered",
+          "desc": "《巫师3：狂猎》的重制版，已在 PC、PS5、Xbox Series 和 Switch 2 推出，旧版拥有者可免费获取，并刷新 Steam 同时在线纪录。"
+        }
+      ]
+    },
     {
       "id": "0b11dff545",
       "title": "Steam 的折扣与活动标签页将很快完全由算法驱动",
