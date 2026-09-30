@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-30T09:47:15",
+  "updated_at": "2026-09-30T10:19:56",
   "articles": [
+    {
+      "id": "af8d9fdc9f",
+      "title": "Sony 将缺席 CES 2027，系 1967 年首届展会以来首次",
+      "zh_desc": "Sony 宣布不参加明年的 CES 消费电子展，这是自 1967 年展会创办以来首次缺席。属于硬件与消费电子层面的公司动态，与休闲游戏玩法或变现研究关联不大，仅可作为平台方战略收缩的参考信号。",
+      "url": "https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-expos-inaugural-event-in-1967",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T10:15:28",
+      "fetched_at": "2026-09-30T10:19:56",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Horizon: Call of the Mountain",
+          "desc": "在2022年CES上与PlayStation VR2一同公布的VR游戏。"
+        }
+      ]
+    },
     {
       "id": "075ec9781c",
       "title": "《Dying Light》前系列负责人加入 Bloober Team 恐怖品牌 Broken Mirror Games",
