@@ -1,6 +1,102 @@
 {
-  "updated_at": "2026-09-30T07:08:50",
+  "updated_at": "2026-09-30T09:47:15",
   "articles": [
+    {
+      "id": "075ec9781c",
+      "title": "《Dying Light》前系列负责人加入 Bloober Team 恐怖品牌 Broken Mirror Games",
+      "zh_desc": "报道《Dying Light》前系列负责人加入 Bloober Team 旗下恐怖游戏品牌 Broken Mirror Games。属于游戏行业人事动态，与休闲/三消手游关联较弱，可作为行业人事信息快速了解。",
+      "url": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T20:00:00",
+      "fetched_at": "2026-09-30T09:47:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dying Light",
+          "desc": "Techland 的生存恐怖游戏系列，2015年首作推出，前系列负责人 Tymon Smektala 曾负责该系列。"
+        },
+        {
+          "name": "Saw: Genesis",
+          "desc": "Broken Mirror Games 正在制作的恐怖游戏。"
+        },
+        {
+          "name": "Onyx: The Dark Grip",
+          "desc": "Broken Mirror Games 正在制作的恐怖游戏。"
+        },
+        {
+          "name": "Star Trek: Infection",
+          "desc": "Broken Mirror Games 已发行的恐怖游戏。"
+        },
+        {
+          "name": "I Hate This Place",
+          "desc": "Broken Mirror Games 已发行的恐怖游戏。"
+        },
+        {
+          "name": "Blair Witch",
+          "desc": "Bloober Team 的恐怖游戏。"
+        },
+        {
+          "name": "Layers of Fear",
+          "desc": "Bloober Team 的恐怖游戏。"
+        },
+        {
+          "name": "Silent Hill 2",
+          "desc": "Bloober Team 制作的《寂静岭2》重制版恐怖游戏。"
+        },
+        {
+          "name": "Bloober",
+          "desc": "Bloober Team 早期游戏之一，是一部致敬作曲家肖邦的作品。"
+        },
+        {
+          "name": "Dead Island",
+          "desc": "Techland 于2011年推出的生存恐怖游戏。"
+        },
+        {
+          "name": "Dying Light: The Beast",
+          "desc": "Techland 于2025年推出的生存恐怖游戏，属于《Dying Light》系列。"
+        }
+      ]
+    },
+    {
+      "id": "a1c41f721a",
+      "title": "Naughty Dog 正在开发新的《The Last of Us》项目",
+      "zh_desc": "Naughty Dog 表示在完成 Intergalactic 后已有新的《The Last of Us》项目计划。属于主机/叙事游戏行业动态，与休闲游戏设计、运营和变现无直接关系。",
+      "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-29T17:52:48",
+      "fetched_at": "2026-09-30T09:47:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Last of Us",
+          "desc": "Naughty Dog 的末日生存冒险系列，正在开发扩展正典的新项目。"
+        },
+        {
+          "name": "The Last of Us Part I",
+          "desc": "《最后生还者》系列第一部作品，被提及为既有正典的一部分。"
+        },
+        {
+          "name": "The Last of Us Part II",
+          "desc": "2020年发售的《最后生还者》系列第二部，末日生存冒险游戏。"
+        },
+        {
+          "name": "The Last of Us Online",
+          "desc": "被取消的《最后生还者》世界观多人直播服务游戏。"
+        },
+        {
+          "name": "Intergalactic: The Heretic Prophet",
+          "desc": "Naughty Dog 正在开发的科幻冒险游戏，预计2027年全面揭示。"
+        },
+        {
+          "name": "Destiny",
+          "desc": "Bungie 的科幻射击游戏系列，仅在文章相关链接中被提及。"
+        }
+      ]
+    },
     {
       "id": "3da0849461",
       "title": "“我们一直在超出自身产能：”Arc Raiders 高管称成功导致团队 burnout",
