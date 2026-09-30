@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-30T10:19:56",
+  "updated_at": "2026-09-30T16:12:59",
   "articles": [
+    {
+      "id": "f4a041e780",
+      "title": "全球游戏内容收入预计2030年增长2.3%至2291亿美元，受PC与亚太市场支撑",
+      "zh_desc": "S&P Global Market Intelligence Kagan 预测，全球游戏内容收入将从2025年的2044亿美元增至2030年的2291亿美元，复合年增长率2.3%，主要由PC和亚太市场推动。对从业者判断大盘增速与区域机会有参考价值，但未聚焦休闲/三消品类。",
+      "url": "https://www.gamesindustry.biz/global-game-content-revenue-forecast-to-rise-23-to-2291bn-in-2030-supported-by-pc-and-asia-pacific-market",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-30T07:48:33",
+      "fetched_at": "2026-09-30T16:12:59",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "Rockstar Games 开发的开放世界动作冒险游戏，文章预计其将带动主机收入。"
+        }
+      ]
+    },
     {
       "id": "af8d9fdc9f",
       "title": "Sony 将缺席 CES 2027，系 1967 年首届展会以来首次",
