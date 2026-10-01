@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-02T02:00:09",
+  "updated_at": "2026-10-02T05:07:00",
   "articles": [
+    {
+      "id": "a50bb91616",
+      "title": "'Xbox 不出售'，CEO Asha Sharma 表示",
+      "zh_desc": "微软旗下 Xbox 新任 CEO Asha Sharma 在接受《纽约时报》采访时明确表态 Xbox 不会被出售，回应了外界关于该业务可能被剥离的猜测。属于公司层面的行业动态，与休闲/消除类手游的设计与变现无直接关联，仅供参考行业格局。",
+      "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-01T18:37:27",
+      "fetched_at": "2026-10-02T05:07:00",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "ba4d79ad34",
       "title": "GCAP 2026：Alanah Pearce、Housemarque 与 Mixtape 开发者将亮相墨尔本大会",
