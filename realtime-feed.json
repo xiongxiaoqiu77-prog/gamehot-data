@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-10-02T00:23:37",
+  "updated_at": "2026-10-02T00:55:47",
   "articles": [
+    {
+      "id": "068ad1eec5",
+      "title": "Newzoo八月PC与主机收入榜：新作强势领跑",
+      "zh_desc": "Newzoo公布八月PC与主机收入Top 20榜单，EA Sports Madden NFL 27在主机榜空降第二，House House的联机新作Big Walk位列PC榜第三。属于市场数据类行业资讯，可了解头部新品表现，但以PC/主机为主，与休闲手游赛道关联一般。",
+      "url": "https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-01T08:25:00",
+      "fetched_at": "2026-10-02T00:55:47",
+      "lang": "en",
+      "games": [
+        {
+          "name": "EA Sports Madden NFL 27",
+          "desc": "EA年度NFL模拟体育游戏，八月主机收入榜首发第2名。"
+        },
+        {
+          "name": "Big Walk",
+          "desc": "House House开发的合作游戏，八月PC收入榜首发第3名。"
+        },
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "Respawn Entertainment开发的星球大战题材游戏，八月PC收入榜第6、主机榜第20。"
+        },
+        {
+          "name": "Mortal Shell 2",
+          "desc": "《Mortal Shell》续作，八月在PC和主机双平台首发上榜。"
+        },
+        {
+          "name": "Hell Let Loose: Vietnam",
+          "desc": "以越战为背景的《Hell Let Loose》系列射击游戏，八月双平台首发上榜。"
+        },
+        {
+          "name": "Marvel Tōkon: Fighting Souls",
+          "desc": "漫威题材格斗游戏，八月主机收入榜首发第14名。"
+        },
+        {
+          "name": "How to Fish",
+          "desc": "Dazed Games开发的游戏，八月PC收入榜首发第9名。"
+        },
+        {
+          "name": "No More Room in Hell 2",
+          "desc": "Torn Banner Studios开发的丧尸合作射击游戏，八月PC收入榜第19名。"
+        },
+        {
+          "name": "Pokémon Pokopia",
+          "desc": "宝可梦衍生游戏，因Bubbly Basin DLC发布从主机榜第28升至第7。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "Epic的长期运营大逃杀/沙盒游戏，八月PC MAU第3、主机MAU第1，并借第七章第四季联动增长。"
+        },
+        {
+          "name": "Sonic the Hedgehog",
+          "desc": "世嘉经典平台动作游戏系列，作为《Fortnite》第七章第四季联动内容登场。"
+        },
+        {
+          "name": "Mega Man",
+          "desc": "卡普空经典动作平台游戏系列，作为《Fortnite》联动内容登场。"
+        },
+        {
+          "name": "Kingdom Hearts",
+          "desc": "史克威尔艾尼克斯动作RPG系列，作为《Fortnite》联动内容登场。"
+        },
+        {
+          "name": "Marvel's Spider-Man 2",
+          "desc": "漫威蜘蛛侠动作冒险游戏，因电影相关免费战衣更新和限时折扣升至主机MAU第12。"
+        },
+        {
+          "name": "Helldivers 2",
+          "desc": "合作射击游戏，因加入PlayStation Plus目录在主机和PC MAU均升至第19。"
+        },
+        {
+          "name": "Valorant",
+          "desc": "Riot战术英雄射击游戏，八月PC收入榜第2名。"
+        },
+        {
+          "name": "League of Legends",
+          "desc": "Riot多人在线战术竞技游戏，八月PC收入榜第4名。"
+        },
+        {
+          "name": "Counter-Strike 2 & Go",
+          "desc": "Valve战术射击游戏系列，八月PC收入榜第5名。"
+        },
+        {
+          "name": "World of Warcraft",
+          "desc": "暴雪大型多人在线角色扮演游戏，八月PC收入榜第7名。"
+        },
+        {
+          "name": "The Sims 4",
+          "desc": "EA生活模拟游戏，八月PC收入榜第8名。"
+        },
+        {
+          "name": "Apex Legends",
+          "desc": "Respawn英雄大逃杀射击游戏，八月PC收入榜第10名。"
+        },
+        {
+          "name": "Marvel Rivals",
+          "desc": "网易漫威题材团队英雄射击游戏，八月PC收入榜第11名。"
+        },
+        {
+          "name": "Overwatch",
+          "desc": "暴雪团队英雄射击游戏，八月PC收入榜第12名。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "Mojang沙盒生存建造游戏，八月PC收入榜第13名。"
+        },
+        {
+          "name": "Palworld",
+          "desc": "开放世界生存制作与生物收集游戏，八月PC收入榜第16名。"
+        },
+        {
+          "name": "Escape From Tarkov",
+          "desc": "Battlestate硬核撤离射击游戏，八月PC收入榜第17名。"
+        },
+        {
+          "name": "Dead by Daylight",
+          "desc": "非对称多人恐怖游戏，八月PC收入榜第20名。"
+        },
+        {
+          "name": "EA Sports College Football 27",
+          "desc": "EA年度大学橄榄球体育游戏，八月主机收入榜第3名。"
+        }
+      ]
+    },
+    {
+      "id": "8320d5126e",
+      "title": "Devolver旗下《Reigns》开发商Nerial成立13年后关闭",
+      "zh_desc": "Devolver与Nerial共同决定终止工作室开发业务，约八名员工正在寻找新机会。Nerial曾打造《Reigns》《Card Shark》等带有移动端属性的卡牌叙事游戏，其关闭对关注小型创意工作室生存状况与移动卡牌品类的从业者有一定参考意义。",
+      "url": "https://mobilegamer.biz/reigns-and-card-shark-developer-nerial-closes-after-13-years/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-01T14:51:54",
+      "fetched_at": "2026-10-02T00:55:47",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Reigns",
+          "desc": "Nerial开发的卡牌决策类游戏，2016年推出后据估创收620万美元。"
+        },
+        {
+          "name": "Reigns: Game of Thrones",
+          "desc": "《Reigns》的授权衍生作，基于《权力的游戏》，据估创收220万美元。"
+        },
+        {
+          "name": "Reigns: Three Kingdoms",
+          "desc": "通过Netflix发行的《Reigns》衍生作，以三国为背景。"
+        },
+        {
+          "name": "Reigns: The Witcher",
+          "desc": "《Reigns》的《巫师》授权衍生作，据估创收19.1万美元。"
+        },
+        {
+          "name": "The Crush House",
+          "desc": "Nerial于2024年在PC推出的叙事惊悚游戏。"
+        }
+      ]
+    },
     {
       "id": "8dfc0e38e9",
       "title": "欧盟消费者保护合作网络就游戏内货币对九家公司发起协同执法行动",
