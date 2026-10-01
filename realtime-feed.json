@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-10-01T10:00:08",
+  "updated_at": "2026-10-01T10:31:53",
   "articles": [
+    {
+      "id": "02d1d20103",
+      "title": "《Dune Awakening》创意总监谈借鉴好莱坞、游戏内广告，以及为何风格胜过照片级写实",
+      "zh_desc": "《Dune Awakening》创意总监分享改编大 IP 的创作方法、游戏内广告的取舍，以及美术风格优先于照片级写实的理由。属于开发理念访谈，其中关于风格化美术与广告植入的讨论对休闲品类有一定启发。",
+      "url": "https://www.gamesindustry.biz/dune-awakenings-creative-director-on-copying-hollywood-in-game-advertising-and-why-style-beats-photorealism",
+      "source": "GamesIndustry.biz",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-09-30T12:30:00",
+      "fetched_at": "2026-10-01T10:31:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dune Awakening",
+          "desc": "Funcom 开发的《沙丘》IP 改编游戏，与电影版权方 Legendary 合作，文中创意总监谈及借鉴好莱坞、游戏内广告以及风格胜过照片级写实。"
+        }
+      ]
+    },
+    {
+      "id": "7f8b12131f",
+      "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
+      "zh_desc": "文章梳理 Bungie 从独立工作室到被收购、再陷裁员与产品困境的历程，分析其与时间赛跑却难敌自身的处境。属于公司发展史的深度评论，可作长线服务型产品运营教训的参照，但与休闲品类不直接相关。",
+      "url": "https://sspai.com/post/115070",
+      "source": "少数派",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-09-30T14:32:58",
+      "fetched_at": "2026-10-01T10:31:53",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "命运 2",
+          "desc": "Bungie 开发的持续服务型在线射击游戏，以大型资料片和赛季更新运营，后进入持续维护状态并引发玩家流失与回归。"
+        },
+        {
+          "name": "命运",
+          "desc": "Bungie 开发的《命运 2》前身，2014 年推出，更新三年后进入维护模式。"
+        },
+        {
+          "name": "失落星船：马拉松",
+          "desc": "Bungie 的另一款游戏作品，文中称其更新缓慢、bug 和漏洞迟迟未修，在线游玩人数峰值跌至两千七百多人。"
+        },
+        {
+          "name": "光环",
+          "desc": "Bungie 曾开发的经典优秀作品，被文章用来说明该工作室昔日的开发实力。"
+        }
+      ]
+    },
     {
       "id": "9956e91e37",
       "title": "Valve 将把 Steam 折扣与活动板块改造成更「动态且个性化」的推荐系统",
