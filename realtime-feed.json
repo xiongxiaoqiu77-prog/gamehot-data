@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-02T00:55:47",
+  "updated_at": "2026-10-02T02:00:09",
   "articles": [
+    {
+      "id": "ba4d79ad34",
+      "title": "GCAP 2026：Alanah Pearce、Housemarque 与 Mixtape 开发者将亮相墨尔本大会",
+      "zh_desc": "Games Connect Asia Pacific（GCAP）将于2026年10月5日至7日重返墨尔本，迎来20周年，由 IGEA 主办，汇聚澳洲及全球开发者、发行商。属于区域性行业会议资讯，对关注澳洲及独立开发生态的从业者有一定参考价值。",
+      "url": "https://gameworldobserver.com/2026/10/01/gcap-2026-alanah-pearce-housemarque-and-mixtape-developers-to-headline-melbourne-conference",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-01T11:05:45",
+      "fetched_at": "2026-10-02T02:00:09",
+      "lang": "en",
+      "games": [
+        {
+          "name": "SAROS",
+          "desc": "Housemarque 的游戏，由 Gregory Louden 执导。"
+        },
+        {
+          "name": "Returnal",
+          "desc": "Housemarque 游戏，Gregory Louden 曾任其叙事与过场导演。"
+        },
+        {
+          "name": "Mixtape",
+          "desc": "Beethoven & Dinosaur 开发的游戏，GCAP 2026 将有环节讨论其设计与打磨流程。"
+        },
+        {
+          "name": "Aether & Iron",
+          "desc": "澳大利亚游戏开发者奖年度游戏提名之一，与 Chaos Theory Games 相关。"
+        }
+      ]
+    },
     {
       "id": "068ad1eec5",
       "title": "Newzoo八月PC与主机收入榜：新作强势领跑",
