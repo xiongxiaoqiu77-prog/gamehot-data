@@ -5,60 +5,69 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Sep 2026 07:01:02 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:00:14 +0800</lastBuildDate>
   <item>
-    <title>Zynga 创始人 Mark Pincus 称曾差点以 4 亿美元收购 Supercell</title>
-    <link>https://mobilegamer.biz/zynga-founder-mark-pincus-claims-he-nearly-bought-supercell-for-400m/</link>
-    <description>Mark Pincus 回顾当年错过收购 Supercell 的机会，称「我们本有机会打造全球最大的游戏公司」。涉及休闲手游史上两家关键公司的资本往事，对理解品类格局演变有参考价值。</description>
+    <title>Video Games Europe 回击欧盟监管机构对 King、Supercell、Mojang 等的内购调查</title>
+    <link>https://mobilegamer.biz/video-games-europe-hits-back-at-eu-watchdog-targeting-king-supercell-mojang-and-more-over-iap-practices/</link>
+    <description>欧盟支持的 CPC Network 对11家游戏公司发起协同执法，直指内购（IAP）实践，涉及 King、Supercell、Mojang 等头部厂商；Video Games Europe 与 EGDF 随即公开反驳。该事件直接关系到休闲手游的付费设计、虚拟货币与抽卡机制的合规边界，值得作为发行与商业化团队的风险预警。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 29 Sep 2026 13:12:58 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/zynga-founder-mark-pincus-claims-he-nearly-bought-supercell-for-400m/</guid>
+    <pubDate>Thu, 01 Oct 2026 12:36:19 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/video-games-europe-hits-back-at-eu-watchdog-targeting-king-supercell-mojang-and-more-over-iap-practices/</guid>
   </item>
   <item>
-    <title>Steam 的折扣与活动标签页将很快完全由算法驱动</title>
-    <link>https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven</link>
-    <description>Valve 宣布调整 Steam 折扣与活动标签页的展示逻辑，改为完全由算法决定玩家看到哪些游戏。对关注平台分发机制的从业者来说，这是一次关于商店曝光权分配方式变化的重要信号。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Tue, 29 Sep 2026 21:30:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven</guid>
-  </item>
-  <item>
-    <title>Control Resonant 总监阐述为何应避免过度的「黄色油漆」引导</title>
-    <link>https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-</link>
-    <description>Remedy 新作总监讨论设计中如何避免用显眼的黄色标记过度提示玩家，主张让玩家自行判断环境元素的意义。对关卡引导与玩家自主性设计有一定启发，但并非针对休闲品类的机制拆解。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Tue, 29 Sep 2026 15:33:32 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-</guid>
-  </item>
-  <item>
-    <title>独立工作室如何在行业波动中生存 | 观点</title>
-    <link>https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion</link>
-    <description>Unfrozen 创始人 Denis Fedorov 分享通过五家工作室共同持股、共享研发与营销能力但保留创作自由的模式来抵御行业波动。对中小团队的组织与商业模式设计有参考意义。</description>
+    <title>育碧蒙特利尔工会发起“保留混合办公”请愿，签名已超300个</title>
+    <link>https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures</link>
+    <description>育碧蒙特利尔工会发起请愿，要求公司保留混合办公制度，目前已收集超过300个签名。属于游戏行业劳资与公司动态类资讯，对关注海外大厂组织管理与人力政策的从业者有参考价值。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 29 Sep 2026 14:39:42 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion</guid>
+    <pubDate>Thu, 01 Oct 2026 13:28:21 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures</guid>
   </item>
   <item>
-    <title>General Intuition 以 62 亿美元估值融资 2.2 亿美元，用游戏录像训练 AI</title>
-    <link>https://mobilegamer.biz/general-intuition-raises-220m-at-6-2bn-valuation-trains-ai-on-gameplay-clips/</link>
-    <description>该公司估值较 1 月接近翻三倍，核心方法是用游戏操作录像训练 AI 模型。对手游从业者而言，是观察 AI 与游戏数据资产结合趋势的一条融资动态。</description>
+    <title>'Xbox 不出售'，CEO Asha Sharma 表示</title>
+    <link>https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says</link>
+    <description>微软旗下 Xbox 新任 CEO Asha Sharma 在接受《纽约时报》采访时明确表态 Xbox 不会被出售，回应了外界关于该业务可能被剥离的猜测。属于公司层面的行业动态，与休闲/消除类手游的设计与变现无直接关联，仅供参考行业格局。</description>
     <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 29 Sep 2026 15:03:08 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/general-intuition-raises-220m-at-6-2bn-valuation-trains-ai-on-gameplay-clips/</guid>
+    <author>Game Developer</author>
+    <pubDate>Thu, 01 Oct 2026 18:37:27 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says</guid>
   </item>
   <item>
-    <title>腾讯与 Capcom 合作的 Monster Hunter Outlanders 将于 10 月 29 日上线</title>
-    <link>https://mobilegamer.biz/tencent-and-capcom-collab-monster-hunter-outlanders-releases-october-29/</link>
-    <description>这款手游衍生作在公布近两年后确定于 10 月 29 日推出。属中重度手游新作发行资讯，可作为观察大厂 IP 手游化节奏的参考。</description>
+    <title>GCAP 2026：Alanah Pearce、Housemarque 与 Mixtape 开发者将亮相墨尔本大会</title>
+    <link>https://gameworldobserver.com/2026/10/01/gcap-2026-alanah-pearce-housemarque-and-mixtape-developers-to-headline-melbourne-conference</link>
+    <description>Games Connect Asia Pacific（GCAP）将于2026年10月5日至7日重返墨尔本，迎来20周年，由 IGEA 主办，汇聚澳洲及全球开发者、发行商。属于区域性行业会议资讯，对关注澳洲及独立开发生态的从业者有一定参考价值。</description>
+    <category>行业资讯</category>
+    <author>Game World Observer</author>
+    <pubDate>Thu, 01 Oct 2026 11:05:45 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/10/01/gcap-2026-alanah-pearce-housemarque-and-mixtape-developers-to-headline-melbourne-conference</guid>
+  </item>
+  <item>
+    <title>Newzoo八月PC与主机收入榜：新作强势领跑</title>
+    <link>https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts</link>
+    <description>Newzoo公布八月PC与主机收入Top 20榜单，EA Sports Madden NFL 27在主机榜空降第二，House House的联机新作Big Walk位列PC榜第三。属于市场数据类行业资讯，可了解头部新品表现，但以PC/主机为主，与休闲手游赛道关联一般。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 01 Oct 2026 08:25:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts</guid>
+  </item>
+  <item>
+    <title>Devolver旗下《Reigns》开发商Nerial成立13年后关闭</title>
+    <link>https://mobilegamer.biz/reigns-and-card-shark-developer-nerial-closes-after-13-years/</link>
+    <description>Devolver与Nerial共同决定终止工作室开发业务，约八名员工正在寻找新机会。Nerial曾打造《Reigns》《Card Shark》等带有移动端属性的卡牌叙事游戏，其关闭对关注小型创意工作室生存状况与移动卡牌品类的从业者有一定参考意义。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 29 Sep 2026 09:44:59 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/tencent-and-capcom-collab-monster-hunter-outlanders-releases-october-29/</guid>
+    <pubDate>Thu, 01 Oct 2026 14:51:54 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/reigns-and-card-shark-developer-nerial-closes-after-13-years/</guid>
+  </item>
+  <item>
+    <title>AppLovin 起诉 Unity，指控其通过 Ad Quality SDK 违规收集数据</title>
+    <link>https://mobilegamer.biz/applovin-sues-unity-over-alleged-data-collection-through-its-ad-quality-sdk/</link>
+    <description>AppLovin 请求法院禁止 Unity 通过其免费的 Ad Quality 工具收集数据，双方就广告数据归属爆发诉讼。这属于手游买量与广告变现基础设施层的博弈，对依赖广告变现的休闲游戏团队有间接影响。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Thu, 01 Oct 2026 10:19:08 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/applovin-sues-unity-over-alleged-data-collection-through-its-ad-quality-sdk/</guid>
   </item>
   </channel>
 </rss>
