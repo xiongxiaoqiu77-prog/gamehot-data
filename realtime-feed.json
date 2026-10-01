@@ -1,6 +1,155 @@
 {
-  "updated_at": "2026-09-30T16:12:59",
+  "updated_at": "2026-10-01T09:24:03",
   "articles": [
+    {
+      "id": "9b77dc6d28",
+      "title": "如何运营一家独立游戏工作室：第一部分，什么是工作室？",
+      "zh_desc": "系列文章从「什么是工作室」切入，讨论独立团队如何定义自身、分配精力并提升存活概率。对独立开发者有一定参考价值，但不涉及休闲游戏的关卡、数值或变现方法。",
+      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-1-what-is-a-studio",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-30T14:00:00",
+      "fetched_at": "2026-10-01T09:24:03",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "37735ab2a8",
+      "title": "Zynga 据称 2012 年曾差点以 4 亿美元收购 Supercell，因 OMGPop 失败而告吹",
+      "zh_desc": "Supercell 创始人兼前 CEO Mark Pincus 透露，Zynga 在 2012 年几乎以 4 亿美元收购 Supercell，最终因 OMGPop 收购失利而放弃。对理解手游行业并购逻辑与巨头兴衰有史料与策略参考价值。",
+      "url": "https://www.gamesindustry.biz/zynga-reportedly-almost-acquired-supercell-for-400m-in-2012-but-deal-fell-through-following-failure-of-omgpop",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-30T13:41:02",
+      "fetched_at": "2026-10-01T09:24:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Draw Something",
+          "desc": "OMGPop 开发的移动游戏，其开发商被 Zynga 以 1.8 亿美元收购后不到 18 个月关闭，成为文章中的失败案例。"
+        }
+      ]
+    },
+    {
+      "id": "1be4e79735",
+      "title": "King 的 Minecraft Blast 重新开启软启动",
+      "zh_desc": "King 与 Mojang 合作的移动端解谜衍生作 Minecraft Blast 重新进入软启动阶段，目前仅在马来西亚 Google Play 可下载。这是休闲解谜赛道头部厂商的新品动向，值得关注其后续测试数据与买量策略。",
+      "url": "https://mobilegamer.biz/kings-minecraft-blast-is-back-in-soft-launch/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-30T11:12:25",
+      "fetched_at": "2026-10-01T09:24:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Minecraft Blast",
+          "desc": "King 与 Mojang 合作的 Minecraft 衍生方块消除/匹配解谜手游，重新在马来西亚 Google Play 软启动，含地图推进与建造 meta。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "Mojang 的沙盒建造游戏，是 Minecraft Blast 的世界观来源。"
+        },
+        {
+          "name": "Candy Crush",
+          "desc": "King 的三消益智游戏，文中用其地图推进风格类比 Minecraft Blast。"
+        }
+      ]
+    },
+    {
+      "id": "6341fe7471",
+      "title": "Mario Kart Tour 停运：七年累计营收近 2.7 亿美元",
+      "zh_desc": "Nintendo 的移动赛车游戏 Mario Kart Tour 在运营七年后关服，AppMagic 估算其累计营收约 2.685 亿美元、下载量超 2.76 亿次。可作为 IP 手游长线运营与生命周期管理的对照案例。",
+      "url": "https://mobilegamer.biz/mario-kart-tour-closes-after-seven-years-and-nearly-270m-in-revenue/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-30T10:18:09",
+      "fetched_at": "2026-10-01T09:24:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mario Kart Tour",
+          "desc": "任天堂移动赛车游戏，运营近七年，累计下载超 2.76 亿次、IAP 收入约 2.685 亿美元，现已停运。"
+        },
+        {
+          "name": "Super Mario Run",
+          "desc": "任天堂 2016 年推出的马力欧平台手游，是首方马力欧平台游戏首次登陆非任天堂硬件。"
+        }
+      ]
+    },
+    {
+      "id": "361b933382",
+      "title": "数据汇总：Circle 融资 2500 万美元、8 月最赚钱产品、日本头部游戏、网页游戏数据等",
+      "zh_desc": "本周数据汇总覆盖 Circle 的 2500 万美元融资、8 月收入榜、日本市场头部产品、网页游戏数据，以及 Brawl Stars、Colony Flow、Mystery Dumpling 等产品的表现。适合从业者快速掌握手游市场近期基准数据。",
+      "url": "https://mobilegamer.biz/data-digest-circles-25m-raise-augusts-biggest-earners-japans-top-titles-webgame-stats-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-09-30T09:30:39",
+      "fetched_at": "2026-10-01T09:24:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Sort Express",
+          "desc": "Circle Games 旗下头部游戏，2025 年初上线，AppMagic 估算其 IAP 收入约 580 万美元。"
+        },
+        {
+          "name": "Gossip Harbor",
+          "desc": "在 SocialPeta 的 8 月 App Store 收入榜中排名第一。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台，在 SocialPeta 的 8 月 Google Play 收入和下载榜中领先。"
+        },
+        {
+          "name": "Fate/Grand Order",
+          "desc": "11 周年活动推动其 App Store 收入环比增长 548.9% 至约 1940 万美元，并重回全球收入前 20。"
+        },
+        {
+          "name": "Block Out",
+          "desc": "在 SocialPeta 的 8 月 App Store 下载榜中排名第一。"
+        },
+        {
+          "name": "Gangstar Mirage City",
+          "desc": "腾讯旗下游戏，全球下载榜升至第八，Google Play 下载约 1170 万。"
+        },
+        {
+          "name": "Vita Mahjong",
+          "desc": "在 iOS 和 Android 广告榜均排名第一的麻将游戏。"
+        },
+        {
+          "name": "Plants on Fire",
+          "desc": "Nuverse 的游戏，在 iOS 投放约 7700 个去重创意。"
+        },
+        {
+          "name": "Last Light",
+          "desc": "Dinosaur-Games 的游戏，在 Android 投放约 17000 个去重创意。"
+        },
+        {
+          "name": "eFootball",
+          "desc": "在日本移动游戏收入榜中排名第一的足球游戏。"
+        },
+        {
+          "name": "Monster Strike",
+          "desc": "在日本移动游戏收入榜中排名第二。"
+        },
+        {
+          "name": "Last War: Survival",
+          "desc": "在日本移动游戏收入榜中排名第三。"
+        },
+        {
+          "name": "Puzzle Sort",
+          "desc": "在日本下载榜领先，下载量增长 45.8% 的益智排序游戏。"
+        },
+        {
+          "name": "Brawl Stars",
+          "desc": "Supercell 的手游，与 Duolingo 的 12 天联动带来上线日 711,000 次安装增量。"
+        }
+      ]
+    },
     {
       "id": "f4a041e780",
       "title": "全球游戏内容收入预计2030年增长2.3%至2291亿美元，受PC与亚太市场支撑",
