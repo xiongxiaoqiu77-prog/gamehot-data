@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-01T13:41:53",
+  "updated_at": "2026-10-01T14:45:36",
   "articles": [
+    {
+      "id": "a3ba02a207",
+      "title": "Housemarque 与 Bithell Games 加入 Game Republic New Horizons 演讲阵容，Nintendo 将为开发者与发行商举办开放场次",
+      "zh_desc": "Game Republic New Horizons 活动更新了演讲嘉宾阵容，新增 Housemarque 和 Bithell Games，同时 Nintendo 代表将为开发者与发行商开设开放交流场次。属于一般性行业活动资讯，对休闲手游从业者参考价值有限。",
+      "url": "https://www.gamesindustry.biz/housemarque-and-bithell-games-join-game-republic-new-horizons-speaker-lineup-nintendo-to-host-open-session-for-developers-and-publishers",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-30T10:53:37",
+      "fetched_at": "2026-10-01T14:45:36",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Saros",
+          "desc": "Housemarque 开发的科幻 Roguelike 动作射击游戏，文章提及将讨论其视觉特效的设计与技术实现。"
+        },
+        {
+          "name": "Vampirium: 1997",
+          "desc": "Bithell Games 即将推出的游戏，文章提及将在炉边谈话中讨论。"
+        },
+        {
+          "name": "007 First Light",
+          "desc": "IO Interactive 开发的 007 题材动作冒险游戏，文章提及将有一场由 CEO Hakan Abrak 主持的专题 session。"
+        }
+      ]
+    },
     {
       "id": "ad29689c8c",
       "title": "Suda 51 的 Grasshopper Manufacture 从网易拆分独立",
