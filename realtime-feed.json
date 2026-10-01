@@ -1,6 +1,179 @@
 {
-  "updated_at": "2026-10-01T10:31:53",
+  "updated_at": "2026-10-01T13:41:53",
   "articles": [
+    {
+      "id": "ad29689c8c",
+      "title": "Suda 51 的 Grasshopper Manufacture 从网易拆分独立",
+      "zh_desc": "须田刚一（Suda51）领导的 Grasshopper Manufacture 宣布脱离网易游戏，重新成为独立工作室。对休闲游戏从业者而言，这条资讯更多反映的是中型工作室与发行商/投资方之间合作模式的变化，可作为行业结构性动向参考。",
+      "url": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-30T19:37:37",
+      "fetched_at": "2026-10-01T13:41:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Romeo Is a Dead Man",
+          "desc": "一款动作冒险游戏，Grasshopper Manufacture 在完成它后决定从网易拆分独立。"
+        },
+        {
+          "name": "No More Heroes",
+          "desc": "Grasshopper Manufacture 开发并因此闻名的动作游戏系列。"
+        }
+      ]
+    },
+    {
+      "id": "8f0ffa7865",
+      "title": "Ubisoft Montreal 员工发起集体行动以保留混合办公制度",
+      "zh_desc": "Ubisoft Montreal 员工以请愿的形式发起集体行动，要求维持混合办公安排。属于公司组织与劳动关系层面的行业新闻，与休闲游戏玩法或变现无直接关联，但对关注海外大厂团队管理与产能稳定性的从业者有一定参考意义。",
+      "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-30T17:54:59",
+      "fetched_at": "2026-10-01T13:41:53",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "0c695d877b",
+      "title": "Ubisoft 将 Creative House 2 更名为 Massive Entertainment，涵盖 The Division、Ghost Recon 与 Splinter Cell",
+      "zh_desc": "Ubisoft 宣布把旗下 Creative House 2 业务单元更名为 Massive Entertainment，沿用这家瑞典工作室 29 年的品牌，该单元下辖 The Division、Ghost Recon、Splinter Cell 以及新原创 IP《March of Giants》。这是大厂品牌与组织架构调整的行业动态，与休闲品类关联较弱。",
+      "url": "https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-30T19:20:00",
+      "fetched_at": "2026-10-01T13:41:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Division",
+          "desc": "Massive Entertainment 起源的第三人称射击/动作 RPG 系列，现由更名为 Massive Entertainment 的 Creative House 2 负责。"
+        },
+        {
+          "name": "Ghost Recon",
+          "desc": "汤姆·克兰西品牌下的战术射击系列，由新 Massive Entertainment 负责。"
+        },
+        {
+          "name": "Splinter Cell",
+          "desc": "汤姆·克兰西品牌下的潜行动作系列，由新 Massive Entertainment 负责。"
+        },
+        {
+          "name": "March of Giants",
+          "desc": "从 Amazon 收购的新原创 IP，归入新 Massive Entertainment。"
+        },
+        {
+          "name": "Ground Control",
+          "desc": "Massive Entertainment 早期成名的实时战术游戏。"
+        },
+        {
+          "name": "World in Conflict",
+          "desc": "Massive Entertainment 早期成名的实时战术游戏。"
+        },
+        {
+          "name": "Avatar: Frontiers of Pandora",
+          "desc": "Massive Entertainment 开发的动作冒险游戏。"
+        },
+        {
+          "name": "Star Wars Outlaws",
+          "desc": "Massive Entertainment 开发的星球大战开放世界动作冒险游戏。"
+        }
+      ]
+    },
+    {
+      "id": "53b88391af",
+      "title": "涉嫌泄露 GTA Online 每日营收数据的黑客在荷兰被捕",
+      "zh_desc": "荷兰警方在针对黑客组织 ShinyHunters 的调查中逮捕了一名 24 岁阿姆斯特丹男子，该组织被指与今年早些时候泄露 GTA Online 机密营收数据的入侵事件有关。属安全与合规方向的行业资讯，提醒从业者关注后端数据与收入信息的防护。",
+      "url": "https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-30T18:59:09",
+      "fetched_at": "2026-10-01T13:41:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA Online",
+          "desc": "Rockstar 的在线游戏，被泄露数据揭示其每日营收超过 100 万美元。"
+        },
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar 的下一款 GTA 作品，曾遭遇游戏画面泄露。"
+        }
+      ]
+    },
+    {
+      "id": "381937dc79",
+      "title": "Xbox CEO Asha Sharma 强调“Xbox 不会被出售”",
+      "zh_desc": "Xbox CEO Asha Sharma 回应外界关于微软可能分拆游戏业务的猜测，明确表示“Xbox 不会被出售”。属公司战略层面的行业新闻，对判断平台方未来投入与合作政策有间接参考价值。",
+      "url": "https://www.gamesindustry.biz/xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-30T17:43:08",
+      "fetched_at": "2026-10-01T13:41:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Call of Duty",
+          "desc": "微软曾撤回将新使命召唤直接加入 Game Pass 的计划，担心侵蚀独立销售。"
+        },
+        {
+          "name": "Halo",
+          "desc": "微软旗下科幻第一人称射击系列，被转移至 Activision。"
+        }
+      ]
+    },
+    {
+      "id": "74d4ccfda7",
+      "title": "The Witcher 3 在 Remastered 版发售后创下 Steam 同时在线人数新高",
+      "zh_desc": "CD Projekt Red 免费推出 The Witcher 3: Wild Hunt Remastered 后，该作在 Steam 的同时在线人数创下发售以来新高。属于买断制主机/PC 产品的市场表现资讯，可侧面观察“免费重制/加强版”对老产品拉新的效果。",
+      "url": "https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-30T17:01:57",
+      "fetched_at": "2026-10-01T13:41:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "desc": "2015 年的 RPG，免费 Remastered 版发售后 Steam 同时在线人数创历史新高。"
+        }
+      ]
+    },
+    {
+      "id": "02808a8658",
+      "title": "Grasshopper Manufacture 脱离网易游戏，正式转为独立工作室",
+      "zh_desc": "《Romeo is a Dead Man》开发商 Grasshopper Manufacture 宣布与网易游戏分离并恢复独立运营。与第 0 条为同一事件的不同报道，属公司动态类资讯，对休闲赛道直接价值有限。",
+      "url": "https://www.gamesindustry.biz/grasshopper-manufacture-becomes-independent-as-it-splits-from-netease-games",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-30T14:06:09",
+      "fetched_at": "2026-10-01T13:41:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Romeo Is a Dead Man",
+          "desc": "Grasshopper Manufacture 今年发布的游戏，其发布促使工作室决定独立。"
+        },
+        {
+          "name": "No More Heroes",
+          "desc": "Grasshopper Manufacture 开发的知名动作游戏系列。"
+        },
+        {
+          "name": "Killer7",
+          "desc": "Grasshopper Manufacture 开发的知名风格化动作冒险游戏。"
+        },
+        {
+          "name": "Shadows of the Damned",
+          "desc": "Grasshopper Manufacture 开发的知名动作恐怖射击游戏。"
+        }
+      ]
+    },
     {
       "id": "02d1d20103",
       "title": "《Dune Awakening》创意总监谈借鉴好莱坞、游戏内广告，以及为何风格胜过照片级写实",
