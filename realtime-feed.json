@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-01T09:24:03",
+  "updated_at": "2026-10-01T10:00:08",
   "articles": [
+    {
+      "id": "9956e91e37",
+      "title": "Valve 将把 Steam 折扣与活动板块改造成更「动态且个性化」的推荐系统",
+      "zh_desc": "Steam 的 Discount & Events 板块将从人工日历排期转向动态个性化推荐，以改善曝光与发现效率。对关注平台推荐机制与买量/曝光逻辑的手游从业者有一定借鉴意义。",
+      "url": "https://www.gamesindustry.biz/valve-is-updating-steams-discount-events-section-to-become-more-dynamic-and-personalised",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-30T09:25:15",
+      "fetched_at": "2026-10-01T10:00:08",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "e80417ec87",
+      "title": "Valve 将让 Steam 的「折扣与活动」板块更加个性化",
+      "zh_desc": "GameDiscoverCo 分析师 Simon Carless 观察到这一变化，Valve 随后公开确认改版计划。与第 9 条为同一事件的英文来源报道，涉及平台曝光机制的调整。",
+      "url": "https://gameworldobserver.com/2026/09/30/valve-will-make-the-discounts-and-events-section-on-steam-more-personalized",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-09-30T14:28:13",
+      "fetched_at": "2026-10-01T10:00:08",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "9b77dc6d28",
       "title": "如何运营一家独立游戏工作室：第一部分，什么是工作室？",
