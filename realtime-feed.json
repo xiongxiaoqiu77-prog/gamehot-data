@@ -1,6 +1,95 @@
 {
-  "updated_at": "2026-10-01T14:45:36",
+  "updated_at": "2026-10-02T00:23:37",
   "articles": [
+    {
+      "id": "8dfc0e38e9",
+      "title": "欧盟消费者保护合作网络就游戏内货币对九家公司发起协同执法行动",
+      "zh_desc": "2026年9月30日，欧盟消费者保护合作网络（CPC Network）针对九家电子游戏公司就游戏内虚拟货币问题启动协同执法，重点指向定价透明度与消费者权益保护。对三消/休闲手游团队而言，这预示着内购货币设计与定价信息披露将面临更严的合规审视。",
+      "url": "https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-01T14:15:37",
+      "fetched_at": "2026-10-02T00:23:37",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hunt: Showdown 1896",
+          "desc": "Crytek 开发的西部恐怖风格多人赏金狩猎射击游戏。"
+        },
+        {
+          "name": "Forge of Empires",
+          "desc": "InnoGames 开发的城市建设与历史策略游戏。"
+        },
+        {
+          "name": "Candy Crush Saga",
+          "desc": "King 开发的三消益智游戏。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "Mojang 开发的沙盒建造与生存游戏。"
+        },
+        {
+          "name": "Mech Arena",
+          "desc": "快节奏多人机甲对战射击游戏。"
+        },
+        {
+          "name": "Gardenscapes",
+          "desc": "结合三消玩法与花园装饰叙事的休闲游戏。"
+        },
+        {
+          "name": "Valorant",
+          "desc": "Riot Games 开发的战术英雄射击游戏。"
+        },
+        {
+          "name": "Clash of Clans",
+          "desc": "Supercell 开发的基地建设与部落对战策略游戏。"
+        },
+        {
+          "name": "For Honor",
+          "desc": "Ubisoft 开发的中世纪与历史题材近战格斗动作游戏。"
+        },
+        {
+          "name": "Diablo Immortal",
+          "desc": "暗黑破坏神系列移动端动作角色扮演与 MMORPG 游戏。"
+        },
+        {
+          "name": "Call of Duty Mobile",
+          "desc": "使命召唤系列移动端多人射击游戏。"
+        }
+      ]
+    },
+    {
+      "id": "386a02f8f8",
+      "title": "Video Games Europe 回击欧盟监管机构对 King、Supercell、Mojang 等的内购调查",
+      "zh_desc": "欧盟支持的 CPC Network 对11家游戏公司发起协同执法，直指内购（IAP）实践，涉及 King、Supercell、Mojang 等头部厂商；Video Games Europe 与 EGDF 随即公开反驳。该事件直接关系到休闲手游的付费设计、虚拟货币与抽卡机制的合规边界，值得作为发行与商业化团队的风险预警。",
+      "url": "https://mobilegamer.biz/video-games-europe-hits-back-at-eu-watchdog-targeting-king-supercell-mojang-and-more-over-iap-practices/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-01T12:36:19",
+      "fetched_at": "2026-10-02T00:23:37",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Runescape",
+          "desc": "经典 MMORPG，其虚拟货币相关判例被引用为行业立场依据。"
+        }
+      ]
+    },
+    {
+      "id": "f079600aab",
+      "title": "AppLovin 起诉 Unity，指控其通过 Ad Quality SDK 违规收集数据",
+      "zh_desc": "AppLovin 请求法院禁止 Unity 通过其免费的 Ad Quality 工具收集数据，双方就广告数据归属爆发诉讼。这属于手游买量与广告变现基础设施层的博弈，对依赖广告变现的休闲游戏团队有间接影响。",
+      "url": "https://mobilegamer.biz/applovin-sues-unity-over-alleged-data-collection-through-its-ad-quality-sdk/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-01T10:19:08",
+      "fetched_at": "2026-10-02T00:23:37",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "a3ba02a207",
       "title": "Housemarque 与 Bithell Games 加入 Game Republic New Horizons 演讲阵容，Nintendo 将为开发者与发行商举办开放场次",
