@@ -1,6 +1,193 @@
 {
-  "updated_at": "2026-10-02T08:15:33",
+  "updated_at": "2026-10-03T00:09:46",
   "articles": [
+    {
+      "id": "937ef4729a",
+      "title": "索尼就实体媒介展开咨询：迟到总比不到好 | 观点",
+      "zh_desc": "索尼在宣布终止实体游戏发行支持后，才回头向开发合作伙伴征求意见。文章质疑这一决策顺序，认为影响所有合作伙伴的重大变动本应在公布前沟通，属于主机/发行层面的行业观察。",
+      "url": "https://www.gamesindustry.biz/sonys-consultation-on-physical-media-better-late-than-never-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T15:19:56",
+      "fetched_at": "2026-10-03T00:09:46",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "99c2254d03",
+      "title": "Reigns 开发商 Nerial 因两年'重大经营亏损'宣布关闭",
+      "zh_desc": "曾开发 Reigns 与 Card Shark 的 Nerial 宣布进入'休眠模式'并停止运营。对关注中小体量、买断制与移动端混合作品的团队来说，是一个反映独立发行与变现压力的案例。",
+      "url": "https://www.gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T11:19:13",
+      "fetched_at": "2026-10-03T00:09:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Reigns",
+          "desc": "一款以滑动卡牌抉择为核心的王国统治策略游戏。"
+        },
+        {
+          "name": "Card Shark",
+          "desc": "一款以18世纪法国赌桌出千为主题的叙事冒险游戏。"
+        }
+      ]
+    },
+    {
+      "id": "e92f0c6b2b",
+      "title": "2XKO 需要'数十万乃至数百万'的高 MAU 基数才能成立",
+      "zh_desc": "Riot Games 首席产品官 Marc Merrill 表示 2XKO 若要长期可持续，月活用户需达到数十万甚至数百万量级。文章透露出免费竞技产品的 MAU 门槛逻辑，对理解长线运营的用户规模要求有参考意义。",
+      "url": "https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T10:10:00",
+      "fetched_at": "2026-10-03T00:09:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "2XKO",
+          "desc": "Riot Games推出的免费2v2团队格斗游戏，曾计划作为长期服务型游戏运营。"
+        },
+        {
+          "name": "Street Fighter 6",
+          "desc": "卡普空推出的格斗游戏，文章称其发售影响了2XKO的上线表现。"
+        },
+        {
+          "name": "Rising Thunder",
+          "desc": "Radiant Entertainment推出的免费1v1格斗游戏Alpha，被视为2XKO的重要灵感来源。"
+        }
+      ]
+    },
+    {
+      "id": "46bcb8ef97",
+      "title": "新游速览：Sifu、Castlevania、Microsoft Jewel、One Piece、River City Survivors 等",
+      "zh_desc": "本周手游新作汇总，涵盖 Sifu、Castlevania、Microsoft Jewel、One Piece、River City Survivors，以及 Tencent、FunPlus、Plug In Digital 等厂商的新品。其中 Microsoft Jewel 等消除向产品对休闲品类从业者有一定监测价值。",
+      "url": "https://mobilegamer.biz/new-game-digest-sifu-castlevania-microsoft-jewel-one-piece-river-city-survivors-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-02T10:54:53",
+      "fetched_at": "2026-10-03T00:09:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Sifu",
+          "desc": "Sloclap开发的武术动作格斗游戏，将登陆移动端并采用触屏操作。"
+        },
+        {
+          "name": "Castlevania",
+          "desc": "Konami于1986年推出的经典动作游戏，为纪念40周年在移动端限免。"
+        },
+        {
+          "name": "Microsoft Jewel",
+          "desc": "微软休闲益智游戏，登陆iOS和Android并支持Xbox成就与跨平台同步。"
+        },
+        {
+          "name": "One Piece: Grand Gourmet",
+          "desc": "Bandai Namco以草帽一伙为主题的餐厅经营模拟游戏。"
+        },
+        {
+          "name": "River City Survivors: Downtown of the Dead",
+          "desc": "Arc System Works将热血系列改为幸存者类玩法，并登陆Apple Arcade。"
+        },
+        {
+          "name": "Namco Legendary Mountains",
+          "desc": "BeXide开发的体素益智堆叠游戏，融合南梦宫经典街机角色胶囊。"
+        },
+        {
+          "name": "New Three Kingdoms: Glory Reborn",
+          "desc": "腾讯在中国软启动的三国题材策略游戏。"
+        },
+        {
+          "name": "Codenames Party",
+          "desc": "Czech Games Edition的派对游戏，登陆Netflix Games并可用手机当控制器。"
+        },
+        {
+          "name": "Lil’ Guardsman",
+          "desc": "tinyBuild的叙事冒险游戏，由Plug In Digital发行移动版。"
+        },
+        {
+          "name": "State of Desire",
+          "desc": "FunPlus International发行的监狱管理与帮派政治题材免费18+游戏。"
+        },
+        {
+          "name": "Dragon Village 3",
+          "desc": "Highbrow的生物题材游戏，出现在本期新游速览中。"
+        }
+      ]
+    },
+    {
+      "id": "14717902b3",
+      "title": "Supercell、Rovio、Playdemic、First Touch、Sybo 等支持 SpecialEffect 的 One Special Day",
+      "zh_desc": "残障玩家慈善机构 SpecialEffect 的年度旗舰活动启动，多家手游厂商捐出部分内购与 DLC 收入。反映头部休闲手游公司在公益与品牌层面的联动方式。",
+      "url": "https://mobilegamer.biz/supercell-rovio-playdemic-first-touch-sybo-and-more-back-specialeffects-one-special-day/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T09:01:31",
+      "fetched_at": "2026-10-03T00:09:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Clash of Clans",
+          "desc": "Supercell的基地建造与部落对战策略手游。"
+        },
+        {
+          "name": "Brawl Stars",
+          "desc": "Supercell的多人在线竞技场射击/乱斗手游。"
+        },
+        {
+          "name": "Clash Royale",
+          "desc": "Supercell的实时卡牌对战与塔防策略手游。"
+        },
+        {
+          "name": "Angry Birds 2",
+          "desc": "Rovio的物理弹射益智续作手游。"
+        },
+        {
+          "name": "Golf Clash",
+          "desc": "Playdemic的实时高尔夫对战手游。"
+        },
+        {
+          "name": "Subway Surfers",
+          "desc": "Sybo的无限跑酷手游。"
+        },
+        {
+          "name": "Dream League Soccer",
+          "desc": "First Touch的移动端足球游戏。"
+        },
+        {
+          "name": "8 Ball Pool",
+          "desc": "Miniclip的在线台球对战游戏。"
+        },
+        {
+          "name": "Open Drive",
+          "desc": "SpecialEffect推出的首款iOS游戏，面向多种身体障碍玩家设计。"
+        }
+      ]
+    },
+    {
+      "id": "36cd4687d7",
+      "title": "Disney 目前没有收购 Epic Games 的计划",
+      "zh_desc": "针对今年春季流传的收购传闻，Disney 总裁兼创意总监 Dana Walden 部分否认了相关说法。属于大厂资本与投资动向类资讯，与休闲游戏品类关联一般。",
+      "url": "https://gameworldobserver.com/2026/10/02/disney-is-not-planning-to-purchase-epic-games-at-least-not-at-the-moment",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T13:33:45",
+      "fetched_at": "2026-10-03T00:09:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic Games的跨平台大逃杀/沙盒建造游戏，常与迪士尼旗下IP联动。"
+        }
+      ]
+    },
     {
       "id": "18192cb564",
       "title": "职位汇总：10月 | Code Wizards Group 任命 Catherine Bygrave 为商务主管",
