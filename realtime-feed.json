@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-02T06:09:52",
+  "updated_at": "2026-10-02T08:15:33",
   "articles": [
+    {
+      "id": "18192cb564",
+      "title": "职位汇总：10月 | Code Wizards Group 任命 Catherine Bygrave 为商务主管",
+      "zh_desc": "汇总游戏行业近期人事变动，Code Wizards Group 任命 Catherine Bygrave 为商务主管。内容属于一般性行业动态，对休闲游戏设计与变现分析参考有限，可了解人才流动。",
+      "url": "https://www.gamesindustry.biz/jobs-roundup-october-code-wizards-group-appoints-catherine-bygrave-as-head-of-commercial",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-01T09:26:54",
+      "fetched_at": "2026-10-02T08:15:33",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Call of Duty",
+          "desc": "Activision 发行的第一人称射击游戏系列，以战役与多人对战闻名。"
+        },
+        {
+          "name": "Destiny",
+          "desc": "Bungie 开发、Activision 发行的科幻题材多人第一人称射击游戏。"
+        },
+        {
+          "name": "Battlefield",
+          "desc": "EA 发行的第一人称射击游戏系列，以大规模战场和载具作战为特色。"
+        }
+      ]
+    },
     {
       "id": "f25c7b722c",
       "title": "育碧蒙特利尔工会发起“保留混合办公”请愿，签名已超300个",
