@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-10-03T00:42:11",
+  "updated_at": "2026-10-03T02:17:05",
   "articles": [
+    {
+      "id": "6f78268d79",
+      "title": "Bungie 联合创始人及 Destiny 2 叙事总监创办跨媒体工作室 Stone Kite",
+      "zh_desc": "Bungie 联合创始人 Jason Jones 与 Destiny 2 叙事总监 Margaret Stohl 共同创立跨媒体工作室 Stone Kite。该动态反映头部游戏人才向跨媒体内容开发流动，对关注行业组织与内容战略的从业者有参考意义。",
+      "url": "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T13:54:44",
+      "fetched_at": "2026-10-03T02:17:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Destiny 2",
+          "desc": "Bungie 开发的在线多人刷宝射击游戏，文章提到其叙事总监 Margaret Stohl 参与创办 Stone Kite。"
+        },
+        {
+          "name": "Halo",
+          "desc": "Bungie 联合创作的科幻第一人称射击游戏系列，文章称 Jason Jones 参与共同创作。"
+        },
+        {
+          "name": "Destiny",
+          "desc": "Bungie 联合创作的科幻在线多人射击游戏系列，文章称 Jason Jones 参与共同创作。"
+        }
+      ]
+    },
+    {
+      "id": "2f6f83a8bc",
+      "title": "2026 英国最佳工作场所奖获奖名单揭晓",
+      "zh_desc": "2026 英国最佳工作场所奖在伦敦 Royal Institution 颁发，Dink、Hangar 13、Jagex: The RuneScape Company、NaturalMotion Games、Rare、Snap Finger Click 获特别奖。对从业者而言，可用于了解英国游戏工作室的雇主品牌与人才市场动态。",
+      "url": "https://www.gamesindustry.biz/winners-of-the-uk-best-places-to-work-awards-2026-revealed",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T12:56:58",
+      "fetched_at": "2026-10-03T02:17:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "RuneScape",
+          "desc": "Jagex 开发的经典 MMORPG，文章以获奖公司名“Jagex: The RuneScape Company”提及。"
+        }
+      ]
+    },
+    {
+      "id": "bc208b606c",
+      "title": "Krafton 关闭 PUBG 衍生项目 Black Budget，距封闭 Alpha 测试仅九个月",
+      "zh_desc": "Krafton 宣布停止开发 PUBG 衍生项目 Black Budget，距其在 Steam 进行封闭 Alpha 测试约九个月。该动态体现大厂在衍生项目和新玩法上的试错与收缩，对关注射击品类与项目管理的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T08:03:39",
+      "fetched_at": "2026-10-03T02:17:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "PUBG: Black Budget",
+          "desc": "以时间循环为核心的撤离射击游戏，目标为整队生存逃离而非最后一人存活的大逃杀，已被 Krafton 停止开发。"
+        },
+        {
+          "name": "PUBG Battlegrounds",
+          "desc": "Krafton 旗下大逃杀射击游戏（常简称 PUBG），文章称其被规划扩展为带沙盒 UGC 的内容平台。"
+        },
+        {
+          "name": "Blindspot",
+          "desc": "PUBG 衍生免费游玩项目，在抢先体验两个月后被 Krafton 关闭。"
+        },
+        {
+          "name": "PUBG: Ded.Net",
+          "desc": "PUBG 衍生多人在线射击游戏，带有 roguelike 成长要素，于 Gamescom 公布。"
+        },
+        {
+          "name": "Subnautica 2",
+          "desc": "Unknown Worlds 开发的水下生存游戏，文章称其成功推动 Krafton 创纪录 Q2 业绩。"
+        }
+      ]
+    },
     {
       "id": "7b43cfba57",
       "title": "“它常常反而让我活更多”——为什么 AI 可能给游戏公司增加而非节省工作量",
