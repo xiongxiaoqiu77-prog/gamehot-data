@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-10-03T02:17:05",
+  "updated_at": "2026-10-03T05:57:12",
   "articles": [
+    {
+      "id": "2a6ee780a0",
+      "title": "Reigns 开发商 Nerial 进入「休眠模式」，进行裁员",
+      "zh_desc": "曾打造 Reigns 的独立工作室 Nerial 宣布暂停运营并裁撤员工，属于公司经营层面的行业动态。对于关注休闲/超休闲赛道团队生存状况的从业者，可作为中小团队风险与产能规划的参考案例。",
+      "url": "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T21:31:04",
+      "fetched_at": "2026-10-03T05:57:12",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Reigns",
+          "desc": "Nerial 开发的知名游戏系列，以创新且不寻常的设计著称。"
+        },
+        {
+          "name": "Card Shark",
+          "desc": "Nerial 开发的一款游戏，属于其创新且不寻常的作品之一。"
+        },
+        {
+          "name": "The Crush House",
+          "desc": "Nerial 开发的一款游戏，以复杂系统为特色。"
+        },
+        {
+          "name": "Reigns: Game of Thrones",
+          "desc": "Nerial 与 Devolver Digital 等合作推出的《Reigns》授权改编游戏。"
+        },
+        {
+          "name": "Reigns: The Witcher",
+          "desc": "Nerial 与 Devolver Digital 等合作推出的《Reigns》授权改编游戏。"
+        },
+        {
+          "name": "Zephon",
+          "desc": "Proxy Studios 开发的 4X 策略游戏，作者 Bryant Francis 曾参与。"
+        },
+        {
+          "name": "Down With The Ship",
+          "desc": "Iron Anchor Studios 开发的游戏，作者 Bryant Francis 曾参与。"
+        },
+        {
+          "name": "Endless Space 2",
+          "desc": "Amplitude Studio 于 2017 年推出的游戏，作者 Bryant Francis 曾参与。"
+        }
+      ]
+    },
     {
       "id": "6f78268d79",
       "title": "Bungie 联合创始人及 Destiny 2 叙事总监创办跨媒体工作室 Stone Kite",
