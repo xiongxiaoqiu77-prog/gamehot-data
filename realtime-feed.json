@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-03T00:09:46",
+  "updated_at": "2026-10-03T00:42:11",
   "articles": [
+    {
+      "id": "7b43cfba57",
+      "title": "“它常常反而让我活更多”——为什么 AI 可能给游戏公司增加而非节省工作量",
+      "zh_desc": "GamesIndustry.biz HR 峰会上的讨论指出，生成式 AI 在游戏公司内部未必带来效率提升，反而可能因审核、返工与流程重构增加工作量。对关注团队产能与研发流程的手游团队有间接参考意义。",
+      "url": "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T14:29:12",
+      "fetched_at": "2026-10-03T00:42:11",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "937ef4729a",
       "title": "索尼就实体媒介展开咨询：迟到总比不到好 | 观点",
