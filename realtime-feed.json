@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-03T05:57:12",
+  "updated_at": "2026-10-04T05:40:21",
   "articles": [
+    {
+      "id": "0877872ad2",
+      "title": "图集：2026 年最佳工作场所奖",
+      "zh_desc": "GamesIndustry.biz 年度 Best Places To Work Awards UK 在伦敦皇家学会揭晓，由 Amiqus、Playground Games、IO Interactive、Games London 和 Special Effect 赞助。该奖项反映英国游戏公司的雇主品牌与人才市场动态，对休闲游戏从业者了解行业招聘环境有一定参考，但与玩法、变现和 LiveOps 无直接关系。",
+      "url": "https://www.gamesindustry.biz/in-pictures-the-best-places-to-work-awards-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-02T14:55:28",
+      "fetched_at": "2026-10-04T05:40:21",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "2a6ee780a0",
       "title": "Reigns 开发商 Nerial 进入「休眠模式」，进行裁员",
