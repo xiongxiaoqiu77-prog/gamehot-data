@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-10-06T03:06:54",
+  "updated_at": "2026-10-06T03:38:52",
   "articles": [
+    {
+      "id": "cac93c3729",
+      "title": "为什么优秀人才在初创公司会失败",
+      "zh_desc": "Deconstructor of Fun 与 Makers Fund 人才合伙人 Garry Hill 的对谈，围绕文化契合、阶段适配、创始人角色错位，以及为何单靠毅力无法解释谁能成功。对游戏初创团队的人才搭建与组织管理有参考价值，但不涉及休闲游戏设计本身。",
+      "url": "https://www.deconstructoroffun.com/blog/why-great-hires-fail-at-startups",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-05T17:33:15",
+      "fetched_at": "2026-10-06T03:38:52",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "afff400cf6",
+      "title": "Arc Raiders 与 The Finals 将改编为影视作品，Backrooms 联合制片人参与",
+      "zh_desc": "瑞典 Embark Studios 旗下的两款多人射击游戏 The Finals 与 Arc Raiders 已确认获得影视改编授权。属于游戏 IP 跨媒介布局的行业动态，与休闲游戏关联一般。",
+      "url": "https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-05T18:30:00",
+      "fetched_at": "2026-10-06T03:38:52",
+      "lang": "en",
+      "games": [
+        {
+          "name": "ARC Raiders",
+          "desc": "Embark Studios 开发的撤离射击游戏，销量超1400万并获2025年TGA最佳多人游戏。"
+        },
+        {
+          "name": "The Finals",
+          "desc": "Embark Studios 推出的免费多人射击游戏。"
+        }
+      ]
+    },
+    {
+      "id": "16f360447e",
+      "title": "Arc Raiders 与 The Finals 将推出剧集与电影改编",
+      "zh_desc": "Embark Studios 的 Arc Raiders 和 The Finals 双双启动影视化改编。为关注游戏 IP 泛娱乐化与授权变现的从业者提供行业资讯，与休闲消除品类无直接关系。",
+      "url": "https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-05T19:33:21",
+      "fetched_at": "2026-10-06T03:38:52",
+      "lang": "en",
+      "games": [
+        {
+          "name": "ARC Raiders",
+          "desc": "Embark Studios 开发的撤离射击游戏，2025年10月发售，销量超1600万，获TGA和BAFTA最佳多人奖。"
+        },
+        {
+          "name": "The Finals",
+          "desc": "Embark Studios 的免费第一人称射击游戏，三年内注册玩家超3000万。"
+        },
+        {
+          "name": "Resident Evil",
+          "desc": "经典生存恐怖游戏系列，其改编电影成为评分最高的游戏改编电影之一。"
+        },
+        {
+          "name": "League of Legends",
+          "desc": "MOBA 游戏，其改编动画《Arcane》第二季在烂番茄获100%新鲜度。"
+        }
+      ]
+    },
     {
       "id": "cea233e9f3",
       "title": "“面向青少年的游戏”：Warhorse Studios 联合创始人厌倦千篇一律的 RPG",
