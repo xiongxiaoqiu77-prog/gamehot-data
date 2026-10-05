@@ -1,6 +1,300 @@
 {
-  "updated_at": "2026-10-05T17:31:21",
+  "updated_at": "2026-10-06T00:27:47",
   "articles": [
+    {
+      "id": "4c76bb30f7",
+      "title": "Sony 为初代 PS5 引入 AI 超分辨率技术，Marvel's Wolverine 与 Ghost of Yōtei 首批实装",
+      "zh_desc": "Sony Interactive Entertainment 在基础版 PS5 上推出名为 Quick Spectral Super Resolution（QSSR）的 AI 超分技术，两款新作将首批支持。属于主机硬件与图形技术动态，与手游/休闲品类关联较弱。",
+      "url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-05T13:35:22",
+      "fetched_at": "2026-10-06T00:27:47",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Marvel's Wolverine",
+          "desc": "Insomniac Games 开发的漫威题材游戏，是首批在初代 PS5 上实装 QSSR AI 超分技术的作品之一。"
+        },
+        {
+          "name": "Ghost of Yōtei",
+          "desc": "Sucker Punch Productions 开发的动作冒险游戏，首批实装 QSSR，用于提升角色与环境细节。"
+        }
+      ]
+    },
+    {
+      "id": "471f919d2c",
+      "title": "“掌握自己的命运风险更小”——离开 3A 大厂的开发者们",
+      "zh_desc": "以 Player First Games（Multiversus 开发商）被华纳关闭后团队出走为例，讨论 3A 开发者转向独立开发的原因与心态。属于行业人事与创业趋势报道，对判断大厂人才流向有参考意义。",
+      "url": "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-05T13:12:44",
+      "fetched_at": "2026-10-06T00:27:47",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Multiversus",
+          "desc": "Player First Games 开发的免费格斗游戏，收录华纳兄弟角色，后因 Warner Bros 关闭工作室而停运。"
+        },
+        {
+          "name": "What the Stars Forgot",
+          "desc": "Airlock Games 正在开发的科幻恐怖管理模拟游戏，由离开 AAA 大厂的开发者组建团队制作。"
+        }
+      ]
+    },
+    {
+      "id": "48167b11f1",
+      "title": "Jagex 回应 RuneScape 预告片使用生成式 AI：由“可信赖的外部合作方”制作",
+      "zh_desc": "Jagex 就 RuneFest 上播放的 RuneScape 3 Dragon Slayer 2 任务预告片中使用生成式 AI 素材一事作出回应。反映行业对 AI 内容披露与外包管理的争议，属公司公关与行业动态。",
+      "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-05T11:08:39",
+      "fetched_at": "2026-10-06T00:27:47",
+      "lang": "en",
+      "games": [
+        {
+          "name": "RuneScape",
+          "desc": "Jagex 开发的 MMORPG，文章围绕其预告片疑似使用生成式 AI 的争议展开回应。"
+        },
+        {
+          "name": "RuneScape 3",
+          "desc": "RuneScape 系列 MMORPG，其 Dragon Slayer 2 任务预告片在 RuneFest 展示后引发 GenAI 争议。"
+        }
+      ]
+    },
+    {
+      "id": "eb48ba07cb",
+      "title": "Capcom 计划以 AI 强化自研 RE Engine，加速 QA、调试与数据处理",
+      "zh_desc": "Capcom 宣布分阶段将自研 RE Engine 升级为“AI 生成引擎”，用于提升开发效率、优化性能并简化 QA 与调试流程。反映了大型厂商在研发管线中落地 AI 的实践方向。",
+      "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-05T08:29:51",
+      "fetched_at": "2026-10-06T00:27:47",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Resident Evil 7: Biohazard",
+          "desc": "Capcom 的生存恐怖游戏，2017 年发售，是最初使用 RE Engine 开发的代表作。"
+        },
+        {
+          "name": "Resident Evil Requiem",
+          "desc": "Capcom 的 Resident Evil 系列生存恐怖游戏，因在 Nvidia DLSS 5 演示中用 AI 增强角色模型而受批评。"
+        }
+      ]
+    },
+    {
+      "id": "8445602dd6",
+      "title": "9 月手游收入榜：Honor of Kings、Gossip Harbor、Roblox 等",
+      "zh_desc": "基于 AppMagic 的 9 月全球手游收入估算，Honor of Kings 居首，Gossip Harbor、Roblox 等表现亮眼，而 Candy Crush、Whiteout Survival、PUBG Mobile、Last War 经历疲软月份，Pokémon Go 从 8 月低谷反弹。对休闲/消除品类从业者判断大盘走势与竞品营收变化有直接参考价值。",
+      "url": "https://mobilegamer.biz/septembers-top-grossing-mobile-game-chart-honor-of-kings-gossip-harbor-roblox-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-05T14:37:51",
+      "fetched_at": "2026-10-06T00:27:47",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Honor of Kings",
+          "desc": "腾讯的 MOBA 手游，连续第二个月收入下滑仍居 9 月手游收入榜首。"
+        },
+        {
+          "name": "Gossip Harbor",
+          "desc": "Microfun 的移动游戏，9 月收入榜第二，约 9900 万美元。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台，9 月收入略低于 1 亿美元，仍居收入榜前列。"
+        },
+        {
+          "name": "Royal Match",
+          "desc": "移动益智游戏，9 月收入低于 1 亿美元，为 2023 年 6 月以来最低。"
+        },
+        {
+          "name": "Monopoly Go",
+          "desc": "Scopely 的棋盘游戏改编手游，9 月收入约 8000 至 8500 万美元。"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "生存策略手游，9 月收入约 7900 万美元，为 2024 年 6 月以来最差。"
+        },
+        {
+          "name": "Candy Crush Saga",
+          "desc": "King 的三消益智手游，9 月 IAP 收入为 2022 年 4 月以来最差。"
+        },
+        {
+          "name": "Kingshot",
+          "desc": "Century Games 的移动游戏，9 月收入约 6400 万美元，较此前约 7900 万美元下降。"
+        },
+        {
+          "name": "Pokémon Go",
+          "desc": "AR 宝可梦手游，收入月度波动明显，9 月约 6200 万美元。"
+        },
+        {
+          "name": "PUBG Mobile",
+          "desc": "战术竞技射击手游，收入波动明显，9 月约 5500 万美元。"
+        },
+        {
+          "name": "Delta Force",
+          "desc": "Tencent 的射击手游，9 月收入榜第 11，约 5100 万美元。"
+        },
+        {
+          "name": "Coin Master",
+          "desc": "Moon Active 的休闲手游，9 月收入榜第 12，约 4700 万美元。"
+        },
+        {
+          "name": "Last War: Survival",
+          "desc": "FunFly 的生存策略手游，9 月收入榜第 13，约 4300 万美元。"
+        },
+        {
+          "name": "eFootball",
+          "desc": "Konami 的足球体育手游，9 月收入榜第 14，约 4100 万美元。"
+        },
+        {
+          "name": "Gardenscapes",
+          "desc": "Playrix 的三消与装饰手游，9 月收入榜第 15，约 3700 万美元。"
+        },
+        {
+          "name": "Township",
+          "desc": "Playrix 的城镇建造与三消手游，9 月收入榜第 16，约 3500 万美元。"
+        },
+        {
+          "name": "TfT: Golden Spatula",
+          "desc": "Riot 的自走棋手游，9 月收入榜第 17，约 3400 万美元。"
+        },
+        {
+          "name": "Royal Kingdom",
+          "desc": "Dream Games 的移动游戏，9 月收入榜第 18。"
+        },
+        {
+          "name": "Steal a Brainrot",
+          "desc": "Roblox 上的病毒式热门游戏体验，去年夏季曾带来显著流量与收入。"
+        },
+        {
+          "name": "Grow a Garden",
+          "desc": "Roblox 上的病毒式热门游戏体验，去年夏季曾带来显著流量与收入。"
+        }
+      ]
+    },
+    {
+      "id": "d9190e7e14",
+      "title": "9 月手游下载榜：Free Fire、Roblox、Block Blast、Bus Fever Party 等",
+      "zh_desc": "AppMagic 9 月下载数据显示，Bus Fever Party 与 Color Block 首次冲进前十，Meowdoku 回归榜单，Arrows 下滑，Gangstar: Mirage City 跌出前 100。可用于追踪休闲与解谜新品类的买量与自然量趋势。",
+      "url": "https://mobilegamer.biz/septembers-mobile-game-download-charts-free-fire-roblox-block-blast-bus-fever-party-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-05T12:15:00",
+      "fetched_at": "2026-10-06T00:27:47",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Free Fire Max",
+          "desc": "Garena 的大逃杀游戏 Free Fire 的高画质版本，借助火影忍者联动保持约 2200 万月安装。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台，9 月下载略超 2000 万，连续第二个月小幅下降。"
+        },
+        {
+          "name": "Block Blast",
+          "desc": "Hungry Studio 的方块益智游戏，连续第三个月约 1500 万安装。"
+        },
+        {
+          "name": "Bus Fever Party",
+          "desc": "Lumi Games 的巴士解谜新作，9 月上升 141 位，达到近 1300 万安装。"
+        },
+        {
+          "name": "Bus Traffic Fever",
+          "desc": "此前的巴士解谜游戏，8 月进入前十，9 月排名下降 23 位。"
+        },
+        {
+          "name": "Subway Surfers",
+          "desc": "跑酷手游，8 月峰值后回落至约 1200 万安装。"
+        },
+        {
+          "name": "Block Out",
+          "desc": "Grand Games 的方块游戏，从 8 月近 1400 万下载降至 9 月略低于 1200 万。"
+        },
+        {
+          "name": "Meowdoku",
+          "desc": "Learnings 的解谜游戏，9 月下载 1150 万，为最佳月份，据称受 LinkedIn 的 Queens 游戏启发。"
+        },
+        {
+          "name": "Color Block",
+          "desc": "Ivy Mobile 的方块益智游戏，9 月上升 12 位至下载榜第九，曾多次改名。"
+        },
+        {
+          "name": "Arrows",
+          "desc": "Miniclip 的游戏，7 月近 2000 万安装后，9 月降至略超 1000 万，受类似作品影响。"
+        },
+        {
+          "name": "Pixel Flow",
+          "desc": "被 Ivy Mobile 等公司借鉴或致敬的游戏之一。"
+        },
+        {
+          "name": "Magic Sort",
+          "desc": "Grand Games 的排序益智游戏，9 月下载榜第 11，约 870 万安装。"
+        },
+        {
+          "name": "Mob Control",
+          "desc": "Voodoo 的移动游戏，9 月下载榜第 12，约 840 万安装。"
+        },
+        {
+          "name": "Amaze Go",
+          "desc": "Learnings 的移动游戏，9 月下载榜第 13，约 839 万安装。"
+        },
+        {
+          "name": "Paper.io 2",
+          "desc": "Voodoo 的移动游戏，9 月下载榜第 14，约 838 万安装。"
+        },
+        {
+          "name": "Vita Mahjong",
+          "desc": "Learnings 的麻将题材移动游戏，9 月下载榜第 15，约 838 万安装。"
+        },
+        {
+          "name": "Block Craft 3D",
+          "desc": "Wildlife 的移动游戏，9 月下载榜第 16，约 820 万安装。"
+        },
+        {
+          "name": "Gossip Harbor",
+          "desc": "Microfun 的移动游戏，9 月下载榜第 17，约 790 万安装。"
+        }
+      ]
+    },
+    {
+      "id": "e61d6ce873",
+      "title": "招聘动态：Scopely、Supercell、Google、Roblox、Tripledot 等公司人事变动",
+      "zh_desc": "汇总 Scopely、Supercell、Google、Roblox、Tripledot 以及 Miniclip、Trailmix、Playtika、Grand Games 等公司的最新招聘、晋升与人事任命。属于行业人才流动信息，可用于判断各家公司业务重心与扩张节奏。",
+      "url": "https://mobilegamer.biz/jobs-digest-moves-and-promotions-at-supercell-scopely-google-roblox-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-05T08:22:21",
+      "fetched_at": "2026-10-06T00:27:47",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "Scopely 的移动棋盘游戏，文章报道 Hamed Safaei 加入其团队任高级游戏工程师。"
+        },
+        {
+          "name": "mo.co",
+          "desc": "Supercell 的游戏，近期重回 beta，文章报道其游戏 lead 职位变动。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台，文章报道 Derek Yang 加入任产品管理总监。"
+        }
+      ]
+    },
     {
       "id": "f38ed9fc30",
       "title": "拆解中国的游戏外经济生态",
