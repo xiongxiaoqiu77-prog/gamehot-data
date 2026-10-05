@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-04T05:40:21",
+  "updated_at": "2026-10-05T17:31:21",
   "articles": [
+    {
+      "id": "f38ed9fc30",
+      "title": "拆解中国的游戏外经济生态",
+      "zh_desc": "作者以 Fantasy Westward Journey 在网易藏宝阁的交易记录为样本，量化玩家时间价值与虚拟货币交易行为，剖析中国游戏外经济（RMT）的运作方式。对研究游戏经济系统设计与变现模式的从业者有参考价值。",
+      "url": "https://naavik.co/weekly-digest/unpacking-chinas-out-of-game-economy/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-04T09:23:03",
+      "fetched_at": "2026-10-05T17:31:21",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fantasy Westward Journey",
+          "desc": "网易运营多年的回合制MMORPG，文章以其实时经济交易为例分析中国游戏外经济。"
+        },
+        {
+          "name": "Delta Force",
+          "desc": "一款撤离射击游戏，其Operations模式因死亡掉落且不支持玩家间交易而催生了人力服务灰市。"
+        }
+      ]
+    },
     {
       "id": "0877872ad2",
       "title": "图集：2026 年最佳工作场所奖",
