@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-10-06T01:00:07",
+  "updated_at": "2026-10-06T01:31:48",
   "articles": [
+    {
+      "id": "1d6f7dee77",
+      "title": "Newzoo：免费游戏时长整体持平，抽卡 RPG 推动 PC 增长",
+      "zh_desc": "Newzoo 特别报告反驳了「免费游玩正在衰退」的观点，指出整体 F2P 游玩时长基本持平，而抽卡 RPG 是 PC 端增长的主要驱动力。对关注 F2P 商业模式与用户时长分配的休闲手游团队有一定市场研判价值。",
+      "url": "https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-05T17:15:00",
+      "fetched_at": "2026-10-06T01:31:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容平台/游戏，被文章列为导致 F2P 游玩时长份额下降的市场增长来源之一。"
+        },
+        {
+          "name": "Wuthering Waves",
+          "desc": "抽卡 RPG，与《崩坏：星穹铁道》《绝区零》在 PC 端到 2025 年合计新增 11 亿小时。"
+        },
+        {
+          "name": "Honkai: Star Rail",
+          "desc": "抽卡 RPG，是 Newzoo 报告列出的 PC 端 gacha/RPG 增长主力之一。"
+        },
+        {
+          "name": "Zenless Zone Zero",
+          "desc": "抽卡 RPG，登陆主机后获得增长，并被列为 PC 端 gacha/RPG 增长主力之一。"
+        },
+        {
+          "name": "Genshin Impact",
+          "desc": "抽卡 RPG，文章指出其主机端游玩时长下降，而同期其他同类游戏增长。"
+        },
+        {
+          "name": "EA Sports Madden NFL 27",
+          "desc": "EA Sports 的美式橄榄球游戏，在 2025 年 8 月 Newzoo 主机收入榜首次亮相并排名第 2。"
+        },
+        {
+          "name": "Big Walk",
+          "desc": "House House 开发的合作游戏，在 2025 年 8 月 Newzoo PC 收入榜排名第 3。"
+        }
+      ]
+    },
     {
       "id": "2468552981",
       "title": "为什么沉浸式模拟游戏仍然值得做——对话 Harvey Smith 与 Ben Horne",
