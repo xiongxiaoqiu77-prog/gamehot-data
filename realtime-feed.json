@@ -1,6 +1,88 @@
 {
-  "updated_at": "2026-10-06T01:31:48",
+  "updated_at": "2026-10-06T02:03:43",
   "articles": [
+    {
+      "id": "d719d168c3",
+      "title": "报道：Ninja Theory 从 Xbox 分拆失败后裁员",
+      "zh_desc": "《Hellblade》系列开发商 Ninja Theory 在尝试从母公司 Xbox 剥离未果后传出裁员消息。属于主机/PC 领域的公司动态，对三消休闲赛道从业者参考价值有限。",
+      "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-05T16:45:00",
+      "fetched_at": "2026-10-06T02:03:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hellblade",
+          "desc": "Ninja Theory 开发的以 Senua 为主角的动作冒险游戏系列，融合心理恐怖与凯尔特神话。"
+        },
+        {
+          "name": "Hellblade: Senua’s Saga",
+          "desc": "Hellblade 系列中的动作冒险作品，延续 Senua 的叙事与沉浸式体验。"
+        },
+        {
+          "name": "Senua",
+          "desc": "Ninja Theory 新公布的 Hellblade 系列作品，继续围绕主角 Senua 展开。"
+        },
+        {
+          "name": "Bleeding Edge",
+          "desc": "Ninja Theory 开发的 4v4 多人团队动作竞技游戏。"
+        },
+        {
+          "name": "Enslaved",
+          "desc": "Ninja Theory 开发的末世题材动作冒险游戏。"
+        },
+        {
+          "name": "DmC: Devil May Cry",
+          "desc": "Ninja Theory 开发的《Devil May Cry》重启作，主打高速动作战斗。"
+        }
+      ]
+    },
+    {
+      "id": "e6a36d1d59",
+      "title": "据员工帖文 Ninja Theory 已开始裁员",
+      "zh_desc": "GamesIndustry.biz 报道 Ninja Theory 已启动裁员，依据来自员工公开帖文。同一事件的另一信源报道，反映大厂收缩对开发团队的持续冲击。",
+      "url": "https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-05T17:44:03",
+      "fetched_at": "2026-10-06T02:03:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Senua",
+          "desc": "Ninja Theory 正在开发的 Hellblade 系列第三部作品，Xbox 于六月展示会公布。"
+        },
+        {
+          "name": "Hellblade",
+          "desc": "Ninja Theory 的动作冒险游戏系列，Senua 为该系列第三部作品。"
+        },
+        {
+          "name": "Halo",
+          "desc": "微软旗下的科幻第一人称射击游戏系列，文中提及其所有权被转移。"
+        }
+      ]
+    },
+    {
+      "id": "2c8be64f2e",
+      "title": "迪士尼总裁兼 CCO 否认收购 Epic Games 传闻：\"目前我们没有这类对话\"",
+      "zh_desc": "华特迪士尼总裁兼首席创意官 Dana Walden 回应外界传闻，否认正在洽谈收购 Epic Games。属于大厂资本与合作动向，可作为平台生态格局的参考信息。",
+      "url": "https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-05T10:05:48",
+      "fetched_at": "2026-10-06T02:03:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic Games 的免费大逃杀/沙盒游戏，拥有开放生态并常与迪士尼等 IP 联动。"
+        }
+      ]
+    },
     {
       "id": "1d6f7dee77",
       "title": "Newzoo：免费游戏时长整体持平，抽卡 RPG 推动 PC 增长",
