@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-06T02:03:43",
+  "updated_at": "2026-10-06T03:06:54",
   "articles": [
+    {
+      "id": "cea233e9f3",
+      "title": "“面向青少年的游戏”：Warhorse Studios 联合创始人厌倦千篇一律的 RPG",
+      "zh_desc": "《Kingdom Come: Deliverance》系列开发商 Warhorse Studios 联合创始人 Martin Klima 批评现代 RPG 充斥陈词滥调、面向青少年群体。属于开发者视角的品类反思，可为休闲游戏的题材与叙事定位提供间接启发。",
+      "url": "https://gameworldobserver.com/2026/10/05/games-for-teenagers-warhorse-studios-co-founder-tired-of-stereotypical-rpgs",
+      "source": "Game World Observer",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-10-05T12:12:42",
+      "fetched_at": "2026-10-06T03:06:54",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Kingdom Come: Deliverance",
+          "desc": "以中世纪波希米亚为背景的历史写实向开放世界RPG，强调沉浸式体验，是Warhorse Studios为打破套路化RPG而打造的作品。"
+        },
+        {
+          "name": "Kingdom Come: Deliverance II",
+          "desc": "《天国：拯救》的续作，延续历史写实开放世界RPG路线，文章提到其截至2026年6月销量达600万份。"
+        },
+        {
+          "name": "Assassin's Creed series",
+          "desc": "育碧的潜行动作冒险系列，被文章举例为因重复使用成熟公式、作品相似而缺乏原创风险的代表。"
+        }
+      ]
+    },
     {
       "id": "d719d168c3",
       "title": "报道：Ninja Theory 从 Xbox 分拆失败后裁员",
