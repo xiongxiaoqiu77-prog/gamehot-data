@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-06T00:27:47",
+  "updated_at": "2026-10-06T01:00:07",
   "articles": [
+    {
+      "id": "2468552981",
+      "title": "为什么沉浸式模拟游戏仍然值得做——对话 Harvey Smith 与 Ben Horne",
+      "zh_desc": "知名设计师 Harvey Smith 与 Arkane Austin 前执行制作人 Ben Horne 阐述其新工作室 Black Pony Immersive 的设计理念。内容偏硬核 PC/主机向的品类思考，对休闲消除类玩法设计参考价值有限。",
+      "url": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
+      "source": "Game Developer",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-10-05T15:59:58",
+      "fetched_at": "2026-10-06T01:00:07",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dishonored",
+          "desc": "第一人称动作RPG/沉浸式模拟游戏，以风格化设定、角色塑造和玩家选择著称。"
+        },
+        {
+          "name": "Prey",
+          "desc": "第一人称科幻动作RPG/沉浸式模拟游戏，强调系统化玩法与高自由度探索。"
+        },
+        {
+          "name": "Deathloop",
+          "desc": "第一人称动作/沉浸式模拟游戏，围绕时间循环、目标刺杀与重复探索展开。"
+        }
+      ]
+    },
     {
       "id": "4c76bb30f7",
       "title": "Sony 为初代 PS5 引入 AI 超分辨率技术，Marvel's Wolverine 与 Ghost of Yōtei 首批实装",
