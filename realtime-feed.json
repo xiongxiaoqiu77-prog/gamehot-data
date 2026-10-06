@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-06T03:38:52",
+  "updated_at": "2026-10-06T18:55:29",
   "articles": [
+    {
+      "id": "6cd42e1451",
+      "title": "NBA 2K25 服务器将于 12 月 31 日关闭，单人剧情模式将无法游玩",
+      "zh_desc": "NBA 2K25 将在 2026 年 10 月 30 日从商店下架，并于 12 月 31 日停服；2027 年 1 月 1 日起多人及在线模式不可用。对休闲游戏从业者而言，可作为观察长线运营、停服与内容可玩性风险的案例。",
+      "url": "https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-06T07:24:06",
+      "fetched_at": "2026-10-06T18:55:29",
+      "lang": "en",
+      "games": [
+        {
+          "name": "NBA 2K25",
+          "desc": "篮球体育模拟游戏，包含 MyCareer 单人剧情模式及 MyTeam 等在线模式，相关在线功能依赖 2K 服务器。"
+        }
+      ]
+    },
     {
       "id": "cac93c3729",
       "title": "为什么优秀人才在初创公司会失败",
