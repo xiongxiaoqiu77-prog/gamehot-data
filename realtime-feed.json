@@ -1,6 +1,142 @@
 {
-  "updated_at": "2026-10-06T18:55:29",
+  "updated_at": "2026-10-07T07:13:06",
   "articles": [
+    {
+      "id": "356328ddd4",
+      "title": "Sega 表示不会将游戏的创意环节交给 AI，但在其他部门用技术提升效率",
+      "zh_desc": "Sega 明确不会让 AI 参与游戏创意设计，但已在发行等部门使用 AI 提升效率。反映了大型厂商对 AI 在研发管线中定位的普遍态度，对手游团队的 AI 工具化落地有参考价值。",
+      "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-06T13:50:19",
+      "fetched_at": "2026-10-07T07:13:06",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Crazy Taxi: World Tour",
+          "desc": "Sega 的 Crazy Taxi 系列新作/街机驾驶游戏，报道称其背景资产开发使用了生成式 AI。"
+        },
+        {
+          "name": "Tomb Raider: Legacy of Atlantis",
+          "desc": "Crystal Dynamics 的《古墓丽影》新作/动作冒险游戏，报道称其在早期原型阶段使用生成式 AI，最终内容由人类创作。"
+        }
+      ]
+    },
+    {
+      "id": "caa63c3b63",
+      "title": "巴西希望“十年内跻身全球五大游戏生产国”",
+      "zh_desc": "文章讨论巴西如何通过文化软实力推动游戏产业发展，类比好莱坞与日本动漫的全球影响力。属于区域性产业政策与市场动态，对关注新兴市场用户增长的手游厂商有一定参考。",
+      "url": "https://www.gamesindustry.biz/brazil-wants-to-be-in-the-top-five-game-producers-in-the-world-in-less-than-10-years",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-06T13:00:00",
+      "fetched_at": "2026-10-07T07:13:06",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a25735acf7",
+      "title": "AppLovin 因在儿童游戏中投放成人广告被起诉",
+      "zh_desc": "诉讼称该广告技术公司绕过家长控制，并使用指纹识别技术追踪儿童用户。此事直接关系休闲手游买量与广告变现的合规红线，对依赖广告变现的休闲游戏团队有重要警示价值。",
+      "url": "https://mobilegamer.biz/applovin-sued-over-allegedly-serving-adult-ads-in-childrens-games/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-06T14:15:00",
+      "fetched_at": "2026-10-07T07:13:06",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台/大型多人在线创作平台，因被指控未能阻止成年人冒充儿童接触年轻玩家而成为另一诉讼目标。"
+        }
+      ]
+    },
+    {
+      "id": "882f1ae44e",
+      "title": "Thatgamepublisher 希望签下“具备有意义情感体验”的手游作品",
+      "zh_desc": "《Sky: Children of the Light》团队成立的新发行厂牌将跨平台投资并发行第三方游戏，包括手游。反映了精品化、情感向手游发行策略的新动向，对独立与休闲开发者寻找发行合作有参考价值。",
+      "url": "https://mobilegamer.biz/thatgamepublisher-wants-to-sign-mobile-games-playing-in-meaningful-emotional-territory/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-06T10:33:43",
+      "fetched_at": "2026-10-07T07:13:06",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Sky",
+          "desc": "Thatgamecompany 的社交冒险游戏，2019 年推出，跨移动/主机/Steam，下载量超 3 亿。"
+        },
+        {
+          "name": "Journey",
+          "desc": "Thatgamecompany 开发的经典冒险游戏，文中作为该工作室的代表作提及。"
+        }
+      ]
+    },
+    {
+      "id": "cd7d839ff8",
+      "title": "Scopely 疑似泄露类《Genshin Impact》的 Marvel 新作 Project Comet",
+      "zh_desc": "报道称这款动作RPG计划登陆手游与PC并支持跨平台联机，但尚未获 Scopely 或 Marvel 官方确认。属于新游爆料类资讯，可观察头部厂商在手游 RPG 赛道的布局方向。",
+      "url": "https://mobilegamer.biz/scopelys-genshin-impact-like-marvel-game-dubbed-project-comet-seems-to-have-leaked/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-06T10:23:29",
+      "fetched_at": "2026-10-07T07:13:06",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Project Comet",
+          "desc": "Scopely 未公布的 Marvel 主题开放世界动作 RPG，类《Genshin Impact》，支持移动/PC 跨平台和四人合作。"
+        },
+        {
+          "name": "Genshin Impact",
+          "desc": "HoYoverse 的开放世界动作 RPG，文中被用作 Project Comet 的类比对象。"
+        },
+        {
+          "name": "Marvel Strike Force",
+          "desc": "Scopely 自 2017 年起运营的漫威小队 RPG 手游。"
+        },
+        {
+          "name": "WWE Generations",
+          "desc": "Scopely 准备推出的下一款摔跤游戏。"
+        }
+      ]
+    },
+    {
+      "id": "506cc098a3",
+      "title": "《Tiny Eden》如何从 4,800 愿望单做到首两周 70 万美元：Digital Vortex 发行案例复盘",
+      "zh_desc": "Digital Vortex Entertainment 的 CMO 复盘了 9 月 7 日上线的治愈系种植物模拟游戏《Tiny Eden》的发行打法与愿望单转化。虽然是 Steam 端产品，但其预热与转化思路对休闲品类发行仍有借鉴意义。",
+      "url": "https://gameworldobserver.com/2026/10/06/how-we-took-tiny-eden-from-4800-wishlists-to-700000-in-its-first-two-weeks-a-digital-vortex-publisher-case-study",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-06T17:09:25",
+      "fetched_at": "2026-10-07T07:13:06",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Tiny Eden",
+          "desc": "由 Bajka Games 开发、Digital Vortex 发行的舒适植物种植模拟器，在 Steam 发售后首两周收入超 70 万美元。"
+        }
+      ]
+    },
+    {
+      "id": "a18540a5bf",
+      "title": "圣迭戈当局就儿童游戏中出现成人广告对 AppLovin 提起诉讼",
+      "zh_desc": "继与 Unity 的纠纷之后，AppLovin 又因广告投放行为遭到美国圣迭戈县监管方起诉。事件凸显休闲手游广告变现中的未成年人保护与合规风险。",
+      "url": "https://gameworldobserver.com/2026/10/06/san-diego-authorities-have-filed-a-lawsuit-against-applovin-over-adult-advertisements-in-childrens-games",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-06T14:20:39",
+      "fetched_at": "2026-10-07T07:13:06",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "6cd42e1451",
       "title": "NBA 2K25 服务器将于 12 月 31 日关闭，单人剧情模式将无法游玩",
