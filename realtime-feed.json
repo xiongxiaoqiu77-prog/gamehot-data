@@ -1,6 +1,120 @@
 {
-  "updated_at": "2026-10-07T07:13:06",
+  "updated_at": "2026-10-07T07:45:48",
   "articles": [
+    {
+      "id": "b21bc5918a",
+      "title": "联合开发案例研究：Blackbird Interactive与Secret Mode如何助力Escape the Backrooms抓住Backrooms热潮",
+      "zh_desc": "复盘Fancy旗下热门游戏Escape the Backrooms如何借助联合开发伙伴关系触达超400万玩家。对中小团队的外包协作与发行合作模式有实际参考价值。",
+      "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-06T15:06:28",
+      "fetched_at": "2026-10-07T07:45:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Escape the Backrooms",
+          "desc": "受Backrooms都市传说启发的多人恐怖探索游戏，由Fancy单人开发并在多平台吸引超400万玩家。"
+        },
+        {
+          "name": "The Exit 8",
+          "desc": "以阈限空间为题材的热门恐怖/观察类游戏，并已推出改编电影。"
+        }
+      ]
+    },
+    {
+      "id": "830ce7ceed",
+      "title": "Resident Evil系列游戏参与度在Zach Cregger电影上映后跃升50%，分析师称真正价值在于品牌建设",
+      "zh_desc": "数据显示电影上映前后Resident Evil游戏的玩家参与度上升50%，分析师强调跨媒介联动对品牌长期价值的塑造。对IP联动与品牌运营有借鉴意义。",
+      "url": "https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-06T14:00:00",
+      "fetched_at": "2026-10-07T07:45:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Resident Evil",
+          "desc": "生存恐怖游戏系列，电影上映后系列DAU和销量显著上升。"
+        },
+        {
+          "name": "Resident Evil Requiem",
+          "desc": "《生化危机》系列生存恐怖游戏之一，电影上映后带动参与度提升。"
+        },
+        {
+          "name": "Resident Evil 2",
+          "desc": "《生化危机》系列经典生存恐怖游戏，电影上映后参与度提升。"
+        },
+        {
+          "name": "Resident Evil 4",
+          "desc": "《生化危机》系列动作生存恐怖游戏，电影上映后参与度提升。"
+        },
+        {
+          "name": "Resident Evil Village",
+          "desc": "《生化危机》系列第一人称生存恐怖游戏，文中简称Village。"
+        },
+        {
+          "name": "Biohazard",
+          "desc": "《生化危机》系列生存恐怖游戏，文中以Biohazard列名。"
+        },
+        {
+          "name": "The Last of Us",
+          "desc": "末世生存题材动作冒险游戏，被引为跨媒体带动游戏表现的案例。"
+        },
+        {
+          "name": "Fallout",
+          "desc": "后末日角色扮演游戏系列，被引为跨媒体带动游戏表现的案例。"
+        }
+      ]
+    },
+    {
+      "id": "5398e0da71",
+      "title": "Crossy Road Rush领衔Apple Arcade十一月新游阵容",
+      "zh_desc": "Hipster Whale新作将与State of Play的Kami 2+及Zeste的Food Stylist+一同登陆Apple Arcade。对关注休闲手游发行渠道与订阅平台阵容的从业者有一定参考价值。",
+      "url": "https://mobilegamer.biz/crossy-road-rush-leads-apple-arcades-november-line-up/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-06T22:09:11",
+      "fetched_at": "2026-10-07T07:45:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Crossy Road",
+          "desc": "街机式跳跃跑酷游戏系列，其最新作品为Crossy Road Rush。"
+        },
+        {
+          "name": "Crossy Road Rush",
+          "desc": "Apple Arcade独占的街机动作平台跑酷游戏，支持最多四人本地/在线游玩，含50关冒险和生存模式。"
+        },
+        {
+          "name": "Kami 2",
+          "desc": "State of Play开发的休闲色彩解谜游戏，将以去广告和内购的Apple Arcade版本推出。"
+        },
+        {
+          "name": "Food Stylist",
+          "desc": "Zeste开发的游戏，将以去广告和内购的Apple Arcade版本推出。"
+        },
+        {
+          "name": "Pong",
+          "desc": "雅达利经典街机游戏，被提及可能由Hipster Whale重新带回。"
+        },
+        {
+          "name": "Breakout",
+          "desc": "雅达利经典街机游戏，被提及可能由Hipster Whale重新带回。"
+        },
+        {
+          "name": "Centipede",
+          "desc": "雅达利经典街机游戏，被提及可能由Hipster Whale重新带回。"
+        },
+        {
+          "name": "Missile Command",
+          "desc": "雅达利经典街机游戏，被提及可能由Hipster Whale重新带回。"
+        }
+      ]
+    },
     {
       "id": "356328ddd4",
       "title": "Sega 表示不会将游戏的创意环节交给 AI，但在其他部门用技术提升效率",
