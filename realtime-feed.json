@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-10-07T08:17:46",
+  "updated_at": "2026-10-07T09:21:15",
   "articles": [
+    {
+      "id": "6f6c014453",
+      "title": "Unlead Labs 工作室负责人称在裁员准备中对员工“过度坦诚”",
+      "zh_desc": "Unlead Labs 工作室负责人 Philip Holt 回顾了公司在裁员前夕与员工沟通的方式，自评当时“不负责任地透明”。这是一则游戏公司组织与人员变动的行业新闻，对关注团队管理与行业就业环境的从业者有一定参考价值，但不涉及休闲游戏设计本身。",
+      "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-06T17:12:41",
+      "fetched_at": "2026-10-07T09:21:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "State of Decay",
+          "desc": "僵尸生存与管理题材系列游戏，文章提到 Undead Labs 保留该 IP。"
+        },
+        {
+          "name": "State of Decay 3",
+          "desc": "正在开发的僵尸生存游戏，文章称其仍计划于 2027 年发布。"
+        },
+        {
+          "name": "Arc Raiders",
+          "desc": "相关报道中提及将改编为影视的科幻撤离射击游戏。"
+        },
+        {
+          "name": "The Finals",
+          "desc": "相关报道中提及将改编为影视的团队竞技射击游戏。"
+        }
+      ]
+    },
+    {
+      "id": "4a3371a188",
+      "title": "Star Wars: Galactic Racer 登陆 Amazon Luna，随 Prime 订阅提供",
+      "zh_desc": "Star Wars: Galactic Racer 在发售同期上线云游戏服务 Amazon Luna，并包含在 Prime 订阅内，体现了云游戏平台以订阅捆绑获取内容的策略。对休闲手游从业者来说，可作为订阅制分发与内容合作模式的参考案例，但内容本身偏主机/PC 向。",
+      "url": "https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-06T09:12:24",
+      "fetched_at": "2026-10-07T09:21:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "由 Fuse Games 开发、Secret Mode 发行的《星球大战》竞速游戏，含单人战役、Arcade 和 Scenario 模式，首发登陆 Amazon Luna 等平台。"
+        },
+        {
+          "name": "Indiana Jones and the Great Circle",
+          "desc": "文章作为 Amazon Luna 平台库中游戏提及的《夺宝奇兵》题材动作冒险游戏。"
+        },
+        {
+          "name": "Hogwarts Legacy",
+          "desc": "文章作为 Amazon Luna 平台库中游戏提及的《哈利·波特》世界观动作角色扮演游戏。"
+        },
+        {
+          "name": "EA Sports FC 26",
+          "desc": "文章作为 Amazon Luna 平台库中游戏提及的足球体育游戏。"
+        },
+        {
+          "name": "Tomb Raider",
+          "desc": "文章作为未来可能登陆 Luna 的 AAA 游戏提及的《古墓丽影》系列动作冒险游戏。"
+        }
+      ]
+    },
     {
       "id": "9e27a7d8fd",
       "title": "南澳大利亚政府将数字游戏基金翻倍至 100 万澳元，创当地游戏开发投资之最",
