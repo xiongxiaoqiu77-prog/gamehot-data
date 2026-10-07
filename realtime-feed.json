@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-07T07:45:48",
+  "updated_at": "2026-10-07T08:17:46",
   "articles": [
+    {
+      "id": "9e27a7d8fd",
+      "title": "南澳大利亚政府将数字游戏基金翻倍至 100 万澳元，创当地游戏开发投资之最",
+      "zh_desc": "南澳大利亚电影公司（SAFC）将数字游戏基金（DGF）规模翻倍至 100 万澳元，用于扶持本地开发者，是该地区迄今最大规模的游戏开发投资。对关注海外政府补贴与区域扶持政策的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-games-fund-to-1m",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-06T11:11:16",
+      "fetched_at": "2026-10-07T08:17:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Pro Jank Footy",
+          "desc": "在文中提到该作曾登上 Nintendo Switch 榜首。"
+        },
+        {
+          "name": "End of Ember",
+          "desc": "Bad Plan Studios 凭该作与泰国 Rising Tide Publishing 达成发行协议。"
+        },
+        {
+          "name": "The Troll & The Witch's House",
+          "desc": "Little Bandit 的该作入选 PAX Australia 展出。"
+        },
+        {
+          "name": "Peppermint",
+          "desc": "Cowboy Fish 的该作入选 PAX Australia 展出。"
+        }
+      ]
+    },
     {
       "id": "b21bc5918a",
       "title": "联合开发案例研究：Blackbird Interactive与Secret Mode如何助力Escape the Backrooms抓住Backrooms热潮",
