@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-07T19:21:57",
+  "updated_at": "2026-10-07T20:26:07",
   "articles": [
+    {
+      "id": "7fb2e0b931",
+      "title": "Google 推出全新\"实验性\"AI 游戏平台 Google Playground",
+      "zh_desc": "Google 上线名为 Google Playground 的实验性平台，供用户体验由 AI 生成的游戏。此举体现大厂在生成式 AI 与游戏发行结合上的探索，对关注 AI 玩法创新与平台级机会的从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-06T20:14:47",
+      "fetched_at": "2026-10-07T20:26:07",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Zephon",
+          "desc": "Proxy Studios 开发的 4X 策略游戏。"
+        },
+        {
+          "name": "Down With The Ship",
+          "desc": "Iron Anchor Studios 开发的游戏，文中未说明具体类型或特点。"
+        },
+        {
+          "name": "Endless Space 2",
+          "desc": "Amplitude Studio 于 2017 年推出的游戏，文中未说明具体类型或特点。"
+        }
+      ]
+    },
     {
       "id": "4dee1659e7",
       "title": "行为式 AI 如何帮助对抗作弊",
