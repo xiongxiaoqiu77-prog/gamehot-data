@@ -1,6 +1,85 @@
 {
-  "updated_at": "2026-10-08T10:28:36",
+  "updated_at": "2026-10-08T11:07:32",
   "articles": [
+    {
+      "id": "f21de69218",
+      "title": "Star Wars Zero Company 开发商 Bit Reactor 召回逾半数停职员工",
+      "zh_desc": "Bit Reactor 在战术射击新作 Star Wars Zero Company 发售前让大部分员工停职，如今开始召回超过半数人员。属于海外工作室人事与项目动态，与休闲游戏赛道关联较弱，可作为行业景气度参考。",
+      "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T18:00:00",
+      "fetched_at": "2026-10-08T11:07:32",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "Bit Reactor 开发的《星球大战》战术游戏，报道聚焦其停职员工返岗及发售支持。"
+        }
+      ]
+    },
+    {
+      "id": "e92e59c7a5",
+      "title": "Star Wars Zero Company 开发商 Bit Reactor 开始让停职员工返岗",
+      "zh_desc": "Bit Reactor 已开始召回此前为游戏发售而停职的员工。与第 0 条为同一事件的不同来源报道，属公司人事动态，与休闲游戏设计运营无直接关联。",
+      "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T19:41:33",
+      "fetched_at": "2026-10-08T11:07:32",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "Bit Reactor 开发的《星球大战》战术游戏，发售前停职员工现已部分返岗。"
+        }
+      ]
+    },
+    {
+      "id": "2cbba66324",
+      "title": "Asha Sharma 据悉在内部全员会上告知员工 Xbox 已“开始恢复增长”",
+      "zh_desc": "Xbox CEO Asha Sharma 在内部会议中表示公司在触底后已开始恢复增长。属于平台方经营信号，对关注主机与跨平台发行环境的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T10:59:12",
+      "fetched_at": "2026-10-08T11:07:32",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Gears of War: E-Day",
+          "desc": "《战争机器》系列新作，文章称其近期发售表现强劲。"
+        },
+        {
+          "name": "Minecraft Dungeons 2",
+          "desc": "《我的世界：地下城》系列续作，文章称其近期发售表现强劲。"
+        },
+        {
+          "name": "World of Warcraft Forever",
+          "desc": "《魔兽世界》系列新作或版本，文章称其近期发售表现强劲。"
+        },
+        {
+          "name": "Halo",
+          "desc": "微软旗下科幻第一人称射击游戏系列，文章提到该系列被转移至 Activision。"
+        }
+      ]
+    },
+    {
+      "id": "748b8c2ad8",
+      "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
+      "zh_desc": "Apple 发布《中国 App Store 生态系统——2025 年开发者与用户价值研究》，显示生态规模五年间翻倍，并强调对中国开发者出海的支持。可作为理解 iOS 分发大盘与中国开发者全球化机会的数据参考。",
+      "url": "https://sspai.com/post/115462",
+      "source": "少数派",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-08T01:47:59",
+      "fetched_at": "2026-10-08T11:07:32",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "25cf96cba7",
       "title": "Electronic Arts 杠杆收购遭遇债券持有人博弈",
