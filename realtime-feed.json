@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-10-08T11:07:32",
+  "updated_at": "2026-10-08T11:40:33",
   "articles": [
+    {
+      "id": "3c348f5abc",
+      "title": "前 Activision Blizzard CEO Bobby Kotick 加入合并后 Skydance 董事会",
+      "zh_desc": "Paramount 与 WB 合并后成立的新公司任命 Bobby Kotick 为董事会成员。这条公司高层人事动态反映了大型娱乐/游戏资本整合的走向，对关注行业资本结构与决策层的从业者有参考价值。",
+      "url": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T17:19:05",
+      "fetched_at": "2026-10-08T11:40:33",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hogwarts Legacy",
+          "desc": "开放世界动作角色扮演游戏，设定在《哈利·波特》魔法世界。"
+        },
+        {
+          "name": "Mortal Kombat One",
+          "desc": "NetherRealm 的《真人快打》系列格斗游戏重启作。"
+        },
+        {
+          "name": "Suicide Squad",
+          "desc": "Rocksteady 开发的 DC 反派团队合作动作射击游戏。"
+        },
+        {
+          "name": "LEGO Batman",
+          "desc": "TT Games 的乐高风格蝙蝠侠动作冒险平台游戏。"
+        },
+        {
+          "name": "Gotham Knights",
+          "desc": "以蝙蝠侠家族为主角的动作角色扮演游戏，背景设定在哥谭。"
+        },
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "Bit Reactor 开发的《星球大战》回合制战术游戏。"
+        }
+      ]
+    },
     {
       "id": "f21de69218",
       "title": "Star Wars Zero Company 开发商 Bit Reactor 召回逾半数停职员工",
