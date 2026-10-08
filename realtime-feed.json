@@ -1,6 +1,201 @@
 {
-  "updated_at": "2026-10-08T21:58:10",
+  "updated_at": "2026-10-09T00:10:15",
   "articles": [
+    {
+      "id": "ace017b480",
+      "title": "NBA 2K27 登顶美国 8 月销量榜，成为 2026 年第三畅销游戏｜美国月度榜",
+      "zh_desc": "Circana 数据显示 NBA 2K27 位居美国 8 月销量榜首，并跻身 2026 年销量前三。可作为主机/PC 市场大盘的参考数据，但与休闲消除品类关联有限。",
+      "url": "https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-08T13:00:00",
+      "fetched_at": "2026-10-09T00:10:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "NBA 2K27",
+          "desc": "篮球模拟/体育游戏，2026年8月26日抢先体验，登顶美国8月销量榜，并成为2026年第三畅销游戏。"
+        },
+        {
+          "name": "NBA 2K25",
+          "desc": "篮球模拟游戏，文章提到其将于月底从商店下架，服务器于2026年12月31日关闭。"
+        },
+        {
+          "name": "Madden NFL 27",
+          "desc": "美式橄榄球体育游戏，8月美国销量榜第2的新作。"
+        },
+        {
+          "name": "Marvel Tōkon: Fighting Souls",
+          "desc": "漫威题材格斗游戏，8月美国销量榜第3的新作。"
+        },
+        {
+          "name": "EA Sports College Football 27",
+          "desc": "大学美式橄榄球体育游戏，与Madden NFL 27一同包含在Kickoff Bundle中，该捆绑包8月销量第4。"
+        },
+        {
+          "name": "Star Wars: Zero Company",
+          "desc": "Respawn Entertainment开发的星球大战游戏，8月美国销量榜第5的新作。"
+        },
+        {
+          "name": "Elden Ring",
+          "desc": "FromSoftware的动作RPG，因8月28日推出Switch 2版销量上升34位至第7。"
+        },
+        {
+          "name": "Monopoly Go",
+          "desc": "大富翁主题手游，8月进入手游收入前三。"
+        },
+        {
+          "name": "Royal Match",
+          "desc": "三消手游，8月进入手游收入前三。"
+        },
+        {
+          "name": "Candy Crush Saga",
+          "desc": "三消手游，8月进入手游收入前三。"
+        },
+        {
+          "name": "Pokemon Go",
+          "desc": "AR地理定位手游，10周年庆祝结束后排名下降4位至第7，10周年活动据估计收入4850万美元。"
+        },
+        {
+          "name": "Halo: Campaign Evolved",
+          "desc": "光环系列射击游戏，8月美国销量榜第6。"
+        },
+        {
+          "name": "Big Walk",
+          "desc": "8月美国销量榜第8的新作。"
+        },
+        {
+          "name": "Mario Kart World",
+          "desc": "马力欧卡丁车竞速游戏，8月美国销量榜第9。"
+        },
+        {
+          "name": "Splatoon Raid",
+          "desc": "斯普拉遁系列游戏，8月美国销量榜第10。"
+        }
+      ]
+    },
+    {
+      "id": "678cdb7b70",
+      "title": "Paramount 与 Warner 合并为 Skydance 后，其手游产品矩阵长什么样",
+      "zh_desc": "梳理 Skydance 手握的 Harry Potter、Game of Thrones、DC、Star Trek 等 IP 在移动端的产品与授权组合，并指出多重授权协议让版图相当复杂。对关注 IP 改编手游与授权合作的从业者有参考价值。",
+      "url": "https://mobilegamer.biz/as-paramount-and-warner-become-skydance-heres-what-its-mobile-catalogue-looks-like/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-08T14:17:06",
+      "fetched_at": "2026-10-09T00:10:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Game of Thrones: Dragonfire",
+          "desc": "2026年6月2日上线的权游手游，是华纳组合中月IAP收入最高的游戏，7至9月约收入330万至450万美元。"
+        },
+        {
+          "name": "Game of Thrones: Conquest",
+          "desc": "2017年上线的权游策略手游，仍能带来约100万至120万美元的月IAP收入。"
+        },
+        {
+          "name": "Mortal Kombat",
+          "desc": "2015年发布的移动版格斗游戏，是华纳第三赚钱的手游，月均IAP收入近100万美元。"
+        },
+        {
+          "name": "Injustice 2",
+          "desc": "DC题材格斗手游，近30天IAP收入约43.2万美元。"
+        },
+        {
+          "name": "Injustice",
+          "desc": "DC题材格斗手游，近30天IAP收入约29.9万美元。"
+        },
+        {
+          "name": "Heads Up!",
+          "desc": "派对猜词手游，近30天IAP收入约28.9万美元。"
+        },
+        {
+          "name": "DC Worlds Collide",
+          "desc": "DC题材手游，近30天IAP收入约24.6万美元。"
+        },
+        {
+          "name": "Lego Star Wars",
+          "desc": "乐高星战题材旧款手游，月IAP收入约1万至3万美元。"
+        },
+        {
+          "name": "Lego Ninjago",
+          "desc": "乐高幻影忍者题材旧款手游，月IAP收入约1万至3万美元。"
+        },
+        {
+          "name": "Lego Marvel Super Heroes",
+          "desc": "乐高漫威超级英雄题材旧款手游，月IAP收入约1万至3万美元。"
+        },
+        {
+          "name": "Lego Jurassic World",
+          "desc": "乐高侏罗纪世界题材旧款手游，月IAP收入约1万至3万美元。"
+        },
+        {
+          "name": "Lego Batman",
+          "desc": "乐高蝙蝠侠题材旧款手游，月IAP收入约1万至3万美元。"
+        },
+        {
+          "name": "Harry Potter: Hogwarts Mystery",
+          "desc": "Jam City开发的哈利波特叙事冒险手游，典型月IAP收入约160万至180万美元，华纳作为授权方分成。"
+        },
+        {
+          "name": "Harry Potter: Puzzles & Spells",
+          "desc": "Zynga开发的哈利波特三消手游，典型月IAP收入约120万美元。"
+        },
+        {
+          "name": "Harry Potter: Magic Awakened",
+          "desc": "网易运营的哈利波特手游，9月IAP收入升至约100万美元。"
+        },
+        {
+          "name": "Game of Thrones Slots Casino",
+          "desc": "Zynga开发的权游主题老虎机手游，典型月收入约160万美元。"
+        },
+        {
+          "name": "Game of Thrones: Legends",
+          "desc": "Zynga开发的权游手游，月收入约70万美元。"
+        },
+        {
+          "name": "Game of Thrones: Kingsroad",
+          "desc": "Netmarble运营的权游手游，文章称其表现挣扎。"
+        }
+      ]
+    },
+    {
+      "id": "f8613ef296",
+      "title": "Capcom 的 Monster Hunter Rise 疑似将通过 Netflix 登陆移动端",
+      "zh_desc": "移动版针对触屏重做了操作方式，并通过进度解锁活动任务。属于知名 IP 移植手游的新动态，对关注手游发行渠道与 Netflix 游戏布局的从业者有参考意义。",
+      "url": "https://mobilegamer.biz/capcoms-monster-hunter-rise-appears-to-be-coming-to-mobile-through-netflix/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-08T11:29:38",
+      "fetched_at": "2026-10-09T00:10:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monster Hunter Rise",
+          "desc": "卡普空的动作狩猎RPG，现通过Netflix登陆iOS和Android，免费下载但需Netflix会员，并针对移动端调整了触控和恢复按钮。"
+        },
+        {
+          "name": "Monster Hunter Outlanders",
+          "desc": "腾讯与卡普空合作的开放世界生存狩猎手游，将于10月29日上线移动端。"
+        }
+      ]
+    },
+    {
+      "id": "5229dee5b7",
+      "title": "Google 在 10 亿英镑英国集体诉讼中为 Play Store 抽成辩护",
+      "zh_desc": "原告主张 Google 最高 30% 的抽成被转嫁给约 2000 万英国消费者。涉及移动应用商店分成与平台合规，对手游变现与发行成本研究有参考价值。",
+      "url": "https://mobilegamer.biz/google-defends-play-store-commissions-in-1bn-uk-class-action/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-08T09:33:27",
+      "fetched_at": "2026-10-09T00:10:15",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "5c1627d17d",
       "title": "Discord 防护机器人 Double Counter 遭数据泄露，约 100 万个电子邮件地址曝光",
