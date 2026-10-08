@@ -1,6 +1,49 @@
 {
-  "updated_at": "2026-10-08T12:45:54",
+  "updated_at": "2026-10-08T13:18:29",
   "articles": [
+    {
+      "id": "0d00083062",
+      "title": "Gravity Well 失去融资后裁撤 40 余名开发者",
+      "zh_desc": "由 Respawn Entertainment 前成员创立的独立工作室 Gravity Well 在融资落空后裁掉大部分团队，逾 40 名开发者受影响。这是典型的行业资本收缩案例，对关注中小团队生存环境与发行合作格局的从业者有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T20:30:32",
+      "fetched_at": "2026-10-08T13:18:29",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "435cf7ed85",
+      "title": "Wizards of the Coast 工会扩员，要求公司停止推行生成式 AI",
+      "zh_desc": "《Dungeons & Dragons》与《Magic: The Gathering》团队加入工会，并呼吁 Hasbro 与 Wizards 管理层停止推进生成式 AI。该事件折射出头部厂商在 AI 应用与开发者权益之间的博弈，对关注美术产能与团队管理的从业者有参考意义。",
+      "url": "https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T15:58:18",
+      "fetched_at": "2026-10-08T13:18:29",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dungeons & Dragons",
+          "desc": "经典桌上角色扮演游戏，文中提及其团队参与 Wizards of the Coast 工会扩员。"
+        },
+        {
+          "name": "Magic: The Gathering",
+          "desc": "集换式卡牌游戏，文中提及其团队及工会对生成式 AI 的诉求。"
+        },
+        {
+          "name": "Duel Masters",
+          "desc": "集换式卡牌游戏，文中提到 Team X 同时负责该游戏。"
+        },
+        {
+          "name": "Magic: The Gathering Arena",
+          "desc": "《万智牌》的数字版集换式卡牌游戏，文中提及其开发者团队曾组织工会。"
+        }
+      ]
+    },
     {
       "id": "a89d74ec6f",
       "title": "DMZ 深度解析第一部分：值勤巡游——Hajin 环境与威胁、完整情报指南 - Call of Duty",
