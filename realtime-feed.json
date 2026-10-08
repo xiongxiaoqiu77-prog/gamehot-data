@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-10-08T08:16:34",
+  "updated_at": "2026-10-08T10:28:36",
   "articles": [
+    {
+      "id": "25cf96cba7",
+      "title": "Electronic Arts 杠杆收购遭遇债券持有人博弈",
+      "zh_desc": "EA 被收购过程中承担了大量债务，部分债券持有人要求更高的现金对价。反映大型游戏公司资本运作风险，可作为行业并购趋势的观察样本。",
+      "url": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T15:13:19",
+      "fetched_at": "2026-10-08T10:28:36",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "相关新闻中提及的星球大战游戏，由 Bit Reactor 开发。"
+        }
+      ]
+    },
+    {
+      "id": "04029993e7",
+      "title": "Paramount Games Studio 与 WB Games 在 Skydance 下完成合并",
+      "zh_desc": "在 1110 亿美元收购完成后，Paramount Games Studio 与 Warner Bros. Games 合并为单一部门，由 Tony Driscoll 负责。属重大公司重组资讯，可供关注 IP 与发行格局变化。",
+      "url": "https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T14:00:22",
+      "fetched_at": "2026-10-08T10:28:36",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "175a45361e",
+      "title": "Paramount 与 Warner Bros. Discovery 完成 1110 亿美元合并，统一以 Skydance 之名运营",
+      "zh_desc": "Paramount 完成对 Warner Bros. Discovery 的 1110 亿美元收购，两家公司现以 Skydance 名义运营。属影响深远的行业并购事件。",
+      "url": "https://www.gamesindustry.biz/paramount-and-warner-bros-discovery-operating-under-skydance-following-completion-of-111bn-merger",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T08:21:09",
+      "fetched_at": "2026-10-08T10:28:36",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hogwarts Legacy",
+          "desc": "由 Avalanche Software 开发的哈利波特题材游戏。"
+        },
+        {
+          "name": "Mortal Kombat",
+          "desc": "由 NetherRealm 开发的格斗游戏系列。"
+        },
+        {
+          "name": "Arkham",
+          "desc": "由 Rocksteady 开发的蝙蝠侠阿卡姆系列游戏。"
+        },
+        {
+          "name": "Lego",
+          "desc": "由 TT Games 开发的乐高系列游戏。"
+        },
+        {
+          "name": "1943: Rise of Hydra",
+          "desc": "由 Amy Hennig 参与开发的即将推出的游戏项目。"
+        }
+      ]
+    },
     {
       "id": "23a6c39611",
       "title": "Unity 发布 Unity Spark，面向 Google AI 游戏平台的提示词工具",
