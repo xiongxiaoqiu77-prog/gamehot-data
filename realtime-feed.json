@@ -1,6 +1,163 @@
 {
-  "updated_at": "2026-10-07T20:26:07",
+  "updated_at": "2026-10-08T08:16:34",
   "articles": [
+    {
+      "id": "23a6c39611",
+      "title": "Unity 发布 Unity Spark，面向 Google AI 游戏平台的提示词工具",
+      "zh_desc": "Unity 推出基于提示词的开发工具，与 Google AI 合作，可快速生成游戏内容。对关注 AI 生产工具链的手游团队有一定参考意义，但未涉及休闲游戏具体设计方法。",
+      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T12:05:56",
+      "fetched_at": "2026-10-08T08:16:34",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "52ca47e597",
+      "title": "如何经营一家独立游戏工作室：第二部分，定义你的未来",
+      "zh_desc": "该系列文章介绍 FIRM 框架的第一根支柱，即工作室如何明确自身发展方向。属于管理与方法论内容，可作独立团队长期规划参考，但不是玩法或数值层面的拆解。",
+      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T14:00:00",
+      "fetched_at": "2026-10-08T08:16:34",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "bc9d9b604f",
+      "title": "Unity 发布基于网页的 AI 游戏创作平台",
+      "zh_desc": "Google 推出用自然语言提示生成游戏的 Playground 平台，Unity 也将提供基于生成式 AI 智能体的版本。对关注低门槛开发工具与新型发行渠道的手游团队有观察价值。",
+      "url": "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T12:00:00",
+      "fetched_at": "2026-10-08T08:16:34",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a81f733543",
+      "title": "Google 公布 Playground：AI 驱动的游戏制作平台",
+      "zh_desc": "玩家可用提示词创建和编辑游戏，并在手机或 PC 上直接游玩，Unity 通过 Spark 工具集提供专业级能力。对关注 AI 生成内容入口与移动端新分发渠道的从业者有参考意义。",
+      "url": "https://mobilegamer.biz/google-reveals-playground-its-ai-powered-game-making-platform/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T12:00:05",
+      "fetched_at": "2026-10-08T08:16:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "大型用户生成内容游戏平台，文章提到其股价因 Google Project Genie 公布而下跌。"
+        }
+      ]
+    },
+    {
+      "id": "d8f20c97bd",
+      "title": "数据周报：Monopoly Go 登顶广告投放榜、Türkiye 市场数据、投资动态等",
+      "zh_desc": "本期汇总 Monopoly Go 广告投放居首、Funfinity 的 Food Hunt 达成里程碑、Appfigures 八月榜单及土耳其市场数据等。属于手游买量与市场表现的实用信息，可帮助休闲品类团队把握投放与竞争态势。",
+      "url": "https://mobilegamer.biz/data-digest-monopoly-go-tops-ad-spend-chart-turkiye-market-stats-investments-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-07T10:30:47",
+      "fetched_at": "2026-10-08T08:16:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "移动休闲棋盘手游，8 月美国广告支出最高，Sensor Tower 估算美国 IAP 收入 9380 万美元。"
+        },
+        {
+          "name": "Royal Match",
+          "desc": "移动解谜手游，8 月美国广告支出第七、收入第二（6480 万美元），下载环比增长 13%。"
+        },
+        {
+          "name": "Candy Crush Saga",
+          "desc": "三消手游，8 月位列收入榜前列，Sensor Tower 美国收入第三为 5300 万美元，Appfigures 统计约 8500 万美元。"
+        },
+        {
+          "name": "Gossip Harbor",
+          "desc": "移动手游，8 月美国广告支出第二，Appfigures 估算月收入 1.05 亿美元。"
+        },
+        {
+          "name": "Kingshot",
+          "desc": "移动手游，8 月美国广告支出第三，但下载下降超过 20%。"
+        },
+        {
+          "name": "Tasty Travels",
+          "desc": "移动手游，8 月收入增长 7.2%，为前十中增长领先者。"
+        },
+        {
+          "name": "Pokémon Go",
+          "desc": "AR 宝可梦手游，8 月收入下降 48% 至 3090 万美元。"
+        },
+        {
+          "name": "Vita Mahjong",
+          "desc": "麻将题材手游，8 月广告支出第十、IAP 收入最低（12.1 万美元），但下载最高（140 万）。"
+        },
+        {
+          "name": "Royal Kingdom",
+          "desc": "Dream Games 旗下手游，与 Royal Match 合计自上线以来收入超过 52 亿美元。"
+        },
+        {
+          "name": "Honor of Kings",
+          "desc": "腾讯 MOBA 手游，8 月估算收入 1.08 亿美元，居 Appfigures 收入榜榜首。"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "末日生存策略手游，8 月收入约 1.04 亿美元，居 Appfigures 收入榜第三。"
+        },
+        {
+          "name": "PUBG Mobile",
+          "desc": "大逃杀射击手游，8 月收入约 8800 万美元，居 Appfigures 收入榜第五。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "大型 UGC 游戏平台，8 月以约 2000 万次安装居 iOS 与 Android 合计下载榜首。"
+        },
+        {
+          "name": "Subway Surfers",
+          "desc": "跑酷手游，8 月以约 1800 万次安装居下载榜第二。"
+        },
+        {
+          "name": "Block Out",
+          "desc": "Grand Games 旗下手游，8 月以 900 万次安装居 iOS 下载榜首。"
+        },
+        {
+          "name": "Smash Fest",
+          "desc": "移动手游，8 月以 600 万次安装居 iOS 下载榜第二。"
+        },
+        {
+          "name": "Bus Traffic Fever",
+          "desc": "移动手游，8 月以 600 万次安装居 iOS 下载榜第三。"
+        }
+      ]
+    },
+    {
+      "id": "0afacf08e8",
+      "title": "Google 在浏览器中推出游戏开发 AI 平台，Unity 亦参与",
+      "zh_desc": "Google 宣布对标 Roblox 的 Playground，可在浏览器内用提示词生成游戏。与第 15 条为同一事件的不同报道，反映 AI 原生开发平台的竞争态势。",
+      "url": "https://gameworldobserver.com/2026/10/07/google-has-introduced-an-ai-platform-for-game-development-directly-in-the-browser-unity-is-also",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T15:01:02",
+      "fetched_at": "2026-10-08T08:16:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "大型用户生成内容游戏平台，Google Playground 被描述为试图与其竞争。"
+        }
+      ]
+    },
     {
       "id": "7fb2e0b931",
       "title": "Google 推出全新\"实验性\"AI 游戏平台 Google Playground",
