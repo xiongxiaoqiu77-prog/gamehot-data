@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-08T14:23:57",
+  "updated_at": "2026-10-08T21:58:10",
   "articles": [
+    {
+      "id": "5c1627d17d",
+      "title": "Discord 防护机器人 Double Counter 遭数据泄露，约 100 万个电子邮件地址曝光",
+      "zh_desc": "Double Counter 用于防止 Discord 服务器遭 raid 和 alt 账号攻击，本次泄露影响约 100 万邮箱及更多用户的 Discord ID 和 IP 地址。对运营玩家社区的游戏团队有安全警示，但与休闲游戏核心设计关联较弱。",
+      "url": "https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T19:15:58",
+      "fetched_at": "2026-10-08T21:58:10",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "60a75de708",
       "title": "探究移动 MMORPG 的崩塌",
