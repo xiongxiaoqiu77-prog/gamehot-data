@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-08T11:40:33",
+  "updated_at": "2026-10-08T12:45:54",
   "articles": [
+    {
+      "id": "a89d74ec6f",
+      "title": "DMZ 深度解析第一部分：值勤巡游——Hajin 环境与威胁、完整情报指南 - Call of Duty",
+      "zh_desc": "Call of Duty DMZ 模式的环境与威胁情报指南，详解 Hajin 地图的玩法要素与敌情。属硬核射击游戏的内容攻略，与休闲消除类玩法及变现研究相关度较低。",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYnllSmRQTkFDMzNrTlBCUW1COUZyTmtCeFJ4eFlLNy1TMTJuZHJEX2Fvc3hYbThWNUR3ZmVnWXhqUFJ6UU52ZzR2VEJIQ1FxQ0h1cHVLZ3k2Ykhld1JCWFl6bXFrUTVyS0w1YzFURk9BeVhPSEJvMHhjM3NWcDZwMzRLWG85SXVZdlJrb2loRXh4WUk?oc=5",
+      "source": "Google News",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-10-05T23:07:50",
+      "fetched_at": "2026-10-08T12:45:54",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Call of Duty",
+          "desc": "第一人称射击游戏系列；本文解析其 DMZ 模式中 Hajin 的环境与威胁。"
+        }
+      ]
+    },
     {
       "id": "3c348f5abc",
       "title": "前 Activision Blizzard CEO Bobby Kotick 加入合并后 Skydance 董事会",
