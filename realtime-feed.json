@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-09T00:10:15",
+  "updated_at": "2026-10-09T01:14:42",
   "articles": [
+    {
+      "id": "33e39343f0",
+      "title": "“现在一个好的创意比 AI 更能省钱”——Glen Schofield 谈退休、Callisto Protocol 开发与 3A 现状",
+      "zh_desc": "资深开发者 Glen Schofield 回顾职业生涯，谈及 Callisto Protocol 的开发历程以及 3A 制作的成本与创意取舍，并表达了对 AI 降本效果的怀疑。对理解大厂项目管理和创意价值有一定参考，但不涉及休闲品类。",
+      "url": "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-08T13:30:00",
+      "fetched_at": "2026-10-09T01:14:42",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Barbie: Game Girl",
+          "desc": "1992 年的 Game Boy 平台游戏，是 Glen Schofield 职业生涯早期参与的作品之一。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "知名第一人称射击游戏系列，Schofield 曾领导开发该系列的 Sledgehammer Games 工作室。"
+        },
+        {
+          "name": "Dead Space",
+          "desc": "科幻生存恐怖游戏，Schofield 担任执行制作人，并被视为《The Callisto Protocol》风格上的前作参照。"
+        },
+        {
+          "name": "The Callisto Protocol",
+          "desc": "2022 年推出的科幻生存恐怖游戏，由 Striking Distance Studios 开发，是 Schofield 在 Krafton 旗下的最后一部作品。"
+        }
+      ]
+    },
     {
       "id": "ace017b480",
       "title": "NBA 2K27 登顶美国 8 月销量榜，成为 2026 年第三畅销游戏｜美国月度榜",
