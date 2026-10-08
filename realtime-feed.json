@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-08T13:18:29",
+  "updated_at": "2026-10-08T14:23:57",
   "articles": [
+    {
+      "id": "60a75de708",
+      "title": "探究移动 MMORPG 的崩塌",
+      "zh_desc": "Naavik 用数据论证移动 MMORPG 品类 IAP 收入从 2021 年的 53 亿美元跌至 2025 年的 28 亿美元，跌幅 47%，排名从第一滑落至第六。对从业者判断手游品类迁移、用户时间与付费流向其他赛道（含休闲品类）有参考价值。",
+      "url": "https://naavik.co/f2p-mobile/investigating-the-collapse-of-mobile-mmorpgs/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-08T05:57:23",
+      "fetched_at": "2026-10-08T14:23:57",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "0d00083062",
       "title": "Gravity Well 失去融资后裁撤 40 余名开发者",
