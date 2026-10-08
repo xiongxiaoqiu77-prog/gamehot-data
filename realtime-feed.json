@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-09T02:18:03",
+  "updated_at": "2026-10-09T07:31:08",
   "articles": [
+    {
+      "id": "fcf975eba5",
+      "title": "Fireshine Games 收购 Necesse 开发商 Fair Games，被称为丹麦独立工作室的'决定性时刻'",
+      "zh_desc": "Fireshine Games 完成对丹麦独立工作室 Fair Games 及其开放世界沙盒作品 Necesse 的收购。属于发行商并购动态，可观察中小团队的长线产品与发行绑定模式。",
+      "url": "https://www.gamesindustry.biz/fireshine-games-acquires-necesse-dev-fair-games-described-as-a-defining-moment-for-danish-indie-studio",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-08T08:09:16",
+      "fetched_at": "2026-10-09T07:31:08",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Necesse",
+          "desc": "一款开放世界沙盒游戏，属于生存/制作类型，2019年首发并拥有约250万玩家。"
+        },
+        {
+          "name": "Far Far West",
+          "desc": "Evil Raptor开发的一款游戏，文章仅提及其取得成功，未说明具体类型或特点。"
+        }
+      ]
+    },
     {
       "id": "12acc5358f",
       "title": "特朗普政府暂停 Microsoft 申请绿卡的资格，指控其存在欺诈行为",
