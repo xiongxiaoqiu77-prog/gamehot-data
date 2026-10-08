@@ -1,6 +1,97 @@
 {
-  "updated_at": "2026-10-09T01:14:42",
+  "updated_at": "2026-10-09T02:18:03",
   "articles": [
+    {
+      "id": "12acc5358f",
+      "title": "特朗普政府暂停 Microsoft 申请绿卡的资格，指控其存在欺诈行为",
+      "zh_desc": "美国政府暂停了 Microsoft 为外籍员工申请 H1-B 签证与绿卡的能力，指控其存在欺诈行为，可能影响 Xbox 部门的招聘。属于大厂人事与政策层面的行业动态，与休闲游戏玩法或变现无直接关系。",
+      "url": "https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-08T18:05:00",
+      "fetched_at": "2026-10-09T02:18:03",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "4e0966685f",
+      "title": "Xbox CEO 公布名为「XP」的新 Xbox 部门，聚焦游戏周边业务",
+      "zh_desc": "Xbox 成立新部门 XP，专门负责把自家 IP 向游戏之外的领域扩展，进一步强化 IP 中心化战略。对关注品牌联动与跨媒介变现的手游团队有参考意义。",
+      "url": "https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-08T17:28:52",
+      "fetched_at": "2026-10-09T02:18:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Minecraft",
+          "desc": "沙盒建造与生存游戏，也是 Xbox 跨媒介 IP 战略的核心之一。"
+        },
+        {
+          "name": "Fallout",
+          "desc": "后末日角色扮演游戏系列，其改编电视剧被纳入 Xbox 跨媒介计划。"
+        },
+        {
+          "name": "Diablo",
+          "desc": "动作角色扮演游戏系列，文中提及其改编动画剧集。"
+        }
+      ]
+    },
+    {
+      "id": "8c58246cbd",
+      "title": "Xbox 宣布成立新部门 XP，推出影视、主题公园等跨媒介衍生内容",
+      "zh_desc": "Xbox 公布 XP 业务单元，专注跨媒介品牌延伸，包括 Fallout 剧集与 Minecraft 主题公园。对研究 IP 联动与跨平台变现的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-08T12:18:40",
+      "fetched_at": "2026-10-09T02:18:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Minecraft",
+          "desc": "沙盒建造与生存游戏，计划推出 Minecraft World 主题公园等跨媒介体验。"
+        },
+        {
+          "name": "Fallout",
+          "desc": "后末日角色扮演游戏系列，其电视剧被纳入 Xbox 新 XP 部门的跨媒介业务。"
+        }
+      ]
+    },
+    {
+      "id": "a6a45fb50e",
+      "title": "由 Journey 与 Sky: Children of the Light 老兵创立的 Gardens Interactive 完成超 3500 万美元 B 轮融资",
+      "zh_desc": "Gardens Interactive 获 Lightspeed Venture Partners 领投的 3500 万美元 B 轮融资，累计融资超 7000 万美元。属于融资与团队动态，对关注新兴工作室的从业者有信息价值。",
+      "url": "https://www.gamesindustry.biz/gardens-interactive-founded-by-veterans-behind-journey-and-sky-children-of-the-light-raise-over-35m-in-series-b-funding-round",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-08T09:58:52",
+      "fetched_at": "2026-10-09T02:18:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Journey",
+          "desc": "以无文字叙事和在线共玩为特点的冒险游戏。"
+        },
+        {
+          "name": "Sky: Children of the Light",
+          "desc": "强调社交互动与多人探索的冒险游戏。"
+        },
+        {
+          "name": "What Remains of Edith Finch",
+          "desc": "第一人称叙事冒险游戏，围绕家族故事展开。"
+        },
+        {
+          "name": "Project Gardens",
+          "desc": "开发中的多人共享幻想冒险游戏，包含社交角色扮演元素。"
+        }
+      ]
+    },
     {
       "id": "33e39343f0",
       "title": "“现在一个好的创意比 AI 更能省钱”——Glen Schofield 谈退休、Callisto Protocol 开发与 3A 现状",
