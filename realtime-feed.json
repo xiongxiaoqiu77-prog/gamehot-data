@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-09T14:24:30",
+  "updated_at": "2026-10-09T15:29:20",
   "articles": [
+    {
+      "id": "5ddbb98666",
+      "title": "Safe In Our World 发起 Four Billion Players 活动，让玩家更易获得心理健康支持",
+      "zh_desc": "心理健康慈善机构 Safe In Our World 推出 Four Billion Players 宣传活动，旨在提升玩家心理健康支持的可及性并扩大行业关注。内容属于游戏行业公益动态，与三消/休闲手游设计、运营和变现无直接关联。",
+      "url": "https://www.gamesindustry.biz/safe-in-our-world-launches-four-billion-players-campaign-to-make-mental-health-support-more-accessible-for-gamers",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-08T13:00:00",
+      "fetched_at": "2026-10-09T15:29:20",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a5aad04d09",
+      "title": "《Hell Let Loose》开发商 Expression 在曼彻斯特开设新工作室，回应人才市场变化",
+      "zh_desc": "Expression Games 宣布从全远程转向在曼彻斯特设立实体工作室，以满足员工与联合开发客户需求。该消息反映欧美游戏团队组织与人才策略变化，但与休闲/消除类手游核心业务关联较弱。",
+      "url": "https://www.gamesindustry.biz/hell-let-loose-developer-expression-opens-new-studio-in-manchester-in-response-to-whats-happening-in-the-talent-market",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-08T10:31:11",
+      "fetched_at": "2026-10-09T15:29:20",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hell Let Loose",
+          "desc": "Expression 开发的二战题材多人战术射击游戏，文章标题以其指代该开发商。"
+        },
+        {
+          "name": "Hell Let Loose: Vietnam",
+          "desc": "Expression 开发的《Hell Let Loose》系列作品，文章称其自 8 月发售以来已售出百万份。"
+        },
+        {
+          "name": "Star Wars Galactic Racer",
+          "desc": "Expression 与 Fuse Games 联合开发的《星球大战》题材赛车游戏。"
+        }
+      ]
+    },
     {
       "id": "e7bc484c81",
       "title": "Mixtape 在 2026 澳大利亚游戏开发者大奖揽获三奖，包括年度游戏",
