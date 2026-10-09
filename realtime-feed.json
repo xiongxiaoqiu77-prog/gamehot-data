@@ -1,6 +1,187 @@
 {
-  "updated_at": "2026-10-09T19:12:43",
+  "updated_at": "2026-10-10T00:31:40",
   "articles": [
+    {
+      "id": "02375cf7db",
+      "title": "这本该是云游戏的高光时刻，但事实并非如此｜观点",
+      "zh_desc": "文章围绕 Xbox 拿下 GTA VI 独家云游戏串流权的消息，讨论为何云游戏始终没能真正迎来爆发。对关注平台分发与云游戏商业化的从业者具有参考价值。",
+      "url": "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-09T15:42:04",
+      "fetched_at": "2026-10-10T00:31:40",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI (GTA 6)",
+          "desc": "备受期待的开放世界动作冒险游戏，其流媒体独占传闻成为讨论云游戏困境的焦点。"
+        }
+      ]
+    },
+    {
+      "id": "0a875605b2",
+      "title": "电子游戏不是儿童心理健康的敌人，无视它们才是｜观点",
+      "zh_desc": "文章反驳了将青少年心理问题简单归咎于游戏的主流叙事，指出游戏对社交焦虑、ADHD 等群体可能起到支持作用。对理解用户心理与产品社会价值有启发。",
+      "url": "https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-09T11:01:00",
+      "fetched_at": "2026-10-10T00:31:40",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "031a49081f",
+      "title": "新游速览：Football Manager、Honor of Kings Chess、Zynga 骰子游戏、Warhammer Survivors 等",
+      "zh_desc": "汇总本周值得关注的新游，包括 Football Manager、Honor of Kings Chess、Zynga 的骰子新作以及 Warhammer Survivors 等，并提及 Crossy Road Rush、Asphalt Track Star 等产品。对把握手游新品方向与品类趋势有直接参考价值。",
+      "url": "https://mobilegamer.biz/new-game-digest-football-manager-honor-of-kings-chess-zyngas-dice-game-warhammer-survivors-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-09T09:48:58",
+      "fetched_at": "2026-10-10T00:31:40",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Football Manager 27",
+          "desc": "Sega 的足球经营模拟游戏，Football Manager 27 Mobile 将于 11 月 10 日通过 Netflix 全球上线移动端，并与 PC/主机版同步推出。"
+        },
+        {
+          "name": "Football Manager Touch",
+          "desc": "Football Manager 系列通常同期登陆 Apple Arcade 的版本，本作细节尚未公布。"
+        },
+        {
+          "name": "Honor of Kings Chess / 王者万象棋",
+          "desc": "腾讯《王者荣耀》的自走棋衍生作，已在中国 iOS 上线，暂无官方英文名。"
+        },
+        {
+          "name": "Honor of Kings",
+          "desc": "腾讯的 MOBA 游戏，《王者万象棋》是其自走棋衍生作。"
+        },
+        {
+          "name": "Dice Companions",
+          "desc": "Zynga 的掷骰子棋盘冒险游戏，正在波多黎各和美国安卓端测试。"
+        },
+        {
+          "name": "Warhammer Survivors",
+          "desc": "Auroch Digital 的 roguelite 弹幕天堂游戏，11 月 10 日登陆移动端、PC、Switch、PS5 和 Xbox。"
+        },
+        {
+          "name": "The Conjuring: Unspoken",
+          "desc": "基于《招魂》电影系列的叙事恐怖游戏，10 月 13 日登陆 Netflix TV，会员免费，用手机当控制器。"
+        },
+        {
+          "name": "Crossy Road Rush",
+          "desc": "Atari 将在 Apple Arcade 独占推出的新作，11 月 5 日上线。"
+        },
+        {
+          "name": "Kami 2+",
+          "desc": "将与《Crossy Road Rush》同期登陆 Apple Arcade 的游戏。"
+        },
+        {
+          "name": "Food Stylist+",
+          "desc": "将与《Crossy Road Rush》同期登陆 Apple Arcade 的游戏。"
+        },
+        {
+          "name": "Monster Hunter Rise",
+          "desc": "Capcom 的怪物狩猎动作游戏，据商店列表显示可能登陆 Netflix，尚无日期。"
+        },
+        {
+          "name": "Asphalt Track Star",
+          "desc": "Gameloft 的卡通风格赛车系列延伸作，商店列表显示将面向安卓智能手表推出。"
+        },
+        {
+          "name": "Tangle Out: Color Maze",
+          "desc": "Lion Studios 的方向逻辑解谜游戏，玩家旋转箭头穿越迷宫寻找出口，已登陆 iOS 和 Android。"
+        },
+        {
+          "name": "The Operator",
+          "desc": "ICO Partners 的阴谋调查冒险游戏，已登陆 iOS 和 Android，此前登陆 Steam、Switch 和 GOG；免费下载，完整版一次性购买解锁。"
+        },
+        {
+          "name": "Formula Ride",
+          "desc": "7Seas Entertainment 的赛车游戏，包含轮胎管理和进站策略，预计 10 月 12-13 日上线 Android 和 iOS，已开放预注册。"
+        },
+        {
+          "name": "PAPgame",
+          "desc": "Not Just Music 的第一人称音乐游戏，计划 2026 年底前登陆 Android 和 iOS，包含 35 个进度等级等要素。"
+        }
+      ]
+    },
+    {
+      "id": "f1ead45716",
+      "title": "Ubisoft 上线仅七个月即关停 Rainbow Six Mobile",
+      "zh_desc": "Rainbow Six Mobile 上线七个月后宣告关停，AppMagic 估算其生命周期 IAP 收入约 530 万美元、下载量 1310 万次。是研究手游买量成本、留存与项目止损决策的典型案例。",
+      "url": "https://mobilegamer.biz/ubisoft-is-closing-rainbow-six-mobile-just-seven-months-after-launch/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-09T08:54:56",
+      "fetched_at": "2026-10-10T00:31:40",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Rainbow Six Mobile",
+          "desc": "Ubisoft 的战术射击手游，上线仅七个月后宣布将关停，下一赛季持续到 2027 年 1 月 15 日。"
+        }
+      ]
+    },
+    {
+      "id": "52f80bfe6b",
+      "title": "八月底美国畅销榜前十中，六款新作直接空降",
+      "zh_desc": "Circana 分析师 Mat Piscatella 公布 2026 年 8 月美国游戏市场数据，显示新作销售表现良好，但整体支出仍在持续下滑。属主机/PC 市场数据类资讯。",
+      "url": "https://gameworldobserver.com/2026/10/09/six-new-releases-immediately-entered-the-top-10-best-selling-games-in-the-us-by-the-end-of-august",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-09T13:22:27",
+      "fetched_at": "2026-10-10T00:31:40",
+      "lang": "en",
+      "games": [
+        {
+          "name": "NBA 2K27",
+          "desc": "篮球体育模拟游戏，是 2026 年 8 月美国最畅销付费游戏，完整发售前已凭高级版进入统计。"
+        },
+        {
+          "name": "EA Sports Madden NFL 27",
+          "desc": "美式橄榄球体育游戏，新发售即位列 2026 年 8 月美国畅销付费游戏第二。"
+        },
+        {
+          "name": "Marvel Tokon: Fighting Souls",
+          "desc": "漫威题材格斗游戏，新发售进入 2026 年 8 月美国畅销付费游戏第三。"
+        },
+        {
+          "name": "EA Sports Kickoff Bundle",
+          "desc": "EA Sports 推出的体育游戏捆绑包/产品，新发售进入 2026 年 8 月美国畅销付费游戏第四。"
+        },
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "星球大战题材新作，新发售进入 2026 年 8 月美国畅销付费游戏第五。"
+        },
+        {
+          "name": "Halo: Campaign Evolved",
+          "desc": "《光环》系列战役相关作品，位列 2026 年 8 月美国畅销付费游戏第六。"
+        },
+        {
+          "name": "Elden Ring",
+          "desc": "开放世界动作角色扮演游戏，在 2026 年 8 月美国畅销付费榜上升 34 位至第七。"
+        },
+        {
+          "name": "Big Walk",
+          "desc": "新发售游戏，进入 2026 年 8 月美国畅销付费游戏第八；正文未提供更多类型说明。"
+        },
+        {
+          "name": "Mario Kart World",
+          "desc": "马力欧卡丁车系列竞速游戏，在 2026 年 8 月美国畅销付费榜上升 10 位至第九。"
+        },
+        {
+          "name": "Splatoon Raiders",
+          "desc": "斯普拉遁系列新作，在 2026 年 8 月美国畅销付费榜位列第十。"
+        }
+      ]
+    },
     {
       "id": "b98babe54e",
       "title": "Ubisoft 宣布《Rainbow Six Mobile》全球上线七个月后停运",
