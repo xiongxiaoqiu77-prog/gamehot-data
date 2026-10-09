@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-10T01:04:28",
+  "updated_at": "2026-10-10T01:36:56",
   "articles": [
+    {
+      "id": "4fbc2f004c",
+      "title": "育碧将在上线仅七个月后关停 Rainbow Six Mobile",
+      "zh_desc": "育碧宣布关停全球上线仅七个月的战术射击手游《Rainbow Six Mobile》，属于手游行业公司动态与产品止损案例。对休闲游戏从业者而言，可作为大厂在中重度赛道投入与资源重配的参考，但与三消/消除类玩法设计关联较弱。",
+      "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-09T17:05:00",
+      "fetched_at": "2026-10-10T01:36:56",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Tom Clancy's Rainbow Six Mobile",
+          "desc": "基于《彩虹六号》系列的免费游玩战术移动射击衍生作品，已宣布将于2027年1月15日停服。"
+        }
+      ]
+    },
     {
       "id": "efa1601610",
       "title": "报道：Double Fine 工会组建运动因沟通不畅与文化冲突而瓦解",
