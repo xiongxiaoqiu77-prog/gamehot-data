@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-09T15:29:20",
+  "updated_at": "2026-10-09T16:01:42",
   "articles": [
+    {
+      "id": "4a51f833f5",
+      "title": "GamesIndustry.biz 将在 MCM Comic Con 的 Game Republic 投资峰会上主持座谈",
+      "zh_desc": "该文预告 GamesIndustry.biz 将在本月 MCM Comic Con 期间的 Game Republic 投资峰会主持一场座谈。属于泛游戏行业的会议与投资活动资讯，对三消/消除类手游的玩法、数值与变现研究暂无直接参考价值。",
+      "url": "https://www.gamesindustry.biz/gamesindustrybiz-to-host-panel-at-game-republics-investment-summit-at-mcm-comic-con-october-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-07T09:40:56",
+      "fetched_at": "2026-10-09T16:01:42",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "7b722100c8",
+      "title": "WN Yerevan '26 讲座第二日推出单独门票，仅限 10 月 16 日场次",
+      "zh_desc": "报道 WN Yerevan '26 会议第二日讲座的单独售票信息，票价为约 12200 德拉姆（30 美元），日程包含《指环王》与 Warhammer 40,000 等 IP 的游戏创作讲座。属游戏行业会议资讯，与休闲游戏玩法或变现研究关联较弱。",
+      "url": "https://gameworldobserver.com/2026/10/08/on-the-second-day-of-the-wn-yerevan-26-lecture-a-separate-ticket-for-attendees-appeared",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-08T12:22:11",
+      "fetched_at": "2026-10-09T16:01:42",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Warhammer 40,000: Space Marine 2",
+          "desc": "第三人称动作射击游戏，背景设定在 Warhammer 40,000 宇宙；文中讲座以其为例说明如何用成就引导玩家、介绍内容并创造难忘时刻。"
+        },
+        {
+          "name": "The Lord of the Rings: Return to Moria",
+          "desc": "以《指环王》中土世界为背景的生存制作游戏；文中演讲者分享了其四年的美术制作经验。"
+        }
+      ]
+    },
     {
       "id": "5ddbb98666",
       "title": "Safe In Our World 发起 Four Billion Players 活动，让玩家更易获得心理健康支持",
