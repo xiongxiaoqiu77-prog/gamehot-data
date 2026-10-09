@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-10-09T08:02:42",
+  "updated_at": "2026-10-09T14:24:30",
   "articles": [
+    {
+      "id": "e7bc484c81",
+      "title": "Mixtape 在 2026 澳大利亚游戏开发者大奖揽获三奖，包括年度游戏",
+      "zh_desc": "Beethoven & Dinosaur 的 Mixtape 拿下年度游戏、艺术表现与音效设计三项大奖。属于主机/独立游戏奖项资讯，与三消等休闲手游的设计和变现关联较弱，仅可作为行业氛围参考。",
+      "url": "https://www.gamesindustry.biz/mixtape-wins-three-awards-at-australian-game-developer-awards-2026-including-goty",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-08T13:58:42",
+      "fetched_at": "2026-10-09T14:24:30",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mixtape",
+          "desc": "Beethoven & Dinosaur 开发的游戏，获 2026 澳大利亚游戏开发者大奖年度游戏、艺术与声音设计卓越奖，被赞为以独特视觉和真挚音乐呈现的虚拟叙事佳作。"
+        },
+        {
+          "name": "Bits & Bops",
+          "desc": "Tempo Lab Games 开发的节奏游戏，获玩法与无障碍卓越奖。"
+        },
+        {
+          "name": "Magicians: The Devil's Deal",
+          "desc": "Uppercut Games 正在开发、计划 2027 年推出的新作，文中未说明具体类型。"
+        },
+        {
+          "name": "Submerged series",
+          "desc": "Uppercut Games 知名的游戏系列，文中作为其代表作提及，未展开类型或特点。"
+        },
+        {
+          "name": "Schrodinger's Cat Burglar",
+          "desc": "Abandoned Sheep 等开发的游戏，获 Excellence in Narrative 叙事卓越奖，具体类型未详述。"
+        },
+        {
+          "name": "Malys",
+          "desc": "Summerfall Studios 与 Belinda Coomes、Montaigne 合作的游戏，获 Excellence in Music 音乐卓越奖。"
+        },
+        {
+          "name": "Key Fairy",
+          "desc": "Owl Machine 开发的游戏，获 Excellence in Debut 最佳首作奖，具体类型未详述。"
+        }
+      ]
+    },
     {
       "id": "70cd5e496b",
       "title": "Denuvo 试图传唤 Discord、Valve 和 Reddit 以追查黑客",
