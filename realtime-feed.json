@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-09T07:31:08",
+  "updated_at": "2026-10-09T08:02:42",
   "articles": [
+    {
+      "id": "70cd5e496b",
+      "title": "Denuvo 试图传唤 Discord、Valve 和 Reddit 以追查黑客",
+      "zh_desc": "Denuvo 在连续一年遭到多次破解后，尝试通过法律手段传唤 Discord、Valve 和 Reddit，以锁定破解其保护方案的黑客身份。属于 DRM 与反破解领域的行业动态，对关注休闲游戏安全与盗版风险的从业者有间接参考价值。",
+      "url": "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-08T15:13:44",
+      "fetched_at": "2026-10-09T08:02:42",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Resident Evil Requiem",
+          "desc": "《生化危机》系列生存恐怖游戏，文章提及该作遭到破解。"
+        },
+        {
+          "name": "Stellar Blade",
+          "desc": "动作冒险/砍杀类游戏，文章提及该作遭到破解。"
+        },
+        {
+          "name": "007 First Light",
+          "desc": "以詹姆斯·邦德为主角的动作冒险/间谍题材游戏，文章提及该作遭到破解。"
+        },
+        {
+          "name": "Doom: The Dark Ages",
+          "desc": "《毁灭战士》系列第一人称射击游戏，文章提及该作遭到破解。"
+        }
+      ]
+    },
     {
       "id": "fcf975eba5",
       "title": "Fireshine Games 收购 Necesse 开发商 Fair Games，被称为丹麦独立工作室的'决定性时刻'",
