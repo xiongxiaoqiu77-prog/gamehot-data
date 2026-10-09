@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-10-09T16:01:42",
+  "updated_at": "2026-10-09T19:12:43",
   "articles": [
+    {
+      "id": "b98babe54e",
+      "title": "Ubisoft 宣布《Rainbow Six Mobile》全球上线七个月后停运",
+      "zh_desc": "育碧宣布免费战术射击手游 Rainbow Six Mobile 将在 2027 年 1 月 15 日后停止运营，距离其全球上线不足一年。对手游从业者而言，这是大厂 IP 改编手游快速折戟的又一案例，可关注其买量、留存与长线运营失速的原因。",
+      "url": "https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-mobile-seven-months-after-global-launch",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-09T07:44:35",
+      "fetched_at": "2026-10-09T19:12:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Rainbow Six Mobile",
+          "desc": "免费战术射击手游，宣布全球上线七个月后将于2027年1月15日停运。"
+        },
+        {
+          "name": "Rainbow Six",
+          "desc": "战术射击游戏系列，文章提及其移动版体验与Vantage Studios运营归属。"
+        },
+        {
+          "name": "Tom Clancy's The Division",
+          "desc": "汤姆·克兰西系列游戏，现归入Massive Entertainment业务单元。"
+        },
+        {
+          "name": "Ghost Recon",
+          "desc": "战术射击游戏系列，现归入Massive Entertainment业务单元。"
+        },
+        {
+          "name": "Splinter Cell",
+          "desc": "潜行动作游戏系列，现归入Massive Entertainment业务单元。"
+        },
+        {
+          "name": "March of the Giants",
+          "desc": "Ubisoft从Amazon Game Studios收购的新原创IP。"
+        },
+        {
+          "name": "Assassin's Creed",
+          "desc": "动作冒险游戏系列，与Rainbow Six、Far Cry同属Vantage Studios。"
+        },
+        {
+          "name": "Far Cry",
+          "desc": "开放世界第一人称射击游戏系列，与Assassin's Creed、Rainbow Six同属Vantage Studios。"
+        }
+      ]
+    },
     {
       "id": "4a51f833f5",
       "title": "GamesIndustry.biz 将在 MCM Comic Con 的 Game Republic 投资峰会上主持座谈",
