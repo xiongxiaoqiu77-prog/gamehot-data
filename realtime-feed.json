@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-10-12T15:39:59",
+  "updated_at": "2026-10-13T00:20:44",
   "articles": [
+    {
+      "id": "802b1082fa",
+      "title": "顶级工作室该如何分配 AI 预算",
+      "zh_desc": "Deconstructor of Fun 的 Michail Katkoff 结合与全球多家工作室的合作经验，拆解 AI 预算应该花在哪些环节，指出实际支出通常比计划高出约 30%，并分析这一趋势对初级岗位招聘的影响。",
+      "url": "https://www.deconstructoroffun.com/blog/how-game-studios-should-allocate-ai-budgets",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-12T12:34:07",
+      "fetched_at": "2026-10-13T00:20:44",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "d01b99290f",
+      "title": "Aream & Co：Q3 游戏行业并购总额达 578 亿美元，含 EA 550 亿美元杠杆收购",
+      "zh_desc": "投行 Aream & Co 数据显示，第三季度游戏行业并购交易数量稳定在 54 笔，总额 578 亿美元，其中 EA 的 550 亿美元杠杆收购占据绝大部分。可作为行业资本动向的参考。",
+      "url": "https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-12T16:00:00",
+      "fetched_at": "2026-10-13T00:20:44",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Wardogs",
+          "desc": "一款新IP合作/独立向PC游戏，Q3收入1.03亿美元，是PC增长的代表作之一。"
+        },
+        {
+          "name": "Assassin's Creed Black Flag Resynched",
+          "desc": "育碧推出的《刺客信条：黑旗》相关作品，Q3收入5500万美元，位列当季PC消费收入第二。"
+        },
+        {
+          "name": "How to Fish",
+          "desc": "Dazed Games开发的游戏，Q3收入1100万美元，位列当季PC消费收入第三。"
+        },
+        {
+          "name": "FC27",
+          "desc": "主机平台Q3收入最高的新作，售出490万份。"
+        },
+        {
+          "name": "NBA 2K27",
+          "desc": "主机平台Q3销量第二的新作，售出240万份。"
+        },
+        {
+          "name": "Wolverine",
+          "desc": "主机平台Q3销量第三的新作，售出210万份。"
+        }
+      ]
+    },
+    {
+      "id": "7b06068a35",
+      "title": "No Man's Sky 将于 10 月 28 日登陆 iPhone 和 iPad",
+      "zh_desc": "Hello Games 宣布 No Man's Sky 将于 10 月 28 日推出移动版，为完整游戏而非简化移植，但不包含多人模式和行星聚落功能。可作为主机/PC 内容向移动端迁移的观察案例。",
+      "url": "https://mobilegamer.biz/no-mans-sky-is-coming-to-iphone-and-ipad-on-october-28/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-12T14:38:28",
+      "fetched_at": "2026-10-13T00:20:44",
+      "lang": "en",
+      "games": [
+        {
+          "name": "No Man's Sky",
+          "desc": "Hello Games的太空探索生存沙盒游戏，将于10月28日登陆iPhone和iPad，支持触控、手柄、键鼠和投屏，缺少多人及行星定居点功能。"
+        }
+      ]
+    },
+    {
+      "id": "2fb907ca64",
+      "title": "Fingersoft 将关闭 Lego Hill Climb Adventures，但不会裁员",
+      "zh_desc": "Fingersoft 宣布关闭 Lego Hill Climb Adventures，原因是该作表现不足以支撑长期 F2P 模式，但不会因此裁员。对关注休闲手游 IP 联动与产品退场决策的从业者有参考意义。",
+      "url": "https://mobilegamer.biz/fingersoft-to-close-lego-hill-climb-adventures-but-no-staff-will-be-let-go/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-12T08:51:39",
+      "fetched_at": "2026-10-13T00:20:44",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Lego Hill Climb Adventures",
+          "desc": "Fingersoft的乐高授权免费赛车手游，因表现不足以长期支持而停止开发，内购将移除并从商店下架。"
+        },
+        {
+          "name": "Lego Hill Climb Adventures+",
+          "desc": "Apple Arcade上的无内购版本，在原版停止开发后仍可游玩。"
+        },
+        {
+          "name": "Hill Climb Racing 3",
+          "desc": "Fingersoft的赛车游戏续作，目前仅在英国、挪威、瑞典、芬兰的Google Play软启动，计划全球上线。"
+        },
+        {
+          "name": "Hill Climb Racing",
+          "desc": "Fingersoft旗下知名赛车游戏，文中作为该工作室的代表作提及。"
+        }
+      ]
+    },
     {
       "id": "f27a6741f1",
       "title": "难度能靠学习化解多少？外媒谈FS社游戏的设计问题",
