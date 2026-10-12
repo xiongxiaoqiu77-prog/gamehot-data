@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-10-10T01:36:56",
+  "updated_at": "2026-10-12T13:31:48",
   "articles": [
+    {
+      "id": "01430dea7b",
+      "title": "CD Projekt 的黄金时期或许尚未到来",
+      "zh_desc": "文章分析 CD Projekt 依靠《The Witcher 3》《Cyberpunk 2077》及资料片 Phantom Liberty 构建的「大制作接力」模式，以及将 IP 授权给 Netflix 等商业伙伴的多元化路径。属于主机/PC 3A 大厂的公司战略讨论，与休闲消除品类的玩法与变现关联度较低，但可供了解头部厂商的 IP 运营思路。",
+      "url": "https://naavik.co/weekly-digest/cd-projekts-best-days-may-be-ahead/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-11T05:03:02",
+      "fetched_at": "2026-10-12T13:31:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Witcher 3",
+          "desc": "CD Projekt 于2015年推出的开放世界动作角色扮演游戏，是《巫师》系列的旗舰RPG之一。"
+        },
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "CD Projekt 于2020年推出的开放世界科幻角色扮演游戏，是《赛博朋克》系列的核心作品。"
+        },
+        {
+          "name": "Phantom Liberty",
+          "desc": "《赛博朋克2077》于2023年推出的资料片，用于延续该作的商业生命周期。"
+        },
+        {
+          "name": "The Witcher 4",
+          "desc": "《巫师》系列下一部独立旗舰角色扮演游戏，目前处于全面制作阶段并目标2028年推出。"
+        },
+        {
+          "name": "Cyberpunk 2",
+          "desc": "《赛博朋克2077》的续作，目前处于预制作阶段并由 CD Projekt 北美团队扩大开发。"
+        }
+      ]
+    },
     {
       "id": "4fbc2f004c",
       "title": "育碧将在上线仅七个月后关停 Rainbow Six Mobile",
