@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-10-13T02:28:37",
+  "updated_at": "2026-10-13T03:00:23",
   "articles": [
+    {
+      "id": "54266ba32d",
+      "title": "Dragon Quest 创作者 Yuji Horii 发布他称用 AI 约 30 分钟做成的游戏",
+      "zh_desc": "Dragon Quest 之父堀井雄二称借助 AI 在约 30 分钟内完成并发布了一款新游戏。可作为观察 AI 辅助开发效率与行业争议的素材，但与休闲三消品类的设计/变现关联有限。",
+      "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-12T18:49:25",
+      "fetched_at": "2026-10-13T03:00:23",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dragon Quest",
+          "desc": "由 Yuji Horii 创作的经典角色扮演游戏系列。"
+        },
+        {
+          "name": "Dragon Quest X",
+          "desc": "《勇者斗恶龙》系列在线 RPG，Square Enix 与 Google 合作为其加入 Gemini 驱动的聊天机器人 Chatty Slimey。"
+        },
+        {
+          "name": "Dragon Quest 12",
+          "desc": "《勇者斗恶龙》系列正在开发中的新作，Yuji Horii 参与其中。"
+        },
+        {
+          "name": "The Portopia Serial Murder Case",
+          "desc": "1983 年的推理冒险游戏，Yuji Horii 称当年独自完成故事、绘画与编程。"
+        },
+        {
+          "name": "Next: The Portopia Serial Murder Case",
+          "desc": "Yuji Horii 参与、计划于 2027 年推出的《港口连续杀人事件》新作。"
+        }
+      ]
+    },
     {
       "id": "9d12db78b0",
       "title": "任天堂拉美区副总裁表示无意放弃实体游戏",
