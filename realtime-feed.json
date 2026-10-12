@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-12T13:31:48",
+  "updated_at": "2026-10-12T15:39:59",
   "articles": [
+    {
+      "id": "f27a6741f1",
+      "title": "难度能靠学习化解多少？外媒谈FS社游戏的设计问题",
+      "zh_desc": "围绕 FromSoftware 系列作品的难度设计展开讨论，探讨玩家学习曲线与关卡挑战之间的关系。属于主机硬核动作游戏的设计评论，与休闲三消品类的玩法框架差异较大，但难度曲线与学习成本的思路对关卡设计仍有一定启发。",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zZ0hiSWdIRFQ0akk5ZXNzUWZNbGZzbkNwNTcxS1JjbloyNG4zWGt1SFdMWVVOLVlCWUxpMUUteWVial9kV0M1OFY1dVJTZ2VNRDBveHcxVG1HRmZ3?oc=5",
+      "source": "Google News",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-10-12T02:34:25",
+      "fetched_at": "2026-10-12T15:39:59",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "01430dea7b",
       "title": "CD Projekt 的黄金时期或许尚未到来",
