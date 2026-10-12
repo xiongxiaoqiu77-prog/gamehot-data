@@ -5,96 +5,78 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 10 Oct 2026 07:00:13 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:00:11 +0800</lastBuildDate>
   <item>
-    <title>新游速览：Football Manager、Honor of Kings Chess、Zynga 骰子游戏、Warhammer Survivors 等</title>
-    <link>https://mobilegamer.biz/new-game-digest-football-manager-honor-of-kings-chess-zyngas-dice-game-warhammer-survivors-and-more/</link>
-    <description>汇总本周值得关注的新游，包括 Football Manager、Honor of Kings Chess、Zynga 的骰子新作以及 Warhammer Survivors 等，并提及 Crossy Road Rush、Asphalt Track Star 等产品。对把握手游新品方向与品类趋势有直接参考价值。</description>
+    <title>顶级工作室该如何分配 AI 预算</title>
+    <link>https://www.deconstructoroffun.com/blog/how-game-studios-should-allocate-ai-budgets</link>
+    <description>Deconstructor of Fun 的 Michail Katkoff 结合与全球多家工作室的合作经验，拆解 AI 预算应该花在哪些环节，指出实际支出通常比计划高出约 30%，并分析这一趋势对初级岗位招聘的影响。</description>
+    <category>行业资讯</category>
+    <author>Deconstructor of Fun</author>
+    <pubDate>Mon, 12 Oct 2026 12:34:07 +0800</pubDate>
+    <guid isPermaLink="true">https://www.deconstructoroffun.com/blog/how-game-studios-should-allocate-ai-budgets</guid>
+  </item>
+  <item>
+    <title>Fingersoft 将关闭 Lego Hill Climb Adventures，但不会裁员</title>
+    <link>https://mobilegamer.biz/fingersoft-to-close-lego-hill-climb-adventures-but-no-staff-will-be-let-go/</link>
+    <description>Fingersoft 宣布关闭 Lego Hill Climb Adventures，原因是该作表现不足以支撑长期 F2P 模式，但不会因此裁员。对关注休闲手游 IP 联动与产品退场决策的从业者有参考意义。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Fri, 09 Oct 2026 09:48:58 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/new-game-digest-football-manager-honor-of-kings-chess-zyngas-dice-game-warhammer-survivors-and-more/</guid>
+    <pubDate>Mon, 12 Oct 2026 08:51:39 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/fingersoft-to-close-lego-hill-climb-adventures-but-no-staff-will-be-let-go/</guid>
   </item>
   <item>
-    <title>Ubisoft 上线仅七个月即关停 Rainbow Six Mobile</title>
-    <link>https://mobilegamer.biz/ubisoft-is-closing-rainbow-six-mobile-just-seven-months-after-launch/</link>
-    <description>Rainbow Six Mobile 上线七个月后宣告关停，AppMagic 估算其生命周期 IAP 收入约 530 万美元、下载量 1310 万次。是研究手游买量成本、留存与项目止损决策的典型案例。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Fri, 09 Oct 2026 08:54:56 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/ubisoft-is-closing-rainbow-six-mobile-just-seven-months-after-launch/</guid>
-  </item>
-  <item>
-    <title>报道：Double Fine 工会组建运动因沟通不畅与文化冲突而瓦解</title>
-    <link>https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash</link>
-    <description>Game Developer 报道称，Double Fine Productions 的工会资格认定问题与公司延续数十年的文化正面碰撞，最终导致工会运动失败。对关注工作室治理与劳资关系的从业者有参考价值。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Fri, 09 Oct 2026 14:49:18 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash</guid>
-  </item>
-  <item>
-    <title>Undead Labs 负责人「不愿透露」裁员影响人数：「我不想把对这些人的影响简化成一个数字或统计」</title>
-    <link>https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic</link>
-    <description>Undead Labs 工作室负责人 Philip Holt 在团队脱离 Xbox 独立后，拒绝披露具体裁员规模。反映微软体系内工作室重组与人力调整的最新动态。</description>
+    <title>Epic Games 推迟 Disney 合作游戏，并要求开发者转向「AI 优先」生产模式</title>
+    <link>https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first</link>
+    <description>Epic Games 推迟了与 Disney 的合作射击游戏（含 Marvel 与 Star Wars 角色），同时要求团队采用「AI 优先」的开发流程。这是大厂研发组织方式与项目排期变动的一手信号，对关注行业风向的从业者有参考价值，但与休闲/三消赛道无直接关系。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Fri, 09 Oct 2026 13:58:18 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic</guid>
+    <pubDate>Mon, 12 Oct 2026 19:54:58 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first</guid>
   </item>
   <item>
-    <title>Paramount Pictures 将打造 Cyberpunk 2077 世界观真人电影，CD Projekt Red 联合制作</title>
-    <link>https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red</link>
-    <description>Paramount Pictures 宣布改编一部设定在 Cyberpunk 2077 宇宙的真人电影，由 CD Projekt Red 联合制片。体现头部游戏 IP 向影视跨媒介延展的行业趋势。</description>
+    <title>游戏圈最快乐的人讨厌生成式 AI</title>
+    <link>https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai</link>
+    <description>《Dwarf Fortress》开发者 Tarn Adams 讲述与兄弟 Zach 自 2002 年以来持续迭代这款程序生成世界的历程，并表达对生成式 AI 的抵触。可作为了解长线独立游戏设计理念与开发者心态的参考。</description>
+    <category>泛游戏</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Mon, 12 Oct 2026 13:11:17 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai</guid>
+  </item>
+  <item>
+    <title>Dragon Quest 创作者 Yuji Horii 发布他称用 AI 约 30 分钟做成的游戏</title>
+    <link>https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes</link>
+    <description>Dragon Quest 之父堀井雄二称借助 AI 在约 30 分钟内完成并发布了一款新游戏。可作为观察 AI 辅助开发效率与行业争议的素材，但与休闲三消品类的设计/变现关联有限。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Fri, 09 Oct 2026 12:54:02 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red</guid>
+    <pubDate>Mon, 12 Oct 2026 18:49:25 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes</guid>
   </item>
   <item>
-    <title>Sony 同意向 Meta 转让 400 余项全球 VR 专利，依据 2025 年 12 月协议</title>
-    <link>https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement</link>
-    <description>Sony 已同意向 Meta 转让 419 项全球 VR 专利，其中 180 项在美国提交，相关协议于 2025 年 12 月签署。对判断 VR 平台格局与专利集中度有参考意义。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Fri, 09 Oct 2026 10:50:02 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement</guid>
-  </item>
-  <item>
-    <title>Avalanche Studio Group 将全球发行、营销与分销 Supermassive Games 作品</title>
-    <link>https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games</link>
-    <description>Nordisk Games 宣布旗下 Avalanche Studios Group 与 Supermassive Games 达成发行合作。反映集团内部资源整合与发行体系的重新划分。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Fri, 09 Oct 2026 08:51:01 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games</guid>
-  </item>
-  <item>
-    <title>这本该是云游戏的高光时刻，但事实并非如此｜观点</title>
-    <link>https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion</link>
-    <description>文章围绕 Xbox 拿下 GTA VI 独家云游戏串流权的消息，讨论为何云游戏始终没能真正迎来爆发。对关注平台分发与云游戏商业化的从业者具有参考价值。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Fri, 09 Oct 2026 15:42:04 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion</guid>
-  </item>
-  <item>
-    <title>电子游戏不是儿童心理健康的敌人，无视它们才是｜观点</title>
-    <link>https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion</link>
-    <description>文章反驳了将青少年心理问题简单归咎于游戏的主流叙事，指出游戏对社交焦虑、ADHD 等群体可能起到支持作用。对理解用户心理与产品社会价值有启发。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Fri, 09 Oct 2026 11:01:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion</guid>
-  </item>
-  <item>
-    <title>八月底美国畅销榜前十中，六款新作直接空降</title>
-    <link>https://gameworldobserver.com/2026/10/09/six-new-releases-immediately-entered-the-top-10-best-selling-games-in-the-us-by-the-end-of-august</link>
-    <description>Circana 分析师 Mat Piscatella 公布 2026 年 8 月美国游戏市场数据，显示新作销售表现良好，但整体支出仍在持续下滑。属主机/PC 市场数据类资讯。</description>
+    <title>Nintendo 不打算停止发行实体版游戏</title>
+    <link>https://gameworldobserver.com/2026/10/12/nintendo-does-not-plan-to-stop-releasing-physical-versions-of-games</link>
+    <description>任天堂拉美区总经理 Bill van Zyll 在采访中表示，公司没有停止发行实体版游戏的计划。属平台发行策略资讯，对关注渠道与用户触达方式的从业者有一定参考价值。</description>
     <category>行业资讯</category>
     <author>Game World Observer</author>
-    <pubDate>Fri, 09 Oct 2026 13:22:27 +0800</pubDate>
-    <guid isPermaLink="true">https://gameworldobserver.com/2026/10/09/six-new-releases-immediately-entered-the-top-10-best-selling-games-in-the-us-by-the-end-of-august</guid>
+    <pubDate>Mon, 12 Oct 2026 12:22:29 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/10/12/nintendo-does-not-plan-to-stop-releasing-physical-versions-of-games</guid>
+  </item>
+  <item>
+    <title>Aream &amp; Co：Q3 游戏行业并购总额达 578 亿美元，含 EA 550 亿美元杠杆收购</title>
+    <link>https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout</link>
+    <description>投行 Aream &amp; Co 数据显示，第三季度游戏行业并购交易数量稳定在 54 笔，总额 578 亿美元，其中 EA 的 550 亿美元杠杆收购占据绝大部分。可作为行业资本动向的参考。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Mon, 12 Oct 2026 16:00:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout</guid>
+  </item>
+  <item>
+    <title>No Man's Sky 将于 10 月 28 日登陆 iPhone 和 iPad</title>
+    <link>https://mobilegamer.biz/no-mans-sky-is-coming-to-iphone-and-ipad-on-october-28/</link>
+    <description>Hello Games 宣布 No Man's Sky 将于 10 月 28 日推出移动版，为完整游戏而非简化移植，但不包含多人模式和行星聚落功能。可作为主机/PC 内容向移动端迁移的观察案例。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Mon, 12 Oct 2026 14:38:28 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/no-mans-sky-is-coming-to-iphone-and-ipad-on-october-28/</guid>
   </item>
   </channel>
 </rss>
