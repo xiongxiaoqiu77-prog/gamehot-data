@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-13T03:00:23",
+  "updated_at": "2026-10-13T03:31:59",
   "articles": [
+    {
+      "id": "32b36fd04b",
+      "title": "游戏圈最快乐的人讨厌生成式 AI",
+      "zh_desc": "《Dwarf Fortress》开发者 Tarn Adams 讲述与兄弟 Zach 自 2002 年以来持续迭代这款程序生成世界的历程，并表达对生成式 AI 的抵触。可作为了解长线独立游戏设计理念与开发者心态的参考。",
+      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
+      "source": "GamesIndustry.biz",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-10-12T13:11:17",
+      "fetched_at": "2026-10-13T03:31:59",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dwarf Fortress",
+          "desc": "一款由 Bay 12 Games 开发的深度程序生成世界模拟与殖民地管理游戏，以复杂系统、混乱涌现叙事和极高自由度著称。"
+        }
+      ]
+    },
     {
       "id": "54266ba32d",
       "title": "Dragon Quest 创作者 Yuji Horii 发布他称用 AI 约 30 分钟做成的游戏",
