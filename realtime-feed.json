@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-13T03:31:59",
+  "updated_at": "2026-10-13T04:36:15",
   "articles": [
+    {
+      "id": "fa660cb621",
+      "title": "Epic Games 推迟 Disney 合作游戏，并要求开发者转向「AI 优先」生产模式",
+      "zh_desc": "Epic Games 推迟了与 Disney 的合作射击游戏（含 Marvel 与 Star Wars 角色），同时要求团队采用「AI 优先」的开发流程。这是大厂研发组织方式与项目排期变动的一手信号，对关注行业风向的从业者有参考价值，但与休闲/三消赛道无直接关系。",
+      "url": "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-12T19:54:58",
+      "fetched_at": "2026-10-13T04:36:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic Games 旗下的在线多人游戏，以战斗皇家玩法和持续运营著称；文中提到其玩家参与度放缓。"
+        },
+        {
+          "name": "Dragon Quest",
+          "desc": "堀井雄二创作的经典日式角色扮演游戏系列；文中提到其创作者用 AI 在约 30 分钟内制作了一款新游戏。"
+        }
+      ]
+    },
     {
       "id": "32b36fd04b",
       "title": "游戏圈最快乐的人讨厌生成式 AI",
