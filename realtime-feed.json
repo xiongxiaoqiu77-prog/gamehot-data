@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-13T00:20:44",
+  "updated_at": "2026-10-13T01:56:21",
   "articles": [
+    {
+      "id": "803b18392b",
+      "title": "Nintendo 不打算停止发行实体版游戏",
+      "zh_desc": "任天堂拉美区总经理 Bill van Zyll 在采访中表示，公司没有停止发行实体版游戏的计划。属平台发行策略资讯，对关注渠道与用户触达方式的从业者有一定参考价值。",
+      "url": "https://gameworldobserver.com/2026/10/12/nintendo-does-not-plan-to-stop-releasing-physical-versions-of-games",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-12T12:22:29",
+      "fetched_at": "2026-10-13T01:56:21",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Legend of Zelda: Ocarina of Time",
+          "desc": "任天堂发行的经典动作冒险游戏，以3D探索、解谜和时空穿越玩法著称。"
+        }
+      ]
+    },
     {
       "id": "802b1082fa",
       "title": "顶级工作室该如何分配 AI 预算",
