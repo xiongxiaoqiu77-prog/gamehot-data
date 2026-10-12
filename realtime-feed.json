@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-13T01:56:21",
+  "updated_at": "2026-10-13T02:28:37",
   "articles": [
+    {
+      "id": "9d12db78b0",
+      "title": "任天堂拉美区副总裁表示无意放弃实体游戏",
+      "zh_desc": "任天堂明确表示没有计划放弃实体游戏发行，继续维持卡带等实体载体。对休闲游戏从业者而言，这是主机平台发行策略的参考信息，但与其手游业务关联较弱。",
+      "url": "https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-no-plans-to-ditch-physical-games",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-12T17:58:32",
+      "fetched_at": "2026-10-13T02:28:37",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "803b18392b",
       "title": "Nintendo 不打算停止发行实体版游戏",
