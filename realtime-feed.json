@@ -1,6 +1,101 @@
 {
-  "updated_at": "2026-10-13T15:44:37",
+  "updated_at": "2026-10-14T00:18:55",
   "articles": [
+    {
+      "id": "5f7e2efdfc",
+      "title": "“多年搭建、推介和融资游戏的经历，让同样的失败令人痛心”——GameDataCore 为何想弄清玩家感受",
+      "zh_desc": "GameDataCore 试图穿透 Steam 评论噪音，识别玩家对游戏的真实感受、开发者应解决的问题以及下一款可考虑的产品方向。对关注用户反馈分析和产品迭代的从业者有参考价值，但并非休闲游戏专项拆解。",
+      "url": "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-13T12:30:00",
+      "fetched_at": "2026-10-14T00:18:55",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "792ab90373",
+      "title": "塑造 2026 年游戏行业的六大监管风险指南",
+      "zh_desc": "Bird & Bird 律师 Dr Simon Hembt 围绕 IP、AI/科技和媒体监管，梳理 2026 年游戏公司面临的六类监管风险。对需要做合规与发行风险预判的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-13T11:25:38",
+      "fetched_at": "2026-10-14T00:18:55",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Stable",
+          "desc": "一款面向儿童的在线游戏，因虚拟货币定价、内购激励等机制受到欧盟消费者保护合作网络审查。"
+        }
+      ]
+    },
+    {
+      "id": "1271d46c1e",
+      "title": "Rovio 的重建意味着重新聚焦 Angry Birds、Sonic，并谨慎挑选新项目",
+      "zh_desc": "Sega West COO 兼 Rovio CEO Alex Pelletier-Normand 谈论 Sonic Rumble Party 的挣扎、为何 Apple 和 Google 不值得拿 30% 分成，以及 Rovio 重建期的项目选择。对移动休闲游戏公司的 IP 运营、平台策略和新品立项有较高参考价值。",
+      "url": "https://mobilegamer.biz/rovios-rebuild-means-refocusing-on-angry-birds-sonic-and-picking-new-projects-carefully/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-13T11:37:57",
+      "fetched_at": "2026-10-14T00:18:55",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Angry Birds",
+          "desc": "Rovio 的核心休闲弹弓/益智游戏 IP，是公司重建与重新聚焦的重点。"
+        },
+        {
+          "name": "Sonic",
+          "desc": "世嘉旗下的经典动作冒险游戏系列/IP，Rovio 重建中被列为聚焦对象之一。"
+        },
+        {
+          "name": "Angry Birds Dream Blast",
+          "desc": "Rovio 的一款消除解谜手游，其表现不佳是公司裁员的原因之一。"
+        },
+        {
+          "name": "Sonic Blitz",
+          "desc": "Rovio 被取消的索尼克系列手游项目，并伴随哥本哈根办公室关闭。"
+        },
+        {
+          "name": "Angry Birds 2",
+          "desc": "Rovio Stockholm 主要运营的 Angry Birds 系列续作手游。"
+        },
+        {
+          "name": "Angry Birds Match",
+          "desc": "文章在 Rovio 益智工作室产品线中以 Match 简称提及的 Angry Birds 系列益智游戏。"
+        },
+        {
+          "name": "Angry Birds Friends",
+          "desc": "文章在 Rovio 益智工作室产品线中以 Friends 简称提及的 Angry Birds 系列社交益智游戏。"
+        }
+      ]
+    },
+    {
+      "id": "0511b4dfc2",
+      "title": "“不再手写代码”：Epic Games 决定在开发中积极采用 AI",
+      "zh_desc": "Epic Games 正转向 AI-first 开发方式，重点采用人工智能技术。该动态反映大型游戏公司的研发流程变化，但与休闲三消/消除游戏的直接关联有限。",
+      "url": "https://gameworldobserver.com/2026/10/13/no-more-hand-written-code-epic-games-decides-to-actively-utilize-ai-in-development",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-13T13:57:00",
+      "fetched_at": "2026-10-14T00:18:55",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic Games 的大逃杀游戏，文章称 Epic 正推动 AI-first 开发并可能用 AI 生成代码与美术。"
+        },
+        {
+          "name": "未公布的迪士尼授权游戏",
+          "desc": "一款融合漫威与星球大战英雄的射击游戏，因 Epic 转向 AI 开发而延期。"
+        }
+      ]
+    },
     {
       "id": "e12a21c3f0",
       "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
