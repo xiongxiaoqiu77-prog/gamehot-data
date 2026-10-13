@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-14T01:23:13",
+  "updated_at": "2026-10-14T01:54:58",
   "articles": [
+    {
+      "id": "1f835656c5",
+      "title": "Owlchemy CEO：VR 仍是新兴市场，因为它还没通过「咖啡馆测试」",
+      "zh_desc": "Owlchemy 首席执行官 Andrew Eiche 认为 VR 尚未成为主流，原因是它还没通过类似「咖啡馆测试」的日常使用门槛，并指出部分 VR 公司因不愿迎合受众需求而裁员成风。对关注新兴平台与团队生存策略的从业者有一定参考价值，但与休闲消除品类关联较弱。",
+      "url": "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-13T13:15:00",
+      "fetched_at": "2026-10-14T01:54:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Balatro",
+          "desc": "一款结合扑克与 Roguelike 牌组构建的热门游戏。"
+        }
+      ]
+    },
     {
       "id": "5559b8a6c1",
       "title": "Google Play 将新增一系列发现、策展与 AI 功能",
