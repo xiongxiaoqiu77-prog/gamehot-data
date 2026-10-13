@@ -5,78 +5,78 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 07:00:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:00:11 +0800</lastBuildDate>
   <item>
-    <title>顶级工作室该如何分配 AI 预算</title>
-    <link>https://www.deconstructoroffun.com/blog/how-game-studios-should-allocate-ai-budgets</link>
-    <description>Deconstructor of Fun 的 Michail Katkoff 结合与全球多家工作室的合作经验，拆解 AI 预算应该花在哪些环节，指出实际支出通常比计划高出约 30%，并分析这一趋势对初级岗位招聘的影响。</description>
-    <category>行业资讯</category>
-    <author>Deconstructor of Fun</author>
-    <pubDate>Mon, 12 Oct 2026 12:34:07 +0800</pubDate>
-    <guid isPermaLink="true">https://www.deconstructoroffun.com/blog/how-game-studios-should-allocate-ai-budgets</guid>
-  </item>
-  <item>
-    <title>Fingersoft 将关闭 Lego Hill Climb Adventures，但不会裁员</title>
-    <link>https://mobilegamer.biz/fingersoft-to-close-lego-hill-climb-adventures-but-no-staff-will-be-let-go/</link>
-    <description>Fingersoft 宣布关闭 Lego Hill Climb Adventures，原因是该作表现不足以支撑长期 F2P 模式，但不会因此裁员。对关注休闲手游 IP 联动与产品退场决策的从业者有参考意义。</description>
+    <title>AdSurge：Miniclip 借助腾讯 AI 与 Easybrain 数据打造的新广告网络</title>
+    <link>https://mobilegamer.biz/adsurge-is-the-new-ad-network-built-by-miniclip-with-help-from-tencent-ai-and-easybrain-data/</link>
+    <description>Miniclip 联合腾讯 AI 和 Easybrain 数据推出 AdSurge，同时覆盖用户获取与广告变现。对休闲/手游团队而言，这是了解移动广告网络格局、买量和变现渠道变化的重要行业动态，但文章未深入拆解投放机制。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Mon, 12 Oct 2026 08:51:39 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/fingersoft-to-close-lego-hill-climb-adventures-but-no-staff-will-be-let-go/</guid>
+    <pubDate>Tue, 13 Oct 2026 18:24:05 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/adsurge-is-the-new-ad-network-built-by-miniclip-with-help-from-tencent-ai-and-easybrain-data/</guid>
   </item>
   <item>
-    <title>Epic Games 推迟 Disney 合作游戏，并要求开发者转向「AI 优先」生产模式</title>
-    <link>https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first</link>
-    <description>Epic Games 推迟了与 Disney 的合作射击游戏（含 Marvel 与 Star Wars 角色），同时要求团队采用「AI 优先」的开发流程。这是大厂研发组织方式与项目排期变动的一手信号，对关注行业风向的从业者有参考价值，但与休闲/三消赛道无直接关系。</description>
+    <title>Rovio 的重建意味着重新聚焦 Angry Birds、Sonic，并谨慎挑选新项目</title>
+    <link>https://mobilegamer.biz/rovios-rebuild-means-refocusing-on-angry-birds-sonic-and-picking-new-projects-carefully/</link>
+    <description>Sega West COO 兼 Rovio CEO Alex Pelletier-Normand 谈论 Sonic Rumble Party 的挣扎、为何 Apple 和 Google 不值得拿 30% 分成，以及 Rovio 重建期的项目选择。对移动休闲游戏公司的 IP 运营、平台策略和新品立项有较高参考价值。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Tue, 13 Oct 2026 11:37:57 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/rovios-rebuild-means-refocusing-on-angry-birds-sonic-and-picking-new-projects-carefully/</guid>
+  </item>
+  <item>
+    <title>Google Play 将新增一系列发现、策展与 AI 功能</title>
+    <link>https://mobilegamer.biz/google-play-is-adding-a-raft-of-new-discovery-curation-and-ai-features/</link>
+    <description>Google Play 正在上线多项发现、策展和 AI 相关新功能，同时把 Dave the Diver、Warhammer 40,000: Boltgun 等 PC 游戏带入 Play，并将 Game Trials 扩展到 PC 端。对关注手游分发、买量与曝光机制的从业者有一定参考价值。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Tue, 13 Oct 2026 17:00:30 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/google-play-is-adding-a-raft-of-new-discovery-curation-and-ai-features/</guid>
+  </item>
+  <item>
+    <title>Xbox 宣布成立 Xbox Labs，试水新兴创意与「新技术」</title>
+    <link>https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology</link>
+    <description>Xbox CEO Asha Sharma 宣布成立内部新团队 Xbox Labs，由游戏制作人、工程师与科学家组成，负责快速开发、迭代并测试新工具、产品与功能，以玩家和开发者的实际反馈作为成败标准。属于平台方组织与研发机制动态，对休闲手游从业者参考价值有限。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 12 Oct 2026 19:54:58 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first</guid>
+    <pubDate>Tue, 13 Oct 2026 19:00:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology</guid>
   </item>
   <item>
-    <title>游戏圈最快乐的人讨厌生成式 AI</title>
-    <link>https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai</link>
-    <description>《Dwarf Fortress》开发者 Tarn Adams 讲述与兄弟 Zach 自 2002 年以来持续迭代这款程序生成世界的历程，并表达对生成式 AI 的抵触。可作为了解长线独立游戏设计理念与开发者心态的参考。</description>
-    <category>泛游戏</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 12 Oct 2026 13:11:17 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai</guid>
+    <title>Owlchemy CEO：VR 仍是新兴市场，因为它还没通过「咖啡馆测试」</title>
+    <link>https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-</link>
+    <description>Owlchemy 首席执行官 Andrew Eiche 认为 VR 尚未成为主流，原因是它还没通过类似「咖啡馆测试」的日常使用门槛，并指出部分 VR 公司因不愿迎合受众需求而裁员成风。对关注新兴平台与团队生存策略的从业者有一定参考价值，但与休闲消除品类关联较弱。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Tue, 13 Oct 2026 13:15:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-</guid>
   </item>
   <item>
-    <title>Dragon Quest 创作者 Yuji Horii 发布他称用 AI 约 30 分钟做成的游戏</title>
-    <link>https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes</link>
-    <description>Dragon Quest 之父堀井雄二称借助 AI 在约 30 分钟内完成并发布了一款新游戏。可作为观察 AI 辅助开发效率与行业争议的素材，但与休闲三消品类的设计/变现关联有限。</description>
+    <title>“多年搭建、推介和融资游戏的经历，让同样的失败令人痛心”——GameDataCore 为何想弄清玩家感受</title>
+    <link>https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel</link>
+    <description>GameDataCore 试图穿透 Steam 评论噪音，识别玩家对游戏的真实感受、开发者应解决的问题以及下一款可考虑的产品方向。对关注用户反馈分析和产品迭代的从业者有参考价值，但并非休闲游戏专项拆解。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 12 Oct 2026 18:49:25 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes</guid>
+    <pubDate>Tue, 13 Oct 2026 12:30:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel</guid>
   </item>
   <item>
-    <title>Nintendo 不打算停止发行实体版游戏</title>
-    <link>https://gameworldobserver.com/2026/10/12/nintendo-does-not-plan-to-stop-releasing-physical-versions-of-games</link>
-    <description>任天堂拉美区总经理 Bill van Zyll 在采访中表示，公司没有停止发行实体版游戏的计划。属平台发行策略资讯，对关注渠道与用户触达方式的从业者有一定参考价值。</description>
+    <title>塑造 2026 年游戏行业的六大监管风险指南</title>
+    <link>https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026</link>
+    <description>Bird &amp; Bird 律师 Dr Simon Hembt 围绕 IP、AI/科技和媒体监管，梳理 2026 年游戏公司面临的六类监管风险。对需要做合规与发行风险预判的从业者有参考价值。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Tue, 13 Oct 2026 11:25:38 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026</guid>
+  </item>
+  <item>
+    <title>“不再手写代码”：Epic Games 决定在开发中积极采用 AI</title>
+    <link>https://gameworldobserver.com/2026/10/13/no-more-hand-written-code-epic-games-decides-to-actively-utilize-ai-in-development</link>
+    <description>Epic Games 正转向 AI-first 开发方式，重点采用人工智能技术。该动态反映大型游戏公司的研发流程变化，但与休闲三消/消除游戏的直接关联有限。</description>
     <category>行业资讯</category>
     <author>Game World Observer</author>
-    <pubDate>Mon, 12 Oct 2026 12:22:29 +0800</pubDate>
-    <guid isPermaLink="true">https://gameworldobserver.com/2026/10/12/nintendo-does-not-plan-to-stop-releasing-physical-versions-of-games</guid>
-  </item>
-  <item>
-    <title>Aream &amp; Co：Q3 游戏行业并购总额达 578 亿美元，含 EA 550 亿美元杠杆收购</title>
-    <link>https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout</link>
-    <description>投行 Aream &amp; Co 数据显示，第三季度游戏行业并购交易数量稳定在 54 笔，总额 578 亿美元，其中 EA 的 550 亿美元杠杆收购占据绝大部分。可作为行业资本动向的参考。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 12 Oct 2026 16:00:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout</guid>
-  </item>
-  <item>
-    <title>No Man's Sky 将于 10 月 28 日登陆 iPhone 和 iPad</title>
-    <link>https://mobilegamer.biz/no-mans-sky-is-coming-to-iphone-and-ipad-on-october-28/</link>
-    <description>Hello Games 宣布 No Man's Sky 将于 10 月 28 日推出移动版，为完整游戏而非简化移植，但不包含多人模式和行星聚落功能。可作为主机/PC 内容向移动端迁移的观察案例。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Mon, 12 Oct 2026 14:38:28 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/no-mans-sky-is-coming-to-iphone-and-ipad-on-october-28/</guid>
+    <pubDate>Tue, 13 Oct 2026 13:57:00 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/10/13/no-more-hand-written-code-epic-games-decides-to-actively-utilize-ai-in-development</guid>
   </item>
   </channel>
 </rss>
