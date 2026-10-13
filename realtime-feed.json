@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-14T01:54:58",
+  "updated_at": "2026-10-14T02:26:41",
   "articles": [
+    {
+      "id": "14c264723f",
+      "title": "AdSurge：Miniclip 借助腾讯 AI 与 Easybrain 数据打造的新广告网络",
+      "zh_desc": "Miniclip 联合腾讯 AI 和 Easybrain 数据推出 AdSurge，同时覆盖用户获取与广告变现。对休闲/手游团队而言，这是了解移动广告网络格局、买量和变现渠道变化的重要行业动态，但文章未深入拆解投放机制。",
+      "url": "https://mobilegamer.biz/adsurge-is-the-new-ad-network-built-by-miniclip-with-help-from-tencent-ai-and-easybrain-data/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-13T18:24:05",
+      "fetched_at": "2026-10-14T02:26:41",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "1f835656c5",
       "title": "Owlchemy CEO：VR 仍是新兴市场，因为它还没通过「咖啡馆测试」",
