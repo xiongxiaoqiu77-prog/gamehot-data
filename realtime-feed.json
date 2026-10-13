@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-10-14T00:18:55",
+  "updated_at": "2026-10-14T01:23:13",
   "articles": [
+    {
+      "id": "5559b8a6c1",
+      "title": "Google Play 将新增一系列发现、策展与 AI 功能",
+      "zh_desc": "Google Play 正在上线多项发现、策展和 AI 相关新功能，同时把 Dave the Diver、Warhammer 40,000: Boltgun 等 PC 游戏带入 Play，并将 Game Trials 扩展到 PC 端。对关注手游分发、买量与曝光机制的从业者有一定参考价值。",
+      "url": "https://mobilegamer.biz/google-play-is-adding-a-raft-of-new-discovery-curation-and-ai-features/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-13T17:00:30",
+      "fetched_at": "2026-10-14T01:23:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dave the Diver",
+          "desc": "一款被引入 Google Play 的 PC 游戏，支持 Android 移动端与 PC 跨端游玩及云存档。"
+        },
+        {
+          "name": "Warhammer 40,000: Boltgun",
+          "desc": "一款登陆 Google Play 的 PC 游戏，支持 Android 移动端与 PC 跨端游玩及云存档。"
+        },
+        {
+          "name": "Replaced",
+          "desc": "计划在未来几个月内登陆 Google Play 的 PC 游戏，支持 Android 移动端与 PC 跨端游玩及云存档。"
+        },
+        {
+          "name": "Chosen by Odin",
+          "desc": "计划在未来几个月内登陆 Google Play 的 PC 游戏，支持 Android 移动端与 PC 跨端游玩及云存档。"
+        },
+        {
+          "name": "Over the Hill",
+          "desc": "计划在未来几个月内登陆 Google Play 的 PC 游戏，支持 Android 移动端与 PC 跨端游玩及云存档。"
+        }
+      ]
+    },
     {
       "id": "5f7e2efdfc",
       "title": "“多年搭建、推介和融资游戏的经历，让同样的失败令人痛心”——GameDataCore 为何想弄清玩家感受",
