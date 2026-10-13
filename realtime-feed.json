@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-14T02:26:41",
+  "updated_at": "2026-10-14T03:29:52",
   "articles": [
+    {
+      "id": "598d399303",
+      "title": "Xbox 宣布成立 Xbox Labs，试水新兴创意与「新技术」",
+      "zh_desc": "Xbox CEO Asha Sharma 宣布成立内部新团队 Xbox Labs，由游戏制作人、工程师与科学家组成，负责快速开发、迭代并测试新工具、产品与功能，以玩家和开发者的实际反馈作为成败标准。属于平台方组织与研发机制动态，对休闲手游从业者参考价值有限。",
+      "url": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-13T19:00:00",
+      "fetched_at": "2026-10-14T03:29:52",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "14c264723f",
       "title": "AdSurge：Miniclip 借助腾讯 AI 与 Easybrain 数据打造的新广告网络",
