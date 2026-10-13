@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-13T08:47:52",
+  "updated_at": "2026-10-13T15:44:37",
   "articles": [
+    {
+      "id": "e12a21c3f0",
+      "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
+      "zh_desc": "iOS 27 进一步完善家长控制和儿童账户体系，从限制监控转向系统级管理保护。对面向儿童和家庭用户的休闲手游在合规、家长同意、用户管理方面有参考价值。",
+      "url": "https://sspai.com/post/115242",
+      "source": "少数派",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-12T07:00:00",
+      "fetched_at": "2026-10-13T15:44:37",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "2bc8578afc",
       "title": "资深游戏媒体人 Chris Kerr 创办新刊物 Vertical Slice",
