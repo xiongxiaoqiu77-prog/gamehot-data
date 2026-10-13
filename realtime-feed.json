@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-10-13T04:36:15",
+  "updated_at": "2026-10-13T08:47:52",
   "articles": [
+    {
+      "id": "2bc8578afc",
+      "title": "资深游戏媒体人 Chris Kerr 创办新刊物 Vertical Slice",
+      "zh_desc": "前 Game Developer 高级编辑 Chris Kerr 推出订阅制游戏行业出版物 Vertical Slice，主打为从业者发声、对权力进行监督的深度报道。属于媒体与行业生态动态，可作为了解海外行业舆论走向的参考。",
+      "url": "https://www.gamesindustry.biz/game-developer-veteran-chris-kerr-launches-vertical-slice-a-games-publication-giving-workers-a-voice-and-holding-power-to-account",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-12T15:57:25",
+      "fetched_at": "2026-10-13T08:47:52",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "c07b7d3584",
+      "title": "GTA 6 泄露事件幕后组织威胁公开含剧情模式的完整游戏版本",
+      "zh_desc": "此前泄露 Grand Theft Auto 6 的组织据称威胁要放出包含完整剧情模式与制作人员名单的完整构建版本。属于行业重大安全与发行风险事件，对手游厂商的素材与版本保密管理有警示意义。",
+      "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-12T10:32:50",
+      "fetched_at": "2026-10-13T08:47:52",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI (GTA 6)",
+          "desc": "Rockstar 开发的开放世界动作冒险游戏，是 GTA 系列新作，包含剧情模式，并计划于 11 月 19 日发售。"
+        }
+      ]
+    },
     {
       "id": "fa660cb621",
       "title": "Epic Games 推迟 Disney 合作游戏，并要求开发者转向「AI 优先」生产模式",
