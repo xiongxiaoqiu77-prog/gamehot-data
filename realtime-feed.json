@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-10-15T02:02:25",
+  "updated_at": "2026-10-15T04:09:27",
   "articles": [
+    {
+      "id": "d00d2f75fd",
+      "title": "《Duke Nukem 3D》关卡设计师 Richard 'Levelord' Gray 逝世，享年 68 岁",
+      "zh_desc": "经典 FPS《Duke Nukem 3D》的关卡设计师 Richard 'Levelord' Gray 去世，享年 68 岁，业内多方发文悼念。他因关卡节奏与空间设计上的开创性工作而闻名，对理解关卡设计方法论仍有参考价值。对三消/休闲游戏从业者而言属于行业人物动态，与玩法与变现主题关联较弱。",
+      "url": "https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T19:45:48",
+      "fetched_at": "2026-10-15T04:09:27",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Duke Nukem 3D",
+          "desc": "第一人称射击游戏，Gray 因担任关卡设计师而闻名，包含作弊才能发现的经典彩蛋。"
+        },
+        {
+          "name": "Quake: Scourge of Armagon",
+          "desc": "《Quake》的官方资料片，第一人称射击游戏，是 Gray 在 Ritual Entertainment 时期的参与作品。"
+        },
+        {
+          "name": "Sin",
+          "desc": "第一人称射击游戏，Gray 在 Ritual Entertainment 期间参与开发的作品之一。"
+        },
+        {
+          "name": "Star Trek: Elite Force 2",
+          "desc": "基于《星际迷航》的第一人称射击游戏，Gray 参与制作的作品之一。"
+        },
+        {
+          "name": "Counter-Strike: Condition Zero",
+          "desc": "战术第一人称射击游戏，Gray 参与制作的作品之一。"
+        },
+        {
+          "name": "25 to Life",
+          "desc": "第三人称射击游戏，Gray 参与制作的作品之一。"
+        },
+        {
+          "name": "Doom",
+          "desc": "经典第一人称射击游戏，Gray 因其制作的 Doom 关卡而被 Scott Miller 招募。"
+        }
+      ]
+    },
     {
       "id": "61f2a1a60b",
       "title": "S&box 计划转为免费游玩并拥抱人工策展，称“游戏界 Netflix 行不通”",
