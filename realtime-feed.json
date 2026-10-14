@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-15T00:26:22",
+  "updated_at": "2026-10-15T00:58:19",
   "articles": [
+    {
+      "id": "ca6420fa96",
+      "title": "Funcom 将裁员重组，转为专注 Conan Exiles 与 Dune: Awakening 的长线运营",
+      "zh_desc": "挪威开发商 Funcom 宣布重组，未来只聚焦 Conan Exiles 与 Dune: Awakening 的 LiveOps 运营，裁员规模未披露。掌舵 11 年的 CEO Rui Casais 将于年底离任，由首席产品官 Scott Junior 接任。对关注长线运营型产品组织调整的从业者有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T16:34:08",
+      "fetched_at": "2026-10-15T00:58:19",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Conan Exiles",
+          "desc": "Funcom 的长期运营游戏之一，近期推出 Enhanced 版并将继续扩展。"
+        },
+        {
+          "name": "Dune: Awakening",
+          "desc": "Funcom 迄今最大项目，已从全面制作转向长期发布后开发与运营。"
+        },
+        {
+          "name": "Metal: Hellsinger",
+          "desc": "由 The Outsiders 创作、Funcom 于 2021 年收购工作室时纳入旗下的游戏。"
+        }
+      ]
+    },
     {
       "id": "bc49e3ef69",
       "title": "'我想做一档自己愿意看的节目'——Galaxies 如何在拥挤的发布会生态中找到位置",
