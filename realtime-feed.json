@@ -1,6 +1,65 @@
 {
-  "updated_at": "2026-10-14T18:35:14",
+  "updated_at": "2026-10-14T19:07:31",
   "articles": [
+    {
+      "id": "684aa02f93",
+      "title": "病毒式游戏混搭：AI 反编译能力对游戏意味着什么",
+      "zh_desc": "文章梳理近期社交媒体上爆火的跨游戏混搭视频，并讨论 AI 反编译/逆向能力如何降低二次创作门槛。它有助于从业者理解 AI 对游戏 IP、UGC 和病毒传播的潜在影响，但与三消/休闲手游的直接设计运营关联有限。",
+      "url": "https://naavik.co/ai-gaming/viral-game-mash-ups-what-ai-decompilation-capabilities-mean-for-games/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-13T10:36:28",
+      "fetched_at": "2026-10-14T19:07:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Modern Warfare",
+          "desc": "第一人称射击游戏，被 AI 反编译后出现滑板等跨游戏混搭模组。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "沙盒生存建造游戏，其苦力怕等元素被混搭进夜之城或被改造成《艾尔登法环》模组。"
+        },
+        {
+          "name": "Elden Ring",
+          "desc": "开放世界魂系动作角色扮演游戏，被与 Minecraft、Mario 等游戏或角色混搭。"
+        },
+        {
+          "name": "Mario 64",
+          "desc": "3D 平台跳跃游戏，被纳入从 Mario 64 到 Portal 等多游戏融合的混搭实验。"
+        },
+        {
+          "name": "P.T.",
+          "desc": "小岛秀夫与科乐美的第一人称恐怖互动游戏/预告，被用户完整重建成 PC 可玩版本。"
+        },
+        {
+          "name": "GTA V",
+          "desc": "开放世界动作冒险游戏，被用户移植为浏览器可玩版本。"
+        },
+        {
+          "name": "Bloodborne",
+          "desc": "魂系动作角色扮演游戏，被原生移植到 PC，绕过 PlayStation 平台限制。"
+        },
+        {
+          "name": "Portal",
+          "desc": "第一人称解谜平台游戏，出现在多款游戏融合的混搭项目中。"
+        }
+      ]
+    },
+    {
+      "id": "23e7b6b82f",
+      "title": "Nvidia 据报停止生产 GeForce RTX 5090 显卡",
+      "zh_desc": "报道称 Nvidia 已停止生产 GeForce RTX 5090 及面向中国市场的 D 变体。该消息影响高端 PC 游戏硬件供给与玩家升级预期，但对休闲手游从业者参考价值有限。",
+      "url": "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-12T16:17:15",
+      "fetched_at": "2026-10-14T19:07:31",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "c9fbe3712b",
       "title": "独立开发者靠免费浏览器游戏做到七位数收入",
