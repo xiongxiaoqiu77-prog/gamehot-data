@@ -5,78 +5,141 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Oct 2026 07:00:11 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:00:21 +0800</lastBuildDate>
   <item>
-    <title>AdSurge：Miniclip 借助腾讯 AI 与 Easybrain 数据打造的新广告网络</title>
-    <link>https://mobilegamer.biz/adsurge-is-the-new-ad-network-built-by-miniclip-with-help-from-tencent-ai-and-easybrain-data/</link>
-    <description>Miniclip 联合腾讯 AI 和 Easybrain 数据推出 AdSurge，同时覆盖用户获取与广告变现。对休闲/手游团队而言，这是了解移动广告网络格局、买量和变现渠道变化的重要行业动态，但文章未深入拆解投放机制。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 13 Oct 2026 18:24:05 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/adsurge-is-the-new-ad-network-built-by-miniclip-with-help-from-tencent-ai-and-easybrain-data/</guid>
-  </item>
-  <item>
-    <title>Rovio 的重建意味着重新聚焦 Angry Birds、Sonic，并谨慎挑选新项目</title>
-    <link>https://mobilegamer.biz/rovios-rebuild-means-refocusing-on-angry-birds-sonic-and-picking-new-projects-carefully/</link>
-    <description>Sega West COO 兼 Rovio CEO Alex Pelletier-Normand 谈论 Sonic Rumble Party 的挣扎、为何 Apple 和 Google 不值得拿 30% 分成，以及 Rovio 重建期的项目选择。对移动休闲游戏公司的 IP 运营、平台策略和新品立项有较高参考价值。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 13 Oct 2026 11:37:57 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/rovios-rebuild-means-refocusing-on-angry-birds-sonic-and-picking-new-projects-carefully/</guid>
-  </item>
-  <item>
-    <title>Google Play 将新增一系列发现、策展与 AI 功能</title>
-    <link>https://mobilegamer.biz/google-play-is-adding-a-raft-of-new-discovery-curation-and-ai-features/</link>
-    <description>Google Play 正在上线多项发现、策展和 AI 相关新功能，同时把 Dave the Diver、Warhammer 40,000: Boltgun 等 PC 游戏带入 Play，并将 Game Trials 扩展到 PC 端。对关注手游分发、买量与曝光机制的从业者有一定参考价值。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 13 Oct 2026 17:00:30 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/google-play-is-adding-a-raft-of-new-discovery-curation-and-ai-features/</guid>
-  </item>
-  <item>
-    <title>Xbox 宣布成立 Xbox Labs，试水新兴创意与「新技术」</title>
-    <link>https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology</link>
-    <description>Xbox CEO Asha Sharma 宣布成立内部新团队 Xbox Labs，由游戏制作人、工程师与科学家组成，负责快速开发、迭代并测试新工具、产品与功能，以玩家和开发者的实际反馈作为成败标准。属于平台方组织与研发机制动态，对休闲手游从业者参考价值有限。</description>
+    <title>Google Play 新增 Game Finder、Sprints 与 Sidekick Playbacks，加码游戏发现</title>
+    <link>https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push</link>
+    <description>Google Play 推出一批面向游戏的新发现与社交功能，包括个性化推荐工具 Game Finder、限时竞技玩法 Sprints，以及通过 Sidekick 悬浮层分享游戏片段。对休闲手游团队来说，这意味着新的曝光位置与社交传播入口。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 13 Oct 2026 19:00:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology</guid>
+    <pubDate>Wed, 14 Oct 2026 21:02:24 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push</guid>
   </item>
   <item>
-    <title>Owlchemy CEO：VR 仍是新兴市场，因为它还没通过「咖啡馆测试」</title>
-    <link>https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-</link>
-    <description>Owlchemy 首席执行官 Andrew Eiche 认为 VR 尚未成为主流，原因是它还没通过类似「咖啡馆测试」的日常使用门槛，并指出部分 VR 公司因不愿迎合受众需求而裁员成风。对关注新兴平台与团队生存策略的从业者有一定参考价值，但与休闲消除品类关联较弱。</description>
+    <title>Supercell 确认 Squad Busters 将于 12 月 14 日停服</title>
+    <link>https://mobilegamer.biz/supercell-confirms-squad-busters-will-shut-down-on-december-14/</link>
+    <description>该游戏将于 12 月 1 日从 App Store 和 Google Play 下架，全球上线仅两年多即宣告终止。这是 Supercell 罕见的失败案例，对研究休闲竞技手游留存与长线运营的从业者具有警示意义。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Wed, 14 Oct 2026 14:26:22 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/supercell-confirms-squad-busters-will-shut-down-on-december-14/</guid>
+  </item>
+  <item>
+    <title>数据周报：Flow 融资 4600 万美元，Spill 获 1050 万，Scopely Explore 登顶美国增长榜</title>
+    <link>https://mobilegamer.biz/data-digest-flow-gets-46m-spill-lands-10-5m-scopely-explore-tops-us-growth-charts-more/</link>
+    <description>本期汇总多起融资消息、Q3 数据以及应用内活动表现数据，其中 Scopely Explore 位列美国增长榜榜首。对关注手游市场动向与买量增长的从业者有一定参考价值。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Wed, 14 Oct 2026 09:41:05 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/data-digest-flow-gets-46m-spill-lands-10-5m-scopely-explore-tops-us-growth-charts-more/</guid>
+  </item>
+  <item>
+    <title>不再手写代码？Epic 的 Disney 项目据报道转向「AI 优先」开发</title>
+    <link>https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development</link>
+    <description>据报道，正在开发中的 Star Wars 与 Marvel 射击游戏的开发者被要求大量依赖 AI，尤其是在代码与美术创作环节。对从业者而言，这反映了头部厂商研发流程中 AI 渗透的最新动向。</description>
     <category>行业资讯</category>
     <author>Game Developer</author>
-    <pubDate>Tue, 13 Oct 2026 13:15:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-</guid>
+    <pubDate>Wed, 14 Oct 2026 20:24:47 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development</guid>
   </item>
   <item>
-    <title>“多年搭建、推介和融资游戏的经历，让同样的失败令人痛心”——GameDataCore 为何想弄清玩家感受</title>
-    <link>https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel</link>
-    <description>GameDataCore 试图穿透 Steam 评论噪音，识别玩家对游戏的真实感受、开发者应解决的问题以及下一款可考虑的产品方向。对关注用户反馈分析和产品迭代的从业者有参考价值，但并非休闲游戏专项拆解。</description>
+    <title>《Duke Nukem 3D》关卡设计师 Richard 'Levelord' Gray 逝世，享年 68 岁</title>
+    <link>https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68</link>
+    <description>经典 FPS《Duke Nukem 3D》的关卡设计师 Richard 'Levelord' Gray 去世，享年 68 岁，业内多方发文悼念。他因关卡节奏与空间设计上的开创性工作而闻名，对理解关卡设计方法论仍有参考价值。对三消/休闲游戏从业者而言属于行业人物动态，与玩法与变现主题关联较弱。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 13 Oct 2026 12:30:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel</guid>
+    <pubDate>Wed, 14 Oct 2026 19:45:48 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68</guid>
   </item>
   <item>
-    <title>塑造 2026 年游戏行业的六大监管风险指南</title>
-    <link>https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026</link>
-    <description>Bird &amp; Bird 律师 Dr Simon Hembt 围绕 IP、AI/科技和媒体监管，梳理 2026 年游戏公司面临的六类监管风险。对需要做合规与发行风险预判的从业者有参考价值。</description>
+    <title>S&amp;box 计划转为免费游玩并拥抱人工策展，称“游戏界 Netflix 行不通”</title>
+    <link>https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work</link>
+    <description>Facepunch Studios 计划年底将 S&amp;box 平台转为免费游玩，并从追求游戏数量转向推广最优秀、最受欢迎的作品。对关注平台型产品、F2P 与内容策展的从业者有一定参考，但与休闲三消/消除手游的关联较弱。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 13 Oct 2026 11:25:38 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026</guid>
+    <pubDate>Wed, 14 Oct 2026 17:58:59 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work</guid>
   </item>
   <item>
-    <title>“不再手写代码”：Epic Games 决定在开发中积极采用 AI</title>
-    <link>https://gameworldobserver.com/2026/10/13/no-more-hand-written-code-epic-games-decides-to-actively-utilize-ai-in-development</link>
-    <description>Epic Games 正转向 AI-first 开发方式，重点采用人工智能技术。该动态反映大型游戏公司的研发流程变化，但与休闲三消/消除游戏的直接关联有限。</description>
+    <title>如何经营一家独立游戏工作室：第 3 部分，处理问题</title>
+    <link>https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues</link>
+    <description>该系列第三篇从目标设定转向团队运营中最不有趣却最关键的部分——问题处理，讲述独立工作室如何面对与化解日常经营危机。对中小团队管理者有流程与心态层面的参考价值，但与三消/休闲品类的玩法与变现设计无直接关联。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 14 Oct 2026 14:00:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues</guid>
+  </item>
+  <item>
+    <title>Rockstar 下一款游戏不会再用八年：'GTA 6 期间打造的引擎、工具与团队将让我们更快'</title>
+    <link>https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly</link>
+    <description>Rockstar 为开发 GTA 6 将团队规模扩大一倍以上，并表示借助已建成的引擎、工具链与团队，后续作品不会再耗时八年。属于头部厂商产能与研发管线动态，对理解 3A 工业化效率有参考意义，但与休闲手游领域关联较弱。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 14 Oct 2026 12:26:32 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly</guid>
+  </item>
+  <item>
+    <title>ESA 点名复古主机厂商 Anbernic，建议将其列入美国政府「恶名市场名单」</title>
+    <link>https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list</link>
+    <description>美国娱乐软件协会（ESA）建议把复古掌机厂商 Anbernic 纳入美国政府的恶名市场名单，指控其涉及盗版内容。反映主机与版权方对模拟器/复古硬件生态的持续施压，属于行业版权动态，与休闲手游设计运营关联不大。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 14 Oct 2026 09:59:16 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list</guid>
+  </item>
+  <item>
+    <title>XBOX 成立专门试验新技术的新部门</title>
+    <link>https://gameworldobserver.com/2026/10/14/xbox-has-opened-a-division-for-experimenting-with-new-technologies</link>
+    <description>微软在 XBOX 内部继续组建新团队，继 XP 之后宣布成立 XBOX LABS，专注于为游戏开发探索当前可用技术。属于厂商研发组织动态，对关注技术探索方向的从业者有信息价值，但与休闲手游设计运营关联有限。</description>
     <category>行业资讯</category>
     <author>Game World Observer</author>
-    <pubDate>Tue, 13 Oct 2026 13:57:00 +0800</pubDate>
-    <guid isPermaLink="true">https://gameworldobserver.com/2026/10/13/no-more-hand-written-code-epic-games-decides-to-actively-utilize-ai-in-development</guid>
+    <pubDate>Wed, 14 Oct 2026 14:56:07 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/10/14/xbox-has-opened-a-division-for-experimenting-with-new-technologies</guid>
+  </item>
+  <item>
+    <title>Funcom 将裁员重组，转为专注 Conan Exiles 与 Dune: Awakening 的长线运营</title>
+    <link>https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening</link>
+    <description>挪威开发商 Funcom 宣布重组，未来只聚焦 Conan Exiles 与 Dune: Awakening 的 LiveOps 运营，裁员规模未披露。掌舵 11 年的 CEO Rui Casais 将于年底离任，由首席产品官 Scott Junior 接任。对关注长线运营型产品组织调整的从业者有一定参考价值。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 14 Oct 2026 16:34:08 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening</guid>
+  </item>
+  <item>
+    <title>'我想做一档自己愿意看的节目'——Galaxies 如何在拥挤的发布会生态中找到位置</title>
+    <link>https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape</link>
+    <description>第四届 Galaxies Showcase 即将首播，该节目在疫情后涌现的众多数字发布会中定位独立与 AA 级作品的中段市场，由 Outside Xbox 的 Jane Douglas 主持。对从业者而言，这是了解游戏宣发渠道分化与中型发行机会的窗口。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 14 Oct 2026 14:57:54 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape</guid>
+  </item>
+  <item>
+    <title>休闲游戏平台 Legacy Games 将于今年 12 月关闭在线商店</title>
+    <link>https://www.gamesindustry.biz/casual-game-marketplace-legacy-games-to-close-online-store-this-december</link>
+    <description>休闲游戏发行平台 Legacy Games 宣布将于 2026 年 12 月 31 日关闭其在线商店。对休闲游戏分发渠道格局观察者有一定参考价值，但信息量有限。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 14 Oct 2026 13:42:31 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/casual-game-marketplace-legacy-games-to-close-online-store-this-december</guid>
+  </item>
+  <item>
+    <title>Ubisoft 关闭 Trials 开发商 RedLynx 并裁减新加坡工作室岗位</title>
+    <link>https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-and-cutting-jobs-in-singapore-studio</link>
+    <description>Ubisoft 提议关闭芬兰工作室 RedLynx，并在主导 Skull and Bones 的新加坡工作室大幅裁员，这是其削减成本、重组为 Creative Houses 架构的最新动作。对关注大厂手游业务收缩的从业者有参考意义。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 14 Oct 2026 08:55:05 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-and-cutting-jobs-in-singapore-studio</guid>
+  </item>
+  <item>
+    <title>GameAnalytics 详解：免费版、Pro 版各有什么，以及每项功能的作用</title>
+    <link>https://www.gameanalytics.com/blog/gameanalytics-products-free-vs-pro</link>
+    <description>梳理 GameAnalytics 各产品线、定价以及每项功能对应的实际研发需求。对需要选择数据分析工具的手游团队有工具选型参考价值。</description>
+    <category>行业资讯</category>
+    <author>GameAnalytics</author>
+    <pubDate>Wed, 14 Oct 2026 11:27:31 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gameanalytics.com/blog/gameanalytics-products-free-vs-pro</guid>
   </item>
   </channel>
 </rss>
