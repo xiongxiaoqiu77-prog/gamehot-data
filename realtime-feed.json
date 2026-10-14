@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-14T16:27:42",
+  "updated_at": "2026-10-14T18:35:14",
   "articles": [
+    {
+      "id": "c9fbe3712b",
+      "title": "独立开发者靠免费浏览器游戏做到七位数收入",
+      "zh_desc": "Naavik 播客对话 Trainwreck Labs 创始人 Abe Train，讲述这位前 HelloFresh 商业智能负责人如何仅凭一台笔记本和少量外包，成为日更型免费浏览器游戏领域最成功的独立开发者之一。对关注轻量休闲品类的获客、留存与变现路径的从业者有一定参考价值。",
+      "url": "https://naavik.co/podcast/the-solo-developer-making-seven-figures-from-free-browser-games/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-13T10:25:14",
+      "fetched_at": "2026-10-14T18:35:14",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Wordle",
+          "desc": "每日单词猜谜游戏，曾在互联网上爆红并引发大量模仿作品。"
+        },
+        {
+          "name": "Globle",
+          "desc": "每日地理猜谜游戏，发布到Reddit后峰值每天超过一百万玩家。"
+        },
+        {
+          "name": "Metazooa",
+          "desc": "文章提及的每日游戏，被一位生物学老师每天在镜头前游玩。"
+        }
+      ]
+    },
     {
       "id": "3ea6bb018e",
       "title": "Xbox CEO 据报警告：只依赖现有 IP 公司将「无法生存」",
