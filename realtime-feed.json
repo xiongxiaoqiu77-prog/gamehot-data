@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-10-14T11:30:31",
+  "updated_at": "2026-10-14T16:27:42",
   "articles": [
+    {
+      "id": "3ea6bb018e",
+      "title": "Xbox CEO 据报警告：只依赖现有 IP 公司将「无法生存」",
+      "zh_desc": "Xbox 负责人 Asha Sharma 据报在内部警告，若公司仅依靠既有游戏 IP 将「无法生存」，暗示需要拓展新品类与新 IP。属于主机/主机平台层面的公司战略资讯，对休闲三消品类的玩法与变现设计没有直接参考价值，只可作为行业大盘风向参考。",
+      "url": "https://www.gamesindustry.biz/xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-relies-on-existing-franchises",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T07:44:27",
+      "fetched_at": "2026-10-14T16:27:42",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Everwild",
+          "desc": "Rare 开发的已取消新 IP 项目，属于 Xbox 在现有 IP 之外尝试的新作。"
+        },
+        {
+          "name": "Project Blackbird",
+          "desc": "ZeniMax Online Studios 的已取消新 IP 项目，曾被 Xbox 纳入新 IP 计划。"
+        },
+        {
+          "name": "Project Mara",
+          "desc": "Ninja Theory 的已取消新 IP 项目，后随 Xbox 业务调整被终止。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "Mojang Studios 开发的沙盒游戏，文中提及其主题公园等跨媒体衍生计划。"
+        },
+        {
+          "name": "Fallout",
+          "desc": "知名后末日角色扮演游戏系列，文中提及其电视剧改编项目。"
+        }
+      ]
+    },
     {
       "id": "af64bfe4ab",
       "title": "BAFTA 向英国和美国的 112 位受助者发放逾 27 万英镑，支持游戏、影视职业发展",
