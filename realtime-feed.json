@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-15T05:13:28",
+  "updated_at": "2026-10-15T07:19:55",
   "articles": [
+    {
+      "id": "f95e076e53",
+      "title": "Ubisoft 将关闭 Trials 工作室 RedLynx，并缩减 Ubisoft Singapore 规模",
+      "zh_desc": "Ubisoft 作为重组计划的一部分，决定关闭 Trials 工作室 RedLynx，并缩减 Ubisoft Singapore，合计影响超过 120 个岗位。该消息反映大型厂商继续收缩与重组，但与休闲/三消手游的玩法、变现和 LiveOps 直接关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T22:08:51",
+      "fetched_at": "2026-10-15T07:19:55",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Skull and Bones",
+          "desc": "Ubisoft 于 2024 年推出的海盗题材 RPG，由 Ubisoft Singapore 负责。"
+        },
+        {
+          "name": "Trials",
+          "desc": "由 RedLynx 开发的 BMX 特技竞速游戏系列，未来作品曾在其关闭前继续推进。"
+        }
+      ]
+    },
     {
       "id": "8644ef73f9",
       "title": "不再手写代码？Epic 的 Disney 项目据报道转向「AI 优先」开发",
