@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-14T03:29:52",
+  "updated_at": "2026-10-14T11:30:31",
   "articles": [
+    {
+      "id": "af64bfe4ab",
+      "title": "BAFTA 向英国和美国的 112 位受助者发放逾 27 万英镑，支持游戏、影视职业发展",
+      "zh_desc": "BAFTA 通过 2026 年 Prince William BAFTA Bursary 和奖学金项目，向英国及北美 112 人发放超过 27 万英镑资助，用于游戏、电影和电视职业成长。属于游戏行业人才扶持资讯，对了解海外产业生态有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-12T08:00:00",
+      "fetched_at": "2026-10-14T11:30:31",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "598d399303",
       "title": "Xbox 宣布成立 Xbox Labs，试水新兴创意与「新技术」",
