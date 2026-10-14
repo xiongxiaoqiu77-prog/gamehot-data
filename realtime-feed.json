@@ -1,6 +1,80 @@
 {
-  "updated_at": "2026-10-15T00:58:19",
+  "updated_at": "2026-10-15T01:30:14",
   "articles": [
+    {
+      "id": "3972af3269",
+      "title": "如何经营一家独立游戏工作室：第 3 部分，处理问题",
+      "zh_desc": "该系列第三篇从目标设定转向团队运营中最不有趣却最关键的部分——问题处理，讲述独立工作室如何面对与化解日常经营危机。对中小团队管理者有流程与心态层面的参考价值，但与三消/休闲品类的玩法与变现设计无直接关联。",
+      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T14:00:00",
+      "fetched_at": "2026-10-15T01:30:14",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "653ea41b82",
+      "title": "Rockstar 下一款游戏不会再用八年：'GTA 6 期间打造的引擎、工具与团队将让我们更快'",
+      "zh_desc": "Rockstar 为开发 GTA 6 将团队规模扩大一倍以上，并表示借助已建成的引擎、工具链与团队，后续作品不会再耗时八年。属于头部厂商产能与研发管线动态，对理解 3A 工业化效率有参考意义，但与休闲手游领域关联较弱。",
+      "url": "https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T12:26:32",
+      "fetched_at": "2026-10-15T01:30:14",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6 (GTA 6)",
+          "desc": "Rockstar Games 正在开发的开放世界动作冒险游戏，计划于 2026 年 11 月 19 日发售，并被视为未来更快构建新内容的基础。"
+        },
+        {
+          "name": "Red Dead Redemption 2",
+          "desc": "Rockstar 于 2018 年推出的开放世界西部题材动作冒险游戏，文中提到其发售时工作室有 2,441 名员工。"
+        }
+      ]
+    },
+    {
+      "id": "83a866227e",
+      "title": "ESA 点名复古主机厂商 Anbernic，建议将其列入美国政府「恶名市场名单」",
+      "zh_desc": "美国娱乐软件协会（ESA）建议把复古掌机厂商 Anbernic 纳入美国政府的恶名市场名单，指控其涉及盗版内容。反映主机与版权方对模拟器/复古硬件生态的持续施压，属于行业版权动态，与休闲手游设计运营关联不大。",
+      "url": "https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T09:59:16",
+      "fetched_at": "2026-10-15T01:30:14",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "13f006862c",
+      "title": "XBOX 成立专门试验新技术的新部门",
+      "zh_desc": "微软在 XBOX 内部继续组建新团队，继 XP 之后宣布成立 XBOX LABS，专注于为游戏开发探索当前可用技术。属于厂商研发组织动态，对关注技术探索方向的从业者有信息价值，但与休闲手游设计运营关联有限。",
+      "url": "https://gameworldobserver.com/2026/10/14/xbox-has-opened-a-division-for-experimenting-with-new-technologies",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T14:56:07",
+      "fetched_at": "2026-10-15T01:30:14",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Halo: Combat Evolved",
+          "desc": "经典科幻第一人称射击游戏，文中被举例为有浏览器版本实验。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "沙盒建造游戏，文中作为被 AI mod 嵌入《Elden Ring》的例子。"
+        },
+        {
+          "name": "Elden Ring",
+          "desc": "开放世界动作角色扮演游戏，文中作为 AI mod 将《Minecraft》嵌入其中的例子。"
+        }
+      ]
+    },
     {
       "id": "ca6420fa96",
       "title": "Funcom 将裁员重组，转为专注 Conan Exiles 与 Dune: Awakening 的长线运营",
