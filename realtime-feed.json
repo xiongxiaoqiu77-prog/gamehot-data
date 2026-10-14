@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-15T01:30:14",
+  "updated_at": "2026-10-15T02:02:25",
   "articles": [
+    {
+      "id": "61f2a1a60b",
+      "title": "S&box 计划转为免费游玩并拥抱人工策展，称“游戏界 Netflix 行不通”",
+      "zh_desc": "Facepunch Studios 计划年底将 S&box 平台转为免费游玩，并从追求游戏数量转向推广最优秀、最受欢迎的作品。对关注平台型产品、F2P 与内容策展的从业者有一定参考，但与休闲三消/消除手游的关联较弱。",
+      "url": "https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T17:58:59",
+      "fetched_at": "2026-10-15T02:02:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "S&box",
+          "desc": "Facepunch 开发的沙盒游戏/平台，计划年底转为免费游玩并转向人工策展。"
+        },
+        {
+          "name": "Garry's Mod",
+          "desc": "Facepunch 的经典沙盒游戏，S&box 计划在 NPC、载具、多人功能和模组支持等方面与其对齐并超越。"
+        }
+      ]
+    },
     {
       "id": "3972af3269",
       "title": "如何经营一家独立游戏工作室：第 3 部分，处理问题",
