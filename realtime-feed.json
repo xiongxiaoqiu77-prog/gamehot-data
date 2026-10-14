@@ -1,6 +1,194 @@
 {
-  "updated_at": "2026-10-14T19:07:31",
+  "updated_at": "2026-10-15T00:26:22",
   "articles": [
+    {
+      "id": "bc49e3ef69",
+      "title": "'我想做一档自己愿意看的节目'——Galaxies 如何在拥挤的发布会生态中找到位置",
+      "zh_desc": "第四届 Galaxies Showcase 即将首播，该节目在疫情后涌现的众多数字发布会中定位独立与 AA 级作品的中段市场，由 Outside Xbox 的 Jane Douglas 主持。对从业者而言，这是了解游戏宣发渠道分化与中型发行机会的窗口。",
+      "url": "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T14:57:54",
+      "fetched_at": "2026-10-15T00:26:22",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mass Effect",
+          "desc": "科幻动作角色扮演游戏系列，文章作为玩家更期待在发布会上看到的作品被提及。"
+        },
+        {
+          "name": "FIFA",
+          "desc": "EA 足球体育游戏系列，文章举例说发布会中常占用时间而玩家可能不关心。"
+        },
+        {
+          "name": "NFL",
+          "desc": "美式橄榄球体育游戏系列，与 FIFA 一同被作为发布会中冗长内容的例子。"
+        }
+      ]
+    },
+    {
+      "id": "f96a586cb5",
+      "title": "休闲游戏平台 Legacy Games 将于今年 12 月关闭在线商店",
+      "zh_desc": "休闲游戏发行平台 Legacy Games 宣布将于 2026 年 12 月 31 日关闭其在线商店。对休闲游戏分发渠道格局观察者有一定参考价值，但信息量有限。",
+      "url": "https://www.gamesindustry.biz/casual-game-marketplace-legacy-games-to-close-online-store-this-december",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T13:42:31",
+      "fetched_at": "2026-10-15T00:26:22",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "101a650a12",
+      "title": "Ubisoft 关闭 Trials 开发商 RedLynx 并裁减新加坡工作室岗位",
+      "zh_desc": "Ubisoft 提议关闭芬兰工作室 RedLynx，并在主导 Skull and Bones 的新加坡工作室大幅裁员，这是其削减成本、重组为 Creative Houses 架构的最新动作。对关注大厂手游业务收缩的从业者有参考意义。",
+      "url": "https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-and-cutting-jobs-in-singapore-studio",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T08:55:05",
+      "fetched_at": "2026-10-15T00:26:22",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Trials",
+          "desc": "RedLynx 开发的摩托车特技与物理竞速系列，文章提及 Trials 2、Trials HD 和 Trials Fusion。"
+        },
+        {
+          "name": "Skull and Bones",
+          "desc": "Ubisoft Singapore 领导开发的海盗海战游戏，经历多次延期后于 2024 年发售。"
+        },
+        {
+          "name": "Assassin's Creed",
+          "desc": "Ubisoft 动作冒险系列，Ubisoft Singapore 曾负责其海战部分。"
+        },
+        {
+          "name": "Tom Clancy's The Division",
+          "desc": "汤姆·克兰西系列射击角色扮演游戏，文章提及 Massive Entertainment 因该系列命名。"
+        }
+      ]
+    },
+    {
+      "id": "cc9da7d2dc",
+      "title": "Supercell 确认 Squad Busters 将于 12 月 14 日停服",
+      "zh_desc": "该游戏将于 12 月 1 日从 App Store 和 Google Play 下架，全球上线仅两年多即宣告终止。这是 Supercell 罕见的失败案例，对研究休闲竞技手游留存与长线运营的从业者具有警示意义。",
+      "url": "https://mobilegamer.biz/supercell-confirms-squad-busters-will-shut-down-on-december-14/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-14T14:26:22",
+      "fetched_at": "2026-10-15T00:26:22",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Squad Busters",
+          "desc": "Supercell 多角色乱斗派对手游，2024 年 5 月全球上线，确定于 12 月 14 日停服。"
+        },
+        {
+          "name": "Rainbow Six Mobile",
+          "desc": "Ubisoft 战术射击手游，文章提及它在本月被宣布关闭。"
+        },
+        {
+          "name": "Lego Hill Climb Adventures",
+          "desc": "Fingersoft 的乐高主题赛车与爬山冒险手游，文章提及它在本月被宣布关闭。"
+        }
+      ]
+    },
+    {
+      "id": "d2dcb3beab",
+      "title": "Ubisoft 拟关闭赫尔辛基工作室 RedLynx，最多 52 个岗位受影响",
+      "zh_desc": "该工作室此前已转向移动端，并参与 Rainbow Six Mobile 的开发，而 Ubisoft 将于明年 1 月关停该项目。反映大厂手游业务收缩趋势。",
+      "url": "https://mobilegamer.biz/ubisoft-poised-to-close-helsinki-studio-redlynx-putting-up-to-52-jobs-at-risk/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T10:18:36",
+      "fetched_at": "2026-10-15T00:26:22",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Trials",
+          "desc": "RedLynx 开发的摩托车特技与物理竞速系列，相关工作室面临关闭。"
+        },
+        {
+          "name": "Gwen’s Getaway",
+          "desc": "RedLynx 于 2023 年软启动的解谜与装饰游戏，是该公司多年来的首个新原创作品。"
+        },
+        {
+          "name": "Rainbow Six Mobile",
+          "desc": "Ubisoft 战术射击手游，RedLynx 参与开发，将于 1 月 15 日关闭。"
+        },
+        {
+          "name": "Skull and Bones",
+          "desc": "由 Ubisoft Singapore 领导开发的海盗海战游戏，2024 年发售。"
+        },
+        {
+          "name": "Just Dance",
+          "desc": "Ubisoft 舞蹈节奏游戏系列，被划入 Creative House 5 休闲移动部门。"
+        },
+        {
+          "name": "Uno",
+          "desc": "Ubisoft 发行的卡牌游戏，被划入 Creative House 5 休闲移动部门。"
+        },
+        {
+          "name": "Hungry Shark",
+          "desc": "Ubisoft 旗下鲨鱼主题休闲手游系列，被划入 Creative House 5 休闲移动部门。"
+        }
+      ]
+    },
+    {
+      "id": "0c557344e9",
+      "title": "数据周报：Flow 融资 4600 万美元，Spill 获 1050 万，Scopely Explore 登顶美国增长榜",
+      "zh_desc": "本期汇总多起融资消息、Q3 数据以及应用内活动表现数据，其中 Scopely Explore 位列美国增长榜榜首。对关注手游市场动向与买量增长的从业者有一定参考价值。",
+      "url": "https://mobilegamer.biz/data-digest-flow-gets-46m-spill-lands-10-5m-scopely-explore-tops-us-growth-charts-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-14T09:41:05",
+      "fetched_at": "2026-10-15T00:26:22",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Smash Fest",
+          "desc": "Flow Games 开发的手游，7 月下载量从约 200 万增至 1020 万，收入显著增长。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容平台与游戏，9 月在 iOS 和 Google Play 收入增长最大，增加 5590 万美元。"
+        },
+        {
+          "name": "Dragon Ball Z Dokkan Battle",
+          "desc": "龙珠 IP 手机游戏，9 月收入增长榜第二。"
+        },
+        {
+          "name": "Zeus: The God of Arrogance",
+          "desc": "韩国热门手游，2025 年 8 月 26 日上线，9 月收入增长榜第三。"
+        },
+        {
+          "name": "Mobile Legends: Bang Bang",
+          "desc": "MOBA 手游，9 月日活增长最高，增加 380 万。"
+        },
+        {
+          "name": "Bus Fever",
+          "desc": "手机游戏，9 月下载增长最大，增加 1200 万，环比增长 333%。"
+        }
+      ]
+    },
+    {
+      "id": "b74e2ac0ae",
+      "title": "GameAnalytics 详解：免费版、Pro 版各有什么，以及每项功能的作用",
+      "zh_desc": "梳理 GameAnalytics 各产品线、定价以及每项功能对应的实际研发需求。对需要选择数据分析工具的手游团队有工具选型参考价值。",
+      "url": "https://www.gameanalytics.com/blog/gameanalytics-products-free-vs-pro",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T11:27:31",
+      "fetched_at": "2026-10-15T00:26:22",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "684aa02f93",
       "title": "病毒式游戏混搭：AI 反编译能力对游戏意味着什么",
