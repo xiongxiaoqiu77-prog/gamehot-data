@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-10-15T04:09:27",
+  "updated_at": "2026-10-15T05:13:28",
   "articles": [
+    {
+      "id": "8644ef73f9",
+      "title": "不再手写代码？Epic 的 Disney 项目据报道转向「AI 优先」开发",
+      "zh_desc": "据报道，正在开发中的 Star Wars 与 Marvel 射击游戏的开发者被要求大量依赖 AI，尤其是在代码与美术创作环节。对从业者而言，这反映了头部厂商研发流程中 AI 渗透的最新动向。",
+      "url": "https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-14T20:24:47",
+      "fetched_at": "2026-10-15T05:13:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars and Marvel shooter",
+          "desc": "Epic 正在开发的未公布星球大战与漫威题材射击游戏，据报道转向 AI 优先开发并延期。"
+        }
+      ]
+    },
+    {
+      "id": "9b6481777d",
+      "title": "Google Play 新增 Game Finder、Sprints 与 Sidekick Playbacks，加码游戏发现",
+      "zh_desc": "Google Play 推出一批面向游戏的新发现与社交功能，包括个性化推荐工具 Game Finder、限时竞技玩法 Sprints，以及通过 Sidekick 悬浮层分享游戏片段。对休闲手游团队来说，这意味着新的曝光位置与社交传播入口。",
+      "url": "https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-14T21:02:24",
+      "fetched_at": "2026-10-15T05:13:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dave the Diver",
+          "desc": "海洋冒险与餐厅经营游戏，将作为 PC 作品加入 Google Play，并支持 Android 与 PC 云存档。"
+        },
+        {
+          "name": "Warhammer 40,000: Boltgun",
+          "desc": "战锤 40K 背景的复古快节奏第一人称射击游戏，将作为 PC 作品加入 Google Play，并支持跨端云存档。"
+        },
+        {
+          "name": "PUBG Mobile",
+          "desc": "战术竞技大逃杀手游，接入 Google Level Up 指南后高价值玩家新增与消费有所提升。"
+        }
+      ]
+    },
     {
       "id": "d00d2f75fd",
       "title": "《Duke Nukem 3D》关卡设计师 Richard 'Levelord' Gray 逝世，享年 68 岁",
