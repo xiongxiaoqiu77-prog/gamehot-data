@@ -5,141 +5,78 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Oct 2026 07:00:21 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:00:09 +0800</lastBuildDate>
   <item>
-    <title>Google Play 新增 Game Finder、Sprints 与 Sidekick Playbacks，加码游戏发现</title>
-    <link>https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push</link>
-    <description>Google Play 推出一批面向游戏的新发现与社交功能，包括个性化推荐工具 Game Finder、限时竞技玩法 Sprints，以及通过 Sidekick 悬浮层分享游戏片段。对休闲手游团队来说，这意味着新的曝光位置与社交传播入口。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 14 Oct 2026 21:02:24 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push</guid>
-  </item>
-  <item>
-    <title>Supercell 确认 Squad Busters 将于 12 月 14 日停服</title>
-    <link>https://mobilegamer.biz/supercell-confirms-squad-busters-will-shut-down-on-december-14/</link>
-    <description>该游戏将于 12 月 1 日从 App Store 和 Google Play 下架，全球上线仅两年多即宣告终止。这是 Supercell 罕见的失败案例，对研究休闲竞技手游留存与长线运营的从业者具有警示意义。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Wed, 14 Oct 2026 14:26:22 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/supercell-confirms-squad-busters-will-shut-down-on-december-14/</guid>
-  </item>
-  <item>
-    <title>数据周报：Flow 融资 4600 万美元，Spill 获 1050 万，Scopely Explore 登顶美国增长榜</title>
-    <link>https://mobilegamer.biz/data-digest-flow-gets-46m-spill-lands-10-5m-scopely-explore-tops-us-growth-charts-more/</link>
-    <description>本期汇总多起融资消息、Q3 数据以及应用内活动表现数据，其中 Scopely Explore 位列美国增长榜榜首。对关注手游市场动向与买量增长的从业者有一定参考价值。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Wed, 14 Oct 2026 09:41:05 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/data-digest-flow-gets-46m-spill-lands-10-5m-scopely-explore-tops-us-growth-charts-more/</guid>
-  </item>
-  <item>
-    <title>不再手写代码？Epic 的 Disney 项目据报道转向「AI 优先」开发</title>
-    <link>https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development</link>
-    <description>据报道，正在开发中的 Star Wars 与 Marvel 射击游戏的开发者被要求大量依赖 AI，尤其是在代码与美术创作环节。对从业者而言，这反映了头部厂商研发流程中 AI 渗透的最新动向。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Wed, 14 Oct 2026 20:24:47 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development</guid>
-  </item>
-  <item>
-    <title>《Duke Nukem 3D》关卡设计师 Richard 'Levelord' Gray 逝世，享年 68 岁</title>
-    <link>https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68</link>
-    <description>经典 FPS《Duke Nukem 3D》的关卡设计师 Richard 'Levelord' Gray 去世，享年 68 岁，业内多方发文悼念。他因关卡节奏与空间设计上的开创性工作而闻名，对理解关卡设计方法论仍有参考价值。对三消/休闲游戏从业者而言属于行业人物动态，与玩法与变现主题关联较弱。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 14 Oct 2026 19:45:48 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68</guid>
-  </item>
-  <item>
-    <title>S&amp;box 计划转为免费游玩并拥抱人工策展，称“游戏界 Netflix 行不通”</title>
-    <link>https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work</link>
-    <description>Facepunch Studios 计划年底将 S&amp;box 平台转为免费游玩，并从追求游戏数量转向推广最优秀、最受欢迎的作品。对关注平台型产品、F2P 与内容策展的从业者有一定参考，但与休闲三消/消除手游的关联较弱。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 14 Oct 2026 17:58:59 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work</guid>
-  </item>
-  <item>
-    <title>如何经营一家独立游戏工作室：第 3 部分，处理问题</title>
-    <link>https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues</link>
-    <description>该系列第三篇从目标设定转向团队运营中最不有趣却最关键的部分——问题处理，讲述独立工作室如何面对与化解日常经营危机。对中小团队管理者有流程与心态层面的参考价值，但与三消/休闲品类的玩法与变现设计无直接关联。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 14 Oct 2026 14:00:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues</guid>
-  </item>
-  <item>
-    <title>Rockstar 下一款游戏不会再用八年：'GTA 6 期间打造的引擎、工具与团队将让我们更快'</title>
-    <link>https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly</link>
-    <description>Rockstar 为开发 GTA 6 将团队规模扩大一倍以上，并表示借助已建成的引擎、工具链与团队，后续作品不会再耗时八年。属于头部厂商产能与研发管线动态，对理解 3A 工业化效率有参考意义，但与休闲手游领域关联较弱。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 14 Oct 2026 12:26:32 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly</guid>
-  </item>
-  <item>
-    <title>ESA 点名复古主机厂商 Anbernic，建议将其列入美国政府「恶名市场名单」</title>
-    <link>https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list</link>
-    <description>美国娱乐软件协会（ESA）建议把复古掌机厂商 Anbernic 纳入美国政府的恶名市场名单，指控其涉及盗版内容。反映主机与版权方对模拟器/复古硬件生态的持续施压，属于行业版权动态，与休闲手游设计运营关联不大。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 14 Oct 2026 09:59:16 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list</guid>
-  </item>
-  <item>
-    <title>XBOX 成立专门试验新技术的新部门</title>
-    <link>https://gameworldobserver.com/2026/10/14/xbox-has-opened-a-division-for-experimenting-with-new-technologies</link>
-    <description>微软在 XBOX 内部继续组建新团队，继 XP 之后宣布成立 XBOX LABS，专注于为游戏开发探索当前可用技术。属于厂商研发组织动态，对关注技术探索方向的从业者有信息价值，但与休闲手游设计运营关联有限。</description>
+    <title>Steam 正经历「愿望单通胀」，但愿望单依然重要——分析</title>
+    <link>https://gameworldobserver.com/2026/10/15/steam-is-experiencing-wishlist-inflation-but-they-are-still-important-analysis</link>
+    <description>游戏营销专家 Chris Zukowski 在 How To Market A Game 博客中检视了 Steam 愿望单价值下降的说法，认为其仍具重要性但存在通胀现象。对休闲游戏发行与买量前的预热策略有参考价值。</description>
     <category>行业资讯</category>
     <author>Game World Observer</author>
-    <pubDate>Wed, 14 Oct 2026 14:56:07 +0800</pubDate>
-    <guid isPermaLink="true">https://gameworldobserver.com/2026/10/14/xbox-has-opened-a-division-for-experimenting-with-new-technologies</guid>
+    <pubDate>Thu, 15 Oct 2026 14:24:50 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/10/15/steam-is-experiencing-wishlist-inflation-but-they-are-still-important-analysis</guid>
   </item>
   <item>
-    <title>Funcom 将裁员重组，转为专注 Conan Exiles 与 Dune: Awakening 的长线运营</title>
-    <link>https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening</link>
-    <description>挪威开发商 Funcom 宣布重组，未来只聚焦 Conan Exiles 与 Dune: Awakening 的 LiveOps 运营，裁员规模未披露。掌舵 11 年的 CEO Rui Casais 将于年底离任，由首席产品官 Scott Junior 接任。对关注长线运营型产品组织调整的从业者有一定参考价值。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 14 Oct 2026 16:34:08 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening</guid>
-  </item>
-  <item>
-    <title>'我想做一档自己愿意看的节目'——Galaxies 如何在拥挤的发布会生态中找到位置</title>
-    <link>https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape</link>
-    <description>第四届 Galaxies Showcase 即将首播，该节目在疫情后涌现的众多数字发布会中定位独立与 AA 级作品的中段市场，由 Outside Xbox 的 Jane Douglas 主持。对从业者而言，这是了解游戏宣发渠道分化与中型发行机会的窗口。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 14 Oct 2026 14:57:54 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape</guid>
-  </item>
-  <item>
-    <title>休闲游戏平台 Legacy Games 将于今年 12 月关闭在线商店</title>
-    <link>https://www.gamesindustry.biz/casual-game-marketplace-legacy-games-to-close-online-store-this-december</link>
-    <description>休闲游戏发行平台 Legacy Games 宣布将于 2026 年 12 月 31 日关闭其在线商店。对休闲游戏分发渠道格局观察者有一定参考价值，但信息量有限。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 14 Oct 2026 13:42:31 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/casual-game-marketplace-legacy-games-to-close-online-store-this-december</guid>
-  </item>
-  <item>
-    <title>Ubisoft 关闭 Trials 开发商 RedLynx 并裁减新加坡工作室岗位</title>
-    <link>https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-and-cutting-jobs-in-singapore-studio</link>
-    <description>Ubisoft 提议关闭芬兰工作室 RedLynx，并在主导 Skull and Bones 的新加坡工作室大幅裁员，这是其削减成本、重组为 Creative Houses 架构的最新动作。对关注大厂手游业务收缩的从业者有参考意义。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 14 Oct 2026 08:55:05 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-and-cutting-jobs-in-singapore-studio</guid>
-  </item>
-  <item>
-    <title>GameAnalytics 详解：免费版、Pro 版各有什么，以及每项功能的作用</title>
-    <link>https://www.gameanalytics.com/blog/gameanalytics-products-free-vs-pro</link>
-    <description>梳理 GameAnalytics 各产品线、定价以及每项功能对应的实际研发需求。对需要选择数据分析工具的手游团队有工具选型参考价值。</description>
+    <title>你需要游戏数据分析师吗？哪些部分可以自动化——GameAnalytics</title>
+    <link>https://www.gameanalytics.com/blog/do-you-need-a-game-data-analyst-and-what-parts-can-be-automated</link>
+    <description>GameAnalytics 探讨游戏团队是否需要专职数据分析师，以及哪些分析工作可交由 AI 自动化。对组建数据职能的手游团队有实践参考意义。</description>
     <category>行业资讯</category>
     <author>GameAnalytics</author>
-    <pubDate>Wed, 14 Oct 2026 11:27:31 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gameanalytics.com/blog/gameanalytics-products-free-vs-pro</guid>
+    <pubDate>Thu, 15 Oct 2026 12:47:51 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gameanalytics.com/blog/do-you-need-a-game-data-analyst-and-what-parts-can-be-automated</guid>
+  </item>
+  <item>
+    <title>Caves of Qud: Diaspora 开创先河，成为 Steam 首个以抢先体验形式发行的 DLC</title>
+    <link>https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam</link>
+    <description>roguelike RPG《Caves of Qud》已结束 Steam 抢先体验，但其新 DLC Diaspora 将以抢先体验形式上线，成为 Steam 抢先体验计划中首个 DLC 案例。对关注发行模式创新与内容更新节奏的从业者具有参考意义。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Thu, 15 Oct 2026 14:00:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam</guid>
+  </item>
+  <item>
+    <title>DayZ 制作人 Dean Hall 发布开源游戏开发框架 Brutal</title>
+    <link>https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal</link>
+    <description>行业老兵 Dean Hall 通过其旗下 Ahwoo 与 RocketWerkz 两家公司合作推出开源游戏开发框架 Brutal。属于开发者工具与团队动态类资讯，与休闲手游关联较弱。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 15 Oct 2026 14:31:28 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal</guid>
+  </item>
+  <item>
+    <title>Reforj 开发商 4J Studios 公布 PC 版发行计划</title>
+    <link>https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons</link>
+    <description>4J Studios 宣布其开放世界生存沙盒新作 Reforj 将于 2027 年第一季度在 PC 平台开启封闭测试。属于新游发行节奏类资讯，与休闲消除品类无直接关联。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 15 Oct 2026 13:25:49 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons</guid>
+  </item>
+  <item>
+    <title>House House 为支持 BDS 运动将不在 Xbox 发行 Big Walk</title>
+    <link>https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign</link>
+    <description>墨尔本开发商 House House 宣布其合作游戏 Big Walk 将不登陆 Xbox，以支持巴勒斯坦主导的 BDS 抵制运动。反映了当下发行决策与政治立场交织的行业现象。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 15 Oct 2026 11:08:03 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign</guid>
+  </item>
+  <item>
+    <title>Epic Games 称其全新「vibe coded」启动器冷启动到商店页比 Steam 快 46%</title>
+    <link>https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page</link>
+    <description>Epic Games 发布新版启动器 Beta，宣称从冷启动到商店页面的速度比 Steam 快 46%。对关注平台竞争与商店转化效率的从业者有一定参考意义。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 15 Oct 2026 09:35:29 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page</guid>
+  </item>
+  <item>
+    <title>Ubisoft 将在杜塞尔多夫、柏林和美因茨推行「自愿离职计划」裁员</title>
+    <link>https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan</link>
+    <description>Ubisoft 计划在德国三个工作室裁减约 100 名员工，作为其自愿离职方案的一部分。反映了大型发行商持续收缩成本的组织动态。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Thu, 15 Oct 2026 08:09:37 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan</guid>
   </item>
   </channel>
 </rss>
