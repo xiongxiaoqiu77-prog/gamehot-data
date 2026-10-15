@@ -1,6 +1,109 @@
 {
-  "updated_at": "2026-10-15T21:14:16",
+  "updated_at": "2026-10-16T00:25:28",
   "articles": [
+    {
+      "id": "0d749cc909",
+      "title": "House House 为支持 BDS 运动将不在 Xbox 发行 Big Walk",
+      "zh_desc": "墨尔本开发商 House House 宣布其合作游戏 Big Walk 将不登陆 Xbox，以支持巴勒斯坦主导的 BDS 抵制运动。反映了当下发行决策与政治立场交织的行业现象。",
+      "url": "https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-15T11:08:03",
+      "fetched_at": "2026-10-16T00:25:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Big Walk",
+          "desc": "House House 开发的合作游戏，因支持 BDS 运动决定不在 Xbox 发行。"
+        },
+        {
+          "name": "Luck be a Landlord",
+          "desc": "Dan Dilorio 开发的独立游戏，因抵制 Xbox 呼吁玩家不要在 Xbox 购买。"
+        },
+        {
+          "name": "All Will Rise",
+          "desc": "Speculative Agency 开发的游戏，开发商表示有兴趣加入 No Games for Genocide 抵制行动。"
+        },
+        {
+          "name": "Tenderfoot Tactics",
+          "desc": "Ice Water 开发的独立游戏，为支持 BDS 运动已从 Xbox 下架。"
+        }
+      ]
+    },
+    {
+      "id": "ed54ed4b96",
+      "title": "Epic Games 称其全新「vibe coded」启动器冷启动到商店页比 Steam 快 46%",
+      "zh_desc": "Epic Games 发布新版启动器 Beta，宣称从冷启动到商店页面的速度比 Steam 快 46%。对关注平台竞争与商店转化效率的从业者有一定参考意义。",
+      "url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-15T09:35:29",
+      "fetched_at": "2026-10-16T00:25:28",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "de4c749d39",
+      "title": "Ubisoft 将在杜塞尔多夫、柏林和美因茨推行「自愿离职计划」裁员",
+      "zh_desc": "Ubisoft 计划在德国三个工作室裁减约 100 名员工，作为其自愿离职方案的一部分。反映了大型发行商持续收缩成本的组织动态。",
+      "url": "https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-15T08:09:37",
+      "fetched_at": "2026-10-16T00:25:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Tom Clancy's The Division",
+          "desc": "育碧 Massive Entertainment 负责的第三人称射击/动作角色扮演游戏系列。"
+        },
+        {
+          "name": "Ghost Recon",
+          "desc": "育碧 Massive Entertainment 负责的战术射击游戏系列。"
+        },
+        {
+          "name": "Splinter Cell",
+          "desc": "育碧 Massive Entertainment 负责的潜行动作游戏系列。"
+        },
+        {
+          "name": "March of the Giants",
+          "desc": "育碧 Massive Entertainment 负责的新原创 IP，文章未说明具体类型。"
+        },
+        {
+          "name": "Trials",
+          "desc": "RedLynx 开发的游戏系列，文章提到其开发商被关闭。"
+        }
+      ]
+    },
+    {
+      "id": "4838e904b7",
+      "title": "Steam 正经历「愿望单通胀」，但愿望单依然重要——分析",
+      "zh_desc": "游戏营销专家 Chris Zukowski 在 How To Market A Game 博客中检视了 Steam 愿望单价值下降的说法，认为其仍具重要性但存在通胀现象。对休闲游戏发行与买量前的预热策略有参考价值。",
+      "url": "https://gameworldobserver.com/2026/10/15/steam-is-experiencing-wishlist-inflation-but-they-are-still-important-analysis",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-15T14:24:50",
+      "fetched_at": "2026-10-16T00:25:28",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a81928cc96",
+      "title": "你需要游戏数据分析师吗？哪些部分可以自动化——GameAnalytics",
+      "zh_desc": "GameAnalytics 探讨游戏团队是否需要专职数据分析师，以及哪些分析工作可交由 AI 自动化。对组建数据职能的手游团队有实践参考意义。",
+      "url": "https://www.gameanalytics.com/blog/do-you-need-a-game-data-analyst-and-what-parts-can-be-automated",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-15T12:47:51",
+      "fetched_at": "2026-10-16T00:25:28",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "2aa2b1bb81",
       "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
