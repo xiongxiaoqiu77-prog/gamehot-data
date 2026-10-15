@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-15T07:19:55",
+  "updated_at": "2026-10-15T21:14:16",
   "articles": [
+    {
+      "id": "2aa2b1bb81",
+      "title": "派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等",
+      "zh_desc": "早报汇总 Mozilla 企业版火狐、DLSS 5 模型推送、八位堂 Ultimate 3C+ 手柄、豆包手机助手权限等科技动态。其中仅有 DLSS 与游戏手柄等一般性游戏行业信息，与休闲/消除类手游的设计、运营和变现关联较弱。",
+      "url": "https://sspai.com/post/116193",
+      "source": "少数派",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-15T00:31:01",
+      "fetched_at": "2026-10-15T21:14:16",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "NBA 2K27",
+          "desc": "篮球体育模拟游戏，文中提到它是首个应用英伟达 DLSS 5 新模型的作品。"
+        }
+      ]
+    },
     {
       "id": "f95e076e53",
       "title": "Ubisoft 将关闭 Trials 工作室 RedLynx，并缩减 Ubisoft Singapore 规模",
