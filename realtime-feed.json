@@ -1,6 +1,76 @@
 {
-  "updated_at": "2026-10-16T00:25:28",
+  "updated_at": "2026-10-16T02:31:51",
   "articles": [
+    {
+      "id": "d607c812aa",
+      "title": "Caves of Qud: Diaspora 开创先河，成为 Steam 首个以抢先体验形式发行的 DLC",
+      "zh_desc": "roguelike RPG《Caves of Qud》已结束 Steam 抢先体验，但其新 DLC Diaspora 将以抢先体验形式上线，成为 Steam 抢先体验计划中首个 DLC 案例。对关注发行模式创新与内容更新节奏的从业者具有参考意义。",
+      "url": "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-15T14:00:00",
+      "fetched_at": "2026-10-16T02:31:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Caves of Qud",
+          "desc": "一款 roguelike RPG，已结束 Steam 抢先体验并于 2024 年发布 1.0；其 DLC《Diaspora》将首次以抢先体验形式发行。"
+        }
+      ]
+    },
+    {
+      "id": "597cfe7ab1",
+      "title": "DayZ 制作人 Dean Hall 发布开源游戏开发框架 Brutal",
+      "zh_desc": "行业老兵 Dean Hall 通过其旗下 Ahwoo 与 RocketWerkz 两家公司合作推出开源游戏开发框架 Brutal。属于开发者工具与团队动态类资讯，与休闲手游关联较弱。",
+      "url": "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-15T14:31:28",
+      "fetched_at": "2026-10-16T02:31:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "DayZ",
+          "desc": "Dean Hall 创作的知名生存游戏，文章以其制作人身份引入。"
+        },
+        {
+          "name": "Kitten Space Adventure",
+          "desc": "RocketWerkz 使用 Brutal 框架开发的项目之一。"
+        },
+        {
+          "name": "Kitten Space Agency",
+          "desc": "RocketWerkz 直接使用 Brutal 框架制作的游戏。"
+        },
+        {
+          "name": "Rimworld",
+          "desc": "Ludeon Studios 的游戏，采用由 Brutal 支持的新 Waylith 引擎。"
+        },
+        {
+          "name": "Kerbal Space Program",
+          "desc": "Felipe Falanghe 创作的太空模拟游戏，他也在使用 Brutal 构建新项目。"
+        }
+      ]
+    },
+    {
+      "id": "24fd1dc0c0",
+      "title": "Reforj 开发商 4J Studios 公布 PC 版发行计划",
+      "zh_desc": "4J Studios 宣布其开放世界生存沙盒新作 Reforj 将于 2027 年第一季度在 PC 平台开启封闭测试。属于新游发行节奏类资讯，与休闲消除品类无直接关联。",
+      "url": "https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-15T13:25:49",
+      "fetched_at": "2026-10-16T02:31:51",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Reforj",
+          "desc": "4J Studios 开发的开放世界生存沙盒，计划于 2027 年第一季度在 PC 进行封闭测试。"
+        }
+      ]
+    },
     {
       "id": "0d749cc909",
       "title": "House House 为支持 BDS 运动将不在 Xbox 发行 Big Walk",
