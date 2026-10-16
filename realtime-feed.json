@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-16T02:31:51",
+  "updated_at": "2026-10-16T14:35:55",
   "articles": [
+    {
+      "id": "36d2642168",
+      "title": "S&box 转向免费模式并采用人工策展，称“游戏界的 Netflix”概念并不奏效",
+      "zh_desc": "S&box 宣布转向免费模式并引入人工策展机制，同时公开否定“游戏界 Netflix”式的算法推荐模式。属于游戏平台商业模式动态，对理解 UGC 平台分发与变现策略有参考价值，但与休闲消除品类关联有限。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BbUJDNnBQclRaRnVja0FxdEdmeERKMElwMk9IbnNZbi1fb0hUamVqeVQzdThnLXZwYVhnaFdCN2lyUmFrazlxaDUwcWszYWxweUtIQm1udFBvUms?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-15T06:25:49",
+      "fetched_at": "2026-10-16T14:35:55",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "S&box",
+          "desc": "沙盒游戏/创作平台，文章称其转向免费模式并采用人工策展。"
+        }
+      ]
+    },
     {
       "id": "d607c812aa",
       "title": "Caves of Qud: Diaspora 开创先河，成为 Steam 首个以抢先体验形式发行的 DLC",
