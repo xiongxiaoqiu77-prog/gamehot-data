@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-17T20:01:23",
+  "updated_at": "2026-10-18T00:20:33",
   "articles": [
+    {
+      "id": "5131a98ce0",
+      "title": "成就土耳其创始人的特质，也正是制约其生态发展的因素",
+      "zh_desc": "文章剖析伊斯坦布尔如何凭借激烈竞争成为全球手游之都，以及这种「内卷式 rivalry」如何阻碍知识沉淀、造成人才外流、让成功团队难以留在本地。对关注手游产业带、团队组织与出海人才布局的从业者具有参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/what-makes-turkish-founders-excel-is-what-holds-the-ecosystem-back",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-17T08:35:46",
+      "fetched_at": "2026-10-18T00:20:33",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "5a1eb5d5a0",
       "title": "Netflix 剧集《Drive to Survive》启发了 Star Wars: Galactic Racer",
