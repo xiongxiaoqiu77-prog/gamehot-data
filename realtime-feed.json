@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-17T12:45:05",
+  "updated_at": "2026-10-17T20:01:23",
   "articles": [
+    {
+      "id": "5a1eb5d5a0",
+      "title": "Netflix 剧集《Drive to Survive》启发了 Star Wars: Galactic Racer",
+      "zh_desc": "Fuse Games 负责人 Matt Webster 表示，Netflix 剧集《Drive to Survive》从一开始就是 Star Wars: Galactic Racer 的灵感来源。这是一条竞速/主机游戏开发资讯，可供了解节目化叙事对游戏设计的启发；但与休闲三消和消除手游的直接关联较弱。",
+      "url": "https://www.gamesindustry.biz/the-netflix-series-drive-to-survive-inspired-star-wars-galactic-racer",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-16T12:26:23",
+      "fetched_at": "2026-10-17T20:01:23",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "一款星战题材竞速游戏，玩家可在赛道围场与星战角色互动，并在高速竞速与低强度叙事之间取得节奏平衡。"
+        }
+      ]
+    },
     {
       "id": "8a1ad46067",
       "title": "硬件市场冻结可能永久改变行业｜观点",
