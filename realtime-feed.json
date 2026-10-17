@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-17T00:38:32",
+  "updated_at": "2026-10-17T12:45:05",
   "articles": [
+    {
+      "id": "8a1ad46067",
+      "title": "硬件市场冻结可能永久改变行业｜观点",
+      "zh_desc": "文章讨论主机硬件周期停滞、平台方如何延长成熟装机量并吸引观望用户，属于主机市场的行业观点。对休闲手游从业者而言，可了解大盘硬件环境，但与三消/消除玩法、数值和变现的直接关联较弱。",
+      "url": "https://www.gamesindustry.biz/a-hardware-market-freeze-could-transform-the-industry-forever-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-16T15:18:57",
+      "fetched_at": "2026-10-17T12:45:05",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "f36eea175b",
       "title": "Gamescom Asia x Thailand Game Show 2026 新增印尼、日本、马来西亚和美国四个展馆",
