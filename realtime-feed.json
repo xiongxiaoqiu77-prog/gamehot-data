@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-19T13:15:36",
+  "updated_at": "2026-10-19T14:18:55",
   "articles": [
+    {
+      "id": "57a36d379b",
+      "title": "Meta 在当今游戏中的角色：Muse、VR 与 UA",
+      "zh_desc": "文章分析 Meta 在 Connect 2026 后的战略优先级，并重点讨论其作为游戏用户获取渠道缓慢回归对开发者的影响。对休闲手游团队评估 UA 渠道、平台趋势和投放策略有参考价值。",
+      "url": "https://naavik.co/weekly-digest/metas-role-in-gaming-today-muse-vr-and-ua/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-10-18T05:44:41",
+      "fetched_at": "2026-10-19T14:18:55",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "4c91837889",
       "title": "派早报：三季度全球手机出货量继续两位数下降",
