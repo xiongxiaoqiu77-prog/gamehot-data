@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-10-20T15:50:59",
+  "updated_at": "2026-10-21T00:16:32",
   "articles": [
+    {
+      "id": "727f3dcdc2",
+      "title": "“玩家想与品牌互动，而不只是消费它们”——Mattel 谈新游戏工作室、为何登陆 Roblox 及从 NetEase 学到的经验",
+      "zh_desc": "Mattel 介绍其新成立的 Mattel Game Studios 如何围绕自有 IP 做游戏、选择 Roblox 平台以及从与 NetEase 合作中吸取的经验。对 IP 手游和品牌联动有中等参考价值，但不涉及三消或消除核心设计。",
+      "url": "https://www.gamesindustry.biz/players-want-to-engage-with-brands-not-just-consume-them-mattel-on-its-new-game-studios-arm-why-its-releasing-on-roblox-and-what-it-learnt-from-netease",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T12:30:00",
+      "fetched_at": "2026-10-21T00:16:32",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Phase 10",
+          "desc": "Mattel 旗下的现有卡牌游戏，被列为整合后游戏产品组合中的一员。"
+        },
+        {
+          "name": "Uno Wild",
+          "desc": "Mattel 近期公布的自发行 UNO 系列游戏。"
+        },
+        {
+          "name": "Hot Wheels Infinite Rush",
+          "desc": "基于 Hot Wheels IP 的授权合作游戏。"
+        },
+        {
+          "name": "Masters of the Universe: Dragon Pearl of Destruction",
+          "desc": "基于 Masters of the Universe IP 的授权游戏，由 Bitmap Bureau 开发。"
+        },
+        {
+          "name": "Skeletor: Until Next Time",
+          "desc": "与 Amber 合作开发的 Skeletor 主题游戏。"
+        },
+        {
+          "name": "Terminator 2D: No Fate",
+          "desc": "Bitmap Bureau 开发的 2D 游戏，文中作为该工作室背景提及。"
+        }
+      ]
+    },
+    {
+      "id": "fb60bc0e55",
+      "title": "AI 生成应用和游戏涌入，App Store 审核时间被拖慢",
+      "zh_desc": "文章报道大量 AI 生成应用和游戏导致 App Store 审核周期显著变长，而 Google Play 审核时间据称仍较稳定。对准备上线的手游团队安排发行节奏和风险预案有实际参考价值。",
+      "url": "https://mobilegamer.biz/app-store-review-times-are-being-dragged-down-by-a-flood-of-ai-made-apps-and-games/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-20T10:29:00",
+      "fetched_at": "2026-10-21T00:16:32",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "cc626cdfa8",
+      "title": "如何在不制造风险的情况下让 AI Agent 访问游戏数据——GameAnalytics",
+      "zh_desc": "GameAnalytics 讨论给 AI Agent 开放游戏数据权限时，相比人类分析师会带来查询频率、文本注入和数据外发等新风险。对依赖数据分析做 LiveOps 和商业化的手游团队有安全治理参考，但不涉及具体玩法设计。",
+      "url": "https://www.gameanalytics.com/blog/how-to-give-an-ai-agent-access-to-your-game-data",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-20T11:02:52",
+      "fetched_at": "2026-10-21T00:16:32",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "fdb5a62a16",
       "title": "RocketWerkz 的 C# 框架「BRUTAL」现已向所有开发者开放",
