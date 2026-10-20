@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-20T10:35:04",
+  "updated_at": "2026-10-20T13:44:28",
   "articles": [
+    {
+      "id": "c364cdb0b7",
+      "title": "开源掌机的文化线索",
+      "zh_desc": "梳理开源掌机这一细分产品类型背后的历史脉络与社区文化故事。内容偏游戏硬件文化与玩家生态观察，可为理解核心玩家群体提供背景，但不涉及休闲手游的玩法、数值或变现分析。",
+      "url": "https://sspai.com/post/115125",
+      "source": "少数派",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-10-19T02:49:51",
+      "fetched_at": "2026-10-20T13:44:28",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "586ebd1001",
       "title": "Wizards of the Coast 拒绝自愿承认 D&D 与 Studio X 工会",
