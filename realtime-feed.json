@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-10-21T06:36:12",
+  "updated_at": "2026-10-21T07:07:47",
   "articles": [
+    {
+      "id": "91f9f01b58",
+      "title": "Sensor Tower 数据显示 GTA 6 与其他游戏之间的巨大差距",
+      "zh_desc": "Sensor Tower 预订数据显示，GTA 6 的预购表现远超过去六年多款大型 AAA 游戏，展示出头部 IP 的强势需求。对休闲游戏从业者而言，可作为市场集中度与用户付费意愿的宏观参考，但与三消/消除品类直接关联较弱。",
+      "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T10:00:57",
+      "fetched_at": "2026-10-21T07:07:47",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6 / Grand Theft Auto VI",
+          "desc": "Rockstar 的开放世界动作冒险游戏，文章称其预购数据大幅领先近年 AAA 大作，并可能成为行业史上最大规模发售。"
+        },
+        {
+          "name": "Call of Duty: Modern Warfare 2",
+          "desc": "《使命召唤》系列第一人称射击游戏，2022年发售，文章以其强劲预购和8亿美元首周末成绩作为对比基准。"
+        },
+        {
+          "name": "Diablo 4",
+          "desc": "暴雪的动作角色扮演游戏，2023年发售，文章将其预购数据纳入与 GTA 6 的对比。"
+        },
+        {
+          "name": "Hogwarts Legacy",
+          "desc": "哈利·波特世界观的动作角色扮演游戏，2023年发售，文章将其作为近年大型 AAA 作品预购对比对象。"
+        },
+        {
+          "name": "Marvel's Spider-Man 2",
+          "desc": "漫威蜘蛛侠题材的超级英雄动作冒险游戏，2023年发售，文章将其预购轨迹与 GTA 6 对比。"
+        },
+        {
+          "name": "Black Ops 6",
+          "desc": "《使命召唤》系列射击游戏，2024年推出并成为该系列史上最大规模发售、首个首发登陆 Game Pass 的 CoD 作品。"
+        }
+      ]
+    },
     {
       "id": "3b3f92fc2b",
       "title": "GDC Festival of Gaming 2027 改为四天制，以打造更高质量、更聚焦的体验",
