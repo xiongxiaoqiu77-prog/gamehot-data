@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-21T05:32:56",
+  "updated_at": "2026-10-21T06:36:12",
   "articles": [
+    {
+      "id": "3b3f92fc2b",
+      "title": "GDC Festival of Gaming 2027 改为四天制，以打造更高质量、更聚焦的体验",
+      "zh_desc": "GDC Festival of Gaming 2027 将调整为周一至周四的四天日程，官方称旨在提升参会体验的聚焦度与价值。对休闲游戏从业者而言属于会议安排动态，缺少玩法与商业化层面的实质分析。",
+      "url": "https://www.gamesindustry.biz/gdc-festival-of-gaming-2027-moves-to-four-day-format-to-create-a-higher-quality-more-focused-and-valuable-experience",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T08:37:14",
+      "fetched_at": "2026-10-21T06:36:12",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "d77437def0",
       "title": "Griffin Gaming Partners与Entertainment 360联合推出制作公司Hitpoint Entertainment",
