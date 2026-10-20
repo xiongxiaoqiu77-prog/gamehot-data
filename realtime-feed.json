@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-10-20T14:47:33",
+  "updated_at": "2026-10-20T15:50:59",
   "articles": [
+    {
+      "id": "fdb5a62a16",
+      "title": "RocketWerkz 的 C# 框架「BRUTAL」现已向所有开发者开放",
+      "zh_desc": "RocketWerkz 宣布其 C# 游戏开发框架 BRUTAL 向所有开发者开放，主打对游戏代码的完全控制。内容属于开发工具与游戏行业资讯，对休闲游戏玩法、数值或变现分析参考有限。",
+      "url": "https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-19T20:57:38",
+      "fetched_at": "2026-10-20T15:50:59",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Kitten Space Agency",
+          "desc": "RocketWerkz 使用 BRUTAL 框架开发的太空模拟游戏。"
+        },
+        {
+          "name": "Icarus",
+          "desc": "RocketWerkz 开发的生存类游戏。"
+        },
+        {
+          "name": "DayZ",
+          "desc": "Dean Hall 参与开发的末日生存游戏。"
+        },
+        {
+          "name": "Rimworld",
+          "desc": "Ludeon Studios 的殖民地模拟管理游戏，文章提到其从 Unity 移植到 Waylith 引擎。"
+        },
+        {
+          "name": "Kerbal Space Program",
+          "desc": "Felipe Falanghe 创作的太空飞行模拟游戏。"
+        },
+        {
+          "name": "Moonlighter",
+          "desc": "动作角色扮演与商店经营游戏，文章相关链接提及其开发商推迟下一款游戏的公开测试。"
+        }
+      ]
+    },
     {
       "id": "2d0d11a6b9",
       "title": "克罗地亚新会议 Splitscreen 希望延续 Reboot Develop 的“半度假半工作”氛围",
