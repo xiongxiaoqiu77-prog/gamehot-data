@@ -1,6 +1,79 @@
 {
-  "updated_at": "2026-10-21T03:58:06",
+  "updated_at": "2026-10-21T05:32:56",
   "articles": [
+    {
+      "id": "d77437def0",
+      "title": "Griffin Gaming Partners与Entertainment 360联合推出制作公司Hitpoint Entertainment",
+      "zh_desc": "Griffin Gaming Partners与好莱坞人才经纪公司Entertainment 360共同成立Hitpoint Entertainment，专注将游戏IP改编为影视作品。这体现游戏与影视跨媒介合作趋势，对拥有强IP的休闲游戏公司评估授权和改编机会有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/griffin-gaming-partners-entertainment-360-jointly-unveil-production-company-hitpoint-entertainment",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T15:10:33",
+      "fetched_at": "2026-10-21T05:32:56",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Missile Command",
+          "desc": "经典街机导弹防御射击游戏，文中作为可能被改编为电影的游戏IP被提及。"
+        },
+        {
+          "name": "Sonic The Hedgehog",
+          "desc": "世嘉经典平台动作游戏系列，文中提及其电影改编系列。"
+        },
+        {
+          "name": "The Legend of Zelda",
+          "desc": "任天堂动作冒险游戏系列，文中提及其真人影视改编项目。"
+        },
+        {
+          "name": "Zephon",
+          "desc": "Proxy Studios开发的4X策略游戏，文中出现在作者参与项目简介中。"
+        },
+        {
+          "name": "Down With The Ship",
+          "desc": "Iron Anchor Studios开发的游戏，文中出现在作者参与项目简介中，未说明具体类型。"
+        },
+        {
+          "name": "Endless Space 2",
+          "desc": "Amplitude Studio于2017年推出的游戏，文中出现在作者参与项目简介中，属于太空4X策略系列。"
+        }
+      ]
+    },
+    {
+      "id": "ba764b2bae",
+      "title": "Griffin Gaming Partners与Entertainment 360成立新公司，支持游戏改编电影和电视",
+      "zh_desc": "Griffin Gaming Partners与Entertainment 360合作成立新公司，为游戏改编电影和电视提供支持。该动向显示资本继续押注游戏IP影视化，休闲游戏团队可关注IP跨媒介拓展的行业信号。",
+      "url": "https://www.gamesindustry.biz/griffin-gaming-partners-and-entertainment-360-launch-new-company-to-support-video-game-adaptations-for-film-and-tv",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T13:00:45",
+      "fetched_at": "2026-10-21T05:32:56",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fallout",
+          "desc": "知名后末日角色扮演游戏系列，文中提及其Amazon电视剧改编。"
+        },
+        {
+          "name": "The Legend of Zelda",
+          "desc": "任天堂动作冒险游戏系列，文中提及其真人影视改编项目。"
+        }
+      ]
+    },
+    {
+      "id": "0206cc3bba",
+      "title": "日本演员联盟发布指南，应对生成式AI未经授权复制声音表演",
+      "zh_desc": "日本演员联盟发布新指南，针对生成式AI未经授权复制声音表演的问题提出规范。对游戏配音和本地化制作而言，这提示AI语音使用需更重视授权与合规，尤其影响有角色配音的手游项目。",
+      "url": "https://www.gamesindustry.biz/japan-actors-union-announces-guidelines-addressing-unauthorised-use-of-generative-ai-for-voice-acting",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T10:42:26",
+      "fetched_at": "2026-10-21T05:32:56",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "ffc61ea0ea",
       "title": "Fuse Games CEO 拆解《Star Wars: Galactic Racer》的 codev 协作开发框架",
