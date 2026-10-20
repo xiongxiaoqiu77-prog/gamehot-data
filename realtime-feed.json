@@ -1,6 +1,72 @@
 {
-  "updated_at": "2026-10-20T10:02:55",
+  "updated_at": "2026-10-20T10:35:04",
   "articles": [
+    {
+      "id": "586ebd1001",
+      "title": "Wizards of the Coast 拒绝自愿承认 D&D 与 Studio X 工会",
+      "zh_desc": "Wizards of the Coast 拒绝自愿承认《龙与地下城》及 Studio X 团队的工会申请，员工将改由 NLRB 监督的秘密投票决定是否成立工会。属于欧美游戏行业劳资动态，对休闲手游设计无直接参考价值。",
+      "url": "https://www.gamesindustry.biz/wizards-of-the-coast-declines-to-voluntarily-recognize-dd-and-studio-x-union-drive",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-19T16:36:11",
+      "fetched_at": "2026-10-20T10:35:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dungeons & Dragons (D&D)",
+          "desc": "威世智旗下的桌面角色扮演游戏，其 D&D 团队正推动工会认证。"
+        },
+        {
+          "name": "Magic: The Gathering Arena",
+          "desc": "威世智旗下的数字集换式卡牌游戏，其 Arena 团队已投票加入工会。"
+        }
+      ]
+    },
+    {
+      "id": "2e5eec3bdb",
+      "title": "GDCA 2027 取消提名制，发行商与开发者可直接报名参评",
+      "zh_desc": "2027 年游戏开发者选择奖（GDCA）首次开放自主提交通道，改变以往依赖提名委员会的模式。属于评奖机制与行业活动类新闻，可作为行业曝光与申报节奏的参考。",
+      "url": "https://www.gamesindustry.biz/gdca-2027-moves-away-from-nominations-based-system-publishers-and-devs-can-now-submit-games-for-consideration",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-19T10:57:47",
+      "fetched_at": "2026-10-20T10:35:04",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "0df9a4f630",
+      "title": "Activision QA United-CWA 工会投票授权罢工，称动视「未诚意谈判」",
+      "zh_desc": "动视的 AQAU-CWA 工会成员投票通过罢工授权，指控公司在首份合同谈判中未秉持诚意。属于厂商劳资与组织动态新闻，与休闲手游的产品与运营策略关联有限。",
+      "url": "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-19T10:13:55",
+      "fetched_at": "2026-10-20T10:35:04",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "2329a24cec",
+      "title": "《Samson》开发商 Liquid Swords 申请破产，员工据称被欠薪两月",
+      "zh_desc": "Liquid Swords 已提交破产申请，员工据报已两个月未获薪资。这是又一起中小工作室资金链断裂的案例，可作为团队现金流与项目风险管理的行业警示。",
+      "url": "https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-19T08:43:25",
+      "fetched_at": "2026-10-20T10:35:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Samson",
+          "desc": "Liquid Swords 的处女作游戏，2026年4月发售，截至10月14日售出151,900份。"
+        }
+      ]
+    },
     {
       "id": "e9795389c4",
       "title": "Riot CFO Mark Sottosanti 的 7 条经验，包括《Arcane》第二季如何实现收支平衡",
