@@ -1,6 +1,189 @@
 {
-  "updated_at": "2026-10-19T14:18:55",
+  "updated_at": "2026-10-20T10:02:55",
   "articles": [
+    {
+      "id": "e9795389c4",
+      "title": "Riot CFO Mark Sottosanti 的 7 条经验，包括《Arcane》第二季如何实现收支平衡",
+      "zh_desc": "总结 Riot CFO 对游戏公司财务管理、内容投资与跨媒体项目的经验，并以《Arcane》第二季的收支平衡为例。适合了解头部厂商如何评估高成本内容和长期 IP 投入，但与休闲三消直接设计关联较弱。",
+      "url": "https://www.deconstructoroffun.com/blog/7-lessons-from-riot-cfo-mark-sottosanti-including-how-arcane-season-2-effectively-broke-even",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-19T12:35:03",
+      "fetched_at": "2026-10-20T10:02:55",
+      "lang": "en",
+      "games": [
+        {
+          "name": "League of Legends",
+          "desc": "Riot 的多人在线战术竞技游戏，也是公司早期核心产品。"
+        },
+        {
+          "name": "Teamfight Tactics (TFT)",
+          "desc": "Riot 的自动战斗/策略游戏，也是其首款移动游戏。"
+        }
+      ]
+    },
+    {
+      "id": "db571a1004",
+      "title": "Moonlighter 开发商因担心 AI 克隆推迟新作公开测试",
+      "zh_desc": "Digital Sun Games 将 ReVamp 的早期测试限制在 Discord 社区，以降低生成式 AI 克隆风险。反映中小团队在公开测试与内容保护之间的新权衡，对休闲游戏原型测试有提醒意义。",
+      "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-19T17:08:14",
+      "fetched_at": "2026-10-20T10:02:55",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Moonlighter",
+          "desc": "Digital Sun 的动作角色扮演与店铺经营 roguelite 游戏。"
+        },
+        {
+          "name": "Moonlighter 2: The Endless Vault",
+          "desc": "《Moonlighter》续作，延续动作 RPG 与地牢探险/店铺经营结合的方向。"
+        },
+        {
+          "name": "ReVamp",
+          "desc": "Digital Sun 正在开发的“Tower Defensevania”游戏，融合塔防与类银河战士恶魔城玩法。"
+        },
+        {
+          "name": "Drunken Goddess Reflux",
+          "desc": "Alliance Arts 与 Who's You 的待上线游戏，因担心 AI 克隆取消了 Steam Next Fest 试玩。"
+        },
+        {
+          "name": "Ridiculous Fishing",
+          "desc": "Vlambeer 的移动钓鱼/街机游戏，曾遭遇快速克隆。"
+        },
+        {
+          "name": "Threes!",
+          "desc": "Asher Vollmer 等人的移动益智游戏，也曾被快速复制。"
+        }
+      ]
+    },
+    {
+      "id": "16f2b686d2",
+      "title": "PEGI 开始将含开箱的现有纯数字游戏上调至 16 级",
+      "zh_desc": "PEGI 对已发行的纯数字游戏重新评级，含付费随机物品的产品可能从 3/7/12 级升至 16 级。对依赖宝箱或随机奖励的移动与休闲游戏变现和合规策略有直接影响。",
+      "url": "https://www.gamesindustry.biz/pegi-begins-moving-existing-digital-only-games-with-loot-boxes-up-to-a-16-rating",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-19T19:12:21",
+      "fetched_at": "2026-10-20T10:02:55",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "2b1a10c3f9",
+      "title": "AI 现状：AI 法律与游戏开发",
+      "zh_desc": "梳理生成式 AI 在游戏开发中的应用扩张，以及相关法律、监管和指南的最新变化。对需要评估 AI 素材、合规与生产流程的工作室有参考价值，但并非休闲游戏专项分析。",
+      "url": "https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-19T08:00:00",
+      "fetched_at": "2026-10-20T10:02:55",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "72148c12d2",
+      "title": "UKIE 与 Sheridans 合作推出 AI 合规与认证服务",
+      "zh_desc": "UKIE 联合律所 Sheridans 为英国工作室提供 AI 合法合规使用服务与认证。属于行业合规基础设施新闻，对使用 AI 的休闲游戏团队有一般性参考。",
+      "url": "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-19T08:00:00",
+      "fetched_at": "2026-10-20T10:02:55",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "fd6744ad99",
+      "title": "Supercell 完成对《Merge Mansion》开发商 Metacore 的收购",
+      "zh_desc": "Supercell 正式将 Metacore 并入其常青游戏组合，《Merge Mansion》加入 Supercell 的产品矩阵，交易金额未披露。对关注合并类休闲赛道、头部厂商并购与长线运营格局的从业者具有较高参考价值。",
+      "url": "https://mobilegamer.biz/supercell-has-completed-its-acquisition-of-merge-mansion-maker-metacore/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-19T11:57:51",
+      "fetched_at": "2026-10-20T10:02:55",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Merge Mansion",
+          "desc": "Metacore 开发的合并类手游，现随收购进入 Supercell 产品组合。"
+        },
+        {
+          "name": "Everdale",
+          "desc": "Supercell 曾软启动的失败游戏，后被 Metacore 收购并尝试重做，最终于 2024 年停运。"
+        }
+      ]
+    },
+    {
+      "id": "dac45639d4",
+      "title": "Netflix Games 约 60 名员工受公司裁员影响",
+      "zh_desc": "Netflix 全公司裁员波及游戏部门，外界估算约 60 名游戏员工受影响。反映流媒体平台游戏业务的收缩风险，对移动游戏人才与发行合作有一般性参考。",
+      "url": "https://mobilegamer.biz/around-60-netflix-games-staff-affected-amid-company-wide-layoffs/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-19T10:12:21",
+      "fetched_at": "2026-10-20T10:02:55",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Oxenfree",
+          "desc": "Night School 开发的超自然叙事冒险游戏，文中以“Oxenfree maker”提及该工作室。"
+        },
+        {
+          "name": "Squid Game: Unleashed",
+          "desc": "Boss Fight Studios 开发的免费游玩、类似《Fall Guys》的派对平台游戏，随工作室关闭受影响。"
+        },
+        {
+          "name": "Fall Guys",
+          "desc": "文中作为玩法参照提到的多人派对闯关游戏。"
+        }
+      ]
+    },
+    {
+      "id": "ab9c26e482",
+      "title": "职位动态：Microsoft、Skydance、Apple、Google、Scopely、Supercell 等公司的人事变动",
+      "zh_desc": "汇总 Microsoft、Skydance、Apple、Google、Scopely、Supercell 以及 Tripledot、Trailmix、Miniclip、Dream Games 等公司的最新招聘与晋升。属于行业人事资讯，可辅助观察休闲手游公司的人才流动。",
+      "url": "https://mobilegamer.biz/jobs-digest-moves-and-promotions-at-microsoft-skydance-apple-google-scopely-supercell-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-19T08:58:07",
+      "fetched_at": "2026-10-20T10:02:55",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Minecraft",
+          "desc": "Mojang 的沙盒生存建造游戏，文章提及 Mojang 新任 CEO 将负责该品牌。"
+        }
+      ]
+    },
+    {
+      "id": "784d05af0d",
+      "title": "土耳其手游开发商 22 个月融资近 4 亿美元，超过其他任何国家团队",
+      "zh_desc": "报道土耳其移动游戏工作室在 22 个月内获得近 4 亿美元投资，投资热度领先各国。对观察手游资本流向、团队竞争和休闲赛道区域格局有参考价值。",
+      "url": "https://gameworldobserver.com/2026/10/19/mobile-game-developers-from-turkey-raised-nearly-400-million-over-22-months-more-than-teams-from-any-other-countries",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-19T11:48:30",
+      "fetched_at": "2026-10-20T10:02:55",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Match Villains",
+          "desc": "文中图片标注提及的手机游戏，文章未展开介绍其类型或特点。"
+        }
+      ]
+    },
     {
       "id": "57a36d379b",
       "title": "Meta 在当今游戏中的角色：Muse、VR 与 UA",
