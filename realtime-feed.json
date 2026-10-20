@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-20T13:44:28",
+  "updated_at": "2026-10-20T14:47:33",
   "articles": [
+    {
+      "id": "2d0d11a6b9",
+      "title": "克罗地亚新会议 Splitscreen 希望延续 Reboot Develop 的“半度假半工作”氛围",
+      "zh_desc": "新游戏开发会议 Splitscreen 将于 2027 年 4 月 20 日至 22 日在克罗地亚首都举行，旨在填补 Reboot Develop 停办后的行业交流空缺。该资讯对休闲游戏从业者的直接设计运营启发有限，更偏向行业社交与会议动态。",
+      "url": "https://www.gamesindustry.biz/new-croatian-conference-splitscreen-wants-to-keep-that-half-holiday-half-work-feeling-of-reboot-develop",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-19T09:00:00",
+      "fetched_at": "2026-10-20T14:47:33",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "c364cdb0b7",
       "title": "开源掌机的文化线索",
