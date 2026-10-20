@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-21T00:48:40",
+  "updated_at": "2026-10-21T03:58:06",
   "articles": [
+    {
+      "id": "ffc61ea0ea",
+      "title": "Fuse Games CEO 拆解《Star Wars: Galactic Racer》的 codev 协作开发框架",
+      "zh_desc": "Fuse Games CEO 介绍与外部团队协作开发《Star Wars: Galactic Racer》的 codev 框架，重点在分布式制作流程与沟通机制。对休闲游戏团队理解外包和联合开发管理有参考，但不涉及三消玩法、关卡或变现设计。",
+      "url": "https://www.gamedeveloper.com/production/fuse-games-ceo-breaks-down-codev-framework-for-star-wars-galactic-racer",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-20T18:39:12",
+      "fetched_at": "2026-10-21T03:58:06",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "一款《星球大战》背景的竞速游戏，登陆PC和主机，采用核心团队与联合开发/外包伙伴协作的分布式开发模式。"
+        },
+        {
+          "name": "Escape the Backrooms",
+          "desc": "一款Backrooms题材游戏，文中作为Blackbird Interactive与Secret Mode合作开发、借势Backrooms热潮的案例被提及。"
+        }
+      ]
+    },
     {
       "id": "c583b090db",
       "title": "三年、7000万美元、仍无发售日：投资者为何持续押注 Gardens",
