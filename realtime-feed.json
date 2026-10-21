@@ -1,6 +1,197 @@
 {
-  "updated_at": "2026-10-21T07:07:47",
+  "updated_at": "2026-10-22T00:04:10",
   "articles": [
+    {
+      "id": "a83652d398",
+      "title": "2026年独立游戏与原创IP迎来爆发",
+      "zh_desc": "Sensor Tower 为 GamesIndustry.biz 提供的研究显示，2026年PC与主机畅销产品中独立游戏和原创IP的占比明显高于2025年。可作为判断原创IP价值的市场侧参考，但与手游休闲赛道关联有限。",
+      "url": "https://www.gamesindustry.biz/indies-and-original-ip-blew-up-in-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-21T11:39:48",
+      "fetched_at": "2026-10-22T00:04:10",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Meccha Chameleon",
+          "desc": "低预算合作派对游戏（friendslop），2026年首月销量约1390万套，是当期最大独立游戏爆款之一。"
+        },
+        {
+          "name": "How to Fish",
+          "desc": "低预算合作派对游戏（friendslop），2026年首月销量约790万套。"
+        },
+        {
+          "name": "Slay the Spire 2",
+          "desc": "独立游戏续作热门，2026年首月销量约590万套。"
+        },
+        {
+          "name": "Hollow Knight: Silksong",
+          "desc": "独立游戏续作热门，2026年首月销量约520万套。"
+        },
+        {
+          "name": "Escape from Duckov",
+          "desc": "2026年独立游戏热门，首月销量约400万套。"
+        }
+      ]
+    },
+    {
+      "id": "95b05f92f8",
+      "title": "数据显示：GTA 6 发售时 Call of Duty、EA Sports FC 等产品最易流失玩家",
+      "zh_desc": "新数据表明竞技射击与体育品类在 GTA 6 上线当期最容易被抢走用户时长。对休闲品类可借鉴的是「大盘级新品上线期的用户时长争夺」这一排期风险。",
+      "url": "https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-21T10:53:35",
+      "fetched_at": "2026-10-22T00:04:10",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "备受期待的开放世界游戏，调查称69%的PC和主机玩家计划在其发售时游玩。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "竞争性射击游戏，被列为GTA 6发售时最易流失玩家的作品之一。"
+        },
+        {
+          "name": "Battlefield",
+          "desc": "竞争性射击游戏，被列为GTA 6发售时易流失玩家的作品之一。"
+        },
+        {
+          "name": "Apex Legends",
+          "desc": "竞争性射击/大逃杀游戏，被列为GTA 6发售时易流失玩家的作品之一。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "竞争性射击/大逃杀游戏，即使高粘性玩家也可能在GTA 6发售时流失。"
+        },
+        {
+          "name": "EA Sports FC",
+          "desc": "体育游戏，被列为GTA 6发售时易流失玩家的作品之一。"
+        },
+        {
+          "name": "NBA 2K",
+          "desc": "篮球体育游戏，被列为GTA 6发售时易流失玩家的作品之一。"
+        },
+        {
+          "name": "Counter-Strike 2",
+          "desc": "仅PC端的竞争性射击游戏，是风险分析中的异常项，玩家在GTA 6发售时游玩意向较低。"
+        }
+      ]
+    },
+    {
+      "id": "e255d1b22d",
+      "title": "Vivrato：欧美97%的工作室负责人在研发中使用过AI",
+      "zh_desc": "调研显示97%的欧美工作室负责人在研发某个环节使用过AI，94%至少在一个生产阶段使用。属于行业生产端趋势数据，对三消美术与关卡生产提效有间接参考。",
+      "url": "https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-21T08:40:54",
+      "fetched_at": "2026-10-22T00:04:10",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "e3dd9c06a9",
+      "title": "Wargaming 联合创始人创办的 Mika Games 融资1000万美元，投资软发布之后的团队",
+      "zh_desc": "Mika Games 由 Flint Capital 领投完成1000万美元融资，资金用于产品研发与付费买量测试，重点支持已过软发布阶段的工作室。对手游从业者而言，反映的是软发布后买量验证环节的资本关注点。",
+      "url": "https://mobilegamer.biz/wargaming-cofounders-mika-games-raises-10m-to-back-studios-beyond-soft-launch/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-21T14:05:48",
+      "fetched_at": "2026-10-22T00:04:10",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Legendale",
+          "desc": "Mika Games投资组合中的产品，拥有超过300万玩家，文章未说明具体类型。"
+        },
+        {
+          "name": "Punko",
+          "desc": "Agonalea Games开发的移动游戏，下载量超过50万。"
+        }
+      ]
+    },
+    {
+      "id": "7bd3b450dd",
+      "title": "Monopoly Go 第三季度为 Hasbro 贡献4100万美元，九个月累计1.27亿美元",
+      "zh_desc": "Scopely 的 Monopoly Go 第三季度版权收入4100万美元，与2025年持平，期间推进了 Looney Tunes、KPop Demon Hunters 与 Ghostbusters 等多个IP联动。可作为休闲大盘产品借助高频IP联动维持收入的LiveOps案例参考。",
+      "url": "https://mobilegamer.biz/monopoly-go-earned-hasbro-41m-in-q3-taking-its-nine-month-total-to-127m/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-21T11:17:18",
+      "fetched_at": "2026-10-22T00:04:10",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "Scopely发行的移动棋盘/骰子游戏，第三季度为Hasbro贡献4100万美元。"
+        },
+        {
+          "name": "Magic: The Gathering",
+          "desc": "集换式卡牌游戏，季度收入首次突破6亿美元。"
+        }
+      ]
+    },
+    {
+      "id": "f18915f160",
+      "title": "数据周报：Scopely、Century、Dream 领跑发行商榜，Block Blast 与 Arrows 登顶下载榜",
+      "zh_desc": "汇总一周手游榜单与数据，涵盖发行商排名、下载榜，以及 Mag Interactive、Strikerz、CrazyGames 的统计，并对比 Royal Smash 与 Smash Fest 的表现。适合快速跟踪休闲与消除类竞品的市场位置。",
+      "url": "https://mobilegamer.biz/data-digest-scopely-century-and-dream-lead-publisher-list-block-blast-and-arrows-top-download-chart-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-21T09:49:01",
+      "fetched_at": "2026-10-22T00:04:10",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "Scopely的移动棋盘游戏，第三季度以5.07亿美元美国收入位居发行商收入榜首。"
+        },
+        {
+          "name": "Pokémon Go",
+          "desc": "Niantic的AR位置游戏，10周年活动推动其美国净IAP环比约翻倍。"
+        },
+        {
+          "name": "Gossip Harbor",
+          "desc": "Microfun旗下游戏，几乎贡献其当期收入增长，文章未详述类型。"
+        },
+        {
+          "name": "Block Blast",
+          "desc": "超休闲方块解谜游戏，第三季度全球下载4700万，居超休闲下载榜首位。"
+        },
+        {
+          "name": "Arrow Puzzle",
+          "desc": "箭头解谜游戏，第三季度全球下载4200万，排名第二。"
+        },
+        {
+          "name": "Meowdoku",
+          "desc": "2026年发布的超休闲解谜游戏，第三季度下载3200万。"
+        },
+        {
+          "name": "Amaze Go",
+          "desc": "2026年发布的超休闲游戏，进入第三季度下载榜。"
+        },
+        {
+          "name": "Bus Traffic Fever",
+          "desc": "2026年发布的超休闲游戏，进入第三季度下载榜。"
+        },
+        {
+          "name": "EA FC",
+          "desc": "足球体育游戏，UFL在移动端对标和竞争的作品。"
+        },
+        {
+          "name": "UFL",
+          "desc": "Strikerz开发的免费足球游戏，移动端下载突破1000万。"
+        }
+      ]
+    },
     {
       "id": "91f9f01b58",
       "title": "Sensor Tower 数据显示 GTA 6 与其他游戏之间的巨大差距",
