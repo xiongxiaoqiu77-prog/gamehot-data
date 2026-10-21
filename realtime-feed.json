@@ -1,6 +1,77 @@
 {
-  "updated_at": "2026-10-22T02:10:58",
+  "updated_at": "2026-10-22T02:43:15",
   "articles": [
+    {
+      "id": "f21610431b",
+      "title": "BioWare 成立 30 年后关闭",
+      "zh_desc": "《Mass Effect》与《Dragon Age》开发商 BioWare 在成立 30 余年后关闭，下一代 Mass Effect 的早期开发也将终止。该消息反映大型叙事游戏工作室与项目风险，对休闲三消/消除手游的直接设计、运营和变现参考有限。",
+      "url": "https://www.gamesindustry.biz/bioware-is-closing-after-30-years",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-21T17:55:20",
+      "fetched_at": "2026-10-22T02:43:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mass Effect",
+          "desc": "BioWare 开发的科幻角色扮演游戏系列，以太空歌剧叙事和选择分支著称。"
+        },
+        {
+          "name": "Dragon Age",
+          "desc": "BioWare 开发的黑暗奇幻角色扮演游戏系列，强调队友关系与玩家选择。"
+        },
+        {
+          "name": "Baldur's Gate",
+          "desc": "基于《龙与地下城》规则的奇幻角色扮演游戏系列。"
+        },
+        {
+          "name": "Neverwinter Nights",
+          "desc": "基于《龙与地下城》规则、支持模组与多人游玩的奇幻角色扮演游戏。"
+        },
+        {
+          "name": "Star Wars: Knights of the Old Republic",
+          "desc": "设定在《星球大战》旧共和国时代的角色扮演游戏。"
+        },
+        {
+          "name": "Anthem",
+          "desc": "BioWare 开发的多人合作动作角色扮演/射击游戏。"
+        },
+        {
+          "name": "Dragon Age: The Veilguard",
+          "desc": "《龙腾世纪》系列最新动作角色扮演游戏，销量未达预期。"
+        },
+        {
+          "name": "Apex Legends",
+          "desc": "Respawn 开发的免费英雄战术竞技/大逃杀射击游戏。"
+        },
+        {
+          "name": "Battlefield",
+          "desc": "EA 的军事题材第一人称射击游戏系列。"
+        },
+        {
+          "name": "skate",
+          "desc": "EA 的滑板运动游戏系列。"
+        },
+        {
+          "name": "Project Lotus",
+          "desc": "EA 已取消的《模拟人生》计划项目代号。"
+        }
+      ]
+    },
+    {
+      "id": "2b516137bb",
+      "title": "揭开工会面纱：游戏管理者需要了解什么",
+      "zh_desc": "文章面向游戏公司管理者，解释与工会合作正在从可能性变为必然性，以及管理者需要了解的关键事项。内容涉及游戏行业劳动关系与组织管理，但不直接讨论休闲游戏玩法、数值或 LiveOps。",
+      "url": "https://www.gamesindustry.biz/demystifying-unions-what-games-leaders-need-to-know",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-21T08:00:00",
+      "fetched_at": "2026-10-22T02:43:15",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "628cbf265c",
       "title": "EA 裁员 400 人",
