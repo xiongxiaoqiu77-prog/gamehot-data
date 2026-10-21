@@ -1,6 +1,64 @@
 {
-  "updated_at": "2026-10-22T00:36:13",
+  "updated_at": "2026-10-22T02:10:58",
   "articles": [
+    {
+      "id": "628cbf265c",
+      "title": "EA 裁员 400 人",
+      "zh_desc": "EA 裁撤 400 个岗位，占全球员工 3%，BioWare 将关闭，报道称尚不清楚对移动团队的影响。可作为大厂组织调整与移动业务风险的行业信号，但非休闲游戏专业分析。",
+      "url": "https://mobilegamer.biz/400-jobs-cut-at-ea/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-21T18:02:00",
+      "fetched_at": "2026-10-22T02:10:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Sims（模拟人生）",
+          "desc": "生活模拟游戏系列，文中提到EA调整其新项目开发方向。"
+        },
+        {
+          "name": "Project Lotus",
+          "desc": "《模拟人生》系列新作（代号），EA已停止其开发。"
+        },
+        {
+          "name": "Project Evergreen",
+          "desc": "《模拟人生》系列新项目（代号），EA将资源重新聚焦于此。"
+        },
+        {
+          "name": "Skate",
+          "desc": "滑板运动游戏系列，其团队受到本次裁员影响。"
+        },
+        {
+          "name": "Star Wars: Battlefront 3",
+          "desc": "可能正在开发的《星球大战：前线》系列射击游戏新作。"
+        },
+        {
+          "name": "Iron Man game",
+          "desc": "钢铁侠题材游戏新项目，EA将投资开发。"
+        },
+        {
+          "name": "Star Wars Jedi series",
+          "desc": "《星球大战 绝地》系列动作冒险游戏，将推出新作。"
+        },
+        {
+          "name": "Apex Legends",
+          "desc": "多人射击游戏系列，EA表示将进一步投资。"
+        },
+        {
+          "name": "EA FC",
+          "desc": "足球体育游戏系列，EA将继续投资。"
+        },
+        {
+          "name": "Madden",
+          "desc": "美式橄榄球体育游戏系列，EA将继续投资。"
+        },
+        {
+          "name": "Monopoly Go",
+          "desc": "大富翁题材手游，Scopely曾为其投入巨额营销。"
+        }
+      ]
+    },
     {
       "id": "35e678a99a",
       "title": "如何运营独立游戏工作室：第4部分，设定并达成季度重点工作",
