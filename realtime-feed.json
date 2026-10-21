@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-22T00:04:10",
+  "updated_at": "2026-10-22T00:36:13",
   "articles": [
+    {
+      "id": "35e678a99a",
+      "title": "如何运营独立游戏工作室：第4部分，设定并达成季度重点工作",
+      "zh_desc": "文章介绍独立游戏工作室如何用季度重点工作（rocks）拆解目标、管理执行并提升达成率。对休闲游戏团队的项目管理和季度规划有参考价值，但不涉及具体玩法、数值或变现设计。",
+      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-4-setting-and-hitting-quarterly-rocks",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-21T14:00:00",
+      "fetched_at": "2026-10-22T00:36:13",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "a83652d398",
       "title": "2026年独立游戏与原创IP迎来爆发",
