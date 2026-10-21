@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-22T02:43:15",
+  "updated_at": "2026-10-22T05:21:47",
   "articles": [
+    {
+      "id": "34ef6a9da2",
+      "title": "EA关闭Mass Effect、Dragon Age缔造者BioWare，结束30年游戏开发",
+      "zh_desc": "EA据报裁员400人，其中50人为BioWare剩余员工，BioWare在成立30年后关闭。该消息反映大型主机/PC工作室重组与IP风险，但与休闲消除手游的玩法、运营和变现关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/ea-closes-mass-effect-dragon-age-creator-bioware-after-30-years-of-game-development",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-21T18:57:37",
+      "fetched_at": "2026-10-22T05:21:47",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mass Effect",
+          "desc": "BioWare开发的科幻角色扮演游戏系列，文中提及EA裁员涉及该系列新作。"
+        },
+        {
+          "name": "Dragon Age",
+          "desc": "BioWare开发的奇幻角色扮演游戏系列，文中作为其代表作之一提及。"
+        },
+        {
+          "name": "Star Wars: Knights of the Old Republic",
+          "desc": "BioWare开发的《星球大战》角色扮演游戏，文中作为其代表作之一提及。"
+        },
+        {
+          "name": "Project Lotus",
+          "desc": "《模拟人生》系列中已取消的代号新作。"
+        },
+        {
+          "name": "Project Evergreen",
+          "desc": "文中被列为优先事项的代号游戏项目，具体类型未说明。"
+        },
+        {
+          "name": "skate",
+          "desc": "Full Circle Studios开发的在线滑板游戏，文中称EA正从中调配资源但仍维持开发。"
+        },
+        {
+          "name": "Star Wars: Battlefront",
+          "desc": "《星球大战：前线》系列，文中称Respawn与DICE可能合作开发新作。"
+        },
+        {
+          "name": "Shattered Steel",
+          "desc": "BioWare于1995年成立后推出的首款游戏，文中作为其作品起点提及。"
+        },
+        {
+          "name": "Dragon Age: The Veilguard",
+          "desc": "《龙腾世纪》系列最新作，文中作为BioWare作品时间线的终点提及。"
+        }
+      ]
+    },
     {
       "id": "f21610431b",
       "title": "BioWare 成立 30 年后关闭",
