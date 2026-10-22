@@ -1,6 +1,111 @@
 {
-  "updated_at": "2026-10-22T10:05:41",
+  "updated_at": "2026-10-23T00:15:19",
   "articles": [
+    {
+      "id": "18d2241463",
+      "title": "报告探讨Roblox如何在2026上半年成为总时长最高游戏后留住年长玩家",
+      "zh_desc": "报告称Roblox在2026上半年PC和主机平台产生40.5亿小时游玩时长，成为总时长最高的游戏。文章关注其年长用户留存策略，对平台型游戏LiveOps有参考，但与三消/消除品类关联有限。",
+      "url": "https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-22T11:00:00",
+      "fetched_at": "2026-10-23T00:15:19",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容平台/游戏，2026年上半年在PC和主机上产生40.5亿小时游玩时长，成为总时长最高游戏。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "长期运营的在线服务型游戏，是Roblox流失玩家常转向的同类游戏之一。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "长期运营的沙盒/生存类在线服务游戏，也是Roblox流失玩家常转向的同类游戏之一。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "写实射击游戏系列，约30%的Roblox流失玩家偏好此类游戏。"
+        },
+        {
+          "name": "Grand Theft Auto Online",
+          "desc": "写实射击/开放世界在线游戏，与Call of Duty并列为Roblox流失玩家偏好的动作射击类游戏。"
+        },
+        {
+          "name": "Sonic Speed Simulator",
+          "desc": "使用Roblox Studio开发发行的品牌游戏，2022年发布，2024年成为首个访问量突破10亿的Roblox品牌游戏。"
+        }
+      ]
+    },
+    {
+      "id": "50ce987165",
+      "title": "法院裁定Apple违反竞争法后Fortnite重返澳大利亚iOS",
+      "zh_desc": "澳大利亚法院认定Apple违反竞争法，要求开放iOS第三方应用商店，Fortnite因此重返当地iOS。该动态对移动游戏分发与平台政策有参考，对休闲手游发行有间接影响。",
+      "url": "https://www.gamesindustry.biz/fortnite-returns-to-ios-in-australia-after-court-rules-apple-violated-competition-law",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-22T08:08:08",
+      "fetched_at": "2026-10-23T00:15:19",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "大逃杀/在线服务型游戏，因澳大利亚法院裁定Apple违反竞争法而重返澳大利亚iOS。"
+        }
+      ]
+    },
+    {
+      "id": "eb41b499df",
+      "title": "Supercell遭遇网络攻击，称玩家数据未受影响",
+      "zh_desc": "Clash of Clans开发商Supercell表示上周遭多次网络攻击，已通知警方和监管机构，但玩家数据未受影响。该事件对手游公司安全运营与危机响应有警示意义。",
+      "url": "https://mobilegamer.biz/supercell-hit-by-cyberattack-but-says-no-player-data-was-affected/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-22T10:47:27",
+      "fetched_at": "2026-10-23T00:15:19",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Clash of Clans",
+          "desc": "Supercell开发的策略手游，文中以“Clash of Clans developer”指代Supercell并报道其遭遇网络攻击但玩家数据未受影响。"
+        }
+      ]
+    },
+    {
+      "id": "6f19987138",
+      "title": "Fortnite明日重返澳大利亚App Store",
+      "zh_desc": "Epic称澳大利亚联邦法院要求Apple开放iOS，Fortnite将于次日重返澳大利亚App Store。文章反映移动应用生态开放趋势，对休闲手游发行与平台策略有间接参考。",
+      "url": "https://mobilegamer.biz/fortnite-is-returning-to-the-australian-app-store-tomorrow/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-22T08:36:32",
+      "fetched_at": "2026-10-23T00:15:19",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "大逃杀/在线服务型游戏，将于明天重返澳大利亚App Store。"
+        }
+      ]
+    },
+    {
+      "id": "17edf86b34",
+      "title": "为什么仪表盘不再够用（以及AI代理能解锁什么）——GameAnalytics",
+      "zh_desc": "GameAnalytics讨论游戏数据分析从静态仪表盘转向AI代理按需生成洞察，以及数据团队角色变化。文章对手游LiveOps数据体系有参考，但并非休闲玩法或变现的专项拆解。",
+      "url": "https://www.gameanalytics.com/blog/why-dashboards-arent-enough-anymore-and-what-ai-agents-unlock-instead",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-22T11:10:43",
+      "fetched_at": "2026-10-23T00:15:19",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "bb8c14ec68",
       "title": "Nintendo Switch Sports Resort 堪称杰作 - Polygon.com",
