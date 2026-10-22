@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-22T05:21:47",
+  "updated_at": "2026-10-22T10:05:41",
   "articles": [
+    {
+      "id": "bb8c14ec68",
+      "title": "Nintendo Switch Sports Resort 堪称杰作 - Polygon.com",
+      "zh_desc": "Polygon对Nintendo Switch Sports Resort给出高度评价，属于休闲体育游戏的体验与评测内容。从业者可借此观察休闲玩法口碑，但文章并非机制、数值或变现层面的专业拆解。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vRUwxejZZVmo1WDFIOFBieUo2LVdZWDY4Y3Q4eXZvaFl1WExYSmpDdldqYkVDanczc19rRXNKbElPcHJab0lUNXdObWw2WmZkZEtVRk5laXV6dnNlMTJOLVkwb0xZYUN5WHZHSG5JMkVoUUQ1d0liZHdTbw?oc=5",
+      "source": "Google News",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-10-20T13:00:17",
+      "fetched_at": "2026-10-22T10:05:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Nintendo Switch Sports Resort",
+          "desc": "运动类游戏，标题评价其为杰作，正文未提供更多类型或特点信息。"
+        }
+      ]
+    },
     {
       "id": "34ef6a9da2",
       "title": "EA关闭Mass Effect、Dragon Age缔造者BioWare，结束30年游戏开发",
