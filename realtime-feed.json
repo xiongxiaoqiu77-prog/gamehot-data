@@ -1,6 +1,203 @@
 {
-  "updated_at": "2026-10-23T00:15:19",
+  "updated_at": "2026-10-23T00:48:04",
   "articles": [
+    {
+      "id": "dcc7526d2b",
+      "title": "VR先驱Owlchemy Labs转向XR，新作《Hyper Visor》将随HTC XREAL Aura头显首发",
+      "zh_desc": "Owlchemy Labs宣布新作《Hyper Visor》将作为HTC XREAL Aura头显首发游戏，标志其从VR向XR扩展。内容属于平台与新品动态，对三消/休闲手游的玩法、变现和LiveOps没有直接分析价值，仅可作XR硬件生态观察。",
+      "url": "https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-22T14:37:37",
+      "fetched_at": "2026-10-23T00:48:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hyper Visor",
+          "desc": "Owlchemy Labs 开发的原创 XR 街机射击游戏，玩家用双手和一副“有生命的墨镜”通关八个融合节奏游戏、横版射击等传统类型的关卡。"
+        }
+      ]
+    },
+    {
+      "id": "2caae019e4",
+      "title": "“开发难度令人崩溃”——《Dispatch》的混乱开发历程与AdHoc Studio下一步计划",
+      "zh_desc": "文章回顾《Dispatch》首章上线一年后的成功与混乱开发过程，并讨论AdHoc Studio后续规划。对理解叙事型独立游戏团队管理和爆款形成有参考，但与休闲消除手游的关卡、数值和商业化关联较弱。",
+      "url": "https://www.gamesindustry.biz/it-was-crushing-how-hard-it-was-the-chaotic-development-of-dispatch-and-what-adhoc-studio-plans-next",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-22T16:15:00",
+      "fetched_at": "2026-10-23T00:48:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dispatch",
+          "desc": "AdHoc Studio 开发的分集式喜剧叙事游戏，共八集，文章围绕其混乱开发历程与发行成功展开。"
+        }
+      ]
+    },
+    {
+      "id": "e013ba8fc1",
+      "title": "《Marvel's Wolverine》领跑美国9月销量榜，创《Helldivers 2》以来Sony发行游戏最高月度销售额",
+      "zh_desc": "报道《Marvel's Wolverine》在美国9月销量榜领先，并创下Sony自《Helldivers 2》以来最高月度美元销售额。属于主机AAA销售动态，对休闲手游市场判断仅有间接参考。",
+      "url": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-22T13:00:08",
+      "fetched_at": "2026-10-23T00:48:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Marvel's Wolverine",
+          "desc": "索尼发行的《金刚狼》题材游戏，在2026年9月美国销量榜登顶，并创下自《Helldivers 2》以来索尼发行游戏最高月度销售额。"
+        },
+        {
+          "name": "NBA 2K27",
+          "desc": "篮球模拟游戏，9月美国销量榜排名第2，并超过《Resident Evil Requiem》成为2026年年初至今最畅销游戏。"
+        },
+        {
+          "name": "EA Sports FC 27",
+          "desc": "足球体育游戏，9月美国销量榜排名第3，表现不及《Marvel's Wolverine》。"
+        },
+        {
+          "name": "Fire Emblem: Fortune's Weave",
+          "desc": "《火焰纹章》系列策略角色扮演新作，9月新上榜并排名第4。"
+        },
+        {
+          "name": "The Blood of Dawnwalker",
+          "desc": "9月新上榜并进入前五的黑暗奇幻动作RPG，文章主要提及其销量排名。"
+        },
+        {
+          "name": "Wardogs",
+          "desc": "9月新上榜并排名第6的销量榜游戏。"
+        },
+        {
+          "name": "Onimusha: Way of the Sword",
+          "desc": "《鬼武者》系列动作游戏新作，9月新上榜并排名第7。"
+        },
+        {
+          "name": "Halloween: The Game",
+          "desc": "9月新上榜并排名第8的恐怖题材游戏。"
+        },
+        {
+          "name": "Ace Combat 8: Wings of Theve",
+          "desc": "《皇牌空战》系列空战射击新作，9月新上榜并排名第9。"
+        },
+        {
+          "name": "Madden NFL 27",
+          "desc": "美式橄榄球体育游戏，9月美国销量榜排名第10。"
+        },
+        {
+          "name": "Resident Evil Requiem",
+          "desc": "生存恐怖游戏，曾领跑2026年年初至今销量，后被《NBA 2K27》超越。"
+        },
+        {
+          "name": "Helldivers 2",
+          "desc": "索尼发行的合作射击游戏，被文章用作《Marvel's Wolverine》月度销售额的对比基准。"
+        }
+      ]
+    },
+    {
+      "id": "7d7cb4e4d4",
+      "title": "Pantaloon推出订阅服务，策展“大胆而怪异”的独立游戏库",
+      "zh_desc": "Pantaloon介绍其新订阅服务，通过策展方式构建“大胆而怪异”的独立游戏库。文章反映独立游戏分发与订阅模式探索，但与三消/消除类手游的设计和运营关联有限。",
+      "url": "https://www.gamesindustry.biz/how-pantaloon-is-curating-an-evolving-library-of-bold-and-bizarre-games-with-its-new-subscription-service",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-22T11:00:00",
+      "fetched_at": "2026-10-23T00:48:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Sub-Verge",
+          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
+        },
+        {
+          "name": "Occlude",
+          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
+        },
+        {
+          "name": "It Takes a War",
+          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
+        },
+        {
+          "name": "Boxroom",
+          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
+        },
+        {
+          "name": "Offbeat",
+          "desc": "Playbill 订阅服务首发策展阵容中的独立游戏，属于 Pantaloon 原创/重点推荐作品之一。"
+        },
+        {
+          "name": "Rolla",
+          "desc": "近期推出并随 Playbill 首发上线的独立游戏。"
+        },
+        {
+          "name": "Buckshot Roulette",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 Critical Reflex 与 Mike Klubnika 推出。"
+        },
+        {
+          "name": "Silt",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 Fireshine 与 Spiral Circus Games 推出。"
+        },
+        {
+          "name": "Ex Sanguis",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 Firesquid 与 Lightbulb Crew 推出。"
+        },
+        {
+          "name": "Death Crown",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 5WORD Team 推出。"
+        },
+        {
+          "name": "Kids",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 Playables 推出。"
+        },
+        {
+          "name": "Four Last Things",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 Akupara Games 与 Joe Richardson 推出。"
+        },
+        {
+          "name": "Cabin Factory",
+          "desc": "Playbill 完整首发阵容中的独立游戏，由 Future Friends Games 与 International Cat Studios 推出。"
+        },
+        {
+          "name": "Virtue: Prologue",
+          "desc": "Devolver 发行的限时独占视觉中篇小说式游戏，是《Virtue and a Sledgehammer》的伴生作品，10月27日推出。"
+        },
+        {
+          "name": "Virtue and a Sledgehammer",
+          "desc": "文章中提到的即将推出游戏，其视觉中篇小说式伴生作品《Virtue: Prologue》将先行推出。"
+        },
+        {
+          "name": "Isle Goblin",
+          "desc": "Playbill 首发试玩阵容中的独立游戏，由 Fireshine 与 Kilowatt Games 推出。"
+        },
+        {
+          "name": "Mr Magpie’s Harmless Card Game",
+          "desc": "Playbill 首发试玩阵容中的卡牌游戏，由 Behaviour Interactive、Gambit Digital 与 Giant Light Studios 推出。"
+        },
+        {
+          "name": "Lemonade Apocalypse",
+          "desc": "Pantaloon 旗下随 Playbill 首发试玩的游戏之一。"
+        }
+      ]
+    },
+    {
+      "id": "472c89f204",
+      "title": "Xbox公布云游戏时长限制定价：10小时3.99美元起",
+      "zh_desc": "Xbox公布Game Pass云游戏时长限制的定价方案，最低3.99美元10小时。该动态涉及平台订阅与云游戏变现，可为理解游戏付费模式提供背景，但与休闲手游内购/广告变现无直接关系。",
+      "url": "https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-22T09:14:16",
+      "fetched_at": "2026-10-23T00:48:04",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "18d2241463",
       "title": "报告探讨Roblox如何在2026上半年成为总时长最高游戏后留住年长玩家",
