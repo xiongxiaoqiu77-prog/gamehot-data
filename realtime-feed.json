@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-10-24T00:31:00",
+  "updated_at": "2026-10-24T01:03:44",
   "articles": [
+    {
+      "id": "0405b868e0",
+      "title": "任天堂资深制作人宫本茂将获日本文化勋章",
+      "zh_desc": "宫本茂成为首位获得日本文化勋章的Game Developer。此消息属于行业人物荣誉类新闻，对理解日本游戏产业的文化地位有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T13:06:01",
+      "fetched_at": "2026-10-24T01:03:44",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Super Mario",
+          "desc": "任天堂标志性的平台跳跃游戏系列。"
+        },
+        {
+          "name": "Legend of Zelda",
+          "desc": "任天堂经典动作冒险游戏系列。"
+        }
+      ]
+    },
+    {
+      "id": "5f719dc158",
+      "title": "Capcom遭遇数据泄露，超1170万个Capcom ID账号受影响",
+      "zh_desc": "Capcom发生大规模账号数据泄露事件，涉及逾1170万个Capcom ID。对手游与在线服务型产品的账号安全、合规与用户信任管理具有警示意义。",
+      "url": "https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T11:05:20",
+      "fetched_at": "2026-10-24T01:03:44",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Street Fighter 6",
+          "desc": "卡普空旗下格斗游戏。"
+        },
+        {
+          "name": "Monster Hunter",
+          "desc": "卡普空旗下动作角色扮演狩猎游戏系列。"
+        },
+        {
+          "name": "Resident Evil",
+          "desc": "卡普空旗下生存恐怖游戏系列。"
+        }
+      ]
+    },
+    {
+      "id": "a42fcf6b65",
+      "title": "Call of Duty: Modern Warfare 4｜媒体评分综述",
+      "zh_desc": "汇总媒体对Call of Duty: Modern Warfare 4的评价，并提及前作Black Ops 7口碑与商业表现不佳。属于主机/PC大作舆论观察，与休闲手游关联较弱。",
+      "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T09:59:48",
+      "fetched_at": "2026-10-24T01:03:44",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Call of Duty: Modern Warfare 4",
+          "desc": "第一人称射击游戏，重启版现代战争系列的收尾作，包含战役、多人及跨平台联机。"
+        },
+        {
+          "name": "Call of Duty: Black Ops 7",
+          "desc": "使命召唤系列前作，第一人称射击游戏，媒体与玩家评价不佳且表现低于预期。"
+        },
+        {
+          "name": "Call of Duty: Modern Warfare 3",
+          "desc": "现代战争重启系列的前作，第一人称射击游戏。"
+        },
+        {
+          "name": "Frogger",
+          "desc": "经典街机跳跃/过马路游戏。"
+        },
+        {
+          "name": "Time Crisis",
+          "desc": "街机光枪轨道射击游戏。"
+        }
+      ]
+    },
+    {
+      "id": "5166573e8f",
+      "title": "播客：Landfall的Rebecca Lautner谈Peak销量2300万与超越friendslop标签",
+      "zh_desc": "Landfall首席商务官回顾Peak销量突破2300万份后仍希望转向新项目的思路。对理解爆款多人游戏的团队决策与产品生命周期有一定借鉴意义。",
+      "url": "https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T08:00:00",
+      "fetched_at": "2026-10-24T01:03:44",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Peak",
+          "desc": "Landfall开发的多人合作游戏，销量超过2300万，常被归入friendslop类型。"
+        },
+        {
+          "name": "How to Fish",
+          "desc": "由Landfall旗下发行部门Evil Landfall支持的多百万销量畅销游戏。"
+        }
+      ]
+    },
+    {
+      "id": "e048de856b",
+      "title": "Epic Games宣布AI Game Jam，遭批评后修改规则",
+      "zh_desc": "Epic Games举办AI主题Game Jam引发争议并调整规则。反映了行业对AI生成内容的态度分歧，对关注UGC与AI工具链的从业者有参考价值。",
+      "url": "https://gameworldobserver.com/2026/10/23/epic-games-announces-ai-game-jam-faces-criticism-then-changes-rules",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T14:52:27",
+      "fetched_at": "2026-10-24T01:03:44",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "6aedebb137",
       "title": "GameMaker将于2027年1月把“下一代运行时”GMRT免费开放商用",
