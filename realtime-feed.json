@@ -1,6 +1,111 @@
 {
-  "updated_at": "2026-10-23T22:52:13",
+  "updated_at": "2026-10-24T00:31:00",
   "articles": [
+    {
+      "id": "6aedebb137",
+      "title": "GameMaker将于2027年1月把“下一代运行时”GMRT免费开放商用",
+      "zh_desc": "GameMaker宣布GMRT从2027年起免费商用，降低2D游戏开发门槛。对休闲与小游戏开发者的引擎选择和成本控制有参考，但非玩法设计分析。",
+      "url": "https://www.gamesindustry.biz/gamemaker-to-make-its-next-generation-runtime-gmrt-free-for-commercial-use-in-january-2027",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T13:52:52",
+      "fetched_at": "2026-10-24T00:31:00",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "e18347a946",
+      "title": "新游汇总：Football Manager、Dispatch、The Traitors、UnGodly、Dr. Seuss等",
+      "zh_desc": "汇总本周新游，包括Football Manager手游、Dispatch、The Traitors及若干独立解谜游戏。对关注新游趋势和休闲解谜品类有轻度参考。",
+      "url": "https://mobilegamer.biz/new-games-digest-fm27-touch-dispatch-the-traitors-ungodly-dr-seuss-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T10:55:30",
+      "fetched_at": "2026-10-24T00:31:00",
+      "lang": "en",
+      "games": [
+        {
+          "name": "FM27 Touch",
+          "desc": "足球管理模拟游戏，支持从旧作延续存档并跨设备云同步。"
+        },
+        {
+          "name": "Dispatch",
+          "desc": "叙事游戏，移动版针对触屏和竖屏重构，首四集免费。"
+        },
+        {
+          "name": "The Traitors: Interactive Game",
+          "desc": "改编自真人秀的互动小说游戏，由 Fusebox Games 推出。"
+        },
+        {
+          "name": "UnGodly",
+          "desc": "免费游玩暗黑奇幻动作 RPG，登陆多平台。"
+        },
+        {
+          "name": "Dr. Seuss: Learn & Play",
+          "desc": "面向 2-8 岁儿童的教育订阅应用，含 100 多款苏斯博士主题学习游戏。"
+        },
+        {
+          "name": "The House of Tesla: Definitive Edition",
+          "desc": "以特斯拉废弃 Wardenclyffe 设施为背景的解谜冒险游戏。"
+        },
+        {
+          "name": "Astrae Oratio",
+          "desc": "NC 发行、Dynamis One 开发的动漫风 RPG，计划 2027 年上线移动端和 PC。"
+        },
+        {
+          "name": "FM26 Touch",
+          "desc": "前作足球管理模拟游戏，App Store 页面将在 FM27 Touch 上线时自动更新。"
+        },
+        {
+          "name": "Star Wars: Galaxy of Heroes",
+          "desc": "Mark Otero 曾参与的星球大战题材手游，文中作为其履历提及。"
+        },
+        {
+          "name": "The House of Da Vinci",
+          "desc": "Blue Brain Games 的解谜冒险游戏系列，文中作为工作室前作提及。"
+        }
+      ]
+    },
+    {
+      "id": "dec4063511",
+      "title": "Stillfront新任CEO为前EA、King和Embark高管Marcus Jacobs",
+      "zh_desc": "Marcus Jacobs将于11月1日接任Stillfront总裁兼集团CEO，公司同时公布Q3营收与利润下滑。对休闲手游公司治理与市场表现有参考，但非玩法设计分析。",
+      "url": "https://mobilegamer.biz/stillfronts-new-boss-is-former-ea-king-and-embark-exec-marcus-jacobs/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T09:47:27",
+      "fetched_at": "2026-10-24T00:31:00",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Supremacy",
+          "desc": "Stillfront 旗下移动游戏系列之一。"
+        },
+        {
+          "name": "Empire",
+          "desc": "Stillfront 旗下移动游戏系列之一，文中列为关键系列。"
+        },
+        {
+          "name": "BitLife",
+          "desc": "Stillfront 旗下移动游戏系列之一。"
+        },
+        {
+          "name": "Albion Online",
+          "desc": "Stillfront 旗下工作室相关的游戏系列之一。"
+        },
+        {
+          "name": "Big",
+          "desc": "文中列为 Stillfront 关键游戏系列之一，具体类型未展开。"
+        },
+        {
+          "name": "Board",
+          "desc": "文中列为 Stillfront 关键游戏系列之一，具体类型未展开。"
+        }
+      ]
+    },
     {
       "id": "101a617bcf",
       "title": "播客：Apple 应用审核困境、EA 裁员、Supercell、Monopoly Go 等 - Mobilegamer.biz",
