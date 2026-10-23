@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-23T08:43:29",
+  "updated_at": "2026-10-23T16:13:13",
   "articles": [
+    {
+      "id": "b68244bdd4",
+      "title": "当 AI 自信地给出错误答案：游戏数据团队该如何应对",
+      "zh_desc": "GameAnalytics 指出，AI 辅助分析中真正的风险是“错得非常自信”，并给出了在分析结论进入决策前进行校验的方法。对手游团队的 LiveOps 数据分析与 AI 工具落地有实操参考价值。",
+      "url": "https://www.gameanalytics.com/blog/when-ai-is-confidently-wrong-and-what-data-teams-can-do-about-it",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-23T07:52:39",
+      "fetched_at": "2026-10-23T16:13:13",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "48bf5ecf3f",
       "title": "观点：在游戏开发中优先“核心团队”时，措辞为何重要",
