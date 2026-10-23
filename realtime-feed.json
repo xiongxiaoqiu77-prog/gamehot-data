@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-23T16:13:13",
+  "updated_at": "2026-10-23T22:52:13",
   "articles": [
+    {
+      "id": "101a617bcf",
+      "title": "播客：Apple 应用审核困境、EA 裁员、Supercell、Monopoly Go 等 - Mobilegamer.biz",
+      "zh_desc": "该播客节目讨论 Apple 应用审核问题、EA 裁员、Supercell 与 Monopoly Go 等手游行业动态。对从业者可作为行业新闻速览，但缺乏对玩法、数值或变现的深度拆解，实际分析价值有限。",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TVWkzaXNqZGZNYXpUNGF5RDdvRkRKRmNKWmR2ZFo1aWxIa2VwT2taeC1WZFF3TXFwLU9EcGVST003LTNCWXZtOEczbGg5NW1fU3p1MmgwYVRHSUxuM3lseEJGMUJ3a0ZmNHdFVkc2RURtMG9HbGFQOQ?oc=5",
+      "source": "重点游戏-MONOPOLY GO",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-23T09:11:36",
+      "fetched_at": "2026-10-23T22:52:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "一款以大富翁IP为主题的移动端休闲棋盘游戏，主打社交互动、骰子掷点与限时活动玩法。"
+        }
+      ]
+    },
     {
       "id": "b68244bdd4",
       "title": "当 AI 自信地给出错误答案：游戏数据团队该如何应对",
