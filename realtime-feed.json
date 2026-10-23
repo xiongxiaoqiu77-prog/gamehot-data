@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-24T01:03:44",
+  "updated_at": "2026-10-24T02:39:08",
   "articles": [
+    {
+      "id": "b92673a0d5",
+      "title": "GameMaker 的 GMRT 运行时将于 2027 年起对所有开发者免费",
+      "zh_desc": "GameMaker 宣布其 GMRT 运行时将从 2027 年起免费向所有开发者开放，降低独立和中小团队使用其引擎工具的成本。对休闲游戏开发者而言，这是引擎与工具链层面的行业资讯，但不涉及具体玩法或商业化设计。",
+      "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T17:51:14",
+      "fetched_at": "2026-10-24T02:39:08",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "一款大逃杀/沙盒建造游戏，文中提到 Epic 将把 Unreal Engine 与 Unreal Engine for Fortnite（UEFN）全面整合。"
+        }
+      ]
+    },
+    {
+      "id": "d14ae8075f",
+      "title": "Peak 校友创立的初创公司筹集 9.14 亿美元",
+      "zh_desc": "报道由 Peak 校友创立的初创公司累计融资 9.14 亿美元，反映 Royal Match 团队背景创业者在游戏与科技领域的资本动向。对关注休闲游戏公司生态和人才流向的从业者有参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnE2aExXaTFyVHNNaXlMQmZWVkRlNGNSWUp4TXlBOUtGWUV0ZmVLdG90MlMycTd2MzRrOWd3dVh4U2Z5cEpidEd2azVmR2pVVHVDc2ppN1pkaXlBbTJ3Y1lQVElCTzlEbGZvdHpnRnp5TFpsYTlKUXA3RS16c05rb2RYNGVJbWZVdHdZRlZVblh0Z1ow0gGaAUFVX3lxTE1MdVR3NlFOT1psX05ObnZUZ0h5c3A2NkxlVkgzdzhpZTdWa2NzdnYtR3BfYkFiWXBVMHVzUHhCMC00Tjlxd09oUGxmUkd5aGNpWURPZk5jaUJ3QmlON0FvZEJWVk5NUDNOcVFFOHdJMHU2WFF1d0JCdHVOaWpDQXdDNDR0emc0WW1KclRFcm5mZUNFYUgwMXpLMnc?oc=5",
+      "source": "重点游戏-Royal Match",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-23T14:45:44",
+      "fetched_at": "2026-10-24T02:39:08",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Peak",
+          "desc": "标题提及的游戏，相关初创公司由该游戏校友创立，正文未展开介绍其类型与特点。"
+        }
+      ]
+    },
+    {
+      "id": "191f86206c",
+      "title": "Last War 最佳英雄强度榜 - Pocket Gamer",
+      "zh_desc": "Pocket Gamer 发布 Last War 英雄强度榜，帮助玩家了解不同英雄的优先级和阵容选择。属于面向玩家的攻略内容，对休闲游戏深度设计拆解价值有限。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13d2prdU5XUjZLTERqcFczM3V0SnhiU0FvbjEyMFNUOGlXY05vbkZ1REZQRUlvSVZraFR5TW9NY2IwU2FmZnVULVo1MVB0LWEwYnJqdmNyNTUta0RSMFNVbzY0ZVNUaUE?oc=5",
+      "source": "重点游戏-Last War Survival",
+      "category": "泛游戏",
+      "score": 6,
+      "published_at": "2026-10-17T03:06:00",
+      "fetched_at": "2026-10-24T02:39:08",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Last War",
+          "desc": "一款移动端策略游戏，文章标题涉及该游戏的最佳英雄强度榜。"
+        }
+      ]
+    },
     {
       "id": "0405b868e0",
       "title": "任天堂资深制作人宫本茂将获日本文化勋章",
