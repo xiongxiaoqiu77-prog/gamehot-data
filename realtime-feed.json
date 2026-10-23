@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-10-24T04:46:27",
+  "updated_at": "2026-10-24T07:55:53",
   "articles": [
+    {
+      "id": "b155e6c3fe",
+      "title": "BioWare 的终结是一个悲剧性的熟悉故事 | 观点",
+      "zh_desc": "文章评论 BioWare 经历关闭、取消和重组，反映游戏行业持续裁员与项目风险；对理解大厂经营波动有参考，但与休闲消除手游的玩法、数值和变现无直接关系。",
+      "url": "https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-23T15:04:13",
+      "fetched_at": "2026-10-24T07:55:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mass Effect",
+          "desc": "BioWare 的太空歌剧式科幻角色扮演游戏系列，文中提到其前三作于2021年重制发行。"
+        },
+        {
+          "name": "Dragon Age: Inquisition",
+          "desc": "BioWare 的奇幻角色扮演游戏，被文章称为其最后一个真正展现 BioWare 魔力的成功作品。"
+        },
+        {
+          "name": "Baldur's Gate",
+          "desc": "BioWare 基于《龙与地下城》规则的经典奇幻角色扮演游戏系列，文章称其几乎让 D&D 重回文化视野。"
+        },
+        {
+          "name": "Neverwinter Nights",
+          "desc": "BioWare 的《龙与地下城》授权奇幻角色扮演游戏，与《Baldur's Gate》一同被文章提及。"
+        },
+        {
+          "name": "Star Wars: Knights of the Old Republic",
+          "desc": "BioWare 的《星球大战》旧共和国时代角色扮演游戏，文中以 Knights of the Old Republic 提及。"
+        }
+      ]
+    },
     {
       "id": "f72f74c709",
       "title": "Peak 校友创办的初创公司融资 9.14 亿美元",
