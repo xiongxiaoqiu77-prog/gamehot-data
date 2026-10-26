@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-10-24T07:55:53",
+  "updated_at": "2026-10-26T21:02:42",
   "articles": [
+    {
+      "id": "591ce3d96e",
+      "title": "Skydance 拥有所需的一切，唯独缺乏专注",
+      "zh_desc": "文章讨论 Warner Bros. 游戏业务在经历高成本失败后，从追逐过多 IP 回归少数成熟 franchise 的策略，并延伸到 Skydance 的 IP 整合与聚焦问题。内容属于大厂战略与 IP 管理层面，对休闲游戏从业者只有间接参考价值。",
+      "url": "https://naavik.co/weekly-digest/skydance-has-everything-it-needs-except-focus/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-25T11:22:30",
+      "fetched_at": "2026-10-26T21:02:42",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Trek Fleet Command",
+          "desc": "Scopely 开发并运营的《星际迷航》IP 实时服务型移动游戏。"
+        },
+        {
+          "name": "Marvel 1943: Rise of Hydra",
+          "desc": "Skydance New Media 正在开发的漫威授权 AAA 项目。"
+        },
+        {
+          "name": "Batman: Arkham",
+          "desc": "Rocksteady 开发的蝙蝠侠题材动作冒险游戏系列。"
+        },
+        {
+          "name": "Hogwarts Legacy",
+          "desc": "Avalanche Software 开发的《哈利·波特》世界观动作角色扮演游戏。"
+        },
+        {
+          "name": "Mortal Kombat",
+          "desc": "NetherRealm 开发的格斗游戏系列。"
+        }
+      ]
+    },
     {
       "id": "b155e6c3fe",
       "title": "BioWare 的终结是一个悲剧性的熟悉故事 | 观点",
