@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-10-26T21:02:42",
+  "updated_at": "2026-10-27T07:54:31",
   "articles": [
+    {
+      "id": "1ca5509464",
+      "title": "Discord 向游戏工作室推销的增长方案：哪些能力已被验证，哪些值得争取",
+      "zh_desc": "Jen Donahoe 与 Discord 首席商务官 Jules Shumaker 对谈，梳理 Discord 正在为游戏工作室打造的五项工具，以及当下正是谈合作的好时机。对休闲手游团队而言，可作为社区运营与 LiveOps 外部阵地的参考。",
+      "url": "https://www.deconstructoroffun.com/blog/plenshawmy4k54vpkqlqx5v8414kka",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-26T14:57:26",
+      "fetched_at": "2026-10-27T07:54:31",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "0b05e09fdd",
+      "title": "谁在为 iPhone Duo 做游戏？目前主要是独立开发者",
+      "zh_desc": "苹果重点展示的 17 款非 Arcade 游戏中，仅 3 款来自大型手游发行商，说明新硬件平台早期仍由小团队与独立开发者占位。对关注新平台红利与买量成本的手游从业者具有参考价值。",
+      "url": "https://mobilegamer.biz/whos-making-games-for-iphone-duo-mostly-indies-for-now/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-26T14:43:52",
+      "fetched_at": "2026-10-27T07:54:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Toastie: grilled cheese game",
+          "desc": "Tomasz Szykulski 开发的以烤奶酪为主题的个人开发者游戏。"
+        },
+        {
+          "name": "Art of Flora: Cozy Jigsaw",
+          "desc": "Klemens Strasser 开发的舒适拼图类游戏。"
+        },
+        {
+          "name": "Battlefleet Duo",
+          "desc": "近期上线、名称呼应 iPhone Duo 折叠屏特性的个人开发者游戏。"
+        },
+        {
+          "name": "FleetFold",
+          "desc": "Hernan Rosario 开发的折叠屏主题个人开发者游戏。"
+        },
+        {
+          "name": "Marbles Unhinged: Folding Maze",
+          "desc": "Cromulent Labs 开发的折叠迷宫类个人开发者游戏。"
+        },
+        {
+          "name": "Balatro",
+          "desc": "Playstack 发行的付费独立游戏。"
+        },
+        {
+          "name": "Planet of Lana",
+          "desc": "Playdigious 发行的 Wishfully 作品移动版，付费下载。"
+        },
+        {
+          "name": "Blek",
+          "desc": "kunabi brother 开发的付费独立游戏。"
+        },
+        {
+          "name": "Pools",
+          "desc": "Tensori 开发的免费含内购独立游戏。"
+        },
+        {
+          "name": "Phoenix 2",
+          "desc": "Firi Games 开发的独立游戏。"
+        },
+        {
+          "name": "Waltz of the Wizard",
+          "desc": "Aldin Dynamics 开发的独立游戏。"
+        },
+        {
+          "name": "Blackbox",
+          "desc": "Shapes and Stories 开发的独立游戏。"
+        },
+        {
+          "name": "Little Things Forever",
+          "desc": "KlickTock 开发的独立游戏。"
+        },
+        {
+          "name": "No. 10: Full Confidence",
+          "desc": "Sleepy Boy Studios 开发的英国政治讽刺游戏。"
+        },
+        {
+          "name": "Asphalt Legends",
+          "desc": "Gameloft 的长期运营移动竞速游戏。"
+        },
+        {
+          "name": "8 Ball Pool",
+          "desc": "Miniclip 的长期运营移动台球游戏。"
+        },
+        {
+          "name": "Angry Birds Dream Blast",
+          "desc": "Rovio 的长期运营移动益智游戏。"
+        },
+        {
+          "name": "Sneaky Sasquatch",
+          "desc": "RAC7 Games 的 Apple Arcade 游戏。"
+        },
+        {
+          "name": "Crossy Road Castle",
+          "desc": "Hipster Whale 的 Apple Arcade 游戏。"
+        },
+        {
+          "name": "Retrocade",
+          "desc": "Resolution Games 的 Apple Arcade 游戏。"
+        },
+        {
+          "name": "Zenless Zone Zero",
+          "desc": "Hoyoverse 在 iPhone Duo 发布活动上演示的游戏。"
+        },
+        {
+          "name": "UnGodly",
+          "desc": "Azra Games 在 iPhone Duo 发布活动上演示的游戏。"
+        },
+        {
+          "name": "Don't Starve Together",
+          "desc": "Klei 的 iPhone Duo 兼容游戏，由 Playdigious 发行移动版。"
+        },
+        {
+          "name": "9 Kings",
+          "desc": "Sad Socket 开发、于 10 月 12 日上线移动版并支持 iPhone Duo 的游戏。"
+        },
+        {
+          "name": "Subnautica",
+          "desc": "Unknown Worlds 开发、App Store 更新后支持 iPhone Duo 的游戏。"
+        },
+        {
+          "name": "Evoland 2",
+          "desc": "Shiro Games 开发、已针对 iPhone Duo 优化的游戏。"
+        }
+      ]
+    },
+    {
+      "id": "520bd6a34a",
+      "title": "为什么万圣节买量高峰已在 9 月出现——GameAnalytics 数据观察",
+      "zh_desc": "GameAnalytics 分析显示，今年手游万圣节广告投放比两年前提早约三倍时间启动，且表现最好的创意多为“旧素材＋一句节日文案”。文章复盘三年趋势并给出 UA 排期建议，对手游买量与创意迭代具有直接参考价值。",
+      "url": "https://www.gameanalytics.com/blog/why-halloween-in-user-acquisition-peaked-already-in-september",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-26T09:54:25",
+      "fetched_at": "2026-10-27T07:54:31",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "591ce3d96e",
       "title": "Skydance 拥有所需的一切，唯独缺乏专注",
