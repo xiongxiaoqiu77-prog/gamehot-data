@@ -1,6 +1,108 @@
 {
-  "updated_at": "2026-10-27T07:54:31",
+  "updated_at": "2026-10-27T11:36:08",
   "articles": [
+    {
+      "id": "799ee52cca",
+      "title": "据报道 Xbox 拒绝 Netflix 5 亿美元协议，不愿出售游戏IP改编权",
+      "zh_desc": "报道称 Netflix 曾提出 5 亿美元打包改编 Xbox 旗下游戏IP，但 Xbox 希望抬高报价而拒绝。对休闲游戏从业者而言，这更多是IP授权与跨媒介变现的行业信号，而非玩法或运营层面的直接参考。",
+      "url": "https://www.gamedeveloper.com/business/xbox-reportedly-turned-down-a-500-million-deal-from-netflix-for-adapting-gaming-properties",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-26T18:45:00",
+      "fetched_at": "2026-10-27T11:36:08",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Halo",
+          "desc": "科幻第一人称射击游戏，以士官长与外星阵营的战争和宏大世界观为核心。"
+        },
+        {
+          "name": "Gears of War",
+          "desc": "第三人称射击游戏，以掩体战斗和粗犷科幻战争为特色。"
+        },
+        {
+          "name": "Fable",
+          "desc": "奇幻动作角色扮演游戏，以道德选择、英式幽默和童话风格著称。"
+        },
+        {
+          "name": "Fallout",
+          "desc": "末日废土角色扮演游戏，以复古未来主义、分支叙事和自由探索为特色。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "沙盒建造生存游戏，以方块世界、自由创造和多人联机为核心。"
+        },
+        {
+          "name": "Diablo",
+          "desc": "暗黑奇幻动作角色扮演游戏，以刷宝、地牢探索和职业Build为核心。"
+        },
+        {
+          "name": "Mass Effect",
+          "desc": "科幻角色扮演游戏，以太空歌剧叙事、队友关系和选择后果为特色。"
+        },
+        {
+          "name": "Dragon Age",
+          "desc": "奇幻角色扮演游戏，以队伍战术、政治冲突和种族矛盾为特色。"
+        },
+        {
+          "name": "Brazen Blaze",
+          "desc": "一款VR多人动作竞技游戏，主打近身格斗与场景破坏。"
+        }
+      ]
+    },
+    {
+      "id": "3d182057b1",
+      "title": "Xbox 员工在列，Microsoft 最多6万名员工获自愿离职方案",
+      "zh_desc": "Microsoft 向最多6万名员工提供自愿离职方案，Xbox 员工也在其中。该消息体现大厂降本与组织收缩趋势，可作为游戏行业就业和市场环境的风向参考，但与休闲游戏玩法/变现无直接关系。",
+      "url": "https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-26T21:34:00",
+      "fetched_at": "2026-10-27T11:36:08",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "19b73f7777",
+      "title": "Epic Games CEO 称 Steam 的 AI 披露政策是“政治行为”",
+      "zh_desc": "Tim Sweeney 再次批评 Steam 要求披露生成式 AI 使用的政策，称其为“政治行为”。这反映平台对 AI 内容治理的分歧，对关注工具链、内容合规和平台政策的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-26T19:54:19",
+      "fetched_at": "2026-10-27T11:36:08",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "d48ba24893",
+      "title": "据报道 Netflix 向 Microsoft 提出 5 亿美元、为期七年授权 Xbox IP",
+      "zh_desc": "报道称 Netflix 提出以 5 亿美元、为期七年授权 Xbox 游戏IP用于影视改编。该消息是IP跨媒介变现与内容授权的行业案例，对休闲游戏IP经营有间接启发，但不涉及具体玩法设计。",
+      "url": "https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-26T13:02:57",
+      "fetched_at": "2026-10-27T11:36:08",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Minecraft",
+          "desc": "沙盒建造生存游戏，以方块世界、自由创造和多人联机为核心。"
+        },
+        {
+          "name": "Diablo",
+          "desc": "暗黑奇幻动作角色扮演游戏，以刷宝、地牢探索和职业Build为核心。"
+        },
+        {
+          "name": "Marvel's Blade",
+          "desc": "一款由Arkane Lyon开发的漫威题材动作冒险游戏，玩家扮演吸血鬼猎人刀锋战士。"
+        }
+      ]
+    },
     {
       "id": "1ca5509464",
       "title": "Discord 向游戏工作室推销的增长方案：哪些能力已被验证，哪些值得争取",
