@@ -1,6 +1,124 @@
 {
-  "updated_at": "2026-10-28T00:30:39",
+  "updated_at": "2026-10-28T01:03:00",
   "articles": [
+    {
+      "id": "84a26157af",
+      "title": "Nightdive Studios CEO 表示：持续改变被收购工作室的核心定位终将导致失败",
+      "zh_desc": "Nightdive Studios CEO 以 Atari 为例，讨论大型发行商应如何在收购后保留工作室的原有特色与文化。对关注团队整合与研发布局的从业者有一定参考价值，但与休闲游戏设计关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/night-dive-studios-ceo-says-atari-is-demonstrating-right-way-to-do-acquisitions",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T14:47:20",
+      "fetched_at": "2026-10-28T01:03:00",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Crossy Road",
+          "desc": "Hipster Whale 开发的街机式无尽跳跃游戏，以像素风格和简单上手的玩法著称。"
+        },
+        {
+          "name": "Mass Effect",
+          "desc": "BioWare 开发的科幻角色扮演游戏系列，以太空歌剧叙事和选择分支闻名。"
+        },
+        {
+          "name": "Dragon Age",
+          "desc": "BioWare 开发的奇幻角色扮演游戏系列，强调小队战斗与剧情选择。"
+        }
+      ]
+    },
+    {
+      "id": "50450c0a45",
+      "title": "Sucker Punch 裁员 24 人，称是为适配“当前市场”与“下一项目需求”",
+      "zh_desc": "Sucker Punch 裁撤约 24 名员工，约占团队一成，官方解释是配合当前市场环境与下一项目需要。属于主机 3A 领域的人事动态，可作为行业成本收缩趋势的观察样本。",
+      "url": "https://www.gamedeveloper.com/business/sucker-punch-lays-off-24-to-align-with-current-market-next-project-needs",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T14:10:40",
+      "fetched_at": "2026-10-28T01:03:00",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Ghost of Yotei",
+          "desc": "Sucker Punch 开发的开放世界动作冒险游戏，延续日本武士题材。"
+        }
+      ]
+    },
+    {
+      "id": "8f1f72fbb9",
+      "title": "UKIE 呼吁英国政府在秋季预算前现代化游戏支出税收抵免（VGEC）",
+      "zh_desc": "英国行业组织 UKIE 在秋季预算前推动政府更新游戏产业支出抵免政策。属于区域产业政策动态，对关心英国市场与出海环境的从业者有信息价值。",
+      "url": "https://www.gamesindustry.biz/ukie-calls-on-government-to-modernise-video-games-expenditure-credit-ahead-of-autumn-budget",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T12:00:59",
+      "fetched_at": "2026-10-28T01:03:00",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "14909525d4",
+      "title": "Sucker Punch 在《Ghost of Yōtei: Complete Edition》发售后裁员 24 人",
+      "zh_desc": "报道称 Sucker Punch 在新作完整版发售后裁撤 24 名员工。与上一条为同一事件的不同信源报道，可作为主机游戏市场收缩的补充参考。",
+      "url": "https://www.gamesindustry.biz/sucker-punch-productions-reportedly-lays-off-24-employees-following-launch-of-ghost-of-yotei-complete-edition",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T10:29:28",
+      "fetched_at": "2026-10-28T01:03:00",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Ghost of Yōtei",
+          "desc": "Sucker Punch 开发的开放世界动作冒险游戏，是《Ghost of Tsushima》的续作。"
+        },
+        {
+          "name": "Ghost of Tsushima",
+          "desc": "Sucker Punch 开发的开放世界武士动作冒险游戏，背景设定在 feudal Japan。"
+        }
+      ]
+    },
+    {
+      "id": "9792680689",
+      "title": "创作者逆向拆解 Block Blast、Candy Crush 与 Subway Surfers，揭示其变现设计",
+      "zh_desc": "数据科学家兼内容创作者 Ayo Omolewa（Ayoships）通过反编译分析 Block Blast、Candy Crush 和 Subway Surfers 的变现机制，指出 Block Blast 更接近以广告收割为核心的循环设计。对休闲游戏从业者理解广告变现节奏、关卡难度诱导与付费转化设计具有直接参考价值。",
+      "url": "https://mobilegamer.biz/this-creator-says-he-decompiled-block-blast-candy-crush-and-subway-surfers-to-reveal-their-monetisation-secrets/",
+      "source": "Mobile Gamer Biz",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-10-27T17:01:10",
+      "fetched_at": "2026-10-28T01:03:00",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Block Blast",
+          "desc": "Hungry Studio 发行的方块益智手游，以广告变现和动态难度设计受到分析。"
+        },
+        {
+          "name": "Candy Crush Saga",
+          "desc": "King 开发的匹配三消益智手游，以动态难度和内购/广告设计受到分析。"
+        },
+        {
+          "name": "Subway Surfers",
+          "desc": "Sybo 开发的无尽跑酷手游，以数据追踪和个性化商店/广告投放受到分析。"
+        }
+      ]
+    },
+    {
+      "id": "21ca0f1ca7",
+      "title": "Microsoft 向 6 万名员工提供“自愿离职”方案，涉及 Xbox 部门",
+      "zh_desc": "Microsoft 面向约 6 万名员工推出自愿买断离职计划，范围包括 Xbox 业务。反映出大型平台方的成本控制动作，对观察行业人力与并购环境有参考价值。",
+      "url": "https://gameworldobserver.com/2026/10/27/microsoft-offers-voluntary-buyouts-to-60000-employees-including-those-in-xbox-division",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T13:50:55",
+      "fetched_at": "2026-10-28T01:03:00",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "86a4f0e2ee",
       "title": "当AI成为你的游戏队友时会发生什么",
