@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-28T02:06:26",
+  "updated_at": "2026-10-28T03:09:36",
   "articles": [
+    {
+      "id": "308133520e",
+      "title": "Crossy Road 创作者 Matt Hall 被任命为 Atari 移动业务执行副总裁",
+      "zh_desc": "Atari 宣布由 Crossy Road 创作者 Matt Hall 出任移动业务执行副总裁，主导其移动游戏布局。该人事变动对关注休闲游戏公司战略与高管动态的从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/mobile/crossy-road-creator-matt-hall-named-atari-s-evp-of-mobile",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-27T18:45:00",
+      "fetched_at": "2026-10-28T03:09:36",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Crossy Road",
+          "desc": "一款由 Hipster Whale 开发的移动端街机跳跃游戏，以像素风格和无限过马路玩法著称。"
+        }
+      ]
+    },
     {
       "id": "53b2223bf1",
       "title": "Epic 更新 EULA，允许用 Unreal Engine 和 MetaHuman 的输出训练 AI",
