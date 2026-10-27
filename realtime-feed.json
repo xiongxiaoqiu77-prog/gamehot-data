@@ -1,6 +1,144 @@
 {
-  "updated_at": "2026-10-27T13:48:02",
+  "updated_at": "2026-10-28T00:30:39",
   "articles": [
+    {
+      "id": "86a4f0e2ee",
+      "title": "当AI成为你的游戏队友时会发生什么",
+      "zh_desc": "Naavik播客对话Artificial Agency CEO Brian Tanner，讨论AI NPC、动态世界与AI队友的商业化落地难点；对休闲游戏探索AI队友和内容生产有间接参考，但非三消/消除玩法专项分析。",
+      "url": "https://naavik.co/podcast/what-happens-when-ai-becomes-your-gaming-teammate/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T15:48:05",
+      "fetched_at": "2026-10-28T00:30:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dimensional Double Shift",
+          "desc": "Owlchemy Labs 的多人合作 VR 游戏，将集成 Artificial Agency 的 AI 队友，用三名 AI 玩家替代人类玩家。"
+        }
+      ]
+    },
+    {
+      "id": "3d491a187d",
+      "title": "开发者需把Early Access当作正式发行，因为玩家就是这样看待的",
+      "zh_desc": "文章基于SteamDB数据指出2026年Steam Early Access数量继续增长，并讨论玩家期望提升对发行策略的影响；对手游/休闲游戏的上线节奏有间接参考。",
+      "url": "https://www.gamesindustry.biz/developers-need-to-treat-early-access-like-a-real-launch-because-players-do-early-access-games-are-on-the-rise-but-so-are-player-expectations",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T13:30:00",
+      "fetched_at": "2026-10-28T00:30:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Don't Starve",
+          "desc": "生存冒险游戏，文中作为通过 Early Access 取得长期成功的案例。"
+        },
+        {
+          "name": "Baldur's Gate 3",
+          "desc": "角色扮演游戏，文中作为通过 Early Access 取得长期成功的案例。"
+        },
+        {
+          "name": "Dead Cells",
+          "desc": "动作 Roguelike 游戏，文中作为通过 Early Access 取得长期成功的案例。"
+        },
+        {
+          "name": "Phasmophobia",
+          "desc": "合作捉鬼恐怖游戏，2020 年进入 Early Access。"
+        },
+        {
+          "name": "Valheim",
+          "desc": "维京题材生存建造游戏，文中讨论其 Early Access 经验。"
+        },
+        {
+          "name": "Subnautica",
+          "desc": "水下生存冒险游戏，文中列为 Early Access 讨论对象。"
+        },
+        {
+          "name": "Hades",
+          "desc": "Roguelike 动作地牢游戏，文中列为 Early Access 讨论对象。"
+        },
+        {
+          "name": "Paralives",
+          "desc": "生活模拟游戏，因教程和部分功能未达标而推迟 Early Access。"
+        },
+        {
+          "name": "Deadhaus Sonata",
+          "desc": "动作角色扮演游戏，文中列为 Early Access 讨论对象。"
+        },
+        {
+          "name": "Subnautica 2",
+          "desc": "水下生存游戏，计划以长期开放开发方式参与 Early Access。"
+        }
+      ]
+    },
+    {
+      "id": "be246f3a9e",
+      "title": "TiMi Studio Group的Pokémon Unite将于2027年3月23日停服",
+      "zh_desc": "The Pokémon Company宣布Pokémon Unite将停止运营；属于手游长线运营与生命周期资讯，对LiveOps从业者有间接参考。",
+      "url": "https://www.gamesindustry.biz/timi-studio-groups-pokemon-unite-to-shut-down-on-march-23-2027",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T11:43:41",
+      "fetched_at": "2026-10-28T00:30:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Pokémon Unite",
+          "desc": "TiMi Studio Group 开发的宝可梦 MOBA，2021 年登陆 Switch 和移动端，将于 2027 年 3 月 23 日停服。"
+        }
+      ]
+    },
+    {
+      "id": "31aceb5095",
+      "title": "腾讯旗下Morefun希望让Roco Kingdom在西方成为Pokémon级大作",
+      "zh_desc": "Morefun在Gamescom面向西方市场首曝Roco Kingdom，并计划2027年上线；属于手游/跨平台新游发行与市场野心资讯，对休闲游戏出海有间接参考。",
+      "url": "https://mobilegamer.biz/tencent-owned-morefun-wants-to-make-roco-kingdom-a-pokemon-sized-hit-in-the-west/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T13:08:47",
+      "fetched_at": "2026-10-28T00:30:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roco Kingdom",
+          "desc": "生物收集回合制开放世界游戏，源自中国同名网页游戏，新作面向 PC、主机和移动端并强调公平 PvP 与外观/通行证付费。"
+        },
+        {
+          "name": "Arena Breakout: Infinite",
+          "desc": "硬核战术撤离射击游戏，文中列为 Morefun 旗下作品。"
+        },
+        {
+          "name": "One Piece Ambition",
+          "desc": "《海贼王》IP 改编游戏，文中列为 Morefun 旗下作品。"
+        },
+        {
+          "name": "Naruto Mobile",
+          "desc": "《火影忍者》IP 移动端动作游戏，文中列为 Morefun 旗下作品。"
+        }
+      ]
+    },
+    {
+      "id": "374eaee43c",
+      "title": "腾讯大品牌MOBA Pokémon Unite将于2027年3月停服",
+      "zh_desc": "文章结合AppMagic估算称Pokémon Unite移动端约7500万美元收入、1.27亿下载，并将于2027年3月停服；对分析授权IP手游的长线运营和变现天花板有参考价值。",
+      "url": "https://mobilegamer.biz/tencents-big-brand-moba-pokemon-unite-is-closing-in-march-2027/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-27T11:16:38",
+      "fetched_at": "2026-10-28T00:30:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Pokémon Unite",
+          "desc": "Tencent TiMi Studio Group 开发的宝可梦 MOBA，2021 年上线 Switch 和移动端，2027 年 3 月 23 日停服。"
+        }
+      ]
+    },
     {
       "id": "b1772299e1",
       "title": "超22.3万人签署请愿书呼吁“拯救 Mass Effect”",
