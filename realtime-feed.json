@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-28T01:03:00",
+  "updated_at": "2026-10-28T01:34:48",
   "articles": [
+    {
+      "id": "3dc0f461c6",
+      "title": "Warhorse Studios 遭遇网络攻击，公司系统和数据受影响",
+      "zh_desc": "Warhorse Studios 遭受网络攻击，导致公司系统和数据被未经授权访问。该事件属于游戏公司安全与运营风险资讯，与休闲游戏设计、数值或变现无直接关联。",
+      "url": "https://www.gamesindustry.biz/warhorse-studios-hit-by-cyberattack-company-systems-and-data-affected",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T14:20:32",
+      "fetched_at": "2026-10-28T01:34:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Kingdom Come: Deliverance 2",
+          "desc": "中世纪背景的动作角色扮演游戏，是《天国：拯救》的续作。"
+        },
+        {
+          "name": "GTA 6",
+          "desc": "开放世界动作冒险游戏，为《侠盗猎车手》系列新作。"
+        }
+      ]
+    },
     {
       "id": "84a26157af",
       "title": "Nightdive Studios CEO 表示：持续改变被收购工作室的核心定位终将导致失败",
