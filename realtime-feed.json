@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-27T11:36:08",
+  "updated_at": "2026-10-27T12:41:48",
   "articles": [
+    {
+      "id": "4f21d1e621",
+      "title": "巴黎 Games Biz：行业动荡中的谨慎乐观｜观点",
+      "zh_desc": "文章记录巴黎 Games Biz 在行业与本地社会动荡背景下的举办情况，呈现发行商、投资者的谨慎情绪。属于宏观游戏行业观察，可作为市场氛围参考，但不涉及休闲游戏机制或变现。",
+      "url": "https://www.gamesindustry.biz/paris-games-biz-showcased-a-guarded-optimism-in-the-face-of-turmoil-locally-and-in-the-industry-at-large-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-26T16:33:59",
+      "fetched_at": "2026-10-27T12:41:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Assassin's Creed",
+          "desc": "育碧的动作冒险潜行游戏系列，以历史背景下的刺客与圣殿骑士冲突为核心特色。"
+        },
+        {
+          "name": "Rayman",
+          "desc": "育碧的横版平台动作游戏系列，以无肢卡通角色雷曼及其奇幻关卡为特点。"
+        }
+      ]
+    },
     {
       "id": "799ee52cca",
       "title": "据报道 Xbox 拒绝 Netflix 5 亿美元协议，不愿出售游戏IP改编权",
