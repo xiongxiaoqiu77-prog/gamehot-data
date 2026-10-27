@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-27T13:14:53",
+  "updated_at": "2026-10-27T13:48:02",
   "articles": [
+    {
+      "id": "b1772299e1",
+      "title": "超22.3万人签署请愿书呼吁“拯救 Mass Effect”",
+      "zh_desc": "报道玩家发起大规模请愿，要求 EA 拯救 Mass Effect 系列。反映头部 IP 的社区情绪与公司动态，但对三消/消除类休闲游戏的分析价值有限。",
+      "url": "https://www.gamesindustry.biz/223000-people-sign-petition-to-save-mass-effect",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-26T18:05:17",
+      "fetched_at": "2026-10-27T13:48:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mass Effect",
+          "desc": "BioWare开发的科幻角色扮演游戏系列，文章提及请愿者呼吁EA继续开发该系列并取消新作。"
+        },
+        {
+          "name": "Dragon Age",
+          "desc": "BioWare开发的奇幻角色扮演游戏系列，文章提及BioWare关闭影响其旗下主要IP。"
+        }
+      ]
+    },
     {
       "id": "4ba86c0fa0",
       "title": "Xbox 首位 COO 上任仅三个月便离职",
