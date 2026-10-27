@@ -1,6 +1,149 @@
 {
-  "updated_at": "2026-10-27T12:41:48",
+  "updated_at": "2026-10-27T13:14:53",
   "articles": [
+    {
+      "id": "4ba86c0fa0",
+      "title": "Xbox 首位 COO 上任仅三个月便离职",
+      "zh_desc": "Xbox 首位 COO Helen Chiang 在职位设立仅三个月后离职，该岗位原本用于减少 Xbox 组织碎片化。该消息反映大型平台组织调整，但对三消/消除手游的玩法、运营与变现无直接参考价值。",
+      "url": "https://www.gamedeveloper.com/console/xbox-coo-helen-chiang-leaves-role-shortly-after-its-creation",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-26T16:24:59",
+      "fetched_at": "2026-10-27T13:14:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Minecraft",
+          "desc": "沙盒生存建造游戏，以方块世界和自由创造、探索为核心。"
+        }
+      ]
+    },
+    {
+      "id": "b496bb73e7",
+      "title": "Auroch Digital 裁员四分之一",
+      "zh_desc": "Auroch Digital 裁撤约四分之一员工。该消息属于游戏公司成本调整动态，对休闲手游团队有间接行业环境参考，但无玩法或变现层面的分析。",
+      "url": "https://www.gamesindustry.biz/auroch-digital-lays-off-a-quarter-of-its-staff",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-26T18:20:01",
+      "fetched_at": "2026-10-27T13:14:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Warhammer 40,000: Boltgun 2",
+          "desc": "战锤40K背景的复古风格第一人称射击续作。"
+        },
+        {
+          "name": "Starship Troopers: Ultimate Bug War!",
+          "desc": "基于《星河战队》IP的科幻射击游戏，主打对抗虫群。"
+        },
+        {
+          "name": "Mass Effect",
+          "desc": "科幻角色扮演游戏，以银河冒险、队友关系和选择分支著称。"
+        },
+        {
+          "name": "Dragon Age",
+          "desc": "奇幻角色扮演游戏，以团队冒险、剧情选择和世界观构建著称。"
+        }
+      ]
+    },
+    {
+      "id": "b95b880c7c",
+      "title": "Side 扩大中国业务：开设新工作室并收购美术外包商 Roboto Entertainment",
+      "zh_desc": "服务商 Side 在中国开设新工作室，并收购美术外包商 Roboto Entertainment。该动向显示外包与美术产能布局变化，对休闲游戏美术外包选择有间接参考。",
+      "url": "https://www.gamesindustry.biz/side-expands-presence-in-china-opens-new-studio-and-acquires-art-outsourcing-provider-roboto-entertainment",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-26T14:33:18",
+      "fetched_at": "2026-10-27T13:14:53",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "880e9c01fa",
+      "title": "“那是相当煎熬的三个月”——Undead Labs 负责人 Philip Holt 谈 Xbox 剥离工作室后发生了什么",
+      "zh_desc": "Undead Labs 负责人 Philip Holt 回顾 Xbox 剥离工作室后三个月的高压经历。该案例属于主机工作室重组，对休闲手游公司治理与团队稳定有间接启示。",
+      "url": "https://www.gamesindustry.biz/it-was-a-pretty-harrowing-three-months-undead-labs-head-philip-holt-on-what-happened-after-xbox-cut-the-studio-loose",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-26T13:30:00",
+      "fetched_at": "2026-10-27T13:14:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "State of Decay",
+          "desc": "丧尸末日生存管理游戏，结合探索、基地建设和社区资源管理。"
+        },
+        {
+          "name": "State of Decay 3",
+          "desc": "《腐烂国度》系列续作，延续丧尸末日生存与社区管理玩法。"
+        }
+      ]
+    },
+    {
+      "id": "e0c8049e1c",
+      "title": "Microsoft 延长 Arkane Lyon 咨询期，Marvel's Blade 开发继续",
+      "zh_desc": "Microsoft 延长 Arkane Lyon 的出售咨询期，同时 Marvel's Blade 继续开发。该消息反映大厂工作室重组与项目延续，与休闲游戏直接关联有限。",
+      "url": "https://www.gamesindustry.biz/microsoft-extends-consultation-period-for-arkane-lyon-as-it-continues-development-on-marvels-blade",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-26T10:52:14",
+      "fetched_at": "2026-10-27T13:14:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Marvel's Blade",
+          "desc": "以漫威角色刀锋战士为主角的动作冒险游戏。"
+        }
+      ]
+    },
+    {
+      "id": "8fdc827f9b",
+      "title": "Total War 副总裁称 Shogun 2 – Complete Edition 并非 Creative Assembly 开发，此前因生成式 AI 争议下架",
+      "zh_desc": "Total War 副总裁回应 Shogun 2 – Complete Edition 争议，称该版本并非 Creative Assembly 开发，此前因生成式 AI 担忧被下架。事件涉及经典游戏复刻与 AI 透明度，对使用 AI 美术/内容的休闲游戏团队有合规提醒。",
+      "url": "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-26T08:40:16",
+      "fetched_at": "2026-10-27T13:14:53",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Total War: Shogun 2 – Complete Edition",
+          "desc": "以日本战国为背景的《全面战争》策略游戏完整版，结合回合制战役与实时战斗。"
+        },
+        {
+          "name": "The Blood of the Dawnwalker",
+          "desc": "黑暗奇幻动作角色扮演游戏，围绕昼夜与吸血鬼题材展开。"
+        },
+        {
+          "name": "Gotham Knights",
+          "desc": "以蝙蝠家族为主角的动作角色扮演游戏。"
+        },
+        {
+          "name": "Suicide Squad",
+          "desc": "以DC自杀小队为主题的动作游戏（文中仅简称）。"
+        },
+        {
+          "name": "Blair Witch",
+          "desc": "基于《女巫布莱尔》的恐怖冒险游戏。"
+        },
+        {
+          "name": "Stalker: Legends of the Zone trilogy",
+          "desc": "包含《潜行者》系列三部曲的第一人称生存恐怖射击合集。"
+        },
+        {
+          "name": "Tchia",
+          "desc": "以南太平洋岛屿为背景的开放世界冒险游戏。"
+        }
+      ]
+    },
     {
       "id": "4f21d1e621",
       "title": "巴黎 Games Biz：行业动荡中的谨慎乐观｜观点",
