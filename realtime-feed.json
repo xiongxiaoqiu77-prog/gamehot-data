@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-28T01:34:48",
+  "updated_at": "2026-10-28T02:06:26",
   "articles": [
+    {
+      "id": "53b2223bf1",
+      "title": "Epic 更新 EULA，允许用 Unreal Engine 和 MetaHuman 的输出训练 AI",
+      "zh_desc": "Epic CEO Tim Sweeney 表示将修改使用条款，允许开发者利用 Unreal Engine 与 MetaHuman 的输出训练 AI，同时保留针对单个游戏设置限制的权利。该变动涉及引擎与 AI 合规，对使用 Unreal 生态的休闲游戏团队有间接参考价值，但不涉及三消玩法、数值或变现设计。",
+      "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T17:53:41",
+      "fetched_at": "2026-10-28T02:06:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic 旗下的大逃杀游戏，文中作为用户未经许可制作浏览器版本的例子被提及。"
+        }
+      ]
+    },
     {
       "id": "3dc0f461c6",
       "title": "Warhorse Studios 遭遇网络攻击，公司系统和数据受影响",
