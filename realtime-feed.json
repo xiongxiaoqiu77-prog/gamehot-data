@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-10-28T03:09:36",
+  "updated_at": "2026-10-28T03:41:28",
   "articles": [
+    {
+      "id": "4b502e2406",
+      "title": "Rockstar Games 员工将在 Grand Theft Auto VI 发售之际就工会化进行投票",
+      "zh_desc": "Rockstar Games 员工将在两周内决定是否承认 IWGB Rockstar Game Workers Union，投票时点恰逢 Grand Theft Auto VI 发售。该事件反映大型游戏公司在发售关键期的劳资关系与组织化动向。",
+      "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T19:34:13",
+      "fetched_at": "2026-10-28T03:41:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar Games 推出的开放世界动作冒险游戏，是《Grand Theft Auto》系列最新作，计划于 2026 年 11 月 19 日发售。"
+        },
+        {
+          "name": "Zephon",
+          "desc": "Proxy Studios 开发的 4X 策略游戏，文章作者曾参与其编剧/叙事设计工作。"
+        },
+        {
+          "name": "Down With The Ship",
+          "desc": "Iron Anchor Studios 开发的游戏，文章作者曾参与制作，文章未展开其类型与特点。"
+        },
+        {
+          "name": "Endless Space 2",
+          "desc": "Amplitude Studio 于 2017 年推出的游戏，文章作者曾参与制作。"
+        }
+      ]
+    },
+    {
+      "id": "61c229f1f4",
+      "title": "Warhorse Studios 遭遇未披露细节的网络安全事件",
+      "zh_desc": "《Kingdom Come: Deliverance》系列开发商 Warhorse Studios 披露遭遇“严重”网络安全攻击，并正在评估完整影响。该事件提醒游戏工作室关注生产管线与数据安全风险。",
+      "url": "https://www.gamedeveloper.com/programming/warhorse-studios-hit-by-an-undetailed-cybersecurity-incident",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-27T19:15:00",
+      "fetched_at": "2026-10-28T03:41:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Kingdom Come: Deliverance",
+          "desc": "Warhorse Studios 开发的中世纪写实风格开放世界角色扮演游戏。"
+        },
+        {
+          "name": "Unnamed Lord of the Rings RPG",
+          "desc": "Warhorse Studios 正在开发的未命名《指环王》角色扮演游戏，具体玩法尚未公开。"
+        },
+        {
+          "name": "Pokémon",
+          "desc": "Game Freak 开发的知名怪物收集角色扮演游戏系列，文章以其开发商背景提及。"
+        },
+        {
+          "name": "Brazen Blaze",
+          "desc": "MyDearest 的最新 VR 作品，文章作者曾参与制作，文章未展开其类型与特点。"
+        }
+      ]
+    },
     {
       "id": "308133520e",
       "title": "Crossy Road 创作者 Matt Hall 被任命为 Atari 移动业务执行副总裁",
