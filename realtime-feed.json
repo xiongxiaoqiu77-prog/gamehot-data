@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-28T03:41:28",
+  "updated_at": "2026-10-28T13:24:37",
   "articles": [
+    {
+      "id": "98355edde7",
+      "title": "丹麦发起针对儿童电子游戏中类赌博机制的活动",
+      "zh_desc": "丹麦发起活动关注儿童电子游戏中与赌博相似的机制，可能涉及开箱、抽卡等设计。对休闲游戏从业者而言，这是负责任变现与合规风险方面的一般性行业资讯。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHOEp4Qk1qb0xHeXJmbmExRWlVbmVCRm9FMUlxcEJzWU1GZF9OUnl1VDgwMlUwUHdUOXctYVFyM2gwR2JrV3VFMjZ3UGRLdHBSeGNmT0Uzcm9yejQ?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-27T17:46:17",
+      "fetched_at": "2026-10-28T13:24:37",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "4b502e2406",
       "title": "Rockstar Games 员工将在 Grand Theft Auto VI 发售之际就工会化进行投票",
