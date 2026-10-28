@@ -1,6 +1,195 @@
 {
-  "updated_at": "2026-10-28T21:56:43",
+  "updated_at": "2026-10-29T06:32:02",
   "articles": [
+    {
+      "id": "6c2f89ab84",
+      "title": "Epic 副总裁称 AI 代码工具已消灭 Unreal Engine 中长达十年的「非确定性烹饪 Bug」",
+      "zh_desc": "Epic 确认在「AI 优先」转型后，AI 正深度参与 Unreal Engine 的代码开发，并解决了长期困扰引擎的随机性构建问题。对使用 UE 的手游团队而言，这预示着引擎迭代与工具链维护效率的提升。",
+      "url": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-28T16:28:55",
+      "fetched_at": "2026-10-29T06:32:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic 的在线战术竞技与沙盒创作平台游戏，文中提到其开发流与 UEFN、UE6 相关。"
+        }
+      ]
+    },
+    {
+      "id": "f1ae019e9f",
+      "title": "Valve 就 Next Fest 上的 AI 克隆现象表态",
+      "zh_desc": "Steam 上新品节游戏被快速克隆的问题引起 Valve 关注，但平台方将防范责任更多地推给开发者自身。对关注买量与素材同质化的休闲手游团队有一定参考意义。",
+      "url": "https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-28T14:42:21",
+      "fetched_at": "2026-10-29T06:32:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Moonlighter",
+          "desc": "Digital Sun 开发的动作角色扮演与商店经营 Roguelike 系列，文中提及其开发商因担心 AI 克隆而推迟新作测试。"
+        },
+        {
+          "name": "ReVamp",
+          "desc": "Digital Sun 的下一款游戏，因担心 AI 克隆抢先发布而推迟公开测试。"
+        }
+      ]
+    },
+    {
+      "id": "fb305d9fdd",
+      "title": "如何经营独立游戏工作室：第五部分，让会议更高效",
+      "zh_desc": "系列文章聚焦工作室运营体系，本篇讲如何用会议机制串联目标、问题追踪与季度节奏。对中小团队的管理实践有通用参考，但不涉及玩法或变现设计。",
+      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-5-better-meetings",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-28T15:00:00",
+      "fetched_at": "2026-10-29T06:32:02",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "0e1488125a",
+      "title": "EA 联合创始人 Bing Gordon 谈 EA 为何错失手游，以及 Zynga 做对了什么",
+      "zh_desc": "Bing Gordon 复盘 EA 在手游时代的失位，并剖析 Zynga 在免费游玩与数据驱动运营上的成功要素，同时谈及「AI 流利」的开发方式与公司对风险的恐惧。对休闲手游的商业模式与组织决策有较强启发。",
+      "url": "https://mobilegamer.biz/ea-cofounder-bing-gordon-on-why-ea-missed-mobile-and-what-zynga-got-right/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-10-28T17:01:48",
+      "fetched_at": "2026-10-29T06:32:02",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "1024d163d0",
+      "title": "Unity 联手 PvX 为手游工作室提供买量融资",
+      "zh_desc": "PvX 迄今已承诺 13 亿美元 UA 资金，将为符合条件的 Unity 开发者提供审核与放款服务。对依赖买量增长的休闲手游团队而言是值得关注的资金来源变化。",
+      "url": "https://mobilegamer.biz/unity-partners-with-pvx-to-offer-ua-financing-to-mobile-studios/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-28T13:48:54",
+      "fetched_at": "2026-10-29T06:32:02",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "4c04c7db7d",
+      "title": "数据周报：头部广告投放数据、Arrow 游戏分析、Homescapes 安装量突破 7.74 亿等",
+      "zh_desc": "汇总本周手游行业关键数据，包括头部广告主投放统计、Arrow 类游戏的表现拆解，以及 Homescapes 累计安装超 7.74 亿的里程碑。对休闲游戏从业者把握买量格局与品类头部表现有直接参考价值。",
+      "url": "https://mobilegamer.biz/data-digest-top-ad-spender-stats-arrow-game-analysis-homescapes-hits-774m-installs-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-10-28T08:15:44",
+      "fetched_at": "2026-10-29T06:32:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Gossip Harbor",
+          "desc": "合并/剧情休闲手游，在 Sensor Tower 统计中成为美国最大广告主之一，51% 广告曝光来自 AppLovin。"
+        },
+        {
+          "name": "Pokémon Go",
+          "desc": "AR 定位捕捉宝可梦手游，文中称其 47% 广告曝光来自 AdMob。"
+        },
+        {
+          "name": "Monopoly Go",
+          "desc": "大富翁主题休闲手游，文中称其 31% 广告曝光来自 AdMob。"
+        },
+        {
+          "name": "Kingshot",
+          "desc": "策略/4X 手游，文中称其 62% 广告曝光投向 YouTube、Facebook 和 Instagram。"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "冰雪末日生存策略手游，文中称其 51% 广告曝光投向 YouTube、Facebook 和 Instagram。"
+        },
+        {
+          "name": "Raid: Shadow Legends",
+          "desc": "魔幻题材移动 RPG，文中称其 42% 广告曝光投向 YouTube、Facebook 和 Instagram。"
+        },
+        {
+          "name": "Pokémon TCG Pocket",
+          "desc": "宝可梦集换式卡牌手游，文中称其 42% 广告曝光来自 YouTube。"
+        },
+        {
+          "name": "Amaze Go",
+          "desc": "箭头解谜手游（原 Arrows Go），累计下载量 1.05 亿次，在同类中排名第二。"
+        },
+        {
+          "name": "Homescapes",
+          "desc": "Playrix 的三消益智手游，九周年时累计安装量超过 7.73 亿次，拥有超过 2.1 万个关卡。"
+        },
+        {
+          "name": "Delta Force",
+          "desc": "腾讯的射击游戏，中国服日活跃用户突破 5800 万，并迎来两周年。"
+        }
+      ]
+    },
+    {
+      "id": "48800f1ed2",
+      "title": "Sensor Tower：休闲游戏一半的广告曝光来自广告网络，策略游戏则侧重社交平台",
+      "zh_desc": "Sensor Tower 数据显示休闲游戏的广告曝光约半数由广告网络贡献，而策略品类更依赖社交平台投放。对休闲游戏团队的变现结构选择与聚合平台策略有直接参考意义。",
+      "url": "https://gameworldobserver.com/2026/10/28/sensor-tower-half-of-ad-impressions-in-casual-games-come-from-ad-networks-while-strategy-titles-focus-on-social-platforms",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-10-28T15:04:34",
+      "fetched_at": "2026-10-29T06:32:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Gossip Harbor",
+          "desc": "合并/剧情休闲手游，文中称其成为美国最大广告主之一，51% 广告展示发生在 AppLovin。"
+        },
+        {
+          "name": "Pokémon GO",
+          "desc": "AR 定位捕捉宝可梦手游，47% 广告展示来自 AdMob。"
+        },
+        {
+          "name": "MONOPOLY GO!",
+          "desc": "大富翁主题休闲手游，31% 广告展示来自 AdMob。"
+        },
+        {
+          "name": "Kingshot",
+          "desc": "策略/4X 手游，62% 广告展示投向 YouTube、Facebook 和 Instagram。"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "冰雪末日生存策略手游，51% 广告展示投向 YouTube、Facebook 和 Instagram。"
+        },
+        {
+          "name": "RAID: Shadow Legends",
+          "desc": "魔幻题材移动 RPG，42% 广告展示投向 YouTube、Facebook 和 Instagram。"
+        }
+      ]
+    },
+    {
+      "id": "41f1323075",
+      "title": "Playrix：《Homescapes》九年累计下载量超 7.73 亿次",
+      "zh_desc": "Playrix 公布《Homescapes》上线九年来累计下载突破 7.73 亿次，展示了三消+装修元玩法的长线生命力。对研究长生命周期休闲产品的版本节奏与内容更新策略具有参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40RnRBcWhvUU5zTVhIMWRYeUlKN1JnSmZvbXNyT1VCdEJQUW80X3pkNlBVRk4zeDNpemQ0SmdpU2hlaUZpbUxRa3dkYXVJTmM?oc=5",
+      "source": "重点游戏-Homescapes",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-10-28T16:16:46",
+      "fetched_at": "2026-10-29T06:32:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Homescapes",
+          "desc": "Playrix 的三消益智手游，九周年时累计安装量超过 7.73 亿次。"
+        }
+      ]
+    },
     {
       "id": "b25d269e6e",
       "title": "Prompt-to-Game 已到来：哪些平台有望胜出？",
