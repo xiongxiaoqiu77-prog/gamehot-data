@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-28T13:24:37",
+  "updated_at": "2026-10-28T16:40:30",
   "articles": [
+    {
+      "id": "e3a0d59bd6",
+      "title": "数据摘要：头部广告支出统计、Arrow 游戏分析、Homescapes 安装量突破7.74亿等",
+      "zh_desc": "汇总头部广告支出、Arrow 游戏分析及 Homescapes 安装量突破7.74亿等数据。为休闲游戏从业者提供市场投放与产品表现参考。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb00yVTBKdkhUV1VoOVQtOWFYV3ZPZldGNlQyb2tQQkVmamJleGdya0xjdURYajlnR2lvaGVPdXBYbk5UNURUOUpJNUk5QnJ6Y1VXTEJodzU2ejRsVTg4WTZ6OHNOV2FBcG1nU0tLU0FseG9IaGhhOTg3QjhZVTkxajVZTGJEV0hVX25Ka0JRUV9hTHJxNHYwdHVEWWhCVC1hdk1ycFF6ZGtpdkwxenlvVG5R?oc=5",
+      "source": "重点游戏-Homescapes",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-10-28T08:18:16",
+      "fetched_at": "2026-10-28T16:40:30",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Arrow",
+          "desc": "标题中作为分析对象的游戏，正文未说明其具体类型或特点。"
+        },
+        {
+          "name": "Homescapes",
+          "desc": "三消益智与家居装修模拟手游，标题称其安装量突破7.74亿。"
+        }
+      ]
+    },
     {
       "id": "98355edde7",
       "title": "丹麦发起针对儿童电子游戏中类赌博机制的活动",
