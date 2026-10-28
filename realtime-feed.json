@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-10-28T16:40:30",
+  "updated_at": "2026-10-28T21:56:43",
   "articles": [
+    {
+      "id": "b25d269e6e",
+      "title": "Prompt-to-Game 已到来：哪些平台有望胜出？",
+      "zh_desc": "梳理 Roblox Build、Meta Horizon Create、Google Playground 等提示词生成游戏产品，并分析平台竞争格局。内容对关注 AI 降低游戏创作门槛的平台策略有参考，但与三消/消除游戏的玩法、关卡和变现设计关联较弱。",
+      "url": "https://naavik.co/ai-gaming/prompt-to-game-is-here-which-platforms-are-positioned-to-win/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-27T09:44:19",
+      "fetched_at": "2026-10-28T21:56:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "大逃杀与UGC平台游戏，文章中提及Epic报告其拥有超过32.5万款活跃游戏。"
+        },
+        {
+          "name": "Super Mario Maker 2",
+          "desc": "关卡创作型平台游戏，文章中提及玩家到2021年5月已上传超过2600万个关卡。"
+        }
+      ]
+    },
     {
       "id": "e3a0d59bd6",
       "title": "数据摘要：头部广告支出统计、Arrow 游戏分析、Homescapes 安装量突破7.74亿等",
