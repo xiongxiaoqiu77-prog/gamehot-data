@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-29T12:53:49",
+  "updated_at": "2026-10-29T15:00:44",
   "articles": [
+    {
+      "id": "49d41685db",
+      "title": "Xbox首位COO Helen Chiang上任三个月后离职",
+      "zh_desc": "Xbox首任首席运营官Helen Chiang在任职仅三个月后离开公司。该消息属于大厂高管人事变动，对休闲游戏、三消品类设计与运营无直接参考价值，仅可作为行业组织动态了解。",
+      "url": "https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-after-three-months-in-the-role",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-28T10:15:53",
+      "fetched_at": "2026-10-29T15:00:44",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "9f3d8a1ad7",
+      "title": "Interior Night工作室负责人Charu Desodt出任BAFTA Games Committee主席",
+      "zh_desc": "Interior Night工作室负责人Charu Desodt被任命为BAFTA Games Committee主席。内容属于游戏行业组织人事新闻，与休闲手游玩法、变现或LiveOps分析关联较弱。",
+      "url": "https://www.gamesindustry.biz/interior-night-studio-head-charu-desodt-appointed-chair-of-bafta-games-committee",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-28T09:28:56",
+      "fetched_at": "2026-10-29T15:00:44",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "246348c766",
       "title": "PlayStation 之父 Ken Kutaragi：花数年时间、数千人参与……这几乎不可能",
