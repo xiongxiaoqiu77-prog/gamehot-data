@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-30T00:29:25",
+  "updated_at": "2026-10-30T01:01:16",
   "articles": [
+    {
+      "id": "51d6177646",
+      "title": "外部开发的五条黄金法则",
+      "zh_desc": "Code Wizards总结24年外部开发合作经验，提出五条规则以降低协作压力、提升合作效果。涉及后台工程、LiveOps和IT等，对游戏团队外包管理有一般参考，但未聚焦休闲手游玩法或变现。",
+      "url": "https://www.gamesindustry.biz/the-five-golden-rules-of-external-development",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-29T09:00:00",
+      "fetched_at": "2026-10-30T01:01:16",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "c6d7de5dc8",
       "title": "腾讯TiMi Studio Group与Capcom合作开发《Monster Hunter Outlanders》",
