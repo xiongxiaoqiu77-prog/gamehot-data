@@ -1,6 +1,97 @@
 {
-  "updated_at": "2026-10-29T06:32:02",
+  "updated_at": "2026-10-29T11:17:39",
   "articles": [
+    {
+      "id": "96ec8792e6",
+      "title": "Roblox确认AI训练未使用成人内容，此前从Open3DLab抓取数据",
+      "zh_desc": "Roblox表示AI代理在从Open3DLab、Smutlab和SFMLab批量下载成人内容时未能按预期运行，并确认这些内容未用于AI训练。对休闲游戏从业者而言，这提醒AI数据合规与平台治理风险。",
+      "url": "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-28T15:45:59",
+      "fetched_at": "2026-10-29T11:17:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台，文章围绕其AI代理抓取3D资产及成人内容数据争议展开。"
+        },
+        {
+          "name": "Stellar Blade",
+          "desc": "Shift Up开发的动作冒险游戏，文中提及其角色Eve的模型被抓取。"
+        },
+        {
+          "name": "Overwatch",
+          "desc": "暴雪娱乐的团队射击游戏，文中提及其角色Mei的模型被抓取。"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar Games的开放世界动作冒险游戏新作，文中仅在相关链接标题中提及。"
+        }
+      ]
+    },
+    {
+      "id": "79e16f7cb6",
+      "title": "PressEngine宣布The Pre-Show，将在伦敦举办即将推出的游戏线下展示活动",
+      "zh_desc": "PR与网红营销平台PressEngine推出The Pre-Show线下活动，让开发者直接面对媒体和内容创作者。对休闲游戏发行与营销从业者而言，是了解线下曝光机会的资讯。",
+      "url": "https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-person-london-showcase-for-upcoming-games",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-28T19:13:51",
+      "fetched_at": "2026-10-29T11:17:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "2aaecb223c",
+      "title": "Hearth and Hamlet发行商Runic Forge更名为Pythia Games",
+      "zh_desc": "Runic Forge宣布更名为Pythia Games，继续作为Hearth and Hamlet的发行商。对从业者而言，这是发行商品牌动态，休闲游戏相关度有限。",
+      "url": "https://www.gamesindustry.biz/hearth-and-hamlet-publisher-runic-forge-rebrands-as-pythia-games",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-28T17:56:48",
+      "fetched_at": "2026-10-29T11:17:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hearth and Hamlet",
+          "desc": "Phorust Studios开发的舒适向增量城市建造游戏，是Runic Forge作为发行商的首个重要发行作品。"
+        },
+        {
+          "name": "Carnholt",
+          "desc": "由《Magic: The Gathering》美术师Maxime Minard参与的Roguelike牌组构筑游戏。"
+        },
+        {
+          "name": "Dragon's Tear",
+          "desc": "LilChill Games开发、受经典JRPG启发的放置地牢爬行RPG。"
+        },
+        {
+          "name": "Magic: The Gathering",
+          "desc": "集换式卡牌游戏，文中作为Carnholt美术师Maxime Minard的背景提及。"
+        }
+      ]
+    },
+    {
+      "id": "f06afa006b",
+      "title": "Gamescom Asia国际参展人数和展区面积创纪录",
+      "zh_desc": "Gamescom Asia x Thailand Game Show 2026吸引来自29个国家的参展者，设有20个国家馆，目标超过上届206,000名观众。对从业者而言，是了解亚洲市场线下展会热度的资讯。",
+      "url": "https://www.gamesindustry.biz/gamescom-asia-touts-new-records-for-international-attendance-and-showfloor-size",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-28T08:16:13",
+      "fetched_at": "2026-10-29T11:17:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Despatch",
+          "desc": "由AdHoc studio开发的游戏，文中仅作为B2B演讲者背景提及，类型与特点未说明。"
+        }
+      ]
+    },
     {
       "id": "6c2f89ab84",
       "title": "Epic 副总裁称 AI 代码工具已消灭 Unreal Engine 中长达十年的「非确定性烹饪 Bug」",
