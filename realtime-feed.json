@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-29T15:00:44",
+  "updated_at": "2026-10-30T00:29:25",
   "articles": [
+    {
+      "id": "c6d7de5dc8",
+      "title": "腾讯TiMi Studio Group与Capcom合作开发《Monster Hunter Outlanders》",
+      "zh_desc": "《Monster Hunter Outlanders》作为Capcom旗下IP的手游版本正式推出，由腾讯TiMi Studio Group参与制作。文章介绍双方合作与学习经验，对关注手游研发协作和IP改编的从业者有一定参考，但与三消/消除品类无直接关系。",
+      "url": "https://www.gamesindustry.biz/we-are-very-eager-to-learn-from-the-real-veterans-how-tencents-timi-studio-group-collaborated-with-capcom-on-monster-hunter-outlanders",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-29T13:30:00",
+      "fetched_at": "2026-10-30T00:29:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monster Hunter Outlanders",
+          "desc": "腾讯TiMi Studio Group与Capcom合作开发的《怪物猎人》移动端动作狩猎游戏，主打在手机上还原“完整”怪物猎人体验，并提供经典与简化冒险两种操作模式。"
+        },
+        {
+          "name": "Monster Hunter Now",
+          "desc": "Niantic推出的《怪物猎人》AR手游，玩法路线类似《Pokémon Go》。"
+        },
+        {
+          "name": "Pokémon Go",
+          "desc": "Niantic的AR手游，文中作为《Monster Hunter Now》同类玩法的参照。"
+        },
+        {
+          "name": "Monster Hunter Rise",
+          "desc": "Capcom的《怪物猎人》主机游戏，文中提到其已通过Netflix登陆移动端。"
+        }
+      ]
+    },
     {
       "id": "49d41685db",
       "title": "Xbox首位COO Helen Chiang上任三个月后离职",
