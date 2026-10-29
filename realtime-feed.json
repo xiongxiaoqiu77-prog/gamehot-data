@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-29T11:50:08",
+  "updated_at": "2026-10-29T12:53:49",
   "articles": [
+    {
+      "id": "246348c766",
+      "title": "PlayStation 之父 Ken Kutaragi：花数年时间、数千人参与……这几乎不可能",
+      "zh_desc": "久多良木健谈当前游戏业的高成本与工业化困境，认为数千人耗时数年打造的 3A 级制作模式已接近极限。对理解行业结构性压力有参考价值，但与休闲游戏设计基本无关。",
+      "url": "https://www.gamesindustry.biz/taking-several-years-with-several-thousand-people-its-almost-impossible-playstation-creator-ken-kutaragi-on-the-current-state-of-gaming",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-28T13:30:00",
+      "fetched_at": "2026-10-29T12:53:49",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "c23f9c14d5",
+      "title": "备受期待的国产 3A 新作：《影之刃零》游玩体验",
+      "zh_desc": "基于虚幻引擎 5 的暗黑武侠动作游戏《影之刃零》上手体验，侧重美术风格与战斗感受。属于主机和 PC 单机体验分享，与休闲手游的机制设计关联较弱。",
+      "url": "https://sspai.com/post/117725",
+      "source": "少数派",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-10-28T09:37:22",
+      "fetched_at": "2026-10-29T12:53:49",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "影之刃零",
+          "desc": "灵游坊开发的暗黑武侠动作冒险游戏，采用虚幻引擎5与“功夫朋克”美学，主打高速动作战斗和丰富武器系统。"
+        },
+        {
+          "name": "黑神话：悟空",
+          "desc": "文中作为两年前取得成功的国产3A游戏被提及，用于对比《影之刃零》的表现。"
+        }
+      ]
+    },
     {
       "id": "525a277c36",
       "title": "Wardogs 领跑 Newzoo 9 月 PC 收入榜",
