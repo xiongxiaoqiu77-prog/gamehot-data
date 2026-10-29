@@ -1,6 +1,120 @@
 {
-  "updated_at": "2026-10-30T01:01:16",
+  "updated_at": "2026-10-30T02:05:05",
   "articles": [
+    {
+      "id": "b93ef32dfd",
+      "title": "Onimusha、Resident Evil、Pragmata和Monster Hunter系列推动Capcom上半财年业绩增长",
+      "zh_desc": "Capcom公布截至2026年9月30日的六个月财报，各业务全面增长，普通利润同比增长67.5%至612亿日元（3.872亿美元）。该文主要提供IP驱动与主机/PC市场参考，与休闲手游关联一般。",
+      "url": "https://www.gamesindustry.biz/onimusha-resident-evil-pragmata-and-monster-hunter-franchises-boost-capcom-h1-results",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-29T12:57:05",
+      "fetched_at": "2026-10-30T02:05:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Onimusha",
+          "desc": "Capcom旗下动作/武士题材系列，本财期因《Onimusha: Way of the Sword》发售而推动销售，系列累计销量达1100万套。"
+        },
+        {
+          "name": "Resident Evil",
+          "desc": "Capcom旗下生存恐怖系列，报告期内《Resident Evil Requiem》等作品持续增长推动收入。"
+        },
+        {
+          "name": "Pragmata",
+          "desc": "Capcom最新系列/新IP，4月发售以来销量超过270万套。"
+        },
+        {
+          "name": "Monster Hunter",
+          "desc": "Capcom旗下狩猎动作系列，前作销量因《Monster Hunter Wilds: Ascendance》发售窗口公布及Switch 2确认而增长。"
+        },
+        {
+          "name": "Resident Evil Requiem",
+          "desc": "《Resident Evil》系列新作，2月发售，销量超过800万套并持续升温。"
+        },
+        {
+          "name": "Resident Evil 4",
+          "desc": "《Resident Evil》系列作品，报告期内销量持续增长。"
+        },
+        {
+          "name": "Resident Evil 2",
+          "desc": "《Resident Evil》系列作品，报告期内销量持续增长。"
+        },
+        {
+          "name": "Onimusha: Way of the Sword",
+          "desc": "《Onimusha》系列新作，9月4日发售，销量超过170万套。"
+        },
+        {
+          "name": "Monster Hunter Wilds",
+          "desc": "《Monster Hunter》系列作品，其扩展内容公布后带动系列前作销量增长。"
+        },
+        {
+          "name": "Monster Hunter Wilds: Ascendance",
+          "desc": "《Monster Hunter Wilds》的扩展内容，公布发售窗口并确认登陆Nintendo Switch 2。"
+        },
+        {
+          "name": "Devil May Cry 5",
+          "desc": "Capcom动作游戏，2019年发售，累计销量达1400万套，受Switch 2推出和Netflix剧集定价策略带动。"
+        },
+        {
+          "name": "Street Fighter",
+          "desc": "Capcom格斗游戏系列，销量达3218万套，高于去年同期的2285万套。"
+        }
+      ]
+    },
+    {
+      "id": "a81d8edeab",
+      "title": "Xbox第一方内容部分抵消Q1收入2%下滑，硬件收入下降14%",
+      "zh_desc": "微软第一季度营收923亿美元超预期，净利润与每股收益增长。游戏业务中第一方内容部分抵消收入下滑，硬件同比下降14%。对休闲手游从业者参考有限。",
+      "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-29T10:53:08",
+      "fetched_at": "2026-10-30T02:05:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Minecraft",
+          "desc": "微软旗下沙盒建造游戏，本季度参与度和收入均创历史新高。"
+        },
+        {
+          "name": "World of Warcraft Forever",
+          "desc": "暴雪MMORPG相关作品，文章称其参与度和收入创下纪录。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "动视射击游戏系列，本季度推出十多年来评价最高的一作。"
+        },
+        {
+          "name": "Modern Warfare 4",
+          "desc": "《Call of Duty》系列新作，上周发售并获得十多年来COD最佳评价。"
+        },
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "Rockstar开放世界动作冒险游戏，将于下月登陆Xbox。"
+        }
+      ]
+    },
+    {
+      "id": "582f609fff",
+      "title": "Valve承认AI克隆问题，但无意限制开发者",
+      "zh_desc": "Valve表示已注意到AI克隆相关问题，但目前不打算对开发者施加限制。该文对关注平台政策与AI内容合规的休闲游戏团队有间接参考意义。",
+      "url": "https://gameworldobserver.com/2026/10/29/valve-acknowledges-ai-clones-issue-but-has-no-intend-to-restrict-developers",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-29T15:04:20",
+      "fetched_at": "2026-10-30T02:05:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "ReVamp",
+          "desc": "Digital Sun Games开发中的游戏，因担心AI克隆抢先出现而决定取消公开试玩。"
+        }
+      ]
+    },
     {
       "id": "51d6177646",
       "title": "外部开发的五条黄金法则",
