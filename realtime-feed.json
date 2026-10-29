@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-30T02:05:05",
+  "updated_at": "2026-10-30T03:08:41",
   "articles": [
+    {
+      "id": "aeb75ccdcb",
+      "title": "Ubisoft 是否已悄然砍掉与 Tencent 合作的 Assassin’s Creed Jade？",
+      "zh_desc": "Ubisoft 最新系列更新博客未提及移动独占作品 Assassin’s Creed Jade，引发项目是否被取消的猜测。该消息属于移动游戏产品与公司合作动态，对休闲游戏从业者参考一般。",
+      "url": "https://mobilegamer.biz/has-ubisoft-quietly-killed-tencent-collab-assassins-creed-jade/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-29T18:45:43",
+      "fetched_at": "2026-10-30T03:08:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Assassin’s Creed Jade",
+          "desc": "《刺客信条》系列移动端独占作品，设定在古代中国，由育碧与腾讯合作开发。"
+        },
+        {
+          "name": "Black Flag Resynced",
+          "desc": "《刺客信条》系列项目，文中仅作为系列更新中被提及，未披露更多细节。"
+        },
+        {
+          "name": "Valhalla",
+          "desc": "《刺客信条》系列开放世界动作角色扮演游戏，文中作为系列项目被提及。"
+        },
+        {
+          "name": "Invictus",
+          "desc": "代号为 Invictus 的《刺客信条》多人项目。"
+        },
+        {
+          "name": "Hexe",
+          "desc": "带有恐怖风格的《刺客信条》系列项目。"
+        },
+        {
+          "name": "The Division Resurgence",
+          "desc": "《全境封锁》系列移动端游戏，已上线并推出 PC 版，但起步较慢。"
+        },
+        {
+          "name": "Rainbow Six Mobile",
+          "desc": "《彩虹六号》移动端游戏，起步缓慢且已被关闭。"
+        },
+        {
+          "name": "Assassin’s Creed Rebellion",
+          "desc": "《刺客信条》移动优先游戏，停止更新与运营，并计划于 2027 年关闭。"
+        },
+        {
+          "name": "Assassin’s Creed Mirage",
+          "desc": "《刺客信条》系列游戏，其移动端高价移植版在手机上表现不佳。"
+        }
+      ]
+    },
     {
       "id": "b93ef32dfd",
       "title": "Onimusha、Resident Evil、Pragmata和Monster Hunter系列推动Capcom上半财年业绩增长",
