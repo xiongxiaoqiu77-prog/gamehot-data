@@ -1,6 +1,140 @@
 {
-  "updated_at": "2026-10-29T11:17:39",
+  "updated_at": "2026-10-29T11:50:08",
   "articles": [
+    {
+      "id": "525a277c36",
+      "title": "Wardogs 领跑 Newzoo 9 月 PC 收入榜",
+      "zh_desc": "Newzoo 9月PC收入榜显示 Bulkhead 的 Wardogs 超过 EA Sports FC 27 登顶；属于PC市场收入动态，对休闲手游从业者仅有跨平台市场参考价值。",
+      "url": "https://www.gamesindustry.biz/wardogs-leads-newzoos-september-pc-revenue-charts",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-28T11:54:35",
+      "fetched_at": "2026-10-29T11:50:08",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Wardogs",
+          "desc": "Bulkhead 开发的第一人称射击游戏，处于 Early Access，并登顶 Newzoo 9 月 PC 收入榜。"
+        },
+        {
+          "name": "EA Sports FC 27",
+          "desc": "足球体育游戏，在 Newzoo 9 月 PC 收入榜排名第3，并与 NBA 2K27 占据收入榜前列。"
+        },
+        {
+          "name": "Valheim",
+          "desc": "Iron Gate 的生存建造游戏，被文章列入 Early Access 体验考察名单。"
+        },
+        {
+          "name": "Subnautica",
+          "desc": "水下生存探索游戏，被文章列入 Early Access 体验考察名单。"
+        },
+        {
+          "name": "Hades",
+          "desc": "Roguelike 动作游戏，被文章列入 Early Access 体验考察名单。"
+        },
+        {
+          "name": "Phasmaphobia",
+          "desc": "合作恐怖游戏，被文章列入 Early Access 体验考察名单。"
+        },
+        {
+          "name": "Paralives",
+          "desc": "生活模拟游戏，被文章列入 Early Access 体验考察名单。"
+        },
+        {
+          "name": "Deadhaus Sonata",
+          "desc": "动作 RPG，被文章列入 Early Access 体验考察名单。"
+        },
+        {
+          "name": "Marvel's Wolverine",
+          "desc": "动作冒险游戏，9 月新作，在 Newzoo 主机收入榜排名第4，并创下索尼发行游戏自 Helldivers 2 以来最高月度美元销售额。"
+        },
+        {
+          "name": "NBA 2K27",
+          "desc": "篮球体育游戏，文章称其与 EA Sports FC 27 占据收入榜前两名。"
+        },
+        {
+          "name": "Helldivers 2",
+          "desc": "合作射击游戏，被用作 Marvel's Wolverine 销售表现的对比对象。"
+        },
+        {
+          "name": "Halloween: The Game",
+          "desc": "恐怖题材新作，进入 9 月 PC 与主机收入榜前十。"
+        },
+        {
+          "name": "The Blood of Dawnwalker",
+          "desc": "黑暗奇幻动作 RPG 新作，进入 9 月 PC 与主机收入榜前十。"
+        },
+        {
+          "name": "Bodycam",
+          "desc": "Early Access 第一人称射击游戏，因大型更新和折扣在 PC 收入榜升至第6。"
+        },
+        {
+          "name": "DressMaker",
+          "desc": "Cozy Games 类型游戏，从 itch.io 版本扩展为 9 月21日推出的完整游戏，并升至 PC 收入榜第20。"
+        },
+        {
+          "name": "Control Resonant",
+          "desc": "Remedy 自主发行的动作游戏，9 月新作，成为其最快销售作品并在首月突破百万。"
+        },
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar 的开放世界犯罪游戏，文章将其即将发售视为影响 9 月市场排期的背景。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "大逃杀射击游戏，在 9 月 PC 收入榜排名第2。"
+        },
+        {
+          "name": "Valorant",
+          "desc": "战术射击游戏，在 9 月 PC 收入榜排名第4。"
+        },
+        {
+          "name": "World of Warcraft",
+          "desc": "MMORPG，在 9 月 PC 收入榜排名第5。"
+        },
+        {
+          "name": "League of Legends",
+          "desc": "MOBA，在 9 月 PC 收入榜排名第7。"
+        },
+        {
+          "name": "Overwatch",
+          "desc": "英雄射击游戏，在 9 月 PC 收入榜排名第10。"
+        },
+        {
+          "name": "Counter-Strike 2",
+          "desc": "战术射击游戏，在 9 月 PC 收入榜排名第11。"
+        },
+        {
+          "name": "The Sims 4",
+          "desc": "生活模拟游戏，在 9 月 PC 收入榜排名第12。"
+        },
+        {
+          "name": "Marvel Rivals",
+          "desc": "英雄射击游戏，在 9 月 PC 收入榜排名第13。"
+        },
+        {
+          "name": "Apex Legends",
+          "desc": "英雄大逃杀射击游戏，在 9 月 PC 收入榜排名第14。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "沙盒建造游戏，在 9 月 PC 收入榜排名第15。"
+        },
+        {
+          "name": "How to Fish",
+          "desc": "钓鱼主题游戏，在 9 月 PC 收入榜排名第16，文章未展开介绍。"
+        },
+        {
+          "name": "Diablo 4",
+          "desc": "动作 RPG，在 9 月 PC 收入榜排名第17。"
+        },
+        {
+          "name": "Tom Clancy's Rainbow Six Siege",
+          "desc": "战术射击游戏，在 9 月 PC 收入榜排名第19。"
+        }
+      ]
+    },
     {
       "id": "96ec8792e6",
       "title": "Roblox确认AI训练未使用成人内容，此前从Open3DLab抓取数据",
