@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-30T16:51:48",
+  "updated_at": "2026-10-30T17:56:33",
   "articles": [
+    {
+      "id": "7e0771bd88",
+      "title": "新合并的 Skydance 要求员工每周五天返办公室，并提供自愿买断计划",
+      "zh_desc": "报道合并后的 Skydance 要求员工每周五天返岗，并推出自愿买断计划，属于游戏/娱乐公司用工与整合动态。对休闲游戏团队的组织管理和行业环境观察有一般参考价值，但不涉及玩法、数值或变现。",
+      "url": "https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return-to-office-five-days-a-week-offers-voluntary-buyout-program",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-29T14:29:45",
+      "fetched_at": "2026-10-30T17:56:33",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "6d7628c8a8",
       "title": "Donald Glover 将执导并主演 Netflix 改编的 PUBG Battlegrounds",
