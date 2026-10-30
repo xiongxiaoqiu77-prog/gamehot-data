@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-30T11:58:28",
+  "updated_at": "2026-10-30T16:51:48",
   "articles": [
+    {
+      "id": "6d7628c8a8",
+      "title": "Donald Glover 将执导并主演 Netflix 改编的 PUBG Battlegrounds",
+      "zh_desc": "Netflix 拿下大逃杀射击游戏《PUBG Battlegrounds》的影视改编权，Donald Glover 将担任编剧、制片并主演。这属于游戏 IP 跨媒介开发的行业新闻，与休闲消除类游戏的玩法、运营关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/netflix-adapts-krafton-pubg-to-be-written-and-led-by-donald-glover",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-29T18:17:55",
+      "fetched_at": "2026-10-30T16:51:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "PUBG Battlegrounds",
+          "desc": "一款大逃杀射击游戏（原名 PlayerUnknown's Battlegrounds），在转为免费游玩前销量超过7500万份。"
+        }
+      ]
+    },
     {
       "id": "dc8a0c19f4",
       "title": "Xbox CEO 称主机需求超过供应，但销量仍在下降",
