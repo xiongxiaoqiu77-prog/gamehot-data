@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-10-30T03:08:41",
+  "updated_at": "2026-10-30T10:22:04",
   "articles": [
+    {
+      "id": "6b57e1961d",
+      "title": "「我也希望我有公式」——2Awesome Studio 谈如何在开发最大项目 Altered Alma 的同时经营独立团队",
+      "zh_desc": "巴塞罗那独立工作室 2Awesome Studio 讲述在 Critical Reflex 展示会上公布赛博朋克银河恶魔城新作 Altered Alma 的开发历程与团队经营挑战。属于独立游戏开发访谈，对休闲品类的方法论参考有限。",
+      "url": "https://www.gamesindustry.biz/i-wish-i-had-the-formula-2awesome-studio-on-navigating-indie-development-while-creating-altered-alma-its-biggest-project-to-date",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-29T13:04:14",
+      "fetched_at": "2026-10-30T10:22:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Altered Alma",
+          "desc": "一款融合赛博朋克元素的开放世界银河恶魔城游戏，也是 2Awesome Studio 迄今规模最大的项目。"
+        },
+        {
+          "name": "Dimension Dive",
+          "desc": "2Awesome Studio 的首款作品，2017 年通过 Kickstarter 众筹后推出。"
+        },
+        {
+          "name": "AK-xolotl",
+          "desc": "2Awesome Studio 于 2022 年众筹、2023 年推出的作品。"
+        }
+      ]
+    },
     {
       "id": "aeb75ccdcb",
       "title": "Ubisoft 是否已悄然砍掉与 Tencent 合作的 Assassin’s Creed Jade？",
