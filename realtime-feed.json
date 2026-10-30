@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-30T10:22:04",
+  "updated_at": "2026-10-30T11:26:24",
   "articles": [
+    {
+      "id": "b7a9079245",
+      "title": "值得关注的软发布游戏：Supercell、EA、Moon Active、Zynga 等",
+      "zh_desc": "文章汇总近期移动游戏软发布动态，覆盖 Supercell、EA、Moon Active、Zynga 等厂商，对关注休闲/手游新品与赛道趋势的从业者有参考价值。内容偏市场与新品动态，而非玩法机制深度拆解。",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WUUhDMC05REZIaXhhQnl0SmZ0Q2RwcW80b1d6a3ZMZG5sTkYyWkhyVDg3Y2ZZRTVfZDByb3pFNXBES3RWNngzUTBrMGVMTXB5VGd0SzB4TERRUW5SZlFpRkR0elFMZ2J2VjhVYXB1a1RQQlVPaXpPZA?oc=5",
+      "source": "重点游戏-Coin Master",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-10-26T07:00:00",
+      "fetched_at": "2026-10-30T11:26:24",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "6b57e1961d",
       "title": "「我也希望我有公式」——2Awesome Studio 谈如何在开发最大项目 Altered Alma 的同时经营独立团队",
