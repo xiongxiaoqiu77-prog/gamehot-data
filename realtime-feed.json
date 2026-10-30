@@ -1,6 +1,103 @@
 {
-  "updated_at": "2026-10-30T17:56:33",
+  "updated_at": "2026-10-31T04:57:39",
   "articles": [
+    {
+      "id": "b46690d0f8",
+      "title": "Roblox增长放缓，公司押注AI以弥补",
+      "zh_desc": "Roblox季度财报未达日活目标，但计划通过AI寻找增长补偿。对休闲游戏从业者而言，可关注UGC平台增长瓶颈及AI投入对平台生态的潜在影响。",
+      "url": "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-company-is-betting-big-on-ai-to-compensate",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T18:30:00",
+      "fetched_at": "2026-10-31T04:57:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "d438c1b1d7",
+      "title": "新游汇总：Monster Hunter、Saints Row、No Man’s Sky、Digimon、Darkest Dungeon、Cut The Rope 等",
+      "zh_desc": "本周新游汇总覆盖多款IP手游及Easybrain新品，包含Cut The Rope等休闲向产品动态。从业者可快速了解近期手游发布与品类动向。",
+      "url": "https://mobilegamer.biz/new-game-digest-monster-hunter-saints-row-no-mans-sky-digimon-darkest-dungeon-cut-the-rope-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-30T09:26:27",
+      "fetched_at": "2026-10-31T04:57:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monster Hunter Outlanders",
+          "desc": "由腾讯天美工作室获 Capcom 授权开发的免费生存狩猎动作手游，2025年10月29日登陆 iOS 和 Android。"
+        },
+        {
+          "name": "Saints Row: The Third Remastered",
+          "desc": "Feral Interactive 移植的开放世界动作游戏移动版，包含全部 DLC 和在线合作模式。"
+        },
+        {
+          "name": "No Man’s Sky",
+          "desc": "Hello Games 推出的太空探索生存游戏，2025年10月28日登陆 iPhone 和 iPad，可免费试玩后一次性解锁完整版。"
+        },
+        {
+          "name": "Digimon Alysion",
+          "desc": "Bandai 推出的免费数字卡牌游戏，改编自实体 Digimon Card Game，并采用 Digimon Liberator 世界观原创故事。"
+        },
+        {
+          "name": "Darkest Dungeon II",
+          "desc": "Red Hook Studios 的哥特式 Roguelike 回合制战斗游戏，由 Playdigious 计划于 2027 年推出移动版。"
+        },
+        {
+          "name": "Cut the Rope Remastered",
+          "desc": "ZeptoLab 的物理益智游戏重制版，以买断制登陆移动端且无广告、内购或订阅。"
+        },
+        {
+          "name": "One Piece: Grand Gourmet",
+          "desc": "Bandai Namco 与 Kairosoft 推出的像素风经营模拟游戏，玩家与草帽一伙经营餐厅船。"
+        },
+        {
+          "name": "Neural Dawn",
+          "desc": "Arm 与 Sumo Digital 的第三人称冒险游戏，展示 Arm 基于 AI 的神经图形技术并登陆特定 Arm GPU 的 Android 设备。"
+        }
+      ]
+    },
+    {
+      "id": "34c131d252",
+      "title": "Roblox股价下跌：营收超指引但增长停滞",
+      "zh_desc": "Roblox虽超过billings指引，但用户指标和收入增长面临高基数压力，净亏损略收窄。可作为平台型游戏公司增长与变现观察。",
+      "url": "https://mobilegamer.biz/roblox-shares-fall-as-it-beats-billings-guidance-but-growth-stalls/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T09:17:46",
+      "fetched_at": "2026-10-31T04:57:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台，Q3 营收超指引但增长停滞、DAU 同比下降。"
+        },
+        {
+          "name": "Steal A Brainrot",
+          "desc": "2025年推动 Roblox 爆发式增长的 UGC 游戏之一。"
+        },
+        {
+          "name": "Grow A Garden",
+          "desc": "与 Steal A Brainrot 一同推动 Roblox 2025 年增长的 UGC 游戏。"
+        },
+        {
+          "name": "Break",
+          "desc": "Roblox 第三季度热门游戏，几乎完全由 AI 创作。"
+        },
+        {
+          "name": "Steal an Egg",
+          "desc": "Roblox 第三季度热门游戏，几乎完全由 AI 创作。"
+        },
+        {
+          "name": "Huss Valley",
+          "desc": "Roblox 第三季度热门游戏，几乎完全由 AI 创作。"
+        }
+      ]
+    },
     {
       "id": "7e0771bd88",
       "title": "新合并的 Skydance 要求员工每周五天返办公室，并提供自愿买断计划",
