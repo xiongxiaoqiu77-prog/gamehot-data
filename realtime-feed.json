@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-30T11:26:24",
+  "updated_at": "2026-10-30T11:58:28",
   "articles": [
+    {
+      "id": "dc8a0c19f4",
+      "title": "Xbox CEO 称主机需求超过供应，但销量仍在下降",
+      "zh_desc": "Xbox CEO Asha Sharma 称主机需求超过供应，但公开销售数据仍显示销量下滑。该文属于主机市场公司动态，对三消/消除类手游的直接参考有限。",
+      "url": "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-outstripping-supply-as-sales-continue-to-drop",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-29T17:35:37",
+      "fetched_at": "2026-10-30T11:58:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "知名开放世界动作冒险系列《侠盗猎车手》的第六部正统作品。"
+        }
+      ]
+    },
     {
       "id": "b7a9079245",
       "title": "值得关注的软发布游戏：Supercell、EA、Moon Active、Zynga 等",
