@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-31T04:57:39",
+  "updated_at": "2026-10-31T08:54:46",
   "articles": [
+    {
+      "id": "5fb63a579c",
+      "title": "Roblox Q3业绩超预期，但预订额下降12%至17亿美元",
+      "zh_desc": "Roblox Q3收入同比增长16%至16亿美元，但预订额下降至17亿美元。可作为平台型游戏公司变现与用户支出趋势的行业参考。",
+      "url": "https://www.gamesindustry.biz/roblox-q3-results-beat-expectations-despite-bookings-falling-12-to-17bn",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T10:44:44",
+      "fetched_at": "2026-10-31T08:54:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Break and Steal an Egg",
+          "desc": "一款几乎完全由AI制作的Roblox游戏，曾进入并发玩家数前20。"
+        },
+        {
+          "name": "Huss Valley",
+          "desc": "另一款几乎完全由AI制作的Roblox游戏，同样进入并发玩家数前20。"
+        }
+      ]
+    },
+    {
+      "id": "59b7fd8071",
+      "title": "世纪华通Q3营收111.81亿元，多品类矩阵连续14个季度增长后成形",
+      "zh_desc": "世纪华通Q3营收111.81亿元，多品类产品矩阵连续14个季度增长。可作为中国游戏公司多品类与手游布局的财务/市场参考，但未深入休闲玩法拆解。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OXzJxLUxGWW1lazN4S0ZLSkFYcjFwTV9KaFc4WkVsM1A3TnFaSWtHU3J1VGd4S3hWcjZnSUVfMjdRd1pzdHcwaUNNYWQ5Z0d5SnFnWjJLdDFsS0RBZDVKQU54RzRUZjlwTzB4WC10NzcwRXZRZ1E?oc=5",
+      "source": "重点游戏-Tasty Travels",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-30T12:55:00",
+      "fetched_at": "2026-10-31T08:54:46",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "b46690d0f8",
       "title": "Roblox增长放缓，公司押注AI以弥补",
