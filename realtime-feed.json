@@ -1,6 +1,101 @@
 {
-  "updated_at": "2026-10-31T08:54:46",
+  "updated_at": "2026-10-31T09:27:28",
   "articles": [
+    {
+      "id": "b976426ab0",
+      "title": "Anthropic 要求 AI 工具 Claude 停止重制电子游戏",
+      "zh_desc": "Anthropic 确认更新 Opus 5.5，引导 Claude Code 避免“复刻他人特定游戏”。这涉及 AI 生成内容与游戏版权、开发边界的行业议题。",
+      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T18:52:20",
+      "fetched_at": "2026-10-31T09:27:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "ReVamp",
+          "desc": "Digital Sun Games 即将推出的游戏，因担心被 AI 重制而取消公开试玩。"
+        }
+      ]
+    },
+    {
+      "id": "dd79ade015",
+      "title": "报道：EA 关闭 BioWare，转而优先开发 Star Wars: Battlefront 续作",
+      "zh_desc": "新报道称 EA 关闭 BioWare，将资源从 Mass Effect 转向新的 Star Wars: Battlefront。属于大型发行商战略与工作室整合新闻。",
+      "url": "https://www.gamedeveloper.com/business/report-ea-shut-down-bioware-in-favor-of-star-wars-battlefront-sequel-after-previously-decrying-licensed-games",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T15:25:15",
+      "fetched_at": "2026-10-31T09:27:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mass Effect: Universe",
+          "desc": "BioWare 开发的科幻 RPG 项目，因 EA 资源转向《星球大战》而被取消。"
+        },
+        {
+          "name": "Star Wars: Battlefront（续作）",
+          "desc": "未公布的多人射击续作，EA 优先投入资源开发。"
+        }
+      ]
+    },
+    {
+      "id": "3e538942b1",
+      "title": "游戏商店正面临“Slop Grenade”问题｜观点",
+      "zh_desc": "文章讨论 AI 生成内容涌入游戏商店，以及为 AI 参与游戏开发制造共识的现象。对理解商店发现机制与内容治理有参考价值。",
+      "url": "https://www.gamesindustry.biz/gaming-storefronts-are-facing-a-slop-grenade-problem-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T12:00:00",
+      "fetched_at": "2026-10-31T09:27:28",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "ce59aaeab4",
+      "title": "Phantom Blade Zero 首发 Steam 同时在线峰值超 73.1 万，位列历史第 15",
+      "zh_desc": "中国动作 RPG Phantom Blade Zero 在 Steam 首发达到 731,026 同时在线，进入平台历史前列。属于新游发布与市场热度数据。",
+      "url": "https://gameworldobserver.com/2026/10/30/phantom-blade-zero-peaks-at-over-731k-concurrent-players-at-launch-marking15th-highest-result-in-steam-history",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T15:22:32",
+      "fetched_at": "2026-10-31T09:27:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Phantom Blade Zero",
+          "desc": "S-GAME 开发的中国动作 RPG，首发 Steam 同时在线峰值 731,026，位列历史第 15。"
+        },
+        {
+          "name": "Hollow Knight: Silksong",
+          "desc": "类银河恶魔城动作冒险续作，文中以 587k CCU 作为对比。"
+        },
+        {
+          "name": "Marvel Rivals",
+          "desc": "团队英雄射击游戏，文中以 644k CCU 作为对比。"
+        },
+        {
+          "name": "Goose Goose Duck",
+          "desc": "社交推理派对游戏，文中以 703k CCU 作为对比。"
+        },
+        {
+          "name": "Baldur’s Gate 3",
+          "desc": "回合制 CRPG，文中以 875k CCU 作为对比。"
+        },
+        {
+          "name": "Hogwarts Legacy",
+          "desc": "开放世界动作 RPG，文中以 879k CCU 作为对比。"
+        },
+        {
+          "name": "Elden Ring",
+          "desc": "开放世界动作 RPG，文中以 953k CCU 作为对比。"
+        }
+      ]
+    },
     {
       "id": "5fb63a579c",
       "title": "Roblox Q3业绩超预期，但预订额下降12%至17亿美元",
