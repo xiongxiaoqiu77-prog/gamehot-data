@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-31T09:27:28",
+  "updated_at": "2026-10-31T09:59:48",
   "articles": [
+    {
+      "id": "159e354e61",
+      "title": "Studio Atelico 将 Atelico AI Engine 推向抢先体验",
+      "zh_desc": "该 AI 引擎进入 Early Access 阶段，为游戏开发流程提供 AI 能力。可作为关注 AI 工具链团队的参考，但与消除类玩法、数值和变现设计没有直接关系。",
+      "url": "https://www.gamesindustry.biz/studio-atelico-launches-atelico-ai-engine-into-early-access",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T14:39:49",
+      "fetched_at": "2026-10-31T09:59:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Bobium Brawlers",
+          "desc": "Studio Atelico 的首款游戏，也是用于展示其 Atelico AI 引擎技术的项目。"
+        }
+      ]
+    },
+    {
+      "id": "7faaa7f6c2",
+      "title": "为什么在 2026 年问「你的游戏预算多少」已经没意义｜观点",
+      "zh_desc": "作者以 Trash Goblin 的 Kickstarter 经历和被 74 家发行商拒绝的过程为引，讨论当下游戏融资与预算逻辑的变化。对独立团队与发行的合作有一定参考，但与休闲消除品类无直接关联。",
+      "url": "https://www.gamesindustry.biz/why-asking-whats-the-budget-for-your-game-doesnt-make-sense-in-2026-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T09:00:00",
+      "fetched_at": "2026-10-31T09:59:48",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Trash Goblin",
+          "desc": "Spilt Milk Studios 开发的舒适商店模拟游戏，通过众筹和抢先体验等方式发行并推出多款 DLC。"
+        }
+      ]
+    },
     {
       "id": "b976426ab0",
       "title": "Anthropic 要求 AI 工具 Claude 停止重制电子游戏",
