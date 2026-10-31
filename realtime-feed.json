@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-10-31T09:59:48",
+  "updated_at": "2026-10-31T23:09:04",
   "articles": [
+    {
+      "id": "eb1530455e",
+      "title": "John Romero 被取消的游戏找到新发行商，整体范围有所调整",
+      "zh_desc": "John Romero 此前被 Xbox 取消、导致工作室濒临崩溃的项目，现由新发行商接手，并保留了部分团队成员。该文属于主机/PC 游戏商业动态，对休闲三消手游的玩法与运营参考有限。",
+      "url": "https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-new-publisher-amidst-an-overall-scope-change",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T15:33:27",
+      "fetched_at": "2026-10-31T23:09:04",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "159e354e61",
       "title": "Studio Atelico 将 Atelico AI Engine 推向抢先体验",
