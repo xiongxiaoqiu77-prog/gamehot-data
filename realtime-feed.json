@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-11-01T09:40:28",
+  "updated_at": "2026-11-01T17:45:16",
   "articles": [
+    {
+      "id": "662a6370ed",
+      "title": "Maddy Makes Games 为支持亲巴勒斯坦 BDS 抵制，将 Celeste 和 TowerFall 从 Xbox 下架",
+      "zh_desc": "独立开发商 Maddy Makes Games 宣布为支持亲巴勒斯坦 BDS 运动，将 Celeste 与 TowerFall 从 Xbox 平台下架。该事件反映政治与平台发行议题对独立游戏的影响，但与休闲三消/消除手游的设计、运营和变现关联较弱。",
+      "url": "https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T12:10:27",
+      "fetched_at": "2026-11-01T17:45:16",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Celeste",
+          "desc": "一款像素风格平台跳跃游戏，以高难度关卡和关于焦虑与自我接纳的叙事著称。"
+        },
+        {
+          "name": "TowerFall",
+          "desc": "一款本地多人弓箭对战派对动作游戏，主打快节奏竞技。"
+        },
+        {
+          "name": "Big Walk",
+          "desc": "一款强调好友组队游玩的合作游戏。"
+        },
+        {
+          "name": "Tenderfoot Tactics",
+          "desc": "一款战术角色扮演游戏，强调小队策略与探索。"
+        },
+        {
+          "name": "All Will Rise",
+          "desc": "文章仅提及该游戏由 Speculative Agency 开发，未说明其类型或特点。"
+        },
+        {
+          "name": "Luck be a Landlord",
+          "desc": "一款老虎机式 roguelike 卡组构筑游戏，通过符号组合产生收益。"
+        }
+      ]
+    },
     {
       "id": "3262e863c6",
       "title": "GDC Side Quest：与 Lucia Suarez 一起了解反作弊入门",
