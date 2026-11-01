@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-31T23:09:04",
+  "updated_at": "2026-11-01T09:40:28",
   "articles": [
+    {
+      "id": "3262e863c6",
+      "title": "GDC Side Quest：与 Lucia Suarez 一起了解反作弊入门",
+      "zh_desc": "文章探讨如何理解作弊者的思维，并介绍游戏反作弊的基础知识。对休闲手游从业者而言，可作为安全与公平性建设的背景参考，但不涉及三消玩法、关卡或变现设计。",
+      "url": "https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T13:56:39",
+      "fetched_at": "2026-11-01T09:40:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "World of Warcraft",
+          "desc": "《魔兽世界》是一款大型多人在线角色扮演游戏（MMORPG），文中提到其玩家长期遭受作弊开发者侵扰，反作弊团队持续对抗作弊行为。"
+        }
+      ]
+    },
     {
       "id": "eb1530455e",
       "title": "John Romero 被取消的游戏找到新发行商，整体范围有所调整",
