@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-01T17:45:16",
+  "updated_at": "2026-11-02T00:25:22",
   "articles": [
+    {
+      "id": "7cca880b46",
+      "title": "2026年手机最火的游戏盘点与分析",
+      "zh_desc": "文章盘点2026年手机热门游戏并做简要分析，可用于了解手游市场热度与头部产品动向。内容未聚焦三消/消除品类，分析深度有限，适合作为一般行业资讯参考。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2d2Y5UmJobHE1TkpoQzRJdmlBZzRKbWNPR0w1aGxGMzBCX2RrM21ERkxySDF3SVhPLWdhOU9nbU1NTExTZFBEZGZ6em9oRDUtaktNamF6cUFEeG1BZlUzTlRtTzlrMFE?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-28T19:38:14",
+      "fetched_at": "2026-11-02T00:25:22",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "662a6370ed",
       "title": "Maddy Makes Games 为支持亲巴勒斯坦 BDS 抵制，将 Celeste 和 TowerFall 从 Xbox 下架",
