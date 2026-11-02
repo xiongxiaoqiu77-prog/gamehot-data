@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-02T09:31:57",
+  "updated_at": "2026-11-02T18:03:25",
   "articles": [
+    {
+      "id": "e4e584f587",
+      "title": "当 AI 招聘出了问题",
+      "zh_desc": "游戏行业猎头 Miki Blasko 解析多数工作室在招聘「AI 负责人」时，其实是想让一个人同时承担四种职能，导致招聘失败。文章给出在发布 JD 之前先明确真正所需岗位的方法，对正在搭建 AI 团队的手游工作室有参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/when-ai-hiring-went-wrong",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T06:54:59",
+      "fetched_at": "2026-11-02T18:03:25",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "9a1d1f2fe8",
       "title": "深度解析捕鱼大作战官方版：玩法、经济与长线运营逻辑",
