@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-11-02T18:03:25",
+  "updated_at": "2026-11-02T19:28:55",
   "articles": [
+    {
+      "id": "1f753e4e67",
+      "title": "Bilibili：从游戏到超级平台",
+      "zh_desc": "梳理 Bilibili 从 ACG 弹幕社区与游戏业务，向生活方式、知识、汽车等多元内容及超级平台演进的路径，并结合 2026 年 Q2 近况讨论其业务重心变化。对理解游戏公司平台化、内容生态和流量变现方向有参考价值，但与三消/消除品类设计关联较弱。",
+      "url": "https://naavik.co/weekly-digest/bilibili-from-games-to-mega-platform/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-01T09:57:00",
+      "fetched_at": "2026-11-02T19:28:55",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fate/Grand Order",
+          "desc": "Bilibili 在中国发行的日系 IP 抽卡式移动 RPG，曾是其游戏收入的主要来源。"
+        },
+        {
+          "name": "Azur Lane",
+          "desc": "2017 年上线的海军战舰收集类游戏。"
+        },
+        {
+          "name": "Princess Connect! Re:Dive",
+          "desc": "2020 年上线的动漫风格 RPG。"
+        },
+        {
+          "name": "Black Myth: Wukong",
+          "desc": "动作 RPG，其 2020 年 13 分钟实机演示在 Bilibili 获得超 6500 万次观看。"
+        },
+        {
+          "name": "Genshin Impact",
+          "desc": "miHoYo 的动漫风格抽卡 RPG，正文在讨论 Bilibili 游戏业务时提及。"
+        }
+      ]
+    },
     {
       "id": "e4e584f587",
       "title": "当 AI 招聘出了问题",
