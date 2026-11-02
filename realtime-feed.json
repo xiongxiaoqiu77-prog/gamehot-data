@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-02T00:25:22",
+  "updated_at": "2026-11-02T09:31:57",
   "articles": [
+    {
+      "id": "9a1d1f2fe8",
+      "title": "深度解析捕鱼大作战官方版：玩法、经济与长线运营逻辑",
+      "zh_desc": "标题声称对捕鱼大作战的玩法、经济系统与长线运营逻辑进行拆解，属于休闲捕鱼类游戏的分析方向；但摘要仅重复标题、缺乏实质内容，来源与「官方版」措辞也带有推广嫌疑，从业者需谨慎参考。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5seTZVQ0VXZHo0a0c5UENHN2ttTUl1eWkxYTNRWktJMzVtT29IT0o0eXZQX3Q0OHNtZE43VEt5eHliQVY5Sy1BclZIckxLZ2pWQWIyakJ0WU1wa1hyNmlMRk16NTFBbnM?oc=5",
+      "source": "Google News",
+      "category": "深度拆解",
+      "score": 5,
+      "published_at": "2026-10-28T18:56:38",
+      "fetched_at": "2026-11-02T09:31:57",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "捕鱼大作战官方版",
+          "desc": "捕鱼题材游戏，文章围绕其玩法、经济系统与长线运营逻辑展开分析。"
+        }
+      ]
+    },
     {
       "id": "7cca880b46",
       "title": "2026年手机最火的游戏盘点与分析",
