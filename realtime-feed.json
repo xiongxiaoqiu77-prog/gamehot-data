@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-04T00:19:13",
+  "updated_at": "2026-11-04T01:56:04",
   "articles": [
+    {
+      "id": "b31d40ad9e",
+      "title": "Rami Ismail 重返游戏开发后的收获",
+      "zh_desc": "独立游戏倡导者 Rami Ismail 在离开一线开发六年后重新做游戏，分享了他对开发流程、团队协作与心态变化的新认识。对休闲游戏团队而言，可作为小规模研发管理与创作节奏的参考，但与消除品类直接关联较弱。",
+      "url": "https://www.gamedeveloper.com/design/what-rami-ismail-learned-with-his-return-to-game-development",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-03T17:31:00",
+      "fetched_at": "2026-11-04T01:56:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Australia Did It: End-of-the-World Railway Defense Business",
+          "desc": "一款回合制策略游戏，也是Rami Ismail重返主动游戏开发后即将推出的新作。"
+        },
+        {
+          "name": "Nuclear Throne",
+          "desc": "一款快节奏游戏，文中作为Ismail与Willem Nijman十年前合作的作品之一提及。"
+        },
+        {
+          "name": "Luftrausers",
+          "desc": "一款快节奏游戏，文中与Nuclear Throne并列为Ismail过去参与的快节奏作品。"
+        }
+      ]
+    },
     {
       "id": "fee7a5c165",
       "title": "上线并非终点：Beholder: Conductor 如何在发售 15 个月后追平首发销量",
