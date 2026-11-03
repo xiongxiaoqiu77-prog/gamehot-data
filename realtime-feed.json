@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-03T09:47:03",
+  "updated_at": "2026-11-03T10:21:08",
   "articles": [
+    {
+      "id": "698ca880ca",
+      "title": "塞尔达传说制作人：Ocarina of Time 重制版帮助年轻员工学习经典洞见",
+      "zh_desc": "报道塞尔达制作团队通过 Ocarina of Time 重制让年轻员工学习经典设计思路。属于主机游戏制作理念分享，对休闲手游关卡与体验设计只有间接启发。",
+      "url": "https://www.gamedeveloper.com/production/zelda-producer-ocarina-of-time-remake-helps-junior-staff-learn-classic-insights",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T16:33:26",
+      "fetched_at": "2026-11-03T10:21:08",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Legend of Zelda: Ocarina of Time",
+          "desc": "经典3D动作冒险游戏，以线性地下城探索和关键道具收集为核心，本次重制旨在让年轻开发者学习其设计洞见。"
+        },
+        {
+          "name": "The Legend of Zelda",
+          "desc": "塞尔达系列初代动作冒险游戏，今年迎来40周年，被视为系列的重要起点。"
+        },
+        {
+          "name": "Breath of the Wild",
+          "desc": "采用“开放空气”探索的塞尔达传说作品，偏离了Ocarina of Time式的线性地下城公式。"
+        },
+        {
+          "name": "Tears of the Kingdom",
+          "desc": "延续“开放空气”探索方向的塞尔达传说作品，与Ocarina of Time的传统结构形成对比。"
+        }
+      ]
+    },
     {
       "id": "6910e333f4",
       "title": "职位摘要：Atari、Supercell、Scopely、Zynga、Tripledot、Voodoo 等公司的人事变动与晋升",
