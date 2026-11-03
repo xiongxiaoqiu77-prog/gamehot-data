@@ -1,6 +1,153 @@
 {
-  "updated_at": "2026-11-03T10:21:08",
+  "updated_at": "2026-11-03T10:54:10",
   "articles": [
+    {
+      "id": "36af494630",
+      "title": "名越稔洋离开世嘉后创立的工作室 Nagoshi Studio 因网易削减资金而关闭",
+      "zh_desc": "Nagoshi Studio 成立于 2021 年，此前由网易出资开发项目，现据报已解散。这是一条关于厂商收缩投资与工作室生存状况的行业动态，与休闲游戏品类的玩法设计关联较弱，但可作为评估大厂海外投资策略的参考。",
+      "url": "https://www.gamedeveloper.com/business/nagoshi-studio-toshihiro-nagoshi-s-game-development-studio-after-leaving-sega-closes-as-netease-cuts-its-funding",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T19:15:00",
+      "fetched_at": "2026-11-03T10:54:10",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Gang of Dragon",
+          "desc": "名越工作室开发、被描述为《如龙》系列精神续作的动作冒险游戏。"
+        },
+        {
+          "name": "Like a Dragon/Yakuza",
+          "desc": "世嘉旗下以日本黑道为题材的动作冒险/RPG系列，是《Gang of Dragon》的精神前作来源。"
+        }
+      ]
+    },
+    {
+      "id": "9be984a829",
+      "title": "CI Games 获得 3200 万美元贷款，用于完成并自主发行 Lords of the Fallen 2",
+      "zh_desc": "CI Games 签署 3200 万美元（约 2860 万欧元）银团信贷额度，用于完成 Lords of the Fallen II 的开发并自行发行。这是一则典型的买断制主机、PC 项目融资新闻，与休闲手游的变现与运营无直接关系。",
+      "url": "https://www.gamesindustry.biz/ci-games-secures-32-million-loan-to-finish-and-self-publish-lords-of-the-fallen-2",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T21:28:03",
+      "fetched_at": "2026-11-03T10:54:10",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Lords of the Fallen II",
+          "desc": "CI Games 正在开发并自主发行的魂类动作 RPG 续作。"
+        },
+        {
+          "name": "Lords of the Fallen",
+          "desc": "CI Games 此前推出的魂类动作 RPG，也是该公司当时成本最高的项目。"
+        }
+      ]
+    },
+    {
+      "id": "3d6a2c6f27",
+      "title": "Gamescom Asia x Thailand Game Show 创“最国际化”纪录，吸引 113 个国家近 22 万人次",
+      "zh_desc": "主办方称本届展会为史上最国际化的一届，共有来自 113 个国家的 219,546 名观众到场。可作为东南亚游戏市场热度与线下获量渠道的侧面参考数据。",
+      "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-most-international-yet-attracting-nearly-220000-visitors-from-113-countries",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T14:32:18",
+      "fetched_at": "2026-11-03T10:54:10",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "1b1c38e117",
+      "title": "“我们都是在演即兴喜剧时认识的”——在洛杉矶这个全球开发成本最高的地方做喜剧游戏的独立工作室",
+      "zh_desc": "文章讲述由 SpaceX 工程师、电视编剧与前教授组成的洛杉矶独立团队，如何在成本高企的环境下开发一款喜剧游戏。属于团队人物特写，对休闲游戏的设计拆解价值有限。",
+      "url": "https://www.gamesindustry.biz/we-all-met-by-doing-improv-comedy-the-los-angeles-indie-studio-making-a-comedy-game-in-one-of-the-most-expensive-places-for-game-dev-in-the-world",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T13:30:00",
+      "fetched_at": "2026-11-03T10:54:10",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Send In The Clown",
+          "desc": "Mad Herons 开发的一款以一小时长度为卖点的喜剧游戏，讲述小丑拯救一名12岁孩子灾难生日派对的故事。"
+        },
+        {
+          "name": "Portal",
+          "desc": "Valve 的解谜平台游戏，以幽默台词和传送门机制著称。"
+        },
+        {
+          "name": "Untitled Goose Game",
+          "desc": "玩家扮演一只讨厌的鹅搞破坏的喜剧潜行沙盒游戏。"
+        },
+        {
+          "name": "Disco Elysium",
+          "desc": "以荒诞情境、鲜明角色和大量疯狂选择著称的叙事型 RPG。"
+        },
+        {
+          "name": "Earthbound",
+          "desc": "风格古怪幽默的经典日式 RPG。"
+        },
+        {
+          "name": "Psychonauts",
+          "desc": "将喜剧融入关卡、角色和机制的平台冒险游戏。"
+        }
+      ]
+    },
+    {
+      "id": "c8c1a00269",
+      "title": "Among Us VR 联合开发商 Schell Games 宣布今年第二轮裁员",
+      "zh_desc": "VR 开发商 Schell Games 宣布年内第二轮裁员。这是又一条行业人力收缩动态，对休闲品类从业者的行业景气判断有一定参考意义，但不涉及设计或变现方法。",
+      "url": "https://www.gamesindustry.biz/among-us-vr-co-developer-schell-games-announces-second-round-of-layoffs-this-year",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T11:51:05",
+      "fetched_at": "2026-11-03T10:54:10",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Among Us VR",
+          "desc": "Schell Games 联合开发的《Among Us》VR 改编版，主打社交推理。"
+        },
+        {
+          "name": "I Expect You To Die",
+          "desc": "Schell Games 知名的 VR 解谜系列。"
+        },
+        {
+          "name": "Among Us",
+          "desc": "一款社交推理游戏，其 VR 改编版由 Schell Games 联合开发。"
+        }
+      ]
+    },
+    {
+      "id": "37b008e281",
+      "title": "Gang of Dragon 开发商 Nagoshi Studio 在网易撤资数月后关闭",
+      "zh_desc": "与第 0 条为同一事件的另一来源报道：网易今年早些时候撤回资金后，Gang of Dragon 开发商 Nagoshi Studio 已关停。属于公司动态资讯，与休闲游戏设计无直接关联。",
+      "url": "https://www.gamesindustry.biz/gang-of-dragon-developer-nagoshi-studio-shutters-months-after-netease-cut-funding",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T10:00:16",
+      "fetched_at": "2026-11-03T10:54:10",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Gang of Dragon",
+          "desc": "名越工作室开发的新 IP，在网易撤资后项目前景不明。"
+        },
+        {
+          "name": "Like a Dragon/Yakuza",
+          "desc": "名越稔洋参与创作的世嘉黑道题材动作冒险/RPG系列。"
+        },
+        {
+          "name": "Romeo is a Dead Man",
+          "desc": "Grasshopper Manufacture 开发的风格化动作游戏，文章以此关联其从网易独立一事。"
+        }
+      ]
+    },
     {
       "id": "698ca880ca",
       "title": "塞尔达传说制作人：Ocarina of Time 重制版帮助年轻员工学习经典洞见",
