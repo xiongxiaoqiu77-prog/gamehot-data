@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-11-03T10:54:10",
+  "updated_at": "2026-11-03T11:27:26",
   "articles": [
+    {
+      "id": "e78af613ec",
+      "title": "沙特支持的 Kingdom of Gaming 活动延期至2027年",
+      "zh_desc": "沙特政府支持的 Kingdom of Gaming 游戏产业活动从12月推迟至2027年未定日期，反映中东游戏产业活动筹备节奏变化。对从业者了解区域市场活动与出海布局有一般参考价值。",
+      "url": "https://www.gamesindustry.biz/saudi-backed-kingdom-of-gaming-event-delayed-to-2027",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T21:46:06",
+      "fetched_at": "2026-11-03T11:27:26",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "ca8d3e4f97",
+      "title": "Astragon 关闭 Independent Arts 后继工作室 Astragon Development",
+      "zh_desc": "模拟游戏发行商 Astragon Entertainment 关闭德国工作室 Astragon Development（原 Independent Arts Software）。属于公司重组动态，对休闲模拟类游戏从业者了解欧洲团队变动有参考意义。",
+      "url": "https://www.gamesindustry.biz/astragon-closes-independent-arts-successor-studio-astragon-development",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T19:34:05",
+      "fetched_at": "2026-11-03T11:27:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Seafarer: The Ship Sim",
+          "desc": "一款船舶模拟游戏，曾获德国联邦资助，1.0正式版发布后玩家数不及抢先体验首发且评价褒贬不一。"
+        }
+      ]
+    },
     {
       "id": "36af494630",
       "title": "名越稔洋离开世嘉后创立的工作室 Nagoshi Studio 因网易削减资金而关闭",
