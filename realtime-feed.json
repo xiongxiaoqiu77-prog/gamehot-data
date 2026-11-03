@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-03T11:27:26",
+  "updated_at": "2026-11-03T16:13:35",
   "articles": [
+    {
+      "id": "78327d876f",
+      "title": "给人力资源从业者的重要讯息：“保护自身福祉至关重要”",
+      "zh_desc": "GamesIndustry.biz HR 峰会上，拥有25年经验的HR资深人士 Sarah Venables 以个人经历开场，强调游戏行业HR从业者必须优先保护自身身心健康。内容属于游戏行业职场/人事议题，对三消与休闲游戏玩法、运营和变现分析没有直接帮助。",
+      "url": "https://www.gamesindustry.biz/a-vital-message-to-people-in-hr-protecting-our-own-wellbeing-is-paramount",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T09:00:00",
+      "fetched_at": "2026-11-03T16:13:35",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "e78af613ec",
       "title": "沙特支持的 Kingdom of Gaming 活动延期至2027年",
