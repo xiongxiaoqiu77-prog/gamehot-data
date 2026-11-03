@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-11-02T19:28:55",
+  "updated_at": "2026-11-03T08:11:04",
   "articles": [
+    {
+      "id": "8de0a15b0c",
+      "title": "AI游戏涌入导致Itch.io游戏页面数量翻倍",
+      "zh_desc": "独立游戏平台Itch.io上的游戏页面数量因AI生成游戏激增而翻倍，但销量并未成比例增长。对关注游戏市场供给饱和与AI影响的从业者有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/pc/number-of-game-pages-doubles-on-itch-io-as-ai-clones-flood-the-store",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T18:30:00",
+      "fetched_at": "2026-11-03T08:11:04",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a81aef82d9",
+      "title": "PlayStudios在裁员177人并关闭四家工作室后关闭Tetris Block Party",
+      "zh_desc": "拉斯维加斯移动发行商PlayStudios的重组持续进行，导致另一款Tetris游戏关闭。对休闲手游从业者了解市场整合和公司动态有一定价值。",
+      "url": "https://mobilegamer.biz/playstudios-closes-tetris-block-party-after-cutting-177-jobs-and-closing-four-studios/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T16:18:52",
+      "fetched_at": "2026-11-03T08:11:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Tetris Block Party",
+          "desc": "PlayStudios 发行的《俄罗斯方块》主题移动游戏，2025年1月上线，现已关闭。"
+        },
+        {
+          "name": "Tetris Block Blast",
+          "desc": "PlayStudios 曾推出并停运的《俄罗斯方块》主题手游。"
+        },
+        {
+          "name": "Tetris World Tour",
+          "desc": "PlayStudios 曾推出并停运的《俄罗斯方块》主题手游。"
+        },
+        {
+          "name": "Tetris Story",
+          "desc": "PlayStudios 曾推出并停运的《俄罗斯方块》主题手游。"
+        },
+        {
+          "name": "Tetris",
+          "desc": "PlayStudios 继续运营的广告驱动型《俄罗斯方块》手游，2020年上线。"
+        }
+      ]
+    },
+    {
+      "id": "e676572f59",
+      "title": "HoYoverse生活模拟游戏Petit Planet将于12月4日上线",
+      "zh_desc": "米哈游的首款生活模拟游戏在一年测试后登陆移动端和PC。对关注休闲/生活模拟品类的从业者有一定参考价值。",
+      "url": "https://mobilegamer.biz/hoyoverses-life-sim-petit-planet-launches-december-4/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T14:42:21",
+      "fetched_at": "2026-11-03T08:11:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Petit Planet",
+          "desc": "HoYoverse 首款生活模拟游戏，支持建造装饰小星球、种田钓鱼烹饪和访问好友星球，将于12月4日上线。"
+        },
+        {
+          "name": "Genshin Impact",
+          "desc": "HoYoverse 旗下战斗向热门游戏，2020年上线，移动端估算收入约41亿美元。"
+        },
+        {
+          "name": "Honkai: Star Rail",
+          "desc": "HoYoverse 旗下战斗向热门游戏，移动端估算收入约15亿美元。"
+        },
+        {
+          "name": "Zenless Zone Zero",
+          "desc": "HoYoverse 旗下战斗向热门游戏，移动端估算收入约3.58亿美元。"
+        }
+      ]
+    },
+    {
+      "id": "9114192a13",
+      "title": "Itch.io新游戏数量激增，或许都归功于AI",
+      "zh_desc": "过去两个月Itch.io平均每日创建的游戏页面数量翻倍，开发者发布频率显著提高。对关注游戏市场供给和AI影响的从业者有参考价值。",
+      "url": "https://gameworldobserver.com/2026/11/02/itch-io-has-seen-a-sharp-increase-in-new-games-perhaps-its-all-thanks-to-ai",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T12:02:15",
+      "fetched_at": "2026-11-03T08:11:04",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "1f753e4e67",
       "title": "Bilibili：从游戏到超级平台",
