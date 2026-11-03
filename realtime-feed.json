@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-04T03:00:11",
+  "updated_at": "2026-11-04T04:03:50",
   "articles": [
+    {
+      "id": "c298ecdceb",
+      "title": "Control Resonant 半数玩家为该系列新玩家",
+      "zh_desc": "Remedy 的 Control Resonant 在三周内销量突破 100 万份，其中约一半玩家此前未接触过该系列。文章属于动作游戏用户获取与系列扩张的行业资讯，对休闲消除品类从业者参考有限。",
+      "url": "https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-03T19:56:03",
+      "fetched_at": "2026-11-04T04:03:50",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Control Resonant",
+          "desc": "Remedy 的“新怪谈”动作系列新作，自发行的游戏，发售三周销量超过一百万份。"
+        },
+        {
+          "name": "Control",
+          "desc": "Control Resonant 所属系列的首作，也是该系列的前作动作游戏。"
+        }
+      ]
+    },
+    {
+      "id": "267a55d930",
+      "title": "Nazara Technologies 拟融资 7.335 亿卢比用于 Bluetile 交易",
+      "zh_desc": "印度游戏公司 Nazara Technologies 计划融资约 7.335 亿卢比，用于 Bluetile 相关交易。属于游戏行业资本动态，对关注新兴市场休闲游戏公司并购的从业者有一般参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY1dmSTBXZ1JTOTVncGhpal9XWUs3clRzdEhsd09nbHQxREtoS0h4bzZ6RjhDdG9fcmJsYzJSYlNZQmhKQkdUajZLekpsS2wxemszVEprbS1YaVNUaS1tdFZWdlNfY21DQUwxTkRfbjQtU2k2NWwxU2JKOXZyRTdxUnptbDBNMEtnR25LZk45QmZ5SVJoODdQa3dpMENfbmNiTkRnajZsVERLR09zRVFOQ3Y4TDQyeEU?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T17:19:58",
+      "fetched_at": "2026-11-04T04:03:50",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "dd752da021",
       "title": "前 Xbox COO Helen Chiang 反驳外界对其离职的种种描述",
