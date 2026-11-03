@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-11-04T04:03:50",
+  "updated_at": "2026-11-04T04:35:45",
   "articles": [
+    {
+      "id": "4aa617c7d4",
+      "title": "到2035年木质拼图市场：高端化与成人需求驱动增长 - 新闻与统计 - IndexBox",
+      "zh_desc": "IndexBox 的新闻与统计页面关注木质拼图市场至2035年的增长前景，核心驱动为高端化与成人需求。对休闲益智品类从业者可作实体拼图消费趋势的侧面参考，但与三消/消除手游的直接关联较弱。",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0FfSEJnbDJuYWhJdjNPcEMtVW5Ma2EybXl5VmxmV1BWVW5HakFpSkw0Uml6UTZUalQ5MEJnNVNncDFoR0FMbE9oRHZkdDE5c09Remd6eHl4andxZFVtQi1uNi0xVGdGWjE3S1I3ZmF6cnhXU085MFgxeExONWg1SUtEWlpSeUdKd2xoZGo2X0lHZEEzNzZhYVZOa3BzSW8zVkd1Skd0d1pMMUhYZzgtTjBn?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-03T19:51:04",
+      "fetched_at": "2026-11-04T04:35:45",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "cf05983a49",
+      "title": "应用评测：Disney Solitaire - The Hofstra Chronicle",
+      "zh_desc": "The Hofstra Chronicle 对休闲纸牌手游 Disney Solitaire 的应用评测，主要分享玩法与体验感受。对从业者可了解该竞品的用户反馈和产品定位，但文章并非玩法、数值或变现的深度拆解。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRGlCcTgxNXNLS0FFalREaTdmTGJKWjZGVDJ6TE4zbWJrTkdSR2xUWWJLS1FTV1kxeU5nQVlaZFNQYktqTmg4UmNUMUI0Y0hmN3hpU1Qwbl9GSHVQcTZZT2VialJmM3JnVTBLTkhrNEFYMGFrLTlpRURnTktaR3ZuTmF3?oc=5",
+      "source": "重点游戏-Disney Solitaire",
+      "category": "泛游戏",
+      "score": 6,
+      "published_at": "2026-11-03T19:00:27",
+      "fetched_at": "2026-11-04T04:35:45",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Disney Solitaire",
+          "desc": "一款以迪士尼角色和主题为特色的纸牌接龙类休闲游戏。"
+        }
+      ]
+    },
     {
       "id": "c298ecdceb",
       "title": "Control Resonant 半数玩家为该系列新玩家",
