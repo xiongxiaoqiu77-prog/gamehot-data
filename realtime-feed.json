@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-03T08:11:04",
+  "updated_at": "2026-11-03T08:43:02",
   "articles": [
+    {
+      "id": "27c7912231",
+      "title": "Anthropic 新增规则，阻止 Claude Code 复刻现有游戏",
+      "zh_desc": "Anthropic 更新 AI 编程工具 Claude Code，使其不再生成对既有游戏的克隆。对快速试玩原型、买量素材与玩法抄袭判定等议题有间接意义，值得关注 AI 辅助研发在休闲品类中的合规边界。",
+      "url": "https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T17:50:20",
+      "fetched_at": "2026-11-03T08:43:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "ReVamp",
+          "desc": "Digital Sun 的游戏，因担心试玩 Demo 被输入 AI 工具而推迟公开测试；文章未说明其类型或玩法特点。"
+        }
+      ]
+    },
     {
       "id": "8de0a15b0c",
       "title": "AI游戏涌入导致Itch.io游戏页面数量翻倍",
