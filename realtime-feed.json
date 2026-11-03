@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-04T02:28:07",
+  "updated_at": "2026-11-04T03:00:11",
   "articles": [
+    {
+      "id": "dd752da021",
+      "title": "前 Xbox COO Helen Chiang 反驳外界对其离职的种种描述",
+      "zh_desc": "微软资深高管 Helen Chiang 在突然离职后发表回应，否认了传言中关于其离职原因的大部分说法。该文属于主机与平台公司人事动态，对三消等休闲手游从业者而言参考价值有限，仅可作为大厂组织变动的背景信息。",
+      "url": "https://www.gamedeveloper.com/business/former-xbox-coo-helen-chiang-takes-umbrage-with-the-characterizations-of-her-departure",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-03T18:31:00",
+      "fetched_at": "2026-11-04T03:00:11",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Minecraft",
+          "desc": "微软旗下 Mojang 的沙盒建造生存游戏，Helen Chiang 曾负责该品牌十年。"
+        },
+        {
+          "name": "South of Midnight",
+          "desc": "由 Compulsion 开发、David Sears 执导的南方哥特风格动作冒险游戏，文章以相关报道形式提及。"
+        }
+      ]
+    },
+    {
+      "id": "48fe674ce0",
+      "title": "《South of Midnight》前总监：一直担心 Xbox 内部「罗马在燃烧」",
+      "zh_desc": "《South of Midnight》前总监表示，如果由自己决策，他不会立项资助这款游戏，并认为「罗马燃烧」只是时间问题。文章反映 Xbox 的项目审批与工作室管理困境，与休闲消除品类的玩法与商业化无直接关系。",
+      "url": "https://www.gamedeveloper.com/business/south-of-midnight-director-was-always-worried-about-rome-burning-at-xbox",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-03T16:32:48",
+      "fetched_at": "2026-11-04T03:00:11",
+      "lang": "en",
+      "games": [
+        {
+          "name": "South of Midnight",
+          "desc": "由 Compulsion 开发、David Sears 执导的南方哥特风格动作冒险游戏，曾获 Games for Impact 等多个奖项。"
+        }
+      ]
+    },
     {
       "id": "751471c117",
       "title": "借鉴传统读书会：The Game Club 如何帮成年玩家建立友谊",
