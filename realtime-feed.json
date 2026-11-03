@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-03T08:43:02",
+  "updated_at": "2026-11-03T09:47:03",
   "articles": [
+    {
+      "id": "6910e333f4",
+      "title": "职位摘要：Atari、Supercell、Scopely、Zynga、Tripledot、Voodoo 等公司的人事变动与晋升",
+      "zh_desc": "汇总多家游戏/手游公司的人事任命和晋升，包括 Supercell、Scopely、Zynga、Tripledot、Voodoo 等。对关注休闲手游团队变动的从业者有一般性参考。",
+      "url": "https://mobilegamer.biz/jobs-digest-moves-and-promotions-at-atari-supercell-scopely-zynga-tripledot-voodoo-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-02T11:31:35",
+      "fetched_at": "2026-11-03T09:47:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Crossy Road",
+          "desc": "街机风格的无尽过马路游戏，以像素风和随机障碍为特点。"
+        },
+        {
+          "name": "Clash of Clans",
+          "desc": "策略类基地建造与部落对战手游，主打资源管理和多人对抗。"
+        },
+        {
+          "name": "Hay Day",
+          "desc": "农场经营模拟手游，围绕种植、养殖和交易展开。"
+        }
+      ]
+    },
     {
       "id": "27c7912231",
       "title": "Anthropic 新增规则，阻止 Claude Code 复刻现有游戏",
