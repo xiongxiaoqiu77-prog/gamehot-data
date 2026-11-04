@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-04T04:35:45",
+  "updated_at": "2026-11-04T18:10:24",
   "articles": [
+    {
+      "id": "fa584fc836",
+      "title": "闲来麻将（官方正版）亮相行业会议：休闲棋牌从能玩走向稳、公平与安全可控",
+      "zh_desc": "报道闲来麻将（官方正版）在行业会议亮相，讨论休闲棋牌从可玩性走向稳定、公平与安全可控。内容反映棋牌休闲游戏的合规与运营趋势，对从业者了解棋牌赛道政策风向有一般参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fZC1DUk50bWVrRUNOd2dxc09peEhSd1hfYkZLb3pDYnZNdEdhRUctMWVLVHU2b09GYWg2V0NxeVJpTFRkWmtobGhqMmNybmJiaFNwWkJNQUI?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-10-30T16:07:13",
+      "fetched_at": "2026-11-04T18:10:24",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "闲来麻将（官方正版）",
+          "desc": "一款休闲棋牌类麻将游戏，强调稳定、公平与安全可控。"
+        }
+      ]
+    },
     {
       "id": "4aa617c7d4",
       "title": "到2035年木质拼图市场：高端化与成人需求驱动增长 - 新闻与统计 - IndexBox",
