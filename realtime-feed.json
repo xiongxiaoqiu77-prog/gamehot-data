@@ -1,6 +1,156 @@
 {
-  "updated_at": "2026-11-05T03:45:51",
+  "updated_at": "2026-11-05T04:18:21",
   "articles": [
+    {
+      "id": "2411db16d3",
+      "title": "Tripwire Interactive 扩展发行业务，聚焦小型开发者与游戏",
+      "zh_desc": "Tripwire Interactive 的发行业务将扩大计划，重点支持规模较小的游戏并提供可缩放的支持。对休闲游戏从业者而言，这反映出发行商对中小团队和轻量产品的关注，但文章未涉及三消/消除品类的玩法或变现设计。",
+      "url": "https://www.gamedeveloper.com/business/tripwire-interactive-expands-publishing-business-to-focus-on-smaller-developers-and-games",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T19:45:00",
+      "fetched_at": "2026-11-05T04:18:21",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Boss Gangster: Criminal Empire",
+          "desc": "Tripwire Presents 新发行计划首批五款游戏之一，原文未提供具体类型或特点。"
+        },
+        {
+          "name": "Starforged Legacy",
+          "desc": "Tripwire Presents 新发行计划首批五款游戏之一，原文未提供具体类型或特点。"
+        },
+        {
+          "name": "One-Eyed Likho",
+          "desc": "Tripwire Presents 新发行计划首批五款游戏之一，原文未提供具体类型或特点。"
+        },
+        {
+          "name": "Eslabong",
+          "desc": "Tripwire Presents 新发行计划首批五款游戏之一，原文未提供具体类型或特点。"
+        },
+        {
+          "name": "Mars Attracts",
+          "desc": "基于《Mars Attacks》电影授权的景点管理模拟游戏，也是首批发行游戏之一。"
+        },
+        {
+          "name": "Killing Floor",
+          "desc": "Tripwire Interactive 最知名的系列作品。"
+        },
+        {
+          "name": "Maneater 2",
+          "desc": "2020 年鲨鱼 RPG《Maneater》的续作，原作玩家数超过 2000 万。"
+        }
+      ]
+    },
+    {
+      "id": "e66d5b4fd3",
+      "title": "Ubisoft 成为 Arkane 竞标者之一，Xbox 考虑出售该工作室",
+      "zh_desc": "Xbox 可能出售 Arkane Lyon，Ubisoft 是潜在买家之一，工作室还有其他避免关闭的选项。这是主机/PC 游戏公司资产变动新闻，与休闲手游的直接关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/ubisoft-among-the-bidders-for-arkane-as-xbox-looks-to-sell-the-studio",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T17:37:00",
+      "fetched_at": "2026-11-05T04:18:21",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Marvel's Blade",
+          "desc": "Arkane 正在开发、预计未来 1-2 年发布的漫威题材游戏。"
+        },
+        {
+          "name": "Dark Messiah of Might & Magic",
+          "desc": "2006 年由 Arkane 与 Ubisoft 合作过的游戏。"
+        },
+        {
+          "name": "Prey",
+          "desc": "Arkane 的代表作之一。"
+        },
+        {
+          "name": "Dishonored",
+          "desc": "Arkane 的代表作之一。"
+        },
+        {
+          "name": "Deathloop",
+          "desc": "Arkane 的代表作之一。"
+        },
+        {
+          "name": "Redfall",
+          "desc": "Arkane Austin 在 2024 年关闭前发行的游戏。"
+        }
+      ]
+    },
+    {
+      "id": "d1b52a74b9",
+      "title": "Valve 警告 Steam 审批变慢，可能与 AI 游戏激增有关",
+      "zh_desc": "Steam 新游戏审批时间延长，Valve 未直接将原因归咎于某种开发趋势。对关注发行效率和平台生态的从业者有参考，但与休闲手游关卡、数值和变现设计无关。",
+      "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T16:50:48",
+      "fetched_at": "2026-11-05T04:18:21",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Wheel Make It",
+          "desc": "一款因本地合作模式被报道审核受阻的游戏，实际玩法是两名玩家共用键盘。"
+        }
+      ]
+    },
+    {
+      "id": "6fade3d412",
+      "title": "认识英国 2026 年视频游戏 BAFTA Breakthroughs 入选者",
+      "zh_desc": "BAFTA 公布年度 Breakthroughs 名单，21 位英国影视、游戏和电视创意人才将获得职业指导、行业活动和会员资格。属于行业人才资讯，对休闲游戏设计分析价值有限。",
+      "url": "https://www.gamesindustry.biz/meet-the-uks-2026-video-game-bafta-breakthroughs",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T15:51:40",
+      "fetched_at": "2026-11-05T04:18:21",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Pirate Queen: No Safe Waters",
+          "desc": "以中国海盗领袖郑氏为主题的 Emmy 提名 VR 体验，由 Lucy Liu 旁白。"
+        },
+        {
+          "name": "Rogue Eclipse",
+          "desc": "Husban Siddiqi 的处女作，一款太空飞行射击 roguelike，获 Outersloth 资助。"
+        },
+        {
+          "name": "Pieced Together",
+          "desc": "Kate Killick 担任创意总监的 BAFTA Breakthrough 游戏项目，原文未提供具体类型或特点。"
+        },
+        {
+          "name": "Cursed Words",
+          "desc": "Niru Fekri-Arnold 创作/设计的 BAFTA Breakthrough 游戏项目，原文未提供具体类型或特点。"
+        },
+        {
+          "name": "Mysteria Ecclesiae: Kingdom Come Deliverance DLC",
+          "desc": "Tom McKay 参与表演的《Kingdom Come Deliverance》DLC，入选本届 BAFTA Breakthrough 游戏组。"
+        }
+      ]
+    },
+    {
+      "id": "4995a7c9ec",
+      "title": "Ubisoft 据称寻求从 Xbox 收购 Arkane Lyon",
+      "zh_desc": "报道称 Ubisoft 在与 Xbox 延长磋商后，寻求收购 Arkane Lyon。属于公司并购与工作室命运新闻，对休闲手游的设计、运营和变现启发有限。",
+      "url": "https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T08:35:49",
+      "fetched_at": "2026-11-05T04:18:21",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Marvel's Blade",
+          "desc": "Arkane Lyon 正在开发、收购谈判期间需继续推进的漫威题材游戏。"
+        }
+      ]
+    },
     {
       "id": "92b608b8af",
       "title": "分析：2000 年以来被收购的游戏工作室中三分之一已被关闭",
