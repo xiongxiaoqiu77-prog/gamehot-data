@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-05T02:09:18",
+  "updated_at": "2026-11-05T03:45:51",
   "articles": [
+    {
+      "id": "92b608b8af",
+      "title": "分析：2000 年以来被收购的游戏工作室中三分之一已被关闭",
+      "zh_desc": "基于 2000 年以来 300 多家被大厂收购工作室的分析显示，三分之一已被彻底关闭，其中半数在收购后五年内关停。为理解并购整合风险提供数据参考，但不涉及休闲品类与产品设计。",
+      "url": "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T18:56:00",
+      "fetched_at": "2026-11-05T03:45:51",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "b4bc0d371b",
+      "title": "英国 ASA 因虚假展示玩法封禁 King、Scopely 等公司的多条手游广告",
+      "zh_desc": "英国广告标准局认定 King、Scopely 等厂商的多条手游广告以不具代表性的玩法画面误导消费者，并予以封禁。对休闲三消品类的买量素材合规、创意真实性与 UA 策略具有直接警示价值，是投放与变现团队需要关注的监管信号。",
+      "url": "https://www.gamesindustry.biz/advertising-standards-authority-bans-mobile-ads-from-king-scopely-and-others-for-misrepresenting-gameplay",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-11-04T10:43:47",
+      "fetched_at": "2026-11-05T03:45:51",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "ddecbbf449",
+      "title": "Hutch 联合创始人 Shaun Rutland 揭晓新工作室 Anorak，主打“交互式生成视频”",
+      "zh_desc": "资深手游创业者 Shaun Rutland 与 David Amor 组建新工作室 Anorak，团队分布于欧洲与成都，主打交互式生成视频，融资消息即将公布。属于手游公司动态与新兴形态探索，可作为观察 AI 驱动内容形态的线索。",
+      "url": "https://mobilegamer.biz/hutch-cofounder-shaun-rutland-teases-his-new-interactive-generative-video-studio-anorak/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T17:10:23",
+      "fetched_at": "2026-11-05T03:45:51",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "e75e335310",
       "title": "数据周报：Q3 收入榜头部产品、2026 年最大新游发布、Apple 与 Google 被罚款等",
