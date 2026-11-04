@@ -1,6 +1,57 @@
 {
-  "updated_at": "2026-11-05T04:18:21",
+  "updated_at": "2026-11-05T06:53:11",
   "articles": [
+    {
+      "id": "53f5b00a45",
+      "title": "“我意识到可能只来得及再做一款游戏，所以想尝试新东西”——《Tekken》总监原田胜弘谈创办 VS Studio",
+      "zh_desc": "原田胜弘回顾离开 Bandai Namco 三十余年生涯后，在 SNK 出资下创立 VS Studio 的经过与创作动机。属于知名制作人动态与主机格斗品类访谈，对休闲消除类产品的直接参考价值有限。",
+      "url": "https://www.gamesindustry.biz/i-realised-i-might-only-have-time-to-make-one-more-game-so-i-wanted-to-try-something-new-tekken-director-katsuhiro-harada-on-starting-vs-studio",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T13:30:00",
+      "fetched_at": "2026-11-05T06:53:11",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Tekken",
+          "desc": "《铁拳》是万代南梦宫旗下的3D格斗游戏系列，原田胜弘长期担任总监和核心推动者。"
+        },
+        {
+          "name": "Tekken 7",
+          "desc": "《铁拳7》是3D格斗游戏，2015年登陆街机，由原田胜弘执导。"
+        },
+        {
+          "name": "Dead or Alive",
+          "desc": "《死或生》是格斗游戏系列，由板垣伴信创作。"
+        },
+        {
+          "name": "Fatal Fury",
+          "desc": "《饿狼传说》是SNK旗下的格斗游戏系列。"
+        },
+        {
+          "name": "The King of Fighters",
+          "desc": "《拳皇》是SNK旗下的格斗游戏系列。"
+        },
+        {
+          "name": "Ace Combat 7",
+          "desc": "《皇牌空战7》是空战射击游戏，文中提到原田胜弘在万代南梦宫后期参与其营销。"
+        }
+      ]
+    },
+    {
+      "id": "8b44c9fc7a",
+      "title": "2026 亚洲游戏市场：880 亿美元规模与 19 亿玩家",
+      "zh_desc": "报道 2026 年亚洲游戏市场规模达 880 亿美元、玩家数约 19 亿的整体数据。可作为手游市场盘子与区域增长判断的宏观参考，但缺少品类拆解与变现/LiveOps 层面的细节。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01MUN1YWZmX19jSVpwNWo4Q0E4WUxyU1BIbUsyOHdaX0xKLUZlaGZXVUlPTHBzWGlPTk5YS3YxS3o0WmIxbmxjVEFjcGhOTmF1TVRtZVZnTXU?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-10-30T10:49:41",
+      "fetched_at": "2026-11-05T06:53:11",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "2411db16d3",
       "title": "Tripwire Interactive 扩展发行业务，聚焦小型开发者与游戏",
