@@ -1,6 +1,98 @@
 {
-  "updated_at": "2026-11-04T18:10:24",
+  "updated_at": "2026-11-05T02:09:18",
   "articles": [
+    {
+      "id": "e75e335310",
+      "title": "数据周报：Q3 收入榜头部产品、2026 年最大新游发布、Apple 与 Google 被罚款等",
+      "zh_desc": "汇总 AppMagic 的十年手游数据、Q3 收入榜、2026 年最大规模新游发布，以及 Capcom、Xbox 财报和 Aniimo、Tiles Survive、9 Kings 的里程碑。适合快速把握海外手游市场格局与头部产品表现。",
+      "url": "https://mobilegamer.biz/data-digest-q3s-top-earners-2026s-biggest-new-launches-apple-and-google-fined-47-6m-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-04T15:02:12",
+      "fetched_at": "2026-11-05T02:09:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Honor of Kings",
+          "desc": "腾讯的MOBA手游，Q3以5.56亿美元内购收入位居榜首。"
+        },
+        {
+          "name": "Gossip Harbor",
+          "desc": "Microfun的合并/剧情手游，Q3升至收入榜第二。"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "冰雪末日生存策略手游，Q3收入3.92亿美元。"
+        },
+        {
+          "name": "Royal Match",
+          "desc": "三消益智手游，Q3收入3.86亿美元。"
+        },
+        {
+          "name": "Pokémon Go",
+          "desc": "AR定位捕捉宝可梦手游，十周年活动推动收入翻倍并升至第九。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台，Q3收入增长56%并进入前十。"
+        },
+        {
+          "name": "Last Asylum: Plague",
+          "desc": "4X策略手游，在2026年新游中累计内购收入领先。"
+        },
+        {
+          "name": "Arknights: Endfield",
+          "desc": "《明日方舟》IP新游，两天内达到100万美元内购收入。"
+        },
+        {
+          "name": "Hololive Dreams",
+          "desc": "hololive主题新游，两天内达到100万美元内购收入。"
+        },
+        {
+          "name": "Hollywood Merge",
+          "desc": "合并类（merge-2）手游，用40天达到100万美元内购收入。"
+        },
+        {
+          "name": "逆战：未来",
+          "desc": "中国射击手游，是10款新游中最快达到100万美元内购收入的。"
+        }
+      ]
+    },
+    {
+      "id": "f9288b1e68",
+      "title": "ASA 下架 King、Scopely、《Dark War Survival》发行商等误导性手游广告",
+      "zh_desc": "英国广告标准局判定多款手游广告误导用户，即便标注“非实际玩法”也不足以免责，涉及 Farm Heroes Saga、Pixel Flow、Dark War Survival、Last Z 等。对三消等品类的买量创意合规与素材审查有直接警示价值。",
+      "url": "https://mobilegamer.biz/asa-bans-misleading-mobile-game-ads-from-king-scopely-dark-war-survival-publisher-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-04T09:49:18",
+      "fetched_at": "2026-11-05T02:09:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dark War Survival",
+          "desc": "僵尸生存策略手游，因广告以非交互剧情画面冒充实机玩法被ASA禁播。"
+        },
+        {
+          "name": "Last Z: Survival Shooter",
+          "desc": "Omnilojo发行的僵尸生存策略手游，与Dark War Survival同属被查广告的发行商产品。"
+        },
+        {
+          "name": "Farm Heroes Saga",
+          "desc": "King的三消手游，其一则Facebook广告因加入游戏内不存在的机关画面被禁。"
+        },
+        {
+          "name": "Pixel Flow",
+          "desc": "Scopely/Loom Games的管道旋转解谜手游，广告展示游戏内不存在的操作被禁。"
+        },
+        {
+          "name": "Idle Zombie Miner: Gold Tycoon",
+          "desc": "Vistrex的放置挖矿/经营手游，广告和商店页因展示非核心玩法被禁。"
+        }
+      ]
+    },
     {
       "id": "fa584fc836",
       "title": "闲来麻将（官方正版）亮相行业会议：休闲棋牌从能玩走向稳、公平与安全可控",
