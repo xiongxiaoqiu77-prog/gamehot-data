@@ -1,6 +1,122 @@
 {
-  "updated_at": "2026-11-06T06:46:36",
+  "updated_at": "2026-11-06T07:19:02",
   "articles": [
+    {
+      "id": "e2c08488a6",
+      "title": "任天堂在新财报中对内存供应充满信心",
+      "zh_desc": "任天堂在季度财报中回应内存供应危机，社长古川俊太郎称公司供应充足、未受明显影响。该信息属于主机硬件与供应链动态，对休闲手游直接参考有限。",
+      "url": "https://www.gamedeveloper.com/business/nintendo-confident-in-memory-supply-in-new-financial-report",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-05T17:40:57",
+      "fetched_at": "2026-11-06T07:19:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mario Kart World",
+          "desc": "Switch 2 上的《马力欧卡丁车》系列竞速游戏，文中提到它是少数销量突破600万份的Switch 2作品。"
+        },
+        {
+          "name": "Pokemon Pokopia",
+          "desc": "宝可梦系列生活模拟类作品，文中提到其因地区发行方拆分而可能已在未披露口径下突破600万份。"
+        },
+        {
+          "name": "Tomodachi Life",
+          "desc": "生活模拟类游戏，文中称其带动了Switch 1软件销量。"
+        },
+        {
+          "name": "Rhythm Heaven Groove",
+          "desc": "节奏音乐游戏，文中称其带动了Switch 1软件销量。"
+        },
+        {
+          "name": "The Legend of Zelda: Ocarina of Time",
+          "desc": "经典动作冒险游戏《塞尔达传说：时之笛》在Switch 2上的版本，被文中称为任天堂该假期档最受关注的作品。"
+        }
+      ]
+    },
+    {
+      "id": "d3ef152483",
+      "title": "PlayStation 因网络服务和第一方软件收入增长上调全年预期",
+      "zh_desc": "索尼因网络服务与第一方软件收入增长，上调游戏业务全年业绩预期。该消息属于主机平台财报动态，与休闲手游直接关联较弱。",
+      "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-05T11:55:30",
+      "fetched_at": "2026-11-06T07:19:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Marvel's Wolverine",
+          "desc": "Insomniac Games开发的超级英雄动作游戏，9月15日发售后销量达240万份并推动索尼第一方软件收入。"
+        }
+      ]
+    },
+    {
+      "id": "a59c584573",
+      "title": "任天堂上半财年营业利润增长 49.1%，Splatoon Raiders 等新作支撑",
+      "zh_desc": "任天堂上半财年营业利润同比增长 49.1%，但净销售额因硬件销售下滑而减少 12.1%。新作表现是利润支撑之一，对休闲手游参考有限。",
+      "url": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-05T09:57:30",
+      "fetched_at": "2026-11-06T07:19:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Splatoon Raiders",
+          "desc": "《斯普拉遁》系列衍生的动作射击游戏，7月发售并在Switch 2上售出242万份。"
+        },
+        {
+          "name": "Star Fox",
+          "desc": "经典飞行射击/轨道射击系列作品，6月发售并售出117万份。"
+        },
+        {
+          "name": "Fire Emblem: Fortune's Weave",
+          "desc": "《火焰纹章》系列策略角色扮演游戏，9月发售并售出134万份。"
+        },
+        {
+          "name": "Tomodachi Life: Living the Dream",
+          "desc": "生活模拟类游戏，Switch 1软件销量达881万份。"
+        },
+        {
+          "name": "Rhythm Heaven Groove",
+          "desc": "节奏音乐游戏，Switch 1软件销量达289万份。"
+        },
+        {
+          "name": "Nintendo Switch Sports Resort",
+          "desc": "体感运动派对游戏，列入下一财季新作阵容。"
+        },
+        {
+          "name": "The Legend of Zelda: Ocarina of Time remake",
+          "desc": "《塞尔达传说：时之笛》的重制版动作冒险游戏，列入2027年1月新作阵容。"
+        },
+        {
+          "name": "Metroid Ravenous",
+          "desc": "《密特罗德》系列动作冒险新作，列入2027年1月新作阵容。"
+        }
+      ]
+    },
+    {
+      "id": "1dd99464b4",
+      "title": "索尼财报：PlayStation 利润近乎翻倍，Marvel's Wolverine 销量达 240 万份",
+      "zh_desc": "索尼 2026 财年第二季度游戏业务多项指标增长，PlayStation 利润近乎翻倍，Marvel's Wolverine 销量达 240 万份。属于主机平台财报与大作销售动态，与休闲手游直接关联较弱。",
+      "url": "https://gameworldobserver.com/2026/11/05/sony-report-playstation-profits-nearly-doubled-while-sales-of-marvels-wolverine-reached-2-4-million-copies",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-05T13:40:56",
+      "fetched_at": "2026-11-06T07:19:02",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Marvel's Wolverine",
+          "desc": "Insomniac Games开发的超级英雄动作游戏，截至11月4日全球销量240万份，是索尼财报中的亮点。"
+        }
+      ]
+    },
     {
       "id": "ca2d8b90db",
       "title": "数据分析师最常见的 5 个错误 — GameAnalytics",
