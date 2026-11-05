@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-05T06:53:11",
+  "updated_at": "2026-11-05T12:49:23",
   "articles": [
+    {
+      "id": "c9f380f2f6",
+      "title": "Tripwire Presents 扩展发行业务，支持小型独立开发者",
+      "zh_desc": "介绍 Tripwire Interactive 旗下发行部门扩大对小型独立开发者的发行支持。该动态属于独立游戏发行生态资讯，与休闲手游/消除类玩法设计关联较弱。",
+      "url": "https://www.gamesindustry.biz/tripwire-presents-expands-publishing-business-to-support-smaller-indie-developers",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T20:48:50",
+      "fetched_at": "2026-11-05T12:49:23",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Killing Floor",
+          "desc": "Tripwire Interactive 的合作生存射击游戏，文中用来说明其开发商背景。"
+        },
+        {
+          "name": "Maneater",
+          "desc": "Tripwire Interactive 的鲨鱼题材动作角色扮演游戏，与 Killing Floor 并列提及。"
+        },
+        {
+          "name": "The Boss Gangster: Criminal Empire",
+          "desc": "BEF Games 的犯罪帝国题材游戏，是 Tripwire Presents 新计划首批支持作品之一。"
+        },
+        {
+          "name": "Starforged Legacy",
+          "desc": "Second Shift Games 的 roguelike 弹幕射击游戏，首批支持作品之一。"
+        },
+        {
+          "name": "Mars Attracts",
+          "desc": "Outlier Games 的乐园管理模拟游戏，首批支持作品之一。"
+        },
+        {
+          "name": "One-Eyed Likho",
+          "desc": "Morteshka 的民间恐怖冒险游戏，首批支持作品之一。"
+        },
+        {
+          "name": "Black Book",
+          "desc": "Morteshka 开发的黑暗民俗题材游戏，文中用作 One-Eyed Likho 开发商的背景标识。"
+        },
+        {
+          "name": "Eslabong",
+          "desc": "shirowita 的战术策略与佣兵俱乐部管理游戏，首批支持作品之一。"
+        }
+      ]
+    },
+    {
+      "id": "25d8cae060",
+      "title": "Arkane 工会指控微软以 19 个月招聘冻结“破坏” Marvel's Blade",
+      "zh_desc": "法国工会称微软长期招聘冻结导致 Marvel's Blade 开发延迟，并质疑以此为由关闭工作室。该新闻属于大型主机游戏公司动态，对休闲手游从业者参考价值有限。",
+      "url": "https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T20:17:10",
+      "fetched_at": "2026-11-05T12:49:23",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Marvel's Blade",
+          "desc": "Arkane Lyon 正在开发的漫威改编游戏，工会称开发进度正常但受招聘冻结影响。"
+        },
+        {
+          "name": "Dishonored series",
+          "desc": "Arkane 最知名的潜行/动作冒险系列之一。"
+        },
+        {
+          "name": "Prey",
+          "desc": "Arkane 的科幻沉浸式模拟游戏，文中与 Dishonored 并列为其代表作。"
+        }
+      ]
+    },
     {
       "id": "53f5b00a45",
       "title": "“我意识到可能只来得及再做一款游戏，所以想尝试新东西”——《Tekken》总监原田胜弘谈创办 VS Studio",
