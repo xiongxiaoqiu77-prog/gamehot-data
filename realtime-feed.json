@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-05T12:49:23",
+  "updated_at": "2026-11-05T15:32:43",
   "articles": [
+    {
+      "id": "f6227ed99d",
+      "title": "对话B站游戏制作人：首月破亿，“秘诀”是反差",
+      "zh_desc": "文章为 B 站游戏制作人访谈，讨论产品首月流水破亿及反差策略，属于游戏行业资讯与制作发行经验分享；与休闲消除品类不直接相关，但对理解游戏市场打法有一定参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11YzFKVE5nWHV6NW9pRFJUcngzTnZ3WmJDNjUxVkluQWFIWl9YdUQ4ZjFaNFpvZ3NfMU95VDBmQjhsNFVlcTh2YnBkb2NsaHBNWGhN?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-04T08:43:07",
+      "fetched_at": "2026-11-05T15:32:43",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "c9f380f2f6",
       "title": "Tripwire Presents 扩展发行业务，支持小型独立开发者",
