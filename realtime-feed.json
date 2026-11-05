@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-06T03:20:13",
+  "updated_at": "2026-11-06T06:46:36",
   "articles": [
+    {
+      "id": "ca2d8b90db",
+      "title": "数据分析师最常见的 5 个错误 — GameAnalytics",
+      "zh_desc": "GameAnalytics 总结游戏数据分析师常见的五类错误，并给出改进分析驱动决策的建议。文章对数据驱动的游戏运营有一般性参考，但未聚焦休闲消除品类的玩法或变现。",
+      "url": "https://www.gameanalytics.com/blog/5-common-mistakes-data-analysts",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-05T13:00:40",
+      "fetched_at": "2026-11-06T06:46:36",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "d20010245b",
       "title": "《Dressmaker》创作者谈女性向游戏：这是一个被严重忽视的市场",
