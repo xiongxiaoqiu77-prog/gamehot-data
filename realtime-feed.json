@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-06T14:18:43",
+  "updated_at": "2026-11-06T16:28:28",
   "articles": [
+    {
+      "id": "9bda328f9e",
+      "title": "2026年如何为你的电子游戏获得投资",
+      "zh_desc": "GamesIndustry.biz 在伦敦 Game Republic 投资峰会上组织专题讨论，邀请 Transcend Fund、Creative UK 和 Curran Games Agency 的嘉宾分析当前游戏行业投资环境。内容涉及融资现状与投资人关注点，对了解游戏投融资有参考，但与休闲游戏玩法、数值和 LiveOps 的直接关联较弱。",
+      "url": "https://www.gamesindustry.biz/how-to-get-investment-for-your-video-game-in-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-06T07:55:00",
+      "fetched_at": "2026-11-06T16:28:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Trash Goblin",
+          "desc": "文中作为通过Kickstarter或政府资助等混合资金来源开发游戏的独立游戏案例提及，具体类型未说明。"
+        }
+      ]
+    },
     {
       "id": "8a36f8a3f9",
       "title": "Sensor Tower：GTA 6 预购量接近 800 万，74% 来自 PlayStation 5",
