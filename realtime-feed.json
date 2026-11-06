@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-06T07:19:02",
+  "updated_at": "2026-11-06T08:23:33",
   "articles": [
+    {
+      "id": "0933168562",
+      "title": "投资公司Denmu完成超额认购首期基金，超过5000万美元目标",
+      "zh_desc": "Denmu 的首期基金以 5000 万美元为目标，现已超额认购关闭。该消息反映游戏投资机构的募资动态，对休闲游戏从业者而言属于一般性行业融资资讯，无直接玩法或运营分析价值。",
+      "url": "https://www.gamesindustry.biz/investment-firm-denmu-closes-oversubscribed-debut-fund-surpassing-50-million-target",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-05T16:00:00",
+      "fetched_at": "2026-11-06T08:23:33",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Hundred Line: Last Defense Academy",
+          "desc": "战棋式策略RPG，围绕学园防线与百名学生展开。"
+        },
+        {
+          "name": "Blue Protocol: Star Resonance",
+          "desc": "基于《蓝色协议》IP的多人动作RPG，主打动漫风开放世界与联机冒险。"
+        },
+        {
+          "name": "Bleach: Soul Resonance",
+          "desc": "《死神》IP改编的3D动作RPG，强调角色收集与连招战斗。"
+        },
+        {
+          "name": "Labyrinth of the Demon King",
+          "desc": "第一人称地牢探索RPG，带有黑暗幻想与生存恐怖氛围。"
+        },
+        {
+          "name": "MotorSlice",
+          "desc": "摩托题材动作/竞速独立游戏项目，文中未展开具体玩法。"
+        },
+        {
+          "name": "Silly Polybeast",
+          "desc": "风格搞怪的独立游戏项目，文中未展开具体玩法。"
+        },
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "《星球大战》IP竞速游戏，由Fuse Games开发。"
+        },
+        {
+          "name": "Clutch",
+          "desc": "开放世界驾驶/竞速游戏，为Maverick Games首作。"
+        },
+        {
+          "name": "Well Dweller",
+          "desc": "手绘风格2D类银河恶魔城游戏，由Kyle Thompson开发。"
+        },
+        {
+          "name": "DABA: Land of Water",
+          "desc": "Dark Star Games开发的冒险游戏项目，文中未展开具体玩法。"
+        }
+      ]
+    },
     {
       "id": "e2c08488a6",
       "title": "任天堂在新财报中对内存供应充满信心",
