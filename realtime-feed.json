@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-06T08:23:33",
+  "updated_at": "2026-11-06T14:18:43",
   "articles": [
+    {
+      "id": "8a36f8a3f9",
+      "title": "Sensor Tower：GTA 6 预购量接近 800 万，74% 来自 PlayStation 5",
+      "zh_desc": "Sensor Tower 数据显示 GTA 6 预购量接近 800 万，其中 74% 来自 PS5。该数据反映 3A 大作的首发平台偏好，但对三消/休闲手游的玩法、运营与变现参考有限。",
+      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-05T14:13:50",
+      "fetched_at": "2026-11-06T14:18:43",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6（Grand Theft Auto 6）",
+          "desc": "开放世界动作冒险游戏，是《GTA》系列备受期待的新作，文章重点分析其预购量、平台占比和收入表现。"
+        },
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "开放世界动作角色扮演游戏，文章以其发售前公布八百万预购量作为对比参照。"
+        },
+        {
+          "name": "Call of Duty: Modern Warfare 2",
+          "desc": "第一人称射击游戏，文章提到 GTA 6 同期预购量领先其 148%。"
+        }
+      ]
+    },
     {
       "id": "0933168562",
       "title": "投资公司Denmu完成超额认购首期基金，超过5000万美元目标",
