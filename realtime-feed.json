@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-06T16:28:28",
+  "updated_at": "2026-11-06T17:33:11",
   "articles": [
+    {
+      "id": "c42f3036e9",
+      "title": "IGN Entertainment 晋升 Alex Simmons 领导全组合编辑业务，Wesley Yin-Poole 负责 IGN",
+      "zh_desc": "IGN Entertainment 任命 Alex Simmons 为编辑业务副总裁兼集团总编辑，统管旗下全部编辑品牌，并由 Wesley Yin-Poole 负责 IGN。该消息属于游戏媒体管理层动态，对休闲游戏设计与运营的直接参考有限。",
+      "url": "https://www.gamesindustry.biz/ign-entertainment-promotes-alex-simmons-to-lead-editorial-across-its-portfolio-with-wesley-yin-poole-overseeing-ign",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-05T12:23:50",
+      "fetched_at": "2026-11-06T17:33:11",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar Games 开发的开放世界动作冒险游戏，是《Grand Theft Auto》系列新作。"
+        }
+      ]
+    },
     {
       "id": "9bda328f9e",
       "title": "2026年如何为你的电子游戏获得投资",
