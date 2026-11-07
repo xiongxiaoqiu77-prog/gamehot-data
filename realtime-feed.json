@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-07T19:53:57",
+  "updated_at": "2026-11-07T20:27:10",
   "articles": [
+    {
+      "id": "8e227c0b73",
+      "title": "选举释放的文化转变信号，任何创意产业都不敢忽视 | 观点",
+      "zh_desc": "文章讨论选举结果反映的文化变迁如何影响创意产业（包括游戏）的商业决策，提醒从业者关注用户价值观与人口结构变化。对休闲游戏运营的直接影响有限，但可作为宏观文化趋势与品牌沟通的参考。",
+      "url": "https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-06T16:10:00",
+      "fetched_at": "2026-11-07T20:27:10",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "640ad04157",
       "title": "Sony 坚称其下一代主机计划仍按计划推进",
