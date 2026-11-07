@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-11-07T12:46:16",
+  "updated_at": "2026-11-07T13:52:23",
   "articles": [
+    {
+      "id": "8b3100c55a",
+      "title": "SAG-AFTRA 推出新流程，允许在游戏提案阶段雇佣工会演员",
+      "zh_desc": "美国演员工会 SAG-AFTRA 新增协议，允许开发者在垂直切片、Demo 等提案内容中雇佣专业演员。对休闲游戏团队而言，这意味着早期融资和发行提案时的配音与动捕演出的合规路径更清晰。",
+      "url": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-06T19:17:10",
+      "fetched_at": "2026-11-07T13:52:23",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Ocarina of Time",
+          "desc": "《塞尔达传说：时之笛》是动作冒险游戏，以3D解谜和时空穿越机制闻名。"
+        }
+      ]
+    },
+    {
+      "id": "e99a1e3e82",
+      "title": "SAG-AFTRA 推出新电子游戏协议，开发者可雇专业演员制作 Demo 与垂直切片",
+      "zh_desc": "与第 0 条为同一事件的不同报道，强调该协议让创作者在开发早期即可使用专业演员。对需要高质量角色演出的休闲叙事类手游有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-06T14:50:40",
+      "fetched_at": "2026-11-07T13:52:23",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "c17e3d23ef",
       "title": "报道：Silver Lake 与沙特 PIF 就收购 Unity 展开洽谈",
