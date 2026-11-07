@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-07T13:52:23",
+  "updated_at": "2026-11-07T17:09:32",
   "articles": [
+    {
+      "id": "7a1f74a974",
+      "title": "世嘉 Q2 业绩超预期，弹珠机和柏青哥机业务营业利润激增",
+      "zh_desc": "世嘉 2026 财年第二季度业绩超出预期，主要受弹珠机和柏青哥机业务营业利润同比增长331.6%推动。对休闲手游直接关联有限，但可观察日本娱乐设备与游戏公司的业务表现。",
+      "url": "https://www.gamesindustry.biz/sega-q2-results-exceed-expectations-driven-by-surge-in-operating-income-for-pachislot-and-pachinko-machines",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-06T11:30:10",
+      "fetched_at": "2026-11-07T17:09:32",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Angry Birds",
+          "desc": "Rovio 旗下移动优先的休闲游戏与跨媒体 IP，世嘉希望将其扩展到与 Sonic 同等规模。"
+        },
+        {
+          "name": "Sonic",
+          "desc": "世嘉旗下标志性跨媒体游戏 IP，被文章作为 Angry Birds 扩张的参照。"
+        },
+        {
+          "name": "Stranger Than Heaven",
+          "desc": "世嘉计划于 2027 年 1 月推出的新作，文章称其愿望单已超过 100 万。"
+        },
+        {
+          "name": "Persona 4 Revival",
+          "desc": "世嘉计划于 2027 年 2 月推出的系列新作，文章称其愿望单已超过 200 万。"
+        }
+      ]
+    },
     {
       "id": "8b3100c55a",
       "title": "SAG-AFTRA 推出新流程，允许在游戏提案阶段雇佣工会演员",
