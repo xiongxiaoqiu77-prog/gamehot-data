@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-11-07T17:09:32",
+  "updated_at": "2026-11-07T19:53:57",
   "articles": [
+    {
+      "id": "640ad04157",
+      "title": "Sony 坚称其下一代主机计划仍按计划推进",
+      "zh_desc": "作为季度财报的一部分，Sony 表示下一代主机的研发进展按计划进行。该消息属于平台硬件周期动态，对休闲手游直接设计/运营参考有限，但可关注主机市场节奏。",
+      "url": "https://www.gamedeveloper.com/console/sony-insists-next-generation-consoles-are-still-on-schedule-in-new-financial-report",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-06T15:36:44",
+      "fetched_at": "2026-11-07T19:53:57",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Marvel's Wolverine",
+          "desc": "漫威超级英雄题材游戏，文章称其发售两个月销量为240万份。"
+        },
+        {
+          "name": "Marvel's Spider-Man 2",
+          "desc": "漫威蜘蛛侠题材游戏，文章称其发售首日销量达250万份。"
+        },
+        {
+          "name": "Ghost of Yotei",
+          "desc": "开放世界武士题材动作冒险游戏，文章称其发售首月销量为330万份。"
+        }
+      ]
+    },
+    {
+      "id": "ed7a398922",
+      "title": "职位汇总：11月 | Nordisk Games 任命 Stefanía Halldórsdóttir 为 CEO，Ásgeir Kröyer 为 CFO",
+      "zh_desc": "汇总近期游戏行业人事变动，包括 Nordisk Games 任命 CEO 和 CFO。可作为公司动态跟踪，但与休闲游戏产品分析关联较弱。",
+      "url": "https://www.gamesindustry.biz/jobs-roundup-november-nordisk-games-appoints-stefania-halldorsdottir-as-ceo-and-asgeir-kroyer-as-cfo",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-06T13:53:10",
+      "fetched_at": "2026-11-07T19:53:57",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Witcher 4",
+          "desc": "CD Projekt Red 正在开发的《巫师》系列新作，文章提到三名前 Warhorse Studios 开发者加入该项目。"
+        }
+      ]
+    },
     {
       "id": "7a1f74a974",
       "title": "世嘉 Q2 业绩超预期，弹珠机和柏青哥机业务营业利润激增",
