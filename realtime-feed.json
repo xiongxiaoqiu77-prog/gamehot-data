@@ -1,6 +1,134 @@
 {
-  "updated_at": "2026-11-06T17:33:11",
+  "updated_at": "2026-11-07T12:46:16",
   "articles": [
+    {
+      "id": "c17e3d23ef",
+      "title": "报道：Silver Lake 与沙特 PIF 就收购 Unity 展开洽谈",
+      "zh_desc": "刚完成 EA 私有化的 Silver Lake 与沙特主权基金 PIF 据悉正与 Unity 接触，探讨潜在收购。Unity 是三消等休闲手游的主力引擎与广告变现基础设施，若交易成行将影响引擎定价、广告网络与买量生态。",
+      "url": "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-06T17:57:21",
+      "fetched_at": "2026-11-07T12:46:16",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Pokémon Go",
+          "desc": "Scopely 使用 Unity 引擎驱动的 AR 位置类移动游戏。"
+        },
+        {
+          "name": "Monopoly Go",
+          "desc": "Scopely 使用 Unity 引擎驱动的移动棋盘/休闲游戏。"
+        }
+      ]
+    },
+    {
+      "id": "e93eeda01e",
+      "title": "Unity 称 Q3 为「史上最强」，由 AI 广告网络 Vector 驱动",
+      "zh_desc": "Unity 第三季度业绩创历史新高，AI 广告网络 Vector 同比增长 126%。对休闲手游从业者而言，这直接关系到买量与变现中介的格局变化，值得关注其对 eCPM 与投放效率的后续影响。",
+      "url": "https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-06T10:04:40",
+      "fetched_at": "2026-11-07T12:46:16",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "c8319faf52",
+      "title": "Unity 据悉与 Silver Lake、PIF 洽谈收购，二者曾参与 EA 550 亿美元私有化",
+      "zh_desc": "报道称 Unity 正与 Silver Lake 及沙特 PIF 接触，两者今年曾以 550 亿美元收购 EA。Unity 是休闲手游研发与广告变现的关键基础设施，收购动向值得持续跟踪。",
+      "url": "https://www.gamesindustry.biz/unity-reportedly-in-acquisition-talks-with-silver-lake-and-public-investment-fund-two-firms-involved-in-eas-55bn-buyout",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-06T08:59:40",
+      "fetched_at": "2026-11-07T12:46:16",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "9a37ad9eb6",
+      "title": "新游速览：Honkai: Nexus Anima、WB All Star Mayhem、Crossy Road、Red Dead、Vampirio 等",
+      "zh_desc": "本周新游汇总，涵盖多款手游新作与独立游戏，其中包括 Crossy Road 相关产品。可作为了解新品动向与品类趋势的素材，但缺少对玩法与数值的深入拆解。",
+      "url": "https://mobilegamer.biz/new-game-digest-honkai-nexus-anima-wb-all-star-mayhem-crossy-road-red-dead-vampirio-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-06T12:14:33",
+      "fetched_at": "2026-11-07T12:46:16",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Honkai: Nexus Anima",
+          "desc": "Hoyoverse 的开放世界抓宠 RPG，最终封闭测试于 11 月 25 日开启，计划 2027 年春季上线。"
+        },
+        {
+          "name": "Petit Planet",
+          "desc": "Hoyoverse 的生活模拟游戏，将于 12 月 4 日全球上线。"
+        },
+        {
+          "name": "WB All-Star Mayhem",
+          "desc": "Kabam 的 squad RPG，集合蝙蝠侠、兔八哥、史酷比等华纳卡通角色，尚无预告和发售日。"
+        },
+        {
+          "name": "Crossy Road Rush",
+          "desc": "Hipster Whale 的 Apple Arcade 独占街机动作平台跑酷游戏，支持单设备或在线最多四人。"
+        },
+        {
+          "name": "Kami 2",
+          "desc": "文中列为 Apple Arcade 新增游戏之一，未提供更多类型信息。"
+        },
+        {
+          "name": "Food Stylist",
+          "desc": "文中列为 Apple Arcade 新增游戏之一，未提供更多类型信息。"
+        },
+        {
+          "name": "Red Dead Redemption",
+          "desc": "Rockstar 的西部题材动作冒险游戏，报道称其将于 12 月离开 Netflix。"
+        },
+        {
+          "name": "Vampirio",
+          "desc": "Outfit7 的 roguelike 动作 RPG，融合基地建造与塔防，白天建堡垒、夜晚抵御怪物并突袭对手。"
+        },
+        {
+          "name": "Silver Palace",
+          "desc": "Elementa 的开放世界侦探 RPG，采用虚幻引擎 5，设定于维多利亚风格城市，支持实时角色切换，12 月 14 日全球上线。"
+        },
+        {
+          "name": "GigaBash",
+          "desc": "Passion Republic Games 的怪兽格斗游戏，首次登陆移动端，含哥斯拉、奥特曼、卡美拉等联动 DLC。"
+        }
+      ]
+    },
+    {
+      "id": "e6fcd086cf",
+      "title": "据路透社：收购 EA 的沙特主导财团正洽谈收购 Unity",
+      "zh_desc": "路透社消息称沙特主导的投资财团在 Unity 最新财报前曾讨论约 250 亿美元的收购方案。与第 1、8 条为同一事件的不同信源报道，对关注引擎与广告平台格局的从业者有参考意义。",
+      "url": "https://mobilegamer.biz/the-saudi-led-consortium-that-bought-ea-is-in-talks-to-acquire-unity-says-reuters/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-06T09:25:53",
+      "fetched_at": "2026-11-07T12:46:16",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "5e37cf6611",
+      "title": "报道：EA 的股东方正洽谈以 250 亿美元收购 Unity",
+      "zh_desc": "据路透社消息，包括沙特 PIF 与 Silver Lake 在内的投资财团对 Unity 表现出收购兴趣。与前述 Unity 收购传闻为同一事件，涉及引擎与广告技术平台的资本格局变化。",
+      "url": "https://gameworldobserver.com/2026/11/06/report-ea-owners-are-in-talks-to-buy-unity-for-25-billion",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-06T14:23:40",
+      "fetched_at": "2026-11-07T12:46:16",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "c42f3036e9",
       "title": "IGN Entertainment 晋升 Alex Simmons 领导全组合编辑业务，Wesley Yin-Poole 负责 IGN",
