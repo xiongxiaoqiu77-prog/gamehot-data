@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-11-10T02:06:49",
+  "updated_at": "2026-11-10T06:24:14",
   "articles": [
+    {
+      "id": "d9d6d24743",
+      "title": "Take-Two Q2 净预订额下降 18% 至 16 亿美元，NBA 2K27 未达预期但 GTA 6 预购远超预期",
+      "zh_desc": "Take-Two 公布第二财季业绩：净预订额 16 亿美元、净收入 15 亿美元，分别下滑 18% 和 16%。NBA 2K27 表现低于预期，而 GTA 6 预购热度成为亮点。",
+      "url": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-09T21:22:20",
+      "fetched_at": "2026-11-10T06:24:14",
+      "lang": "en",
+      "games": [
+        {
+          "name": "NBA 2K27",
+          "desc": "NBA 2K系列篮球游戏，9月4日发售，销量超400万份但净预订额未达公司预期。"
+        },
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "GTA系列新作，定于11月19日发售，预购量远超公司最初预期。"
+        },
+        {
+          "name": "Grand Theft Auto 5",
+          "desc": "GTA系列作品，累计销量近2.35亿份，经常性消费与GTA+会员实现双位数增长。"
+        },
+        {
+          "name": "Borderlands",
+          "desc": "Borderlands系列累计销量突破1亿份。"
+        },
+        {
+          "name": "Color Block Jam",
+          "desc": "Take-Two移动游戏，净预订额较去年同期峰值出现双位数下滑。"
+        },
+        {
+          "name": "Toon Blast",
+          "desc": "Take-Two移动游戏，本季度净预订额增长4%。"
+        },
+        {
+          "name": "Words With Friends",
+          "desc": "文字类移动游戏，本季度净预订额增长6%，得益于与Wheel of Fortune联动。"
+        },
+        {
+          "name": "NBA 2K All-Star",
+          "desc": "与腾讯在中国合作推出的NBA 2K移动游戏，注册用户已超1100万。"
+        }
+      ]
+    },
     {
       "id": "f705bb0876",
       "title": "PlayStation 在软发布一年后取消《Ratchet & Clank: Ranger Rumble》",
