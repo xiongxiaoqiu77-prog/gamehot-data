@@ -1,6 +1,121 @@
 {
-  "updated_at": "2026-11-09T20:01:18",
+  "updated_at": "2026-11-10T00:27:56",
   "articles": [
+    {
+      "id": "b5f3eb60c4",
+      "title": "Cube Land：Rotatelab 如何从 Gaziantep 打造出一款爆款",
+      "zh_desc": "Deconstructor of Fun 拆解土耳其工作室 Rotatelab 如何从 Gaziantep 这样非主流游戏城市做出 Cube Land 这款热门产品，涉及玩法定位、产品打磨与买量发行策略。对中小休闲团队寻找细分玩法与低成本打造爆款有直接参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/cube-land-how-rotatelab-built-a-hit-from-gaziantep",
+      "source": "Deconstructor of Fun",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-11-09T12:28:14",
+      "fetched_at": "2026-11-10T00:27:56",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Cube Land",
+          "desc": "Rotatelab 开发的颜色射击解谜游戏，玩家按顺序发射彩色射击物来清除方块图，被视为 This is Blast 家族作品。"
+        },
+        {
+          "name": "Sort Land",
+          "desc": "Rotatelab 用来自主发行学习的一款游戏，文章未详述其玩法类型。"
+        },
+        {
+          "name": "This is Blast",
+          "desc": "与 Cube Land 同属颜色射击解谜家族的游戏，包含队列射击和小工作台等玩法。"
+        },
+        {
+          "name": "Pixel Flow",
+          "desc": "同类颜色射击解谜游戏，特色是给炮台增加传送带机制。"
+        }
+      ]
+    },
+    {
+      "id": "7c9b0708df",
+      "title": "德国游戏产业协会警告：欧盟 KIDS Act 或削弱现有游戏年龄分级体系",
+      "zh_desc": "德国协会 Game 指出欧盟 KIDS Act 草案可能覆盖各国既有年龄分级制度，对开发者合规成本与未成年人保护设计提出新要求。对手游出海欧洲的合规与用户获取策略有间接影响。",
+      "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-09T09:43:50",
+      "fetched_at": "2026-11-10T00:27:56",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "d3eb221793",
+      "title": "Google Play 上已出现多款未发售 Steam 游戏《Fart Together》的克隆品",
+      "zh_desc": "报道一款尚未上线的 Steam 游戏在 Google Play 出现多个克隆版本，原开发者称可能创下最快被抄袭纪录。反映手游商店审核与超休闲玩法同质化的老问题，对判断品类抄袭风险有一定参考。",
+      "url": "https://mobilegamer.biz/googles-play-store-is-already-hosting-multiple-clones-of-unreleased-steam-game-fart-together/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-09T15:49:17",
+      "fetched_at": "2026-11-10T00:27:56",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fart Together",
+          "desc": "最多四人合作的物理障碍闯关游戏，玩家通过把握时机放屁来操控共享木筏。"
+        },
+        {
+          "name": "Lethal Company",
+          "desc": "2024 年 Steam 热门游戏，其手游克隆品曾出现在苹果和谷歌应用商店。"
+        },
+        {
+          "name": "38-0-0",
+          "desc": "英国 iOS 排名第一的游戏，由单人创作者借助 Claude Code 一夜开发完成。"
+        },
+        {
+          "name": "Vita Mahjong",
+          "desc": "Oakever Games 旗下的麻将游戏，涉及与 Hungry Studio 的版权纠纷。"
+        },
+        {
+          "name": "Meowdoku",
+          "desc": "Oakever Games 旗下的游戏，涉及与 Hungry Studio 的版权纠纷。"
+        },
+        {
+          "name": "Block Blast",
+          "desc": "Hungry Studio 的方块消除游戏，在与 Oakever Games 的版权案中胜诉。"
+        }
+      ]
+    },
+    {
+      "id": "b742954a91",
+      "title": "PlayStation 在软启动一年后取消手游《Ratchet & Clank: Ranger Rumble》",
+      "zh_desc": "索尼的移动射击游戏《Ratchet & Clank: Ranger Rumble》软启动一年未能全球上线，服务器将于 2027 年 5 月关闭。是主机 IP 转手游与软启动测试决策的典型案例，对评估 IP 改编手游的可行性有参考意义。",
+      "url": "https://mobilegamer.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-09T10:24:29",
+      "fetched_at": "2026-11-10T00:27:56",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Ratchet & Clank: Ranger Rumble",
+          "desc": "Oh BiBi 与 Insomniac 合作开发的多人在线平台竞技射击手游，软启动一年后被 PlayStation 取消。"
+        },
+        {
+          "name": "MLB The Show Mobile",
+          "desc": "San Diego Studio 全球发行的棒球手游，是 PlayStation 目前唯一的主要手游发行产品。"
+        },
+        {
+          "name": "Frag Pro Shooter",
+          "desc": "Oh BiBi 开发的射击游戏，文章以其开发商身份提及。"
+        },
+        {
+          "name": "Fate/Grand Order",
+          "desc": "Sony Music 旗下 Aniplex 运营的日本热门手游。"
+        },
+        {
+          "name": "Disney Twisted-Wonderland",
+          "desc": "Sony Music 旗下 Aniplex 运营的迪士尼主题手游。"
+        }
+      ]
+    },
     {
       "id": "c603950028",
       "title": "Hasbro 的新玩法：更多 Magic，更少大型押注",
