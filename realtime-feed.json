@@ -1,6 +1,40 @@
 {
-  "updated_at": "2026-11-10T00:27:56",
+  "updated_at": "2026-11-10T02:06:49",
   "articles": [
+    {
+      "id": "f705bb0876",
+      "title": "PlayStation 在软发布一年后取消《Ratchet & Clank: Ranger Rumble》",
+      "zh_desc": "PlayStation 取消了其平台跳跃系列免费手游衍生作《Ratchet & Clank: Ranger Rumble》，该作软发布已满一年。该案例对大厂手游软发布与止损决策有一定参考价值，但与三消/消除品类关联一般。",
+      "url": "https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-09T17:37:10",
+      "fetched_at": "2026-11-10T02:06:49",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Ratchet & Clank: Ranger Rumble",
+          "desc": "由 Oh BiBi 与 Insomniac Games 合作开发的《瑞奇与叮当》平台动作系列免费手游衍生作，软发布一年后被取消。"
+        },
+        {
+          "name": "MLB The Show Mobile",
+          "desc": "索尼圣地亚哥工作室推出的移动端棒球游戏，全球上线后获得较多下载与收入。"
+        },
+        {
+          "name": "Fate/Grand Order",
+          "desc": "Aniplex 发行的移动端角色扮演游戏，是索尼集团重要的手游收入来源之一。"
+        },
+        {
+          "name": "Disney Twisted-Wonderland",
+          "desc": "Aniplex 发行的迪士尼题材移动端游戏，与《Fate/Grand Order》并列为索尼音乐旗下手游收入来源。"
+        },
+        {
+          "name": "Concord",
+          "desc": "Firewalk Studios 开发的多人射击游戏，文章提及其工作室关闭。"
+        }
+      ]
+    },
     {
       "id": "b5f3eb60c4",
       "title": "Cube Land：Rotatelab 如何从 Gaziantep 打造出一款爆款",
