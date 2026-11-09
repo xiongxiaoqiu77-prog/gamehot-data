@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-07T20:27:10",
+  "updated_at": "2026-11-09T20:01:18",
   "articles": [
+    {
+      "id": "c603950028",
+      "title": "Hasbro 的新玩法：更多 Magic，更少大型押注",
+      "zh_desc": "文章基于 Hasbro 2026 年第三季度业绩，指出其业务与未来愈发依赖 Magic: The Gathering：桌游收入同比增长 39% 至约 6.13 亿美元，数字与授权游戏增长 3% 至约 1.34 亿美元。对休闲游戏从业者而言，可观察头部 IP 公司如何收缩押注、聚焦核心品牌与授权/数字业务，但与三消/消除手游直接关联较弱。",
+      "url": "https://naavik.co/weekly-digest/hasbros-new-playbook-more-magic-fewer-big-bets/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-08T10:51:03",
+      "fetched_at": "2026-11-09T20:01:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Magic: The Gathering",
+          "desc": "威世智的集换式卡牌游戏，依靠 Universes Beyond 等 IP 联动和 Commander 等玩法持续吸引玩家与收藏者。"
+        },
+        {
+          "name": "Dungeons & Dragons",
+          "desc": "威世智的桌面角色扮演游戏，属于 Hasbro 旗下核心 IP 之一。"
+        },
+        {
+          "name": "Monopoly",
+          "desc": "Hasbro 经典桌游，文章将其列为公司品牌之一。"
+        },
+        {
+          "name": "Final Fantasy VII",
+          "desc": "Square Enix 的角色扮演游戏，其角色 Cloud 出现在 Magic 的联动套牌中。"
+        },
+        {
+          "name": "Magic: The Gathering Arena",
+          "desc": "Magic 的官方数字版游戏，玩家可在其中体验相关系列。"
+        }
+      ]
+    },
+    {
+      "id": "d6e1404244",
+      "title": "Love and Deepspace：失去信任的代价",
+      "zh_desc": "文章复盘 Love and Deepspace 自 2024 年上线以来的移动端收入表现：2024 年收入 2.65 亿美元，2025 年增至 3.82 亿美元（同比增长 44%），但下载量下滑；核心讨论信任流失对这款乙女 RPG 长线运营与变现的代价。对移动 F2P 从业者而言，可借鉴其内容驱动、用户信任与 LiveOps/商业化平衡的经验教训。",
+      "url": "https://naavik.co/f2p-mobile/love-and-deepspace-the-price-of-losing-trust/",
+      "source": "Naavik",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-11-07T11:03:40",
+      "fetched_at": "2026-11-09T20:01:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Love and Deepspace",
+          "desc": "Papergames 于 2024 年推出的乙女恋爱 RPG，融合动作战斗、3D 第一人称互动与抽卡机制。"
+        },
+        {
+          "name": "Nikki dress-up series",
+          "desc": "Papergames 此前开发的换装游戏系列，被文章作为团队经验背景提及。"
+        },
+        {
+          "name": "Mr Love: Queen’s Choice",
+          "desc": "Papergames 2017 年推出的女性向恋爱游戏，被文章作为团队经验背景提及。"
+        }
+      ]
+    },
     {
       "id": "8e227c0b73",
       "title": "选举释放的文化转变信号，任何创意产业都不敢忽视 | 观点",
