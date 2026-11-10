@@ -1,6 +1,68 @@
 {
-  "updated_at": "2026-11-11T00:37:43",
+  "updated_at": "2026-11-11T01:10:26",
   "articles": [
+    {
+      "id": "692ef6bc4a",
+      "title": "Bandai Namco 关闭 Reflector Entertainment，预计 Q3 计提 2100 万欧元亏损",
+      "zh_desc": "Bandai Namco 宣布关闭《Unknown 9: Awakening》开发商 Reflector Entertainment，并预计因此在本财年第三季度计入约 2100 万欧元亏损。这是大型发行商在新 IP 表现不及预期后收缩研发投入的又一案例，对休闲游戏团队评估立项风险与工作室整合有参考意义。",
+      "url": "https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-10T11:46:00",
+      "fetched_at": "2026-11-11T01:10:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Unknown 9: Awakening",
+          "desc": "Reflector Entertainment 开发的 2024 年动作冒险游戏，也是跨媒体企划的一部分。"
+        }
+      ]
+    },
+    {
+      "id": "83489a00e3",
+      "title": "Skydance 完成 1110 亿美元合并后裁撤游戏部门人员",
+      "zh_desc": "Skydance 在完成 1110 亿美元合并交易后，对旗下游戏部门进行未披露规模的裁员。该消息反映大型媒体集团整合期间对游戏业务的成本压缩趋势，可供关注发行与投资环境变化的从业者跟踪。",
+      "url": "https://www.gamesindustry.biz/skydance-announces-layoffs-to-games-division-following-111bn-merger",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-10T10:34:40",
+      "fetched_at": "2026-11-11T01:10:26",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "e362030afe",
+      "title": "House House 澄清在《Big Walk》开发末期“少量”使用 AI 工具",
+      "zh_desc": "House House 回应外界质疑，称在《Big Walk》开发的最后阶段“少量”使用 AI 工具，主要用于解决棘手的技术难题和 bug。该案例为讨论 AI 在研发流程中的实际落点与对外沟通口径提供了样本。",
+      "url": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-10T09:07:50",
+      "fetched_at": "2026-11-11T01:10:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Big Walk",
+          "desc": "House House 开发并提交至 2027 IGF 的游戏，开发末期少量使用 AI 工具解决技术难题。"
+        }
+      ]
+    },
+    {
+      "id": "338d1623e0",
+      "title": "12 月 WN C-Level 峰会日程首批细节公布",
+      "zh_desc": "12 月 10 日第比利斯将举办 WN C-Level 峰会，聚集游戏公司创始人及高管，议程涵盖移动与 PC 市场回顾、来年战略讨论，以及围绕“用 AI 克隆游戏”的辩论。其中移动市场与 AI 复刻产品的议题对休闲游戏赛道竞争格局判断有一定参考价值。",
+      "url": "https://gameworldobserver.com/2026/11/10/the-first-details-of-the-december-wn-c-level-summit-program-have-been-released",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-10T13:36:25",
+      "fetched_at": "2026-11-11T01:10:26",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "46cce7234f",
       "title": "黑色星期五作战手册：游戏发行商如何最大化假日销售",
