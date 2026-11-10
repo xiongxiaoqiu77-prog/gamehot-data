@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-11T01:10:26",
+  "updated_at": "2026-11-11T02:15:04",
   "articles": [
+    {
+      "id": "d7f7e70b60",
+      "title": "Take-Two CEO：Grand Theft Auto VI 预购量超出预期",
+      "zh_desc": "Take-Two CEO Strauss Zelnick 在 Grand Theft Auto VI 发布前夕称预购表现超出预期，但未披露具体目标。该消息属于头部大作市场热度与发行节奏的行业信号，对休闲游戏从业者仅有间接参考价值。",
+      "url": "https://www.gamedeveloper.com/business/take-two-financials-are-steady-while-the-ceo-claims-that-grand-theft-auto-vi-pre-orders-are-exceeding-expectations",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-10T17:49:05",
+      "fetched_at": "2026-11-11T02:15:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar 的开放世界犯罪动作游戏，也是 PlayStation 商店史上预购量最高的游戏，预购表现超出 Take-Two 预期。"
+        },
+        {
+          "name": "Grand Theft Auto V",
+          "desc": "GTA 系列前作，上季度累计销量达 2.35 亿份，并推动系列总销量达到 4.8 亿份。"
+        },
+        {
+          "name": "NBA 2K27",
+          "desc": "Take-Two 的篮球模拟游戏，因临近《Grand Theft Auto VI》发售而开局缓慢。"
+        },
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "由 Bit Reactor 开发的《星球大战》题材游戏，相关报道涉及其开发商裁员。"
+        }
+      ]
+    },
+    {
+      "id": "924c93b959",
+      "title": "My.Games 完成阿联酋支持的管理层收购，从所有者 Alexander Chachava 手中买断",
+      "zh_desc": "My.Games 通过阿联酋支持的管理层收购从 Alexander Chachava 处完成买断，并涉及此前从 VK 以 6.42 亿美元收购的背景。该文属于手游公司资本与所有权变动资讯，可供关注海外发行格局的从业者参考。",
+      "url": "https://mobilegamer.biz/my-games-management-agrees-uae-backed-buyout-from-owner-alexander-chachava/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-10T18:08:25",
+      "fetched_at": "2026-11-11T02:15:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "War Robots",
+          "desc": "My.Games 的常青移动游戏系列，生命周期收入超过 10 亿美元。"
+        },
+        {
+          "name": "Rush Royale",
+          "desc": "My.Games 的常青移动游戏之一。"
+        },
+        {
+          "name": "Hustle Castle",
+          "desc": "My.Games 旗下的移动游戏之一。"
+        },
+        {
+          "name": "Left to Survive",
+          "desc": "My.Games 旗下的移动游戏之一。"
+        }
+      ]
+    },
     {
       "id": "692ef6bc4a",
       "title": "Bandai Namco 关闭 Reflector Entertainment，预计 Q3 计提 2100 万欧元亏损",
