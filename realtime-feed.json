@@ -1,6 +1,192 @@
 {
-  "updated_at": "2026-11-10T06:24:14",
+  "updated_at": "2026-11-10T16:08:39",
   "articles": [
+    {
+      "id": "d3d28a1a4a",
+      "title": "报道：Star Wars Zero Company 开发商 Bit Reactor 裁员人数未披露",
+      "zh_desc": "报道称，Star Wars Zero Company 开发商 Bit Reactor 在游戏发售数月后裁撤数量不详的员工。该消息属于欧美主机/PC 游戏公司动态，与休闲手游设计运营的直接关联有限，可作为行业动态参考。",
+      "url": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-09T17:30:00",
+      "fetched_at": "2026-11-10T16:08:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars Zero Company",
+          "desc": "由 Bit Reactor 开发、EA 发行的《星球大战》战术游戏，报道聚焦其开发团队裁员。"
+        }
+      ]
+    },
+    {
+      "id": "e017a48cee",
+      "title": "World of Warcraft: Forever 成为该 MMORPG 峰值同时在线人数最高的上线",
+      "zh_desc": "Blizzard 的 World of Warcraft: Forever 上线后创下系列峰值同时在线人数纪录，被视为 Xbox 产品组合中的亮点。内容为大型 MMORPG 发行表现，属于一般性游戏行业资讯，对休闲消除类手游参考价值有限。",
+      "url": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-09T16:39:06",
+      "fetched_at": "2026-11-10T16:08:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "World of Warcraft: Forever",
+          "desc": "《魔兽世界》的替代版本 MMORPG，回到首年并基于此重建新内容，创下游戏峰值同时在线和回归玩家纪录。"
+        }
+      ]
+    },
+    {
+      "id": "ccaa024e52",
+      "title": "“我们这行没有轻松钱”——Strauss Zelnick 谈 GTA 6、BioShock、Take-Two 收购计划与老 IP 复兴",
+      "zh_desc": "Take-Two CEO Strauss Zelnick 在财报后访谈中讨论 GTA 6、BioShock、收购策略及老 IP 复兴。属于 AAA 游戏公司战略资讯，与休闲手游直接关联较低。",
+      "url": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-09T21:39:40",
+      "fetched_at": "2026-11-10T16:08:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "Rockstar 的开放世界犯罪游戏，预购近 800 万份，预计 11 月 19 日发售并可能成为史上最大娱乐产品发布。"
+        },
+        {
+          "name": "BioShock 4",
+          "desc": "2019 年公布、经历开发挑战和团队变动的《生化奇兵》新作，目前仍在开发中。"
+        },
+        {
+          "name": "Project Ethos",
+          "desc": "2024 年公布的 live-service extraction shooter，属于 Take-Two 旗下项目。"
+        },
+        {
+          "name": "NBA 2K27",
+          "desc": "NBA 2K 系列篮球游戏，本季度发布成绩为系列第二成功。"
+        },
+        {
+          "name": "Grand Theft Auto 5",
+          "desc": "GTA 系列前作，文章以其 13 年后的续作发布作为对比。"
+        }
+      ]
+    },
+    {
+      "id": "573477a43f",
+      "title": "Tripwire Interactive 裁员 36 人",
+      "zh_desc": "Killing Floor 与 Maneater 开发商 Tripwire Interactive 裁减 36 名员工。该文为欧美工作室裁员动态，属于一般性游戏行业资讯，对休闲游戏业务分析价值有限。",
+      "url": "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-09T19:43:10",
+      "fetched_at": "2026-11-10T16:08:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Killing Floor",
+          "desc": "Tripwire Interactive 旗下的合作生存射击游戏系列，文章提到 Killing Floor 3 仍在开发。"
+        },
+        {
+          "name": "Maneater",
+          "desc": "Tripwire Interactive 的动作游戏，文章提到其续作 Maneater 2 正在积极开发。"
+        },
+        {
+          "name": "Maneater 2",
+          "desc": "Tripwire Interactive 正在积极开发的动作游戏续作。"
+        },
+        {
+          "name": "Killing Floor 3",
+          "desc": "Tripwire Interactive 正在持续开发中的合作射击续作。"
+        }
+      ]
+    },
+    {
+      "id": "a2c8a5ae76",
+      "title": "GTA 6 会让互联网崩溃吗？",
+      "zh_desc": "文章借 Hollow Knight: Silksong 发售导致商店拥堵的先例，讨论 GTA 6 上线可能对数字商店造成的冲击。内容聚焦 AAA 大作发行热度，属于一般性行业资讯，与休闲游戏设计运营关联较弱。",
+      "url": "https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-09T15:00:00",
+      "fetched_at": "2026-11-10T16:08:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hollow Knight: Silksong",
+          "desc": "《空洞骑士》续作，2025 年发售时挤爆多家数字商店，三个月售出 700 万份。"
+        },
+        {
+          "name": "Hollow Knight",
+          "desc": "2017 年发售的《空洞骑士》原作，文章以其续作 Silksong 的等待和发布作为对比。"
+        },
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "Rockstar 的开放世界犯罪游戏，数字版体积 212GB，预购近 800 万，11 月 19 日发售。"
+        },
+        {
+          "name": "Grand Theft Auto 5",
+          "desc": "2013 年发售的 GTA 前作，其线上模式上线时曾冲击 Rockstar 基础设施。"
+        }
+      ]
+    },
+    {
+      "id": "e1918712aa",
+      "title": "Star Wars Zero Company 开发商 Bit Reactor 裁员人数未披露",
+      "zh_desc": "报道称 Bit Reactor 在 Star Wars Zero Company 发售前后经历停薪留职与裁员，具体人数未披露。属于欧美游戏公司人员动态，与休闲手游直接关联较弱。",
+      "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-09T11:29:50",
+      "fetched_at": "2026-11-10T16:08:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Star Wars: Zero Company",
+          "desc": "由 Bit Reactor 开发、EA 发行的回合制战术游戏，8 月 27 日发售并获好评，销量约 120 万。"
+        }
+      ]
+    },
+    {
+      "id": "1d56ba52af",
+      "title": "The Legend of Zelda: Ocarina of Time 重制版成为英国实体首发销量系列第二",
+      "zh_desc": "报道称 The Legend of Zelda: Ocarina of Time 重制版在英国实体销量表现强劲，创下系列第二高首发。属于主机游戏销售资讯，与休闲手游直接关联较弱。",
+      "url": "https://gameworldobserver.com/2026/11/09/the-remake-of-the-legend-of-zelda-ocarina-of-time-is-the-second-game-in-the-series-based-on-initial-retail-sales-in-the-uk",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-09T12:38:14",
+      "fetched_at": "2026-11-10T16:08:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Legend of Zelda: Ocarina of Time",
+          "desc": "任天堂 Switch 2 独占的《塞尔达传说：时之笛》重制版，英国实体首发销量为系列第二、2026 年英国零售首发最高。"
+        },
+        {
+          "name": "Tears of the Kingdom",
+          "desc": "《塞尔达传说》系列作品，英国实体首发销量约为时之笛重制版的两倍，表现更好。"
+        },
+        {
+          "name": "Breath of the Wild",
+          "desc": "《塞尔达传说》系列作品，英国首发周实体销量比时之笛重制版少 35%。"
+        },
+        {
+          "name": "Resident Evil: Requiem",
+          "desc": "生存恐怖游戏《Resident Evil》系列新作，在文章中被列为被时之笛重制版超越的 2026 年热门游戏之一。"
+        },
+        {
+          "name": "Call of Duty: Modern Warfare 4",
+          "desc": "第一人称射击游戏《使命召唤》系列新作，在文章中被列为被时之笛重制版超越的 2026 年热门游戏之一。"
+        },
+        {
+          "name": "EA Sports FC 27",
+          "desc": "足球体育游戏，在文章中被列为被时之笛重制版超越的 2026 年热门游戏之一。"
+        }
+      ]
+    },
     {
       "id": "d9d6d24743",
       "title": "Take-Two Q2 净预订额下降 18% 至 16 亿美元，NBA 2K27 未达预期但 GTA 6 预购远超预期",
