@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-11T02:15:04",
+  "updated_at": "2026-11-11T04:53:24",
   "articles": [
+    {
+      "id": "790eb1240d",
+      "title": "Fortis Games疑似关闭，超400名员工可能受影响",
+      "zh_desc": "多家LinkedIn帖子显示，母公司Las Vegas Sands已关闭开发商Fortis Games并立即取消所有合同，导致400多人失业。这是手游行业公司动态，可供关注团队与市场变化。",
+      "url": "https://mobilegamer.biz/fortis-games-appears-to-have-closed-with-over-400-staff-likely-affected/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-10T20:25:55",
+      "fetched_at": "2026-11-11T04:53:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mergemon Wilds",
+          "desc": "Fortis Games 旗下移动游戏，文章称其未记录到任何安装量。"
+        },
+        {
+          "name": "Twilight Towers",
+          "desc": "Fortis Games 旗下移动游戏，于2025年9月进入软发布，并宣布本月关闭。"
+        },
+        {
+          "name": "Bloom & Breakfast",
+          "desc": "Fortis Games 旗下移动游戏，进入早期测试并获得少量下载。"
+        },
+        {
+          "name": "Havoc Crew",
+          "desc": "Fortis Games 旗下移动游戏，未曾进入软发布。"
+        }
+      ]
+    },
     {
       "id": "d7f7e70b60",
       "title": "Take-Two CEO：Grand Theft Auto VI 预购量超出预期",
