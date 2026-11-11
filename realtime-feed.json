@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-11T00:45:34",
+  "updated_at": "2026-11-11T01:52:34",
   "articles": [
+    {
+      "id": "7890c5a283",
+      "title": "游戏中的 AI 语音现状",
+      "zh_desc": "文章梳理了 AI 语音在游戏中的落地进展，涉及 NHL 27 使用 AI 扩展解说录音，以及 Fortnite 中 AI 生成 Darth Vader 对白等案例。对关注游戏制作技术、配音成本和合规授权的从业者有参考价值，但与休闲三消玩法与变现关联较弱。",
+      "url": "https://naavik.co/ai-gaming/the-state-of-ai-voices-in-games/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-10T07:21:55",
+      "fetched_at": "2026-11-11T01:52:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "NHL 27",
+          "desc": "EA 的冰球模拟游戏，文中提到其使用 AI 扩展解说录音。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "Epic Games 的大逃杀游戏，文中提到其使用 AI 生成达斯·维达对白引发争议。"
+        },
+        {
+          "name": "EA Sports FC",
+          "desc": "EA 的足球模拟游戏，文中提到其用 AI 复刻解说员声音以生成大量球员姓名解说。"
+        }
+      ]
+    },
+    {
+      "id": "033e3c2581",
+      "title": "生成式视频初创公司 Anorak 获 Supercell、Play Ventures 等 500 万美元融资",
+      "zh_desc": "前 Hutch 负责人 Shaun Rutland 创办的生成式视频公司 Anorak 完成 500 万美元融资，投资方包括 Supercell 和 Play Ventures。该消息反映手游厂商对生成式内容工具的关注，但公司明确表示本轮不是做手游。",
+      "url": "https://mobilegamer.biz/generative-video-startup-anorak-raises-5m-from-supercell-play-ventures-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-11T07:45:38",
+      "fetched_at": "2026-11-11T01:52:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Top Drives",
+          "desc": "Hutch 开发的汽车收集与竞速策略手游，文中作为创始团队背景提及。"
+        },
+        {
+          "name": "F1 Clash",
+          "desc": "Hutch 开发的一级方程式赛车管理手游，文中作为创始团队背景提及。"
+        }
+      ]
+    },
     {
       "id": "9b1cd3ecc1",
       "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
