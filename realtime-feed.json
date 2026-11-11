@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-11T01:52:34",
+  "updated_at": "2026-11-11T05:16:04",
   "articles": [
+    {
+      "id": "b056f28c69",
+      "title": "NC 联席 CEO Byung-moo Park：2027 年营收将超过 3 万亿韩元",
+      "zh_desc": "报道 NC 联席 CEO 对公司营收目标和业务前景的表态，属于韩国游戏公司动态与市场资讯。与休闲消除品类的玩法、数值和商业化直接关联较弱。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHA0aFdJdHdGeGJ2MDF4LVdYQ2dnYS1vRGI5T0NVQy1QRU9zRXU2Z2Jzb1JHSlZVT0owR3Fua0VQUjZOLTRVaGNJSGNQMS1CTURGNFZKamJ5NU1sU2hJdXlSNWM0ZWMzMzd5NnlUcXRfSFhoU1RDZE1rYkRVZXlzTkJMMjBnQkJ4Qm54Q2R6c0IzRWpxenNxYjdWN2NlV3NkcGJQTFM3eTV3djFxeUNn?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-11T08:53:06",
+      "fetched_at": "2026-11-11T05:16:04",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "7890c5a283",
       "title": "游戏中的 AI 语音现状",
