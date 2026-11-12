@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-12T00:11:39",
+  "updated_at": "2026-11-12T15:03:39",
   "articles": [
+    {
+      "id": "bd03cbd980",
+      "title": "使用生成式 AI 的开发者称主要用于“研究与头脑风暴”",
+      "zh_desc": "调查显示生成式 AI 在游戏开发者中的主要用途是研究和创意发散，AI 生成代码位列第三。可作为了解团队工具趋势的参考，但与休闲游戏核心玩法、数值和变现关联有限。",
+      "url": "https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-11T18:15:00",
+      "fetched_at": "2026-11-12T15:03:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "DayZ",
+          "desc": "一款以丧尸末日生存为核心的开放世界生存游戏。"
+        }
+      ]
+    },
     {
       "id": "c65bac153b",
       "title": "Lego Digital Play收购ForthStar Games，旨在让Lego在移动端获得应有地位",
