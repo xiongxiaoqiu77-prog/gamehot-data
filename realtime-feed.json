@@ -1,6 +1,181 @@
 {
-  "updated_at": "2026-11-11T05:16:04",
+  "updated_at": "2026-11-12T00:11:39",
   "articles": [
+    {
+      "id": "c65bac153b",
+      "title": "Lego Digital Play收购ForthStar Games，旨在让Lego在移动端获得应有地位",
+      "zh_desc": "Lego Digital Play收购移动工作室ForthStar Games，显示IP方正在加码移动游戏布局。对关注IP手游化、休闲游戏发行与工作室并购的从业者有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-prominence-it-truly-deserves-on-mobile",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-11T14:46:40",
+      "fetched_at": "2026-11-12T00:11:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a0f3e62e09",
+      "title": "《Digital Fairness Act》对游戏行业意味着什么",
+      "zh_desc": "欧盟委员会正式提出Digital Fairness Act草案，若通过将对游戏行业尤其是虚拟货币相关业务产生重大影响。对休闲手游的虚拟币设计、付费合规和欧洲市场运营有直接参考价值。",
+      "url": "https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-11T11:29:10",
+      "fetched_at": "2026-11-12T00:11:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "53ef9ffff3",
+      "title": "手游发行商Fortis Games关闭，多达440名员工受影响",
+      "zh_desc": "手游发行商Fortis Games宣布关闭，影响至多440名员工。该消息反映移动游戏市场的整合与成本压力，对休闲手游团队有警示意义，但不涉及玩法或运营拆解。",
+      "url": "https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-11T09:10:30",
+      "fetched_at": "2026-11-12T00:11:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Twilight Towers",
+          "desc": "Fortis旗下移动游戏，因玩家留存不足而宣布于11月16日停运。"
+        },
+        {
+          "name": "Mergemon Wilds",
+          "desc": "Fortis发行的移动游戏之一。"
+        },
+        {
+          "name": "Bloom & Breakfast",
+          "desc": "Fortis发行的移动游戏之一。"
+        }
+      ]
+    },
+    {
+      "id": "042704fb38",
+      "title": "Rovio在土耳其工作室Ruby Games裁员20人",
+      "zh_desc": "Rovio对旗下土耳其工作室Ruby Games裁员20人，工作室不会关闭，小团队将继续运营现有产品。该消息反映休闲手游公司持续优化成本，但以公司动态为主。",
+      "url": "https://mobilegamer.biz/rovio-cuts-20-staff-at-turkish-studio-ruby-games/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-11T17:33:58",
+      "fetched_at": "2026-11-12T00:11:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Hunter Assassin",
+          "desc": "Ruby Games旗下hybridcasual手游，属于Rovio保留运营的现有产品组合。"
+        },
+        {
+          "name": "Beauty Care",
+          "desc": "Ruby Games旗下hybridcasual手游，属于现有产品组合。"
+        },
+        {
+          "name": "My Tidy Life",
+          "desc": "Ruby Games旗下hybridcasual手游，属于现有产品组合。"
+        },
+        {
+          "name": "Sonic Blitz",
+          "desc": "Rovio Copenhagen被取消的游戏项目，并导致该工作室关闭。"
+        },
+        {
+          "name": "Angry Birds Dream Blast",
+          "desc": "《愤怒的小鸟》系列手游，因表现不佳成为Rovio裁员背景之一。"
+        }
+      ]
+    },
+    {
+      "id": "a46f6311cb",
+      "title": "行业组织抨击欧盟《Digital Fairness Act》：“不可行、不合理且不成比例”",
+      "zh_desc": "欧洲两大游戏行业组织警告该法案若实施将“终结欧洲游戏行业”，争议主要涉及虚拟货币等条款。对关注欧洲合规、付费设计和变现的休闲手游团队有参考价值。",
+      "url": "https://mobilegamer.biz/unworkable-unjustified-and-disproportionate-trade-bodies-slam-the-eus-digital-fairness-act/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-11T15:23:34",
+      "fetched_at": "2026-11-12T00:11:39",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "1c11ce4982",
+      "title": "《Sled Surfers》推动Embracer移动净销售额增长42%",
+      "zh_desc": "Embracer移动业务净销售额增长42%，《Sled Surfers》和《Glow Fashion Idol》表现突出，公司还优化了UA成本并以450万美元收购Island Hoppers。对手游发行、买量和产品组合有市场信号价值。",
+      "url": "https://mobilegamer.biz/sled-surfers-drives-mobile-net-sales-up-42-at-embracer/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-11T12:49:32",
+      "fetched_at": "2026-11-12T00:11:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Sled Surfers",
+          "desc": "Embracer移动净销售额同比增长42%的主要驱动力手游。"
+        },
+        {
+          "name": "Glow Fashion Idol",
+          "desc": "Embracer点名提及的持久表现手游，具有较强潜力。"
+        },
+        {
+          "name": "Island Hoppers",
+          "desc": "一款农场冒险手游，由Deca从Nexters收购并继续运营。"
+        }
+      ]
+    },
+    {
+      "id": "c411a7c627",
+      "title": "数据摘要：Learnings登顶广告榜、Savvy 60亿美元收购Moonton、Deca 450万美元收购等",
+      "zh_desc": "汇总AppMagic畅销数据、广告投放榜、并购交易和财报等移动游戏动态。可为休闲手游从业者提供市场、买量和资本动向参考，但属于简报式信息。",
+      "url": "https://mobilegamer.biz/data-digest-learnings-tops-ad-charts-savvys-6bn-moonton-deal-decas-4-5m-buy-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-11T11:24:10",
+      "fetched_at": "2026-11-12T00:11:39",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Vita Mahjong",
+          "desc": "麻将题材手游，为Learnings广告收入贡献约45%。"
+        },
+        {
+          "name": "Mobile Legends: Bang Bang",
+          "desc": "Moonton开发的MOBA手游，其开发商被Savvy Games Group以超60亿美元收购。"
+        },
+        {
+          "name": "Island Hoppers",
+          "desc": "农场冒险手游，Deca以约450万美元从Nexters收购。"
+        },
+        {
+          "name": "Honor of Kings",
+          "desc": "腾讯的MOBA手游，2026年迄今以11.4亿美元IAP收入位居全球手游收入榜首。"
+        },
+        {
+          "name": "Monster Strike",
+          "desc": "移动游戏，2016年以8.07亿美元位居收入榜首，2026年仍以1.37亿美元排名第37。"
+        },
+        {
+          "name": "PUBG Mobile",
+          "desc": "移动射击游戏，曾在2020和2021年领跑收入榜，2026年排名第23。"
+        },
+        {
+          "name": "Monopoly Go",
+          "desc": "大富翁IP手游，2024年收入榜首，2026年以8.67亿美元排名第三。"
+        },
+        {
+          "name": "Last War: Survival",
+          "desc": "生存策略手游，2025年以14亿美元收入登顶。"
+        },
+        {
+          "name": "Free Fire Max",
+          "desc": "移动游戏，2026年迄今下载量最高，达2.25亿次。"
+        }
+      ]
+    },
     {
       "id": "b056f28c69",
       "title": "NC 联席 CEO Byung-moo Park：2027 年营收将超过 3 万亿韩元",
