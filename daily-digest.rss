@@ -5,141 +5,78 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 17:00:18 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:05:56 +0800</lastBuildDate>
   <item>
-    <title>欧盟《数字公平法案》草案瞄准战利品箱、虚拟货币与付费获胜</title>
-    <link>https://mobilegamer.biz/eus-draft-digital-fairness-act-takes-aim-at-loot-boxes-virtual-currencies-and-pay-to-win/</link>
-    <description>欧盟《数字公平法案》草案拟限制战利品箱、虚拟货币和付费获胜机制，并允许玩家关闭“上瘾性”功能。该监管动向直接影响手游变现与合规设计，值得休闲游戏团队关注。</description>
+    <title>《Digital Fairness Act》对游戏行业意味着什么</title>
+    <link>https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry</link>
+    <description>欧盟委员会正式提出Digital Fairness Act草案，若通过将对游戏行业尤其是虚拟货币相关业务产生重大影响。对休闲手游的虚拟币设计、付费合规和欧洲市场运营有直接参考价值。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 11 Nov 2026 11:29:10 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry</guid>
+  </item>
+  <item>
+    <title>Lego Digital Play收购ForthStar Games，旨在让Lego在移动端获得应有地位</title>
+    <link>https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-prominence-it-truly-deserves-on-mobile</link>
+    <description>Lego Digital Play收购移动工作室ForthStar Games，显示IP方正在加码移动游戏布局。对关注IP手游化、休闲游戏发行与工作室并购的从业者有一定参考价值。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 11 Nov 2026 14:46:40 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-prominence-it-truly-deserves-on-mobile</guid>
+  </item>
+  <item>
+    <title>《Sled Surfers》推动Embracer移动净销售额增长42%</title>
+    <link>https://mobilegamer.biz/sled-surfers-drives-mobile-net-sales-up-42-at-embracer/</link>
+    <description>Embracer移动业务净销售额增长42%，《Sled Surfers》和《Glow Fashion Idol》表现突出，公司还优化了UA成本并以450万美元收购Island Hoppers。对手游发行、买量和产品组合有市场信号价值。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 10 Nov 2026 13:57:21 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/eus-draft-digital-fairness-act-takes-aim-at-loot-boxes-virtual-currencies-and-pay-to-win/</guid>
+    <pubDate>Wed, 11 Nov 2026 12:49:32 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/sled-surfers-drives-mobile-net-sales-up-42-at-embracer/</guid>
   </item>
   <item>
-    <title>Take-Two 移动端预订额下降13%，预计第三季度继续下滑</title>
-    <link>https://mobilegamer.biz/take-two-mobile-bookings-fall-13-with-another-decline-forecast-for-q3/</link>
-    <description>Take-Two 移动端预订额同比下降13%，Toon Blast 和 Words With Friends 增长，但 Color Block Jam 出现两位数下滑。提供休闲消除手游组合的最新市场信号。</description>
+    <title>数据摘要：Learnings登顶广告榜、Savvy 60亿美元收购Moonton、Deca 450万美元收购等</title>
+    <link>https://mobilegamer.biz/data-digest-learnings-tops-ad-charts-savvys-6bn-moonton-deal-decas-4-5m-buy-more/</link>
+    <description>汇总AppMagic畅销数据、广告投放榜、并购交易和财报等移动游戏动态。可为休闲手游从业者提供市场、买量和资本动向参考，但属于简报式信息。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 10 Nov 2026 10:03:14 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/take-two-mobile-bookings-fall-13-with-another-decline-forecast-for-q3/</guid>
+    <pubDate>Wed, 11 Nov 2026 11:24:10 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/data-digest-learnings-tops-ad-charts-savvys-6bn-moonton-deal-decas-4-5m-buy-more/</guid>
   </item>
   <item>
-    <title>如何在不重写的情况下现代化一款15年历史的在线游戏？SuperCity 从 Flash 到 HTML5 的历程</title>
-    <link>https://gameworldobserver.com/2026/11/10/how-do-you-modernize-a-15-year-old-live-game-without-rewriting-it-supercitys-journey-from-flash-to-html5</link>
-    <description>SuperCity 开发负责人复盘如何将15年历史的在线游戏从 Flash 渐进迁移到 HTML5，而不重写客户端或打断玩家体验；并介绍保留旧工具和内部自动化提效的做法。对长线运营休闲游戏的现代化改造有实操参考。</description>
-    <category>深度拆解</category>
-    <author>Game World Observer</author>
-    <pubDate>Tue, 10 Nov 2026 13:40:29 +0800</pubDate>
-    <guid isPermaLink="true">https://gameworldobserver.com/2026/11/10/how-do-you-modernize-a-15-year-old-live-game-without-rewriting-it-supercitys-journey-from-flash-to-html5</guid>
-  </item>
-  <item>
-    <title>12 月 WN C-Level 峰会日程首批细节公布</title>
-    <link>https://gameworldobserver.com/2026/11/10/the-first-details-of-the-december-wn-c-level-summit-program-have-been-released</link>
-    <description>12 月 10 日第比利斯将举办 WN C-Level 峰会，聚集游戏公司创始人及高管，议程涵盖移动与 PC 市场回顾、来年战略讨论，以及围绕“用 AI 克隆游戏”的辩论。其中移动市场与 AI 复刻产品的议题对休闲游戏赛道竞争格局判断有一定参考价值。</description>
-    <category>行业资讯</category>
-    <author>Game World Observer</author>
-    <pubDate>Tue, 10 Nov 2026 13:36:25 +0800</pubDate>
-    <guid isPermaLink="true">https://gameworldobserver.com/2026/11/10/the-first-details-of-the-december-wn-c-level-summit-program-have-been-released</guid>
-  </item>
-  <item>
-    <title>黑色星期五作战手册：游戏发行商如何最大化假日销售</title>
-    <link>https://naavik.co/podcast/the-black-friday-playbook-how-game-publishers-can-maximize-holiday-sales/</link>
-    <description>本期播客结合 VaultN 的发行商与商店网络数据，讨论游戏发行商应如何提前规划黑色星期五和假日销售窗口。内容偏发行与商业化策略，可为休闲手游的节日促销节奏提供参考。</description>
-    <category>行业资讯</category>
-    <author>Naavik</author>
-    <pubDate>Tue, 10 Nov 2026 15:24:17 +0800</pubDate>
-    <guid isPermaLink="true">https://naavik.co/podcast/the-black-friday-playbook-how-game-publishers-can-maximize-holiday-sales/</guid>
-  </item>
-  <item>
-    <title>Lego Digital Play 收购 Golf Clash 老兵创立的新工作室 ForthStar</title>
-    <link>https://mobilegamer.biz/lego-digital-play-acquires-golf-clash-veterans-new-studio-forthstar/</link>
-    <description>Lego Digital Play 收购由 Golf Clash 资深成员创立的新工作室 ForthStar，并表达对移动游戏前景的乐观判断。属于移动游戏投资与团队动态，可观察休闲品类的人才与资本流向。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 10 Nov 2026 11:16:36 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/lego-digital-play-acquires-golf-clash-veterans-new-studio-forthstar/</guid>
-  </item>
-  <item>
-    <title>生成式视频初创公司 Anorak 获 Supercell、Play Ventures 等 500 万美元融资</title>
-    <link>https://mobilegamer.biz/generative-video-startup-anorak-raises-5m-from-supercell-play-ventures-and-more/</link>
-    <description>前 Hutch 负责人 Shaun Rutland 创办的生成式视频公司 Anorak 完成 500 万美元融资，投资方包括 Supercell 和 Play Ventures。该消息反映手游厂商对生成式内容工具的关注，但公司明确表示本轮不是做手游。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Wed, 11 Nov 2026 07:45:38 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/generative-video-startup-anorak-raises-5m-from-supercell-play-ventures-and-more/</guid>
-  </item>
-  <item>
-    <title>RetroSweeper Go：复古外观、更有手感的扫雷游戏</title>
-    <link>https://sspai.com/post/118458</link>
-    <description>介绍 RetroSweeper Go 的复古游戏机风格界面与「手柄」操作设计，旨在唤起怀旧体验。属于休闲小游戏体验分享，对消除类玩法、数值和变现设计缺乏专业拆解，从业者仅可作复古休闲体验参考。</description>
-    <category>泛游戏</category>
-    <author>少数派</author>
-    <pubDate>Wed, 11 Nov 2026 03:13:04 +0800</pubDate>
-    <guid isPermaLink="true">https://sspai.com/post/118458</guid>
-  </item>
-  <item>
-    <title>Fortis Games疑似关闭，超400名员工可能受影响</title>
-    <link>https://mobilegamer.biz/fortis-games-appears-to-have-closed-with-over-400-staff-likely-affected/</link>
-    <description>多家LinkedIn帖子显示，母公司Las Vegas Sands已关闭开发商Fortis Games并立即取消所有合同，导致400多人失业。这是手游行业公司动态，可供关注团队与市场变化。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 10 Nov 2026 20:25:55 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/fortis-games-appears-to-have-closed-with-over-400-staff-likely-affected/</guid>
-  </item>
-  <item>
-    <title>Take-Two CEO：Grand Theft Auto VI 预购量超出预期</title>
-    <link>https://www.gamedeveloper.com/business/take-two-financials-are-steady-while-the-ceo-claims-that-grand-theft-auto-vi-pre-orders-are-exceeding-expectations</link>
-    <description>Take-Two CEO Strauss Zelnick 在 Grand Theft Auto VI 发布前夕称预购表现超出预期，但未披露具体目标。该消息属于头部大作市场热度与发行节奏的行业信号，对休闲游戏从业者仅有间接参考价值。</description>
+    <title>使用生成式 AI 的开发者称主要用于“研究与头脑风暴”</title>
+    <link>https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-</link>
+    <description>调查显示生成式 AI 在游戏开发者中的主要用途是研究和创意发散，AI 生成代码位列第三。可作为了解团队工具趋势的参考，但与休闲游戏核心玩法、数值和变现关联有限。</description>
     <category>行业资讯</category>
     <author>Game Developer</author>
-    <pubDate>Tue, 10 Nov 2026 17:49:05 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/take-two-financials-are-steady-while-the-ceo-claims-that-grand-theft-auto-vi-pre-orders-are-exceeding-expectations</guid>
+    <pubDate>Wed, 11 Nov 2026 18:15:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-</guid>
   </item>
   <item>
-    <title>My.Games 完成阿联酋支持的管理层收购，从所有者 Alexander Chachava 手中买断</title>
-    <link>https://mobilegamer.biz/my-games-management-agrees-uae-backed-buyout-from-owner-alexander-chachava/</link>
-    <description>My.Games 通过阿联酋支持的管理层收购从 Alexander Chachava 处完成买断，并涉及此前从 VK 以 6.42 亿美元收购的背景。该文属于手游公司资本与所有权变动资讯，可供关注海外发行格局的从业者参考。</description>
+    <title>手游发行商Fortis Games关闭，多达440名员工受影响</title>
+    <link>https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected</link>
+    <description>手游发行商Fortis Games宣布关闭，影响至多440名员工。该消息反映移动游戏市场的整合与成本压力，对休闲手游团队有警示意义，但不涉及玩法或运营拆解。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Wed, 11 Nov 2026 09:10:30 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected</guid>
+  </item>
+  <item>
+    <title>Rovio在土耳其工作室Ruby Games裁员20人</title>
+    <link>https://mobilegamer.biz/rovio-cuts-20-staff-at-turkish-studio-ruby-games/</link>
+    <description>Rovio对旗下土耳其工作室Ruby Games裁员20人，工作室不会关闭，小团队将继续运营现有产品。该消息反映休闲手游公司持续优化成本，但以公司动态为主。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Tue, 10 Nov 2026 18:08:25 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/my-games-management-agrees-uae-backed-buyout-from-owner-alexander-chachava/</guid>
+    <pubDate>Wed, 11 Nov 2026 17:33:58 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/rovio-cuts-20-staff-at-turkish-studio-ruby-games/</guid>
   </item>
   <item>
-    <title>Bandai Namco 关闭 Reflector Entertainment，预计 Q3 计提 2100 万欧元亏损</title>
-    <link>https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result</link>
-    <description>Bandai Namco 宣布关闭《Unknown 9: Awakening》开发商 Reflector Entertainment，并预计因此在本财年第三季度计入约 2100 万欧元亏损。这是大型发行商在新 IP 表现不及预期后收缩研发投入的又一案例，对休闲游戏团队评估立项风险与工作室整合有参考意义。</description>
+    <title>NC 联席 CEO Byung-moo Park：2027 年营收将超过 3 万亿韩元</title>
+    <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHA0aFdJdHdGeGJ2MDF4LVdYQ2dnYS1vRGI5T0NVQy1QRU9zRXU2Z2Jzb1JHSlZVT0owR3Fua0VQUjZOLTRVaGNJSGNQMS1CTURGNFZKamJ5NU1sU2hJdXlSNWM0ZWMzMzd5NnlUcXRfSFhoU1RDZE1rYkRVZXlzTkJMMjBnQkJ4Qm54Q2R6c0IzRWpxenNxYjdWN2NlV3NkcGJQTFM3eTV3djFxeUNn?oc=5</link>
+    <description>报道 NC 联席 CEO 对公司营收目标和业务前景的表态，属于韩国游戏公司动态与市场资讯。与休闲消除品类的玩法、数值和商业化直接关联较弱。</description>
     <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 10 Nov 2026 11:46:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result</guid>
-  </item>
-  <item>
-    <title>Skydance 完成 1110 亿美元合并后裁撤游戏部门人员</title>
-    <link>https://www.gamesindustry.biz/skydance-announces-layoffs-to-games-division-following-111bn-merger</link>
-    <description>Skydance 在完成 1110 亿美元合并交易后，对旗下游戏部门进行未披露规模的裁员。该消息反映大型媒体集团整合期间对游戏业务的成本压缩趋势，可供关注发行与投资环境变化的从业者跟踪。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 10 Nov 2026 10:34:40 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/skydance-announces-layoffs-to-games-division-following-111bn-merger</guid>
-  </item>
-  <item>
-    <title>House House 澄清在《Big Walk》开发末期“少量”使用 AI 工具</title>
-    <link>https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development</link>
-    <description>House House 回应外界质疑，称在《Big Walk》开发的最后阶段“少量”使用 AI 工具，主要用于解决棘手的技术难题和 bug。该案例为讨论 AI 在研发流程中的实际落点与对外沟通口径提供了样本。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 10 Nov 2026 09:07:50 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development</guid>
-  </item>
-  <item>
-    <title>Krafton 第三季度营收增长11.6%，PC与主机业务下滑</title>
-    <link>https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments</link>
-    <description>Krafton 公布第三季度营收同比增长11.6%，但 PC 和主机业务下滑，营业利润因 Gamescom 等活动成本下降35.5%。属于公司财报动态，与休闲手游直接关联较弱。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Tue, 10 Nov 2026 14:27:40 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments</guid>
+    <author>Google News</author>
+    <pubDate>Wed, 11 Nov 2026 08:53:06 +0800</pubDate>
+    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHA0aFdJdHdGeGJ2MDF4LVdYQ2dnYS1vRGI5T0NVQy1QRU9zRXU2Z2Jzb1JHSlZVT0owR3Fua0VQUjZOLTRVaGNJSGNQMS1CTURGNFZKamJ5NU1sU2hJdXlSNWM0ZWMzMzd5NnlUcXRfSFhoU1RDZE1rYkRVZXlzTkJMMjBnQkJ4Qm54Q2R6c0IzRWpxenNxYjdWN2NlV3NkcGJQTFM3eTV3djFxeUNn?oc=5</guid>
   </item>
   </channel>
 </rss>
