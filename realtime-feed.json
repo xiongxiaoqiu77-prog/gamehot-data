@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-12T15:03:39",
+  "updated_at": "2026-11-12T19:42:12",
   "articles": [
+    {
+      "id": "5f75b1730d",
+      "title": "Sensor Tower：2026年第三季度手游市场中，益智类收入几乎追平策略类",
+      "zh_desc": "Sensor Tower汇总2026年Q3手游市场数据，指出puzzle品类收入已接近strategy品类。该趋势对三消/消除类休闲游戏的赛道判断、商业化预期和竞争分析有较高参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4ZU80MHhfMU1Rc19iWVF0c3FmY0d5czNzVUt1a2pqdlh1VWVYMnFGbWppWHBWS0h4N2k1cGktQUs1MWExaEFXbmd6MncxcVQxZXRnMHhmbjlTLXMxWVN6S0RlemxTYm5vbHc?oc=5",
+      "source": "重点游戏-Tasty Travels",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-11-12T21:19:51",
+      "fetched_at": "2026-11-12T19:42:12",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "bd03cbd980",
       "title": "使用生成式 AI 的开发者称主要用于“研究与头脑风暴”",
