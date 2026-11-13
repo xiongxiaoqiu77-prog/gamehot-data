@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-11-14T02:37:45",
+  "updated_at": "2026-11-14T03:10:06",
   "articles": [
+    {
+      "id": "3858eeb042",
+      "title": "Steam 的提交与审核积压迫使独立开发者推迟游戏发布",
+      "zh_desc": "多家独立开发者因 Steam 游戏提交与审核流程延迟而被迫推迟上线。文章属于平台发行流程动态，对关注发行节奏与平台风险的从业者有参考价值，但与三消/休闲手游设计运营关联一般。",
+      "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-13T12:00:00",
+      "fetched_at": "2026-11-14T03:10:06",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Australia Did It: End-of-the-World Railway Defense Business",
+          "desc": "一款以末日铁路防御经营为主题、由 Rami Ismail 与 Aesthetican Labs 联合开发的独立游戏。"
+        }
+      ]
+    },
+    {
+      "id": "df50871860",
+      "title": "Nvidia 的 Jensen Huang 因被曝与涉嫌中国间谍及两名员工有婚外情而辞去 CEO 职务",
+      "zh_desc": "Nvidia 联合创始人 Jensen Huang 辞去总裁、CEO 和董事会成员职务。该消息属于游戏硬件与科技公司重大人事动态，对行业生态有间接影响，但与休闲消除手游无直接关系。",
+      "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-13T08:12:50",
+      "fetched_at": "2026-11-14T03:10:06",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "7e44345569",
       "title": "欧盟新提案可能对免费游玩游戏施加严格限制",
