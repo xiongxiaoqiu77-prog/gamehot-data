@@ -1,6 +1,63 @@
 {
-  "updated_at": "2026-11-12T19:42:12",
+  "updated_at": "2026-11-12T20:14:54",
   "articles": [
+    {
+      "id": "f5c5aa67fa",
+      "title": "PlayStation 5 销量突破 1 亿台",
+      "zh_desc": "索尼 PlayStation 5 累计出货量突破 1 亿台，追平 PlayStation 家族多数机型的同期成绩。该数据反映主机市场的存量规模与用户增长节奏，可作为休闲游戏跨平台发行与用户获取时评估主机渠道价值的参考。",
+      "url": "https://www.gamedeveloper.com/console/playstation-5-ships-100-million-consoles",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-11T19:15:00",
+      "fetched_at": "2026-11-12T20:14:54",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "b378cfa756",
+      "title": "《The Legend of Zelda: Ocarina of Time》重制版首周销量突破 500 万份",
+      "zh_desc": "该重制版发售四天即售出超 500 万份，成为 Switch 2 上销量第二高的作品。经典 IP 重制的强势表现，为主机平台的内容供给与用户活跃度提供了参考数据，但与休闲手游的玩法与变现关联有限。",
+      "url": "https://www.gamedeveloper.com/business/the-legend-of-zelda-ocarina-of-time-exceeds-5-million-copies-solid-in-first-week",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-11T17:30:00",
+      "fetched_at": "2026-11-12T20:14:54",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Legend of Zelda: Ocarina of Time",
+          "desc": "经典动作冒险游戏《塞尔达传说：时之笛》的 Switch 2 重制版，首周销量达 520 万份。"
+        },
+        {
+          "name": "Mario Kart World",
+          "desc": "Switch 2 赛车游戏，目前是 Switch 2 销量最高的作品。"
+        }
+      ]
+    },
+    {
+      "id": "2c0c3cd43e",
+      "title": "GTA 6 成为 PlayStation 与 Xbox 商店预订量最高的游戏",
+      "zh_desc": "GTA 6 在 PlayStation Store 与 Microsoft Store 双双创下预订量纪录。作为全球最大体量产品的市场信号，可用来观察买量成本与用户注意力的季节性挤压效应，但与休闲消除品类设计关联较弱。",
+      "url": "https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefronts",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-11T12:10:40",
+      "fetched_at": "2026-11-12T20:14:54",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI（GTA 6）",
+          "desc": "开放世界犯罪动作游戏，登陆 PS5/Xbox Series X/S，已成为 PlayStation 和 Xbox 商店预订量最高的游戏。"
+        },
+        {
+          "name": "Hollow Knight: Silksong",
+          "desc": "类银河恶魔城游戏，文中作为去年发售时下载/崩溃问题被提及的预载案例。"
+        }
+      ]
+    },
     {
       "id": "5f75b1730d",
       "title": "Sensor Tower：2026年第三季度手游市场中，益智类收入几乎追平策略类",
