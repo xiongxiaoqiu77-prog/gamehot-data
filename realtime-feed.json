@@ -1,6 +1,130 @@
 {
-  "updated_at": "2026-11-12T20:14:54",
+  "updated_at": "2026-11-12T20:48:05",
   "articles": [
+    {
+      "id": "2b1e954554",
+      "title": "Tekken 制作人表示希望 Xbox Series S 这样的硬件“不要推出”",
+      "zh_desc": "Tekken 制作人原田胜弘在公开场合批评 Xbox Series S 这类入门级硬件，认为其存在限制。该文属于主机硬件与开发者生态的行业新闻，对休闲游戏设计与变现没有直接分析价值。",
+      "url": "https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-11T18:30:00",
+      "fetched_at": "2026-11-12T20:48:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Tekken",
+          "desc": "Bandai Namco 的经典 3D 格斗游戏系列，以角色阵容和竞技对战著称。"
+        },
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "CD Projekt Red 开发的开放世界科幻角色扮演游戏。"
+        }
+      ]
+    },
+    {
+      "id": "aa95e60c90",
+      "title": "报道：PlayStation 取消 Fairgames，无开发者被裁",
+      "zh_desc": "报道称 PlayStation 已取消 2023 年公布的在线多人射击游戏 Fairgames，且 Haven Studios 不会因此裁员。该消息反映大厂 live-service 项目调整，但对三消/消除类休闲游戏从业者仅有间接行业参考。",
+      "url": "https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-11T16:19:51",
+      "fetched_at": "2026-11-12T20:48:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fairgames",
+          "desc": "Haven Studios 开发后被取消的在线多人射击游戏。"
+        },
+        {
+          "name": "Assassin's Creed 2",
+          "desc": "Ubisoft 的开放世界动作冒险游戏，以文艺复兴时期潜行与刺杀为核心。"
+        },
+        {
+          "name": "Watch Dogs",
+          "desc": "Ubisoft 的开放世界黑客题材动作冒险游戏。"
+        },
+        {
+          "name": "Watch Dogs 2",
+          "desc": "《Watch Dogs》的续作，延续开放世界黑客行动玩法。"
+        },
+        {
+          "name": "Concord",
+          "desc": "PlayStation 推出的 live-service 英雄射击游戏，发售后不久即下架。"
+        },
+        {
+          "name": "Brazen Blaze",
+          "desc": "MyDearest 的 VR 动作游戏，作者曾参与其制作。"
+        }
+      ]
+    },
+    {
+      "id": "7f33eb0dd2",
+      "title": "PlayStation 取消 live-service 射击游戏 Fairgames",
+      "zh_desc": "PlayStation 确认取消由 Haven Studios 开发的 live-service 射击游戏 Fairgames。该文为行业动态，未涉及休闲游戏玩法、数值或 LiveOps 拆解。",
+      "url": "https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fairgames",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-11T10:40:00",
+      "fetched_at": "2026-11-12T20:48:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fairgames",
+          "desc": "PlayStation 旗下 Haven Studios 开发后被取消的 live-service PVP 射击游戏。"
+        },
+        {
+          "name": "Destiny 2",
+          "desc": "Bungie 开发的在线科幻第一人称射击与刷宝游戏。"
+        },
+        {
+          "name": "Marathon",
+          "desc": "Bungie 的科幻射击游戏项目，文中提到其表现未达预期。"
+        },
+        {
+          "name": "Concord",
+          "desc": "PlayStation 的 live-service 英雄射击游戏，发售后两周即撤出销售。"
+        }
+      ]
+    },
+    {
+      "id": "86af86252e",
+      "title": "Black Forest Games 脱离 THQ Nordic 与 Embracer Group",
+      "zh_desc": "Black Forest Games 管理层完成收购，使工作室脱离 THQ Nordic 与 Embracer Group，重新独立。该文为游戏公司动态，对休闲游戏直接参考有限。",
+      "url": "https://gameworldobserver.com/2026/11/11/black-forest-games-has-left-thq-nordic-and-embracer-group",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-11T14:28:46",
+      "fetched_at": "2026-11-12T20:48:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Destroy All Humans!",
+          "desc": "以外星人入侵为题材的动作冒险游戏，Black Forest Games 曾负责其重制版。"
+        },
+        {
+          "name": "Destroy All Humans! 2 — Reprobed",
+          "desc": "《Destroy All Humans! 2》的重制版，延续外星人入侵题材动作冒险玩法。"
+        },
+        {
+          "name": "Giana Sisters: Twisted Dreams",
+          "desc": "Black Forest Games 开发的横版平台跳跃游戏。"
+        },
+        {
+          "name": "Rogue Stormers",
+          "desc": "Black Forest Games 开发的 Roguelike 射击动作游戏。"
+        },
+        {
+          "name": "Fade to Silence",
+          "desc": "Black Forest Games 开发的生存动作冒险游戏。"
+        }
+      ]
+    },
     {
       "id": "f5c5aa67fa",
       "title": "PlayStation 5 销量突破 1 亿台",
