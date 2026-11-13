@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-14T02:02:34",
+  "updated_at": "2026-11-14T02:37:45",
   "articles": [
+    {
+      "id": "7e44345569",
+      "title": "欧盟新提案可能对免费游玩游戏施加严格限制",
+      "zh_desc": "《数字公平法案》若获通过，可能显著改变欧洲乃至全球免费游玩游戏的研发与发行方式，尤其涉及变现、成瘾性设计与消费者保护。休闲游戏从业者应关注其合规风险及对F2P商业模式的潜在影响。",
+      "url": "https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-13T18:32:59",
+      "fetched_at": "2026-11-14T02:37:45",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "a7489db050",
       "title": "《巫师3》开发团队用 AI 帮助波兰配音演员在中风后重演杰洛特",
