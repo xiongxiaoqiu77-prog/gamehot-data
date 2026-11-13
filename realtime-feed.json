@@ -1,6 +1,81 @@
 {
-  "updated_at": "2026-11-13T15:15:55",
+  "updated_at": "2026-11-14T00:10:52",
   "articles": [
+    {
+      "id": "56ba0b263b",
+      "title": "《Digital Fairness Act》是一笔十年才到期的账单 | 观点",
+      "zh_desc": "欧盟《Digital Fairness Act》草案引发游戏行业担忧，文章分析其对玩家保护、家长控制与游戏公司运营的影响。对关注欧洲手游合规与变现环境的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/the-digital-fairness-act-is-a-decade-long-bill-coming-due-opinion",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-13T13:42:30",
+      "fetched_at": "2026-11-14T00:10:52",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "6feffdbe0d",
+      "title": "新游速递：PUBG、Transformers、Plants Vs Zombies、Football Manager、Prince of Persia 等",
+      "zh_desc": "汇总本周手游新作、软发布和测试动态，包括 Outfit7 新作软启动及 Plants Vs Zombies 等 IP 新产品。适合从业者快速扫描竞品与新游趋势，但非深度拆解。",
+      "url": "https://mobilegamer.biz/new-game-digest-pubg-transformers-plants-vs-zombies-football-manager-prince-of-persia-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-13T10:22:37",
+      "fetched_at": "2026-11-14T00:10:52",
+      "lang": "en",
+      "games": [
+        {
+          "name": "PUBG Mobile Flash",
+          "desc": "《PUBG Mobile》的新版本，保留熟悉的大逃杀玩法，但安装包更轻、更省内存和电量，已在全球 iOS/Android 上线。"
+        },
+        {
+          "name": "Transformers: Eternal War",
+          "desc": "Wanda Cinemas Games 与 Hasbro 开发的放置冒险 RPG，玩家组建汽车人和霸天虎小队，已登陆 iOS/Android。"
+        },
+        {
+          "name": "Football Manager 27 Touch",
+          "desc": "Sega 的足球管理模拟游戏，升级比赛引擎、球探和赛前准备工具，并针对 iPhone 重新设计界面，已在 Apple Arcade 上线。"
+        },
+        {
+          "name": "NBA 2K27 Arcade Edition",
+          "desc": "2K 的篮球模拟游戏，今年新增全部 15 支 WNBA 球队，现已在 Apple Arcade 推出。"
+        },
+        {
+          "name": "Plants vs. Zombies: Replanted",
+          "desc": "EA/Popcap 的《植物大战僵尸》系列作品，将于 12 月 3 日加入 Apple Arcade。"
+        },
+        {
+          "name": "Prince of Persia: The Lost Crown+",
+          "desc": "Ubisoft 的动作平台游戏《波斯王子：失落的王冠》完整版（含全部 DLC），将于 12 月 3 日加入 Apple Arcade。"
+        },
+        {
+          "name": "Solitaire(ish)",
+          "desc": "Playstack 的 roguelike 卡牌游戏，将于 12 月 3 日加入 Apple Arcade。"
+        },
+        {
+          "name": "Lego Duplo Playtime",
+          "desc": "StoryToys 的儿童向《乐高得宝》主题游戏，将于 12 月 3 日加入 Apple Arcade。"
+        },
+        {
+          "name": "UnGodly",
+          "desc": "Azra Games 的黑暗奇幻动作 RPG，玩家招募称为 Primals 的英雄进行实时战斗，免费游玩，已全球上线移动端。"
+        },
+        {
+          "name": "My Hero Ultra Rumble Mobile",
+          "desc": "Bandai Namco 的《我的英雄学院》免费大逃杀手游版，与主机/PC 版独立且不跨平台，iOS/Android 预注册已开启。"
+        },
+        {
+          "name": "Roll & Merge: Farm Go",
+          "desc": "Outfit7 的新农场游戏，结合掷骰、合并与建造玩法，已在部分国家 Android 软启动。"
+        },
+        {
+          "name": "The Roottrees Are Dead",
+          "desc": "Evil Trout/IndieArk 的侦探解谜游戏，背景设定在 1998 年，玩家利用档案、报纸和照片拼出 Roottree 姐妹的家谱，已登陆移动端。"
+        }
+      ]
+    },
     {
       "id": "c58795c987",
       "title": "Resident Evil Requiem 斩获四项金摇杆奖，包括终极年度游戏与主机年度游戏",
