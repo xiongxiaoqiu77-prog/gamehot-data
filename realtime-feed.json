@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-11-13T14:41:20",
+  "updated_at": "2026-11-13T15:15:55",
   "articles": [
+    {
+      "id": "c58795c987",
+      "title": "Resident Evil Requiem 斩获四项金摇杆奖，包括终极年度游戏与主机年度游戏",
+      "zh_desc": "第44届金摇杆奖揭晓，Resident Evil Requiem 拿下四项大奖，其中包括终极年度游戏和主机年度游戏。该资讯反映主机/3A奖项风向，但对三消等休闲手游的直接参考价值有限。",
+      "url": "https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-12T14:42:10",
+      "fetched_at": "2026-11-13T15:15:55",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Resident Evil Requiem",
+          "desc": "《生化危机》系列第九部作品，获金摇杆终极年度游戏、主机年度游戏、最佳游戏预告片及最佳主角表演四项奖。"
+        },
+        {
+          "name": "Onimusha: Way of the Sword",
+          "desc": "Capcom 作品，获最佳音频设计。"
+        },
+        {
+          "name": "Pragmata",
+          "desc": "Capcom 作品，Grace Saif 凭角色 Diana 获最佳配角表演。"
+        },
+        {
+          "name": "Dispatch",
+          "desc": "AdHoc Studio 作品，获最佳叙事与最佳原声带。"
+        },
+        {
+          "name": "Meccha Chameleon",
+          "desc": "独立多人游戏，获最佳独立游戏（自出版）、最佳多人游戏、主播选择与开发者选择。"
+        },
+        {
+          "name": "Control Resonant",
+          "desc": "Remedy Entertainment 作品，获最佳视觉设计。"
+        },
+        {
+          "name": "Subnautica 2",
+          "desc": "Unknown Worlds 的抢先体验作品，获最佳抢先体验游戏。"
+        },
+        {
+          "name": "Crimson Desert",
+          "desc": "Pearl Abyss 作品，获 PC 年度游戏。"
+        },
+        {
+          "name": "Big Walk",
+          "desc": "House House 作品，获评论家选择奖。"
+        },
+        {
+          "name": "Valheim",
+          "desc": "Iron Gate Studio 等开发的作品，获最佳独立游戏。"
+        },
+        {
+          "name": "The Witcher 3: Wild Hunt – Remastered",
+          "desc": "《巫师3》重制/复刻版，获最佳重制/复刻游戏。"
+        },
+        {
+          "name": "Doom: The Dark Ages",
+          "desc": "Id Software/Bethesda 作品，获最佳游戏扩展。"
+        },
+        {
+          "name": "Balatro",
+          "desc": "LocalThunk/Playstack 作品，获仍在玩（移动）奖。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "Mojang/Microsoft 作品，获仍在玩（PC 与主机）奖。"
+        },
+        {
+          "name": "The Witcher 4",
+          "desc": "CD Projekt Red 作品，获最受期待游戏。"
+        },
+        {
+          "name": "Iron Lung",
+          "desc": "获最佳游戏改编奖。"
+        }
+      ]
+    },
     {
       "id": "65dbcdf6ff",
       "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
