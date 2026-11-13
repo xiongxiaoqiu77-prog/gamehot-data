@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-14T01:27:30",
+  "updated_at": "2026-11-14T02:02:34",
   "articles": [
+    {
+      "id": "a7489db050",
+      "title": "《巫师3》开发团队用 AI 帮助波兰配音演员在中风后重演杰洛特",
+      "zh_desc": "曾为《巫师》系列主角杰洛特配音的波兰演员 Jacek Rozenek 因中风无法继续演出，本人同意后在《巫师3》新资料片中通过 AI 技术还原其声线。对从业者而言，这是 AI 语音在成熟 IP 中延续角色演出的一次实际案例，可参考其授权与制作流程。",
+      "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-13T15:28:34",
+      "fetched_at": "2026-11-14T02:02:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Witcher 3: Wild Hunt",
+          "desc": "2015年发售的《巫师》系列动作角色扮演游戏，主角为杰洛特，本次将推出新扩展《Songs of the Past》并因波兰语配音演员中风后使用AI辅助配音。"
+        },
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "科幻角色扮演游戏，文章提及其《Phantom Liberty》扩展曾使用Respeecher的AI语音生成技术。"
+        },
+        {
+          "name": "The Witcher 4",
+          "desc": "《巫师》系列续作，文章仅提及波兰语版杰洛特配音是否回归尚不确定。"
+        }
+      ]
+    },
+    {
+      "id": "7231e6261e",
+      "title": "CD Projekt Red 在《巫师3：Songs of the Past》中用 AI 调整杰洛特原波兰语配音演员的声音",
+      "zh_desc": "CD Projekt Red 确认在《巫师3》资料片《Songs of the Past》中，使用 AI 对杰洛特原波兰语配音演员 Jacek Rozenek 的声音进行了处理。文章为同一事件的另一来源报道，反映主流厂商在语音资产复用上的合规与技术取舍。",
+      "url": "https://www.gamesindustry.biz/cd-projekt-red-used-ai-to-alter-the-voice-of-geralts-original-polish-actor-in-witcher-3-songs-of-the-past",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-13T14:43:20",
+      "fetched_at": "2026-11-14T02:02:34",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "9d8e4aea09",
       "title": "如何保护你的 IP 不被 AI 克隆大军蚕食",
