@@ -1,6 +1,137 @@
 {
-  "updated_at": "2026-11-12T20:48:05",
+  "updated_at": "2026-11-13T11:54:56",
   "articles": [
+    {
+      "id": "f2b62a0150",
+      "title": "三分之一开发者称过去两年内被裁员",
+      "zh_desc": "GDC行业调查显示34%受访开发者过去两年被裁，反映游戏业就业压力。对团队管理和行业趋势有参考，但与休闲玩法无直接关系。",
+      "url": "https://www.gamedeveloper.com/business/one-in-three-developers-have-been-laid-off-within-the-last-two-years",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-12T18:03:45",
+      "fetched_at": "2026-11-13T11:54:56",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "fd820c4fdc",
+      "title": "裁员、AI与次世代：2600多名游戏从业者今年告诉GDC什么",
+      "zh_desc": "GDC行业现状报告汇总2600余名从业者对裁员、AI和次世代平台的看法。可作为行业趋势参考，但不涉及休闲游戏具体设计。",
+      "url": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-12T17:00:00",
+      "fetched_at": "2026-11-13T11:54:56",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "68287743d3",
+      "title": "GDC游戏行业现状报告：40%开发者工作中使用生成式AI",
+      "zh_desc": "报告显示40%开发者已在工作中使用生成式AI。反映研发工具趋势，对休闲游戏美术、关卡和内容生产效率有间接参考。",
+      "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-12T17:00:00",
+      "fetched_at": "2026-11-13T11:54:56",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "67281b1f78",
+      "title": "“让更多好游戏有机会”：Launchable谈共享成功模式如何帮助独立工作室",
+      "zh_desc": "Launchable推出共享成功框架，连接研发人才与发行服务并以收入分成合作。属于发行/商业模式资讯，对独立团队有参考。",
+      "url": "https://www.gamesindustry.biz/its-about-giving-more-great-games-a-chance-why-launchable-thinks-it-can-help-more-independent-studios-reach-the-market-with-its-shared-success-model",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-12T16:00:00",
+      "fetched_at": "2026-11-13T11:54:56",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Rover's Tale",
+          "desc": "Observer Interactive 开发的游戏，是首批加入 Launchable 共享成功平台的项目之一。"
+        }
+      ]
+    },
+    {
+      "id": "5cdc3fedb2",
+      "title": "德国游戏产业协会警告《数字公平法案》可能造成“双重监管和法律不确定性”",
+      "zh_desc": "德国游戏产业协会批评Digital Fairness Act带来双重监管和法律不确定性，可能伤害欧洲开发者。涉及平台监管，对移动游戏合规有间接参考。",
+      "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-digital-fairness-act-could-cause-double-regulation-and-legal-uncertainty",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-12T14:36:10",
+      "fetched_at": "2026-11-13T11:54:56",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "6676754883",
+      "title": "赫尔辛基工作室Playnest四年发布12款游戏后关闭",
+      "zh_desc": "Playnest曾构建互联移动游戏平台，在四年推出12款游戏后关闭。反映移动游戏工作室生存压力，对休闲手游团队有警示意义。",
+      "url": "https://mobilegamer.biz/helsinki-studio-playnest-shuts-down-after-12-games-in-four-years/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-12T15:52:35",
+      "fetched_at": "2026-11-13T11:54:56",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "9127263990",
+      "title": "Supercell和King高管警告欧盟《数字公平法案》可能伤害玩家和工作室",
+      "zh_desc": "King总裁Todd Green称欧洲1000多家移动工作室将面临“戏剧性后果”，Ukie也发声。涉及Candy Crush等休闲手游的监管与变现环境，从业者应关注合规风险。",
+      "url": "https://mobilegamer.biz/supercell-and-king-bosses-warn-eus-digital-fairness-act-would-hurt-players-and-mobile-studios/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-12T11:03:50",
+      "fetched_at": "2026-11-13T11:54:56",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "6a4844d23f",
+      "title": "哪些游戏最容易被AI克隆——Kris Zukowski的观点",
+      "zh_desc": "Game marketing专家Chris Zukowski分析AI克隆风险，指出哪些项目最容易被复制。对评估休闲游戏创意保护和市场竞争有一定参考。",
+      "url": "https://gameworldobserver.com/2026/11/12/which-games-are-most-vulnerable-to-ai-clones-opinion-of-kris-zukowski",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-12T14:09:30",
+      "fetched_at": "2026-11-13T11:54:56",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Don't Scream",
+          "desc": "一款恐怖游戏，玩家若对着麦克风尖叫，游戏角色就会死亡。"
+        },
+        {
+          "name": "Dwarf Fortress",
+          "desc": "一款以极深世界模拟著称的游戏，文中作为系统生成内容类游戏的例外案例。"
+        }
+      ]
+    },
+    {
+      "id": "5b28c1f64d",
+      "title": "移动游戏人均日游玩时长下降：变化来自单次会话时长——GameAnalytics",
+      "zh_desc": "GameAnalytics分析显示移动游戏日均时长下降主要源于单次会话变短，而非打开频率降低。对休闲/消除类游戏优化关卡节奏、会话长度和留存设计有直接参考。",
+      "url": "https://www.gameanalytics.com/blog/mobile-playtime-decline-session-length-not-frequency",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-11-12T11:47:19",
+      "fetched_at": "2026-11-13T11:54:56",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "2b1e954554",
       "title": "Tekken 制作人表示希望 Xbox Series S 这样的硬件“不要推出”",
