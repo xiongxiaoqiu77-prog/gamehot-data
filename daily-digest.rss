@@ -5,78 +5,96 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 12 Nov 2026 17:05:56 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:01:17 +0800</lastBuildDate>
   <item>
-    <title>《Digital Fairness Act》对游戏行业意味着什么</title>
-    <link>https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry</link>
-    <description>欧盟委员会正式提出Digital Fairness Act草案，若通过将对游戏行业尤其是虚拟货币相关业务产生重大影响。对休闲手游的虚拟币设计、付费合规和欧洲市场运营有直接参考价值。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 11 Nov 2026 11:29:10 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry</guid>
-  </item>
-  <item>
-    <title>Lego Digital Play收购ForthStar Games，旨在让Lego在移动端获得应有地位</title>
-    <link>https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-prominence-it-truly-deserves-on-mobile</link>
-    <description>Lego Digital Play收购移动工作室ForthStar Games，显示IP方正在加码移动游戏布局。对关注IP手游化、休闲游戏发行与工作室并购的从业者有一定参考价值。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 11 Nov 2026 14:46:40 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-prominence-it-truly-deserves-on-mobile</guid>
-  </item>
-  <item>
-    <title>《Sled Surfers》推动Embracer移动净销售额增长42%</title>
-    <link>https://mobilegamer.biz/sled-surfers-drives-mobile-net-sales-up-42-at-embracer/</link>
-    <description>Embracer移动业务净销售额增长42%，《Sled Surfers》和《Glow Fashion Idol》表现突出，公司还优化了UA成本并以450万美元收购Island Hoppers。对手游发行、买量和产品组合有市场信号价值。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Wed, 11 Nov 2026 12:49:32 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/sled-surfers-drives-mobile-net-sales-up-42-at-embracer/</guid>
-  </item>
-  <item>
-    <title>数据摘要：Learnings登顶广告榜、Savvy 60亿美元收购Moonton、Deca 450万美元收购等</title>
-    <link>https://mobilegamer.biz/data-digest-learnings-tops-ad-charts-savvys-6bn-moonton-deal-decas-4-5m-buy-more/</link>
-    <description>汇总AppMagic畅销数据、广告投放榜、并购交易和财报等移动游戏动态。可为休闲手游从业者提供市场、买量和资本动向参考，但属于简报式信息。</description>
-    <category>行业资讯</category>
-    <author>Mobile Gamer Biz</author>
-    <pubDate>Wed, 11 Nov 2026 11:24:10 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/data-digest-learnings-tops-ad-charts-savvys-6bn-moonton-deal-decas-4-5m-buy-more/</guid>
-  </item>
-  <item>
-    <title>使用生成式 AI 的开发者称主要用于“研究与头脑风暴”</title>
-    <link>https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-</link>
-    <description>调查显示生成式 AI 在游戏开发者中的主要用途是研究和创意发散，AI 生成代码位列第三。可作为了解团队工具趋势的参考，但与休闲游戏核心玩法、数值和变现关联有限。</description>
+    <title>欧盟新提案可能对免费游玩游戏施加严格限制</title>
+    <link>https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development</link>
+    <description>《数字公平法案》若获通过，可能显著改变欧洲乃至全球免费游玩游戏的研发与发行方式，尤其涉及变现、成瘾性设计与消费者保护。休闲游戏从业者应关注其合规风险及对F2P商业模式的潜在影响。</description>
     <category>行业资讯</category>
     <author>Game Developer</author>
-    <pubDate>Wed, 11 Nov 2026 18:15:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/production/genai-using-developers-say-they-mostly-use-it-for-research-and-brainstorming-</guid>
+    <pubDate>Fri, 13 Nov 2026 18:32:59 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development</guid>
   </item>
   <item>
-    <title>手游发行商Fortis Games关闭，多达440名员工受影响</title>
-    <link>https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected</link>
-    <description>手游发行商Fortis Games宣布关闭，影响至多440名员工。该消息反映移动游戏市场的整合与成本压力，对休闲手游团队有警示意义，但不涉及玩法或运营拆解。</description>
+    <title>MapleStory 系列 Q3 收入增长 72%，带动 Nexon 整体业绩</title>
+    <link>https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-drives-overall-growth-for-nexon</link>
+    <description>Nexon 第三季度各项指标全面超预期，MapleStory IP 收入同比增长 72% 成为主要驱动力。可作为长线运营 IP 与手游化变现能力的参考数据点。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Wed, 11 Nov 2026 09:10:30 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected</guid>
+    <pubDate>Fri, 13 Nov 2026 09:33:30 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-drives-overall-growth-for-nexon</guid>
   </item>
   <item>
-    <title>Rovio在土耳其工作室Ruby Games裁员20人</title>
-    <link>https://mobilegamer.biz/rovio-cuts-20-staff-at-turkish-studio-ruby-games/</link>
-    <description>Rovio对旗下土耳其工作室Ruby Games裁员20人，工作室不会关闭，小团队将继续运营现有产品。该消息反映休闲手游公司持续优化成本，但以公司动态为主。</description>
+    <title>《Dressmaker》开发秘辛：Ruan Rothmann 与 Sara Laubscher 访谈</title>
+    <link>https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher</link>
+    <description>文章围绕2026年独立游戏黑马 Dressmaker 的开发幕后，采访 Ruan Rothmann 与 Sara Laubscher，讨论从创意到成品的制作过程与挑战。对休闲游戏从业者而言，可参考小团队创意验证与项目管理经验，但内容不涉及三消/消除玩法、关卡数值或变现设计。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Fri, 13 Nov 2026 16:05:43 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher</guid>
+  </item>
+  <item>
+    <title>新游速递：PUBG、Transformers、Plants Vs Zombies、Football Manager、Prince of Persia 等</title>
+    <link>https://mobilegamer.biz/new-game-digest-pubg-transformers-plants-vs-zombies-football-manager-prince-of-persia-more/</link>
+    <description>汇总本周手游新作、软发布和测试动态，包括 Outfit7 新作软启动及 Plants Vs Zombies 等 IP 新产品。适合从业者快速扫描竞品与新游趋势，但非深度拆解。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Wed, 11 Nov 2026 17:33:58 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/rovio-cuts-20-staff-at-turkish-studio-ruby-games/</guid>
+    <pubDate>Fri, 13 Nov 2026 10:22:37 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/new-game-digest-pubg-transformers-plants-vs-zombies-football-manager-prince-of-persia-more/</guid>
   </item>
   <item>
-    <title>NC 联席 CEO Byung-moo Park：2027 年营收将超过 3 万亿韩元</title>
-    <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHA0aFdJdHdGeGJ2MDF4LVdYQ2dnYS1vRGI5T0NVQy1QRU9zRXU2Z2Jzb1JHSlZVT0owR3Fua0VQUjZOLTRVaGNJSGNQMS1CTURGNFZKamJ5NU1sU2hJdXlSNWM0ZWMzMzd5NnlUcXRfSFhoU1RDZE1rYkRVZXlzTkJMMjBnQkJ4Qm54Q2R6c0IzRWpxenNxYjdWN2NlV3NkcGJQTFM3eTV3djFxeUNn?oc=5</link>
-    <description>报道 NC 联席 CEO 对公司营收目标和业务前景的表态，属于韩国游戏公司动态与市场资讯。与休闲消除品类的玩法、数值和商业化直接关联较弱。</description>
+    <title>Steam 的提交与审核积压迫使独立开发者推迟游戏发布</title>
+    <link>https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches</link>
+    <description>多家独立开发者因 Steam 游戏提交与审核流程延迟而被迫推迟上线。文章属于平台发行流程动态，对关注发行节奏与平台风险的从业者有参考价值，但与三消/休闲手游设计运营关联一般。</description>
     <category>行业资讯</category>
-    <author>Google News</author>
-    <pubDate>Wed, 11 Nov 2026 08:53:06 +0800</pubDate>
-    <guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxNdHA0aFdJdHdGeGJ2MDF4LVdYQ2dnYS1vRGI5T0NVQy1QRU9zRXU2Z2Jzb1JHSlZVT0owR3Fua0VQUjZOLTRVaGNJSGNQMS1CTURGNFZKamJ5NU1sU2hJdXlSNWM0ZWMzMzd5NnlUcXRfSFhoU1RDZE1rYkRVZXlzTkJMMjBnQkJ4Qm54Q2R6c0IzRWpxenNxYjdWN2NlV3NkcGJQTFM3eTV3djFxeUNn?oc=5</guid>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Fri, 13 Nov 2026 12:00:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches</guid>
+  </item>
+  <item>
+    <title>Nvidia 的 Jensen Huang 因被曝与涉嫌中国间谍及两名员工有婚外情而辞去 CEO 职务</title>
+    <link>https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees</link>
+    <description>Nvidia 联合创始人 Jensen Huang 辞去总裁、CEO 和董事会成员职务。该消息属于游戏硬件与科技公司重大人事动态，对行业生态有间接影响，但与休闲消除手游无直接关系。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Fri, 13 Nov 2026 08:12:50 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees</guid>
+  </item>
+  <item>
+    <title>《巫师3》开发团队用 AI 帮助波兰配音演员在中风后重演杰洛特</title>
+    <link>https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai</link>
+    <description>曾为《巫师》系列主角杰洛特配音的波兰演员 Jacek Rozenek 因中风无法继续演出，本人同意后在《巫师3》新资料片中通过 AI 技术还原其声线。对从业者而言，这是 AI 语音在成熟 IP 中延续角色演出的一次实际案例，可参考其授权与制作流程。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Fri, 13 Nov 2026 15:28:34 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai</guid>
+  </item>
+  <item>
+    <title>如何保护你的 IP 不被 AI 克隆大军蚕食</title>
+    <link>https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones</link>
+    <description>生成式 AI 在游戏开发中的使用激增，2026 年 10 月 Steam Next Fest 的 8000 多款 Demo 中大量涉及 AI 生成。文章讨论厂商如何通过法律与产品手段防御 AI 换皮抄袭，对手游团队应对同质化竞品有一定借鉴意义。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Fri, 13 Nov 2026 15:00:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones</guid>
+  </item>
+  <item>
+    <title>“局面很疯狂”——投资人与发行商谈 AI 山寨潮、可发现性危机等议题</title>
+    <link>https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more</link>
+    <description>来自伦敦 AI and Games Conference 的发行与投资圆桌，讨论 AI 山寨产品、买量可发现性危机对融资与发行的影响。对关注买量市场与获客成本的休闲手游从业者有一定参考价值。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Fri, 13 Nov 2026 12:04:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more</guid>
+  </item>
+  <item>
+    <title>研究显示使用 Unreal Engine 与 Unity 的开发者正在减少</title>
+    <link>https://gameworldobserver.com/2026/11/13/fewer-developers-are-using-unreal-engine-and-unity-according-to-a-study</link>
+    <description>GDC 调研指出两大主流引擎的开发者使用率持续下滑。属于引擎与研发工具链层面的行业趋势数据，对技术选型有参考，但与休闲玩法设计无关。</description>
+    <category>行业资讯</category>
+    <author>Game World Observer</author>
+    <pubDate>Fri, 13 Nov 2026 14:59:25 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/11/13/fewer-developers-are-using-unreal-engine-and-unity-according-to-a-study</guid>
   </item>
   </channel>
 </rss>
