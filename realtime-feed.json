@@ -1,6 +1,147 @@
 {
-  "updated_at": "2026-11-13T11:54:56",
+  "updated_at": "2026-11-13T12:29:26",
   "articles": [
+    {
+      "id": "4b421f0397",
+      "title": "Tripwire Interactive 宣布新发行计划后裁员",
+      "zh_desc": "《Killing Floor》工作室 Tripwire Interactive 裁员36人，前联合创始人对裁员原因发表争议性言论。属于欧美工作室组织与发行战略变动资讯，对休闲游戏设计运营的直接价值有限。",
+      "url": "https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-after-announcing-new-publishing-initiative",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-12T19:15:00",
+      "fetched_at": "2026-11-13T12:29:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Killing Floor 3",
+          "desc": "合作生存恐怖第一人称射击游戏续作，发行后表现不及前作。"
+        },
+        {
+          "name": "Killing Floor 2",
+          "desc": "合作生存恐怖第一人称射击游戏，是Killing Floor 3的前作。"
+        },
+        {
+          "name": "Maneater 2",
+          "desc": "开放世界鲨鱼题材动作角色扮演游戏续作，正在开发中。"
+        }
+      ]
+    },
+    {
+      "id": "61cc6f38aa",
+      "title": "第二份 2026 年游戏行业现状调查？完全可能！ft. Beth Elderkin 与 Imran Khan",
+      "zh_desc": "GameDeveloper.com 播客加更，讨论 GDC Festival of Gaming 第二份行业现状报告及游戏开发领域新数据。可作为了解全球开发者情绪与市场趋势的辅助信息。",
+      "url": "https://www.gamedeveloper.com/business/a-second-2026-state-of-the-game-industry-survey-it-can-happen-ft-beth-elderkin-imran-khan",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-12T17:31:00",
+      "fetched_at": "2026-11-13T12:29:26",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "2ecb60f555",
+      "title": "Nvidia CEO 黄仁勋因可能造成损害的婚外情辞职",
+      "zh_desc": "报道称黄仁勋在多项具有法律风险的感情风波曝光后辞去 Nvidia CEO 职务。属于大型科技与游戏硬件公司高层变动，对休闲游戏直接设计运营参考有限。",
+      "url": "https://www.gamedeveloper.com/business/nvidia-ceo-jensen-huang-resigns-after-scandal",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-12T16:15:03",
+      "fetched_at": "2026-11-13T12:29:26",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "0658eb4d69",
+      "title": "GDC 的 Mark DeLoura 回应 2026 年参会人数下滑，并披露 2027 年调整计划",
+      "zh_desc": "GDC 主办方称对 2026 年参会人数下降 30% 并不慌乱，并介绍 2027 年活动调整。可观察开发者大会生态与行业交流热度变化。",
+      "url": "https://www.gamesindustry.biz/gdcs-mark-deloura-addresses-the-events-dip-in-attendance-in-2026-as-he-details-the-planned-changes-for-2027",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-12T17:00:00",
+      "fetched_at": "2026-11-13T12:29:26",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "179a62580b",
+      "title": "Eve Online 开发商 Fenris Creations 为开源 Carbon 引擎加入新渲染技术",
+      "zh_desc": "Fenris Creations 为 Carbon 引擎加入 CORTAO 渲染技术，声称可提升阴影准确度与景深表现。属于游戏引擎技术进展，对三消/消除手游的即时参考有限。",
+      "url": "https://www.gamesindustry.biz/eve-online-maker-fenris-creations-is-adding-a-rendering-technique-to-its-open-source-carbon-engine-that-promises-more-accurate-shading-and-greater-depth",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-12T14:00:00",
+      "fetched_at": "2026-11-13T12:29:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Eve Online",
+          "desc": "太空题材大型多人在线角色扮演游戏，由Fenris Creations开发。"
+        }
+      ]
+    },
+    {
+      "id": "3f42f25c62",
+      "title": "Black Forest Games 从 THQ Nordic 管理层收购独立，并联合创立 Third Signal",
+      "zh_desc": "Black Forest Games 通过管理层收购脱离 THQ Nordic，并参与创立独立工作室集团 Third Signal。可作为欧美工作室重组与独立化趋势的行业参考。",
+      "url": "https://www.gamesindustry.biz/black-forest-games-spins-out-from-thq-nordic-co-founds-indie-studio-group-third-signal",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-12T11:53:40",
+      "fetched_at": "2026-11-13T12:29:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Destroy All Humans",
+          "desc": "科幻喜剧风格的动作冒险游戏，Black Forest Games以重制版闻名。"
+        }
+      ]
+    },
+    {
+      "id": "4f2c01c98f",
+      "title": "受裁员的 Id Software 开发者成立员工所有制工作室 Hidden Horses",
+      "zh_desc": "受 Xbox 大规模裁员影响的 Id Software 开发者组建员工所有制独立工作室 Hidden Horses。反映大厂裁员后的人才流动与独立工作室趋势。",
+      "url": "https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-12T10:17:40",
+      "fetched_at": "2026-11-13T12:29:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Danger Pay",
+          "desc": "单人第一人称射击游戏，是Hidden Horses通过Kickstarter筹资的首个项目。"
+        },
+        {
+          "name": "Doom (2016)",
+          "desc": "id Software重启的第一人称射击游戏，被用来对比团队规模。"
+        }
+      ]
+    },
+    {
+      "id": "063c97cb6c",
+      "title": "Fredrik Wester 卸任 Paradox Interactive CEO",
+      "zh_desc": "Paradox Interactive CEO Fredrik Wester 将卸任，副 CEO Mattias Lilja 于2027年1月4日接任。属于公司高层变动资讯，与休闲游戏关联较弱。",
+      "url": "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-12T08:34:30",
+      "fetched_at": "2026-11-13T12:29:26",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Vampire: The Masquerade – Bloodlines 2",
+          "desc": "黑暗世界背景的吸血鬼角色扮演游戏续作，表现不佳导致Paradox利润下滑。"
+        }
+      ]
+    },
     {
       "id": "f2b62a0150",
       "title": "三分之一开发者称过去两年内被裁员",
