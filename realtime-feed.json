@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-14T00:10:52",
+  "updated_at": "2026-11-14T00:51:32",
   "articles": [
+    {
+      "id": "fb915a79ef",
+      "title": "《Dressmaker》开发秘辛：Ruan Rothmann 与 Sara Laubscher 访谈",
+      "zh_desc": "文章围绕2026年独立游戏黑马 Dressmaker 的开发幕后，采访 Ruan Rothmann 与 Sara Laubscher，讨论从创意到成品的制作过程与挑战。对休闲游戏从业者而言，可参考小团队创意验证与项目管理经验，但内容不涉及三消/消除玩法、关卡数值或变现设计。",
+      "url": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-13T16:05:43",
+      "fetched_at": "2026-11-14T00:51:32",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dressmaker",
+          "desc": "一款以制衣为主题的低调制作类游戏，由 Free Lives 开发，并成为 2026 年意外爆款。"
+        },
+        {
+          "name": "Broforce",
+          "desc": "Free Lives 开发的以“傻气”风格著称的动作游戏之一。"
+        },
+        {
+          "name": "Genital Jousting",
+          "desc": "Free Lives 开发的以“傻气”风格著称的动作游戏之一。"
+        },
+        {
+          "name": "Gorn",
+          "desc": "Free Lives 开发的以“傻气”风格著称的动作游戏之一。"
+        }
+      ]
+    },
     {
       "id": "56ba0b263b",
       "title": "《Digital Fairness Act》是一笔十年才到期的账单 | 观点",
