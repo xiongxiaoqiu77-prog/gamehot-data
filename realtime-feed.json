@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-14T03:10:06",
+  "updated_at": "2026-11-15T02:43:53",
   "articles": [
+    {
+      "id": "b55d8246e9",
+      "title": "益智游戏收入几乎追平策略游戏——Sensor Tower 总结 2026 年第三季度移动游戏市场",
+      "zh_desc": "Sensor Tower 发布 2026 年第三季度移动游戏市场总结，指出益智类收入已几乎追平策略类。该数据有助于休闲游戏从业者判断品类增长、收入格局与竞争趋势。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyOHZPajFNZzZUd2xCZnIzREpMYXdfc3Bfc2FiOVFHenhQMTVnMkZEajM0SHNxYlJsaEo1dlFpR2Q2c3hJTGJPOTlobmhuUzdfOWxCRA?oc=5",
+      "source": "重点游戏-Gossip Harbor",
+      "category": "行业资讯",
+      "score": 9,
+      "published_at": "2026-11-12T21:19:53",
+      "fetched_at": "2026-11-15T02:43:53",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "3858eeb042",
       "title": "Steam 的提交与审核积压迫使独立开发者推迟游戏发布",
