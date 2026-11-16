@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-17T01:48:36",
+  "updated_at": "2026-11-17T02:22:47",
   "articles": [
+    {
+      "id": "c246aeaa99",
+      "title": "Unity高管回应收购传闻：“猜测和头条很常见”",
+      "zh_desc": "Unity产品高级副总裁Adam Smith表示，并购猜测往往会在强劲季度业绩后出现。内容属于引擎公司资本与市场动态资讯，对了解Unity生态有一定参考，但不涉及休闲游戏玩法、数值或变现分析。",
+      "url": "https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-16T18:14:49",
+      "fetched_at": "2026-11-17T02:22:47",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "d5d095052a",
       "title": "Paradox Interactive 任命新 CEO",
