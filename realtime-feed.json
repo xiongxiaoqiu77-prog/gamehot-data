@@ -1,6 +1,92 @@
 {
-  "updated_at": "2026-11-17T04:35:37",
+  "updated_at": "2026-11-17T06:13:16",
   "articles": [
+    {
+      "id": "ee8c6f5478",
+      "title": "宫本茂成为 DICE Awards 首个 Legend Award 得主",
+      "zh_desc": "美国互动艺术与科学学院（AIAS）宣布，任天堂早期游戏总监、创意 fellow 宫本茂将获得第 30 届 D.I.C.E. Awards 新设的 Legend Award，并成为首位获奖者。该消息属于行业荣誉类新闻，对休闲游戏从业者没有直接的玩法或变现参考价值。",
+      "url": "https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-16T20:15:00",
+      "fetched_at": "2026-11-17T06:13:16",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Donkey Kong",
+          "desc": "任天堂经典街机平台游戏，由宫本茂创作并成为其代表性作品之一。"
+        },
+        {
+          "name": "Mario",
+          "desc": "任天堂标志性平台游戏系列，文中作为宫本茂创造的代表性角色与游戏系列提及。"
+        },
+        {
+          "name": "Pokemon",
+          "desc": "宝可梦系列游戏，文中称宫本茂对年轻开发者的指导催生了该系列。"
+        },
+        {
+          "name": "Kirby",
+          "desc": "星之卡比系列游戏，文中称宫本茂对年轻开发者的指导催生了该系列。"
+        }
+      ]
+    },
+    {
+      "id": "87e5acac0e",
+      "title": "Xbox 透露 Project Helix：一台也能运行 PC 游戏的次世代主机",
+      "zh_desc": "Xbox 进一步披露了代号 Helix 的新主机信息，称其“也是一台能游玩 PC 游戏的主机”，但未给出具体规格与实现方式。该消息为主机硬件方向的公司动态，与休闲手游设计关联较弱。",
+      "url": "https://www.gamedeveloper.com/console/new-xbox-codenamed-helix-gets-a-few-new-details",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-16T16:36:14",
+      "fetched_at": "2026-11-17T06:13:16",
+      "lang": "en",
+      "games": [
+        {
+          "name": "League of Legends",
+          "desc": "多人在线战术竞技（MOBA）游戏，文中提及 Riot 将为其推出 New Dawn 大型改造。"
+        }
+      ]
+    },
+    {
+      "id": "bc0ae9d60f",
+      "title": "宫本茂将在第 30 届 DICE Awards 获首届 Legend Award",
+      "zh_desc": "与第 0 条内容相同：AIAS 设立的全新 Legend Award 首位获奖者为任天堂的宫本茂。属于行业荣誉新闻，对休闲消除类游戏的设计与运营没有实质参考价值。",
+      "url": "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-16T18:37:20",
+      "fetched_at": "2026-11-17T06:13:16",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Donkey Kong",
+          "desc": "任天堂1981年推出的经典街机平台游戏，是宫本茂早期代表作。"
+        },
+        {
+          "name": "Super Mario Bros.",
+          "desc": "任天堂经典横版平台游戏，文中列为宫本茂开发代表作之一。"
+        },
+        {
+          "name": "The Legend of Zelda",
+          "desc": "任天堂动作冒险游戏系列，文中列为宫本茂开发代表作之一。"
+        },
+        {
+          "name": "Pikmin",
+          "desc": "任天堂皮克敏系列游戏，文中列为宫本茂参与开发的系列之一。"
+        },
+        {
+          "name": "Wii Sports",
+          "desc": "任天堂体感体育聚会游戏，文中列为宫本茂开发代表作之一。"
+        },
+        {
+          "name": "Wii Fit",
+          "desc": "任天堂体感健身游戏，文中列为宫本茂开发代表作之一。"
+        }
+      ]
+    },
     {
       "id": "f7ab11599f",
       "title": "Riot公布 League of Legends 大型更新「New Dawn」",
