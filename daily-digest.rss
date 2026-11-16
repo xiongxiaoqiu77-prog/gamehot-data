@@ -5,96 +5,114 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 14 Nov 2026 07:01:17 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:00:33 +0800</lastBuildDate>
   <item>
-    <title>欧盟新提案可能对免费游玩游戏施加严格限制</title>
-    <link>https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development</link>
-    <description>《数字公平法案》若获通过，可能显著改变欧洲乃至全球免费游玩游戏的研发与发行方式，尤其涉及变现、成瘾性设计与消费者保护。休闲游戏从业者应关注其合规风险及对F2P商业模式的潜在影响。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Fri, 13 Nov 2026 18:32:59 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development</guid>
-  </item>
-  <item>
-    <title>MapleStory 系列 Q3 收入增长 72%，带动 Nexon 整体业绩</title>
-    <link>https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-drives-overall-growth-for-nexon</link>
-    <description>Nexon 第三季度各项指标全面超预期，MapleStory IP 收入同比增长 72% 成为主要驱动力。可作为长线运营 IP 与手游化变现能力的参考数据点。</description>
+    <title>Monster Hunter Outlanders 上线两周IAP收入超1020万美元</title>
+    <link>https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks</link>
+    <description>报道Monster Hunter Outlanders手游上线两周内应用内购收入超过1020万美元。可作为手游变现与IP改编产品表现的市场参考，但并非休闲消除品类的专业拆解。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Fri, 13 Nov 2026 09:33:30 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-drives-overall-growth-for-nexon</guid>
+    <pubDate>Mon, 16 Nov 2026 20:05:40 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks</guid>
   </item>
   <item>
-    <title>《Dressmaker》开发秘辛：Ruan Rothmann 与 Sara Laubscher 访谈</title>
-    <link>https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher</link>
-    <description>文章围绕2026年独立游戏黑马 Dressmaker 的开发幕后，采访 Ruan Rothmann 与 Sara Laubscher，讨论从创意到成品的制作过程与挑战。对休闲游戏从业者而言，可参考小团队创意验证与项目管理经验，但内容不涉及三消/消除玩法、关卡数值或变现设计。</description>
-    <category>行业资讯</category>
-    <author>Game Developer</author>
-    <pubDate>Fri, 13 Nov 2026 16:05:43 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher</guid>
-  </item>
-  <item>
-    <title>新游速递：PUBG、Transformers、Plants Vs Zombies、Football Manager、Prince of Persia 等</title>
-    <link>https://mobilegamer.biz/new-game-digest-pubg-transformers-plants-vs-zombies-football-manager-prince-of-persia-more/</link>
-    <description>汇总本周手游新作、软发布和测试动态，包括 Outfit7 新作软启动及 Plants Vs Zombies 等 IP 新产品。适合从业者快速扫描竞品与新游趋势，但非深度拆解。</description>
+    <title>10 月手游畅销榜：Honor of Kings、Roblox、Monopoly Go、Gossip Harbor 等</title>
+    <link>https://mobilegamer.biz/octobers-top-grossing-mobile-game-chart-honor-of-kings-roblox-monopoly-go-gossip-harbor-more/</link>
+    <description>基于 AppMagic 数据梳理 10 月全球手游收入排行并附分析，Monopoly Go、Gossip Harbor 等休闲及合并类产品表现具参考意义。可用于观察头部休闲品类的营收格局与梯队变化。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Fri, 13 Nov 2026 10:22:37 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/new-game-digest-pubg-transformers-plants-vs-zombies-football-manager-prince-of-persia-more/</guid>
+    <pubDate>Mon, 16 Nov 2026 11:35:37 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/octobers-top-grossing-mobile-game-chart-honor-of-kings-roblox-monopoly-go-gossip-harbor-more/</guid>
   </item>
   <item>
-    <title>Steam 的提交与审核积压迫使独立开发者推迟游戏发布</title>
-    <link>https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches</link>
-    <description>多家独立开发者因 Steam 游戏提交与审核流程延迟而被迫推迟上线。文章属于平台发行流程动态，对关注发行节奏与平台风险的从业者有参考价值，但与三消/休闲手游设计运营关联一般。</description>
+    <title>10 月手游下载榜：Roblox、Free Fire、Block Blast、Meowdoku、Brain Puzzle 等</title>
+    <link>https://mobilegamer.biz/octobers-mobile-game-download-chart-roblox-free-fire-block-blast-meowdoku-brain-puzzle-more/</link>
+    <description>基于 AppMagic 数据盘点 10 月全球手游下载榜，Block Blast、Meowdoku 等休闲解谜产品上榜。适合用于判断超休闲与轻解谜品类的获客趋势与题材风向。</description>
     <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Fri, 13 Nov 2026 12:00:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches</guid>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Mon, 16 Nov 2026 11:35:08 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/octobers-mobile-game-download-chart-roblox-free-fire-block-blast-meowdoku-brain-puzzle-more/</guid>
   </item>
   <item>
-    <title>Nvidia 的 Jensen Huang 因被曝与涉嫌中国间谍及两名员工有婚外情而辞去 CEO 职务</title>
-    <link>https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees</link>
-    <description>Nvidia 联合创始人 Jensen Huang 辞去总裁、CEO 和董事会成员职务。该消息属于游戏硬件与科技公司重大人事动态，对行业生态有间接影响，但与休闲消除手游无直接关系。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Fri, 13 Nov 2026 08:12:50 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees</guid>
-  </item>
-  <item>
-    <title>《巫师3》开发团队用 AI 帮助波兰配音演员在中风后重演杰洛特</title>
-    <link>https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai</link>
-    <description>曾为《巫师》系列主角杰洛特配音的波兰演员 Jacek Rozenek 因中风无法继续演出，本人同意后在《巫师3》新资料片中通过 AI 技术还原其声线。对从业者而言，这是 AI 语音在成熟 IP 中延续角色演出的一次实际案例，可参考其授权与制作流程。</description>
+    <title>宫本茂成为 DICE Awards 首个 Legend Award 得主</title>
+    <link>https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards</link>
+    <description>美国互动艺术与科学学院（AIAS）宣布，任天堂早期游戏总监、创意 fellow 宫本茂将获得第 30 届 D.I.C.E. Awards 新设的 Legend Award，并成为首位获奖者。该消息属于行业荣誉类新闻，对休闲游戏从业者没有直接的玩法或变现参考价值。</description>
     <category>行业资讯</category>
     <author>Game Developer</author>
-    <pubDate>Fri, 13 Nov 2026 15:28:34 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai</guid>
+    <pubDate>Mon, 16 Nov 2026 20:15:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards</guid>
   </item>
   <item>
-    <title>如何保护你的 IP 不被 AI 克隆大军蚕食</title>
-    <link>https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones</link>
-    <description>生成式 AI 在游戏开发中的使用激增，2026 年 10 月 Steam Next Fest 的 8000 多款 Demo 中大量涉及 AI 生成。文章讨论厂商如何通过法律与产品手段防御 AI 换皮抄袭，对手游团队应对同质化竞品有一定借鉴意义。</description>
+    <title>Xbox 透露 Project Helix：一台也能运行 PC 游戏的次世代主机</title>
+    <link>https://www.gamedeveloper.com/console/new-xbox-codenamed-helix-gets-a-few-new-details</link>
+    <description>Xbox 进一步披露了代号 Helix 的新主机信息，称其“也是一台能游玩 PC 游戏的主机”，但未给出具体规格与实现方式。该消息为主机硬件方向的公司动态，与休闲手游设计关联较弱。</description>
     <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Fri, 13 Nov 2026 15:00:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones</guid>
+    <author>Game Developer</author>
+    <pubDate>Mon, 16 Nov 2026 16:36:14 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/console/new-xbox-codenamed-helix-gets-a-few-new-details</guid>
   </item>
   <item>
-    <title>“局面很疯狂”——投资人与发行商谈 AI 山寨潮、可发现性危机等议题</title>
-    <link>https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more</link>
-    <description>来自伦敦 AI and Games Conference 的发行与投资圆桌，讨论 AI 山寨产品、买量可发现性危机对融资与发行的影响。对关注买量市场与获客成本的休闲手游从业者有一定参考价值。</description>
+    <title>Riot公布 League of Legends 大型更新「New Dawn」</title>
+    <link>https://www.gamedeveloper.com/pc/riot-unveils-new-dawn-the-next-evolution-of-league-of-legends</link>
+    <description>Riot在2026全球总决赛上公布League of Legends的新时代更新New Dawn，但公开细节有限。属于端游重大版本资讯，与休闲消除品类关联较弱。</description>
     <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Fri, 13 Nov 2026 12:04:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more</guid>
+    <author>Game Developer</author>
+    <pubDate>Mon, 16 Nov 2026 19:15:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/pc/riot-unveils-new-dawn-the-next-evolution-of-league-of-legends</guid>
   </item>
   <item>
-    <title>研究显示使用 Unreal Engine 与 Unity 的开发者正在减少</title>
-    <link>https://gameworldobserver.com/2026/11/13/fewer-developers-are-using-unreal-engine-and-unity-according-to-a-study</link>
-    <description>GDC 调研指出两大主流引擎的开发者使用率持续下滑。属于引擎与研发工具链层面的行业趋势数据，对技术选型有参考，但与休闲玩法设计无关。</description>
+    <title>Unity高管回应收购传闻：“猜测和头条很常见”</title>
+    <link>https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors</link>
+    <description>Unity产品高级副总裁Adam Smith表示，并购猜测往往会在强劲季度业绩后出现。内容属于引擎公司资本与市场动态资讯，对了解Unity生态有一定参考，但不涉及休闲游戏玩法、数值或变现分析。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Mon, 16 Nov 2026 18:14:49 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors</guid>
+  </item>
+  <item>
+    <title>Paradox Interactive 任命新 CEO</title>
+    <link>https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ceo</link>
+    <description>Paradox Interactive 现任 CEO Fredrik Wester 退休，将职责交给副 CEO Mattias Lilja。该消息属于公司管理层变动，对三消/休闲手游的设计、运营与变现直接参考有限。</description>
+    <category>行业资讯</category>
+    <author>Game Developer</author>
+    <pubDate>Mon, 16 Nov 2026 17:15:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ceo</guid>
+  </item>
+  <item>
+    <title>Coffee Stain 在开发商破产后收购 Chronicles: Medieval 版权</title>
+    <link>https://gameworldobserver.com/2026/11/16/coffee-stain-acquired-the-rights-to-chronicles-medieval-after-the-games-developers-went-bankrupt</link>
+    <description>Raw Power Games 破产后，Coffee Stain 获得中世纪动作游戏 Chronicles: Medieval 的版权，使项目仍有推出可能。属于游戏公司及产品动态，但与三消和休闲手游关联有限。</description>
     <category>行业资讯</category>
     <author>Game World Observer</author>
-    <pubDate>Fri, 13 Nov 2026 14:59:25 +0800</pubDate>
-    <guid isPermaLink="true">https://gameworldobserver.com/2026/11/13/fewer-developers-are-using-unreal-engine-and-unity-according-to-a-study</guid>
+    <pubDate>Mon, 16 Nov 2026 12:37:43 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/11/16/coffee-stain-acquired-the-rights-to-chronicles-medieval-after-the-games-developers-went-bankrupt</guid>
+  </item>
+  <item>
+    <title>Unity 推出 5 万美元资助计划，不占股、无需偿还</title>
+    <link>https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment</link>
+    <description>Unity Fellowship 计划面向计划在未来 12 个月内发布游戏的独立开发者，提供 5 万美元无偿资助，不要求股权也不要求还款。内容与上一条为同一事件的另一来源报道，属于行业扶持资讯。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Mon, 16 Nov 2026 13:00:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment</guid>
+  </item>
+  <item>
+    <title>招聘动态汇总：Stillfront、SciPlay、Scopely、King、Zynga、Playtika 等公司高层变动</title>
+    <link>https://mobilegamer.biz/jobs-digest-big-moves-at-stillfront-sciplay-scopely-king-zynga-playtika-and-more/</link>
+    <description>本期汇总涵盖 Stillfront、SciPlay、Scopely、King、Zynga、Playtika、Dream 等公司的人事变动，并涉及 Moonton、Voodoo、Tripledot、Belka Games、SuperPlay 等厂商。对关注休闲和手游赛道组织架构与人才流动的从业者，可作为了解竞争格局的参考。</description>
+    <category>行业资讯</category>
+    <author>Mobile Gamer Biz</author>
+    <pubDate>Mon, 16 Nov 2026 10:11:30 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/jobs-digest-big-moves-at-stillfront-sciplay-scopely-king-zynga-playtika-and-more/</guid>
+  </item>
+  <item>
+    <title>“玩家不讨厌广告，只讨厌糟糕的广告”——EA 与 Xbox 为何在游戏中植入广告</title>
+    <link>https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games</link>
+    <description>文章讨论 EA、Xbox 在 PC 与主机游戏中加大广告投放的趋势，以及广告体验设计的重要性。对研究变现与广告频次控制的手游从业者有一定借鉴，但主体并非移动休闲游戏市场。</description>
+    <category>行业资讯</category>
+    <author>GamesIndustry.biz</author>
+    <pubDate>Mon, 16 Nov 2026 13:30:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games</guid>
   </item>
   </channel>
 </rss>
