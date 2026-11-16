@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-11-17T02:22:47",
+  "updated_at": "2026-11-17T04:35:37",
   "articles": [
+    {
+      "id": "f7ab11599f",
+      "title": "Riot公布 League of Legends 大型更新「New Dawn」",
+      "zh_desc": "Riot在2026全球总决赛上公布League of Legends的新时代更新New Dawn，但公开细节有限。属于端游重大版本资讯，与休闲消除品类关联较弱。",
+      "url": "https://www.gamedeveloper.com/pc/riot-unveils-new-dawn-the-next-evolution-of-league-of-legends",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-16T19:15:00",
+      "fetched_at": "2026-11-17T04:35:37",
+      "lang": "en",
+      "games": [
+        {
+          "name": "League of Legends",
+          "desc": "在线MOBA，文章讨论其名为New Dawn的大型更新与新时代。"
+        },
+        {
+          "name": "2XKO",
+          "desc": "以《英雄联盟》角色为卖点的格斗游戏，文中作为Riot拓展IP的尝试被提及。"
+        }
+      ]
+    },
+    {
+      "id": "55ba08109c",
+      "title": "Monster Hunter Outlanders 上线两周IAP收入超1020万美元",
+      "zh_desc": "报道Monster Hunter Outlanders手游上线两周内应用内购收入超过1020万美元。可作为手游变现与IP改编产品表现的市场参考，但并非休闲消除品类的专业拆解。",
+      "url": "https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-16T20:05:40",
+      "fetched_at": "2026-11-17T04:35:37",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monster Hunter Outlanders",
+          "desc": "基于Capcom《怪物猎人》系列的开放世界RPG手游，由Level Infinite和Garena发行，上线两周IAP收入超1020万美元。"
+        },
+        {
+          "name": "Monster Hunter Now",
+          "desc": "Scopely的《怪物猎人》手游，文章作为收入对比对象提及，自2023年以来收入约1.936亿美元。"
+        }
+      ]
+    },
     {
       "id": "c246aeaa99",
       "title": "Unity高管回应收购传闻：“猜测和头条很常见”",
