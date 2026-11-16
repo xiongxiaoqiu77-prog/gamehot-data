@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-17T00:41:22",
+  "updated_at": "2026-11-17T01:48:36",
   "articles": [
+    {
+      "id": "d5d095052a",
+      "title": "Paradox Interactive 任命新 CEO",
+      "zh_desc": "Paradox Interactive 现任 CEO Fredrik Wester 退休，将职责交给副 CEO Mattias Lilja。该消息属于公司管理层变动，对三消/休闲手游的设计、运营与变现直接参考有限。",
+      "url": "https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ceo",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-16T17:15:00",
+      "fetched_at": "2026-11-17T01:48:36",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "c620ea3032",
+      "title": "Coffee Stain 在开发商破产后收购 Chronicles: Medieval 版权",
+      "zh_desc": "Raw Power Games 破产后，Coffee Stain 获得中世纪动作游戏 Chronicles: Medieval 的版权，使项目仍有推出可能。属于游戏公司及产品动态，但与三消和休闲手游关联有限。",
+      "url": "https://gameworldobserver.com/2026/11/16/coffee-stain-acquired-the-rights-to-chronicles-medieval-after-the-games-developers-went-bankrupt",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-16T12:37:43",
+      "fetched_at": "2026-11-17T01:48:36",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Chronicles: Medieval",
+          "desc": "中世纪动作游戏，风格类似《骑马与砍杀》，背景设定在百年战争时期，计划2027年开启抢先体验。"
+        },
+        {
+          "name": "Mount & Blade",
+          "desc": "中世纪沙盒动作RPG，以开放世界、骑马战斗和势力经营为特点，文中作为《Chronicles: Medieval》的风格参照。"
+        }
+      ]
+    },
     {
       "id": "e9b51b2560",
       "title": "Unity 推出新奖学金计划，为独立开发者提供资金与专属支持",
