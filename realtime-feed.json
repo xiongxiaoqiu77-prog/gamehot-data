@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-15T02:43:53",
+  "updated_at": "2026-11-16T14:53:36",
   "articles": [
+    {
+      "id": "0549458010",
+      "title": "Discord 的 IPO 之路需要游戏开发者",
+      "zh_desc": "文章分析 Discord 在筹备 IPO 过程中面临的业务转型，以及为何游戏开发者仍是其增长与估值的关键。对关注游戏社区平台、发行与用户获取的从业者，可了解平台战略变化及潜在合作机会。",
+      "url": "https://naavik.co/weekly-digest/discords-path-to-ipo-needs-game-developers/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-15T06:06:40",
+      "fetched_at": "2026-11-16T14:53:36",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "一个用户生成内容驱动的多人游戏平台，拥有大量由玩家创作的体验和社区服务器。"
+        },
+        {
+          "name": "Steal a Brainrot",
+          "desc": "一款在 Roblox 上流行的多人体验，其 Discord 服务器拥有约 740 万成员。"
+        },
+        {
+          "name": "Marvel Rivals",
+          "desc": "一款团队英雄射击游戏，其 Discord 服务器拥有约 410 万成员。"
+        },
+        {
+          "name": "Valorant",
+          "desc": "一款战术英雄射击游戏，其 Discord 服务器拥有约 300 万成员。"
+        }
+      ]
+    },
     {
       "id": "b55d8246e9",
       "title": "益智游戏收入几乎追平策略游戏——Sensor Tower 总结 2026 年第三季度移动游戏市场",
