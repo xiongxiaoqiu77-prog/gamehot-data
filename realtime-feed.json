@@ -1,6 +1,84 @@
 {
-  "updated_at": "2026-11-17T00:07:25",
+  "updated_at": "2026-11-17T00:41:22",
   "articles": [
+    {
+      "id": "e9b51b2560",
+      "title": "Unity 推出新奖学金计划，为独立开发者提供资金与专属支持",
+      "zh_desc": "Unity 将挑选十位开发者，各提供 5 万美元以及「资源、支持和网络」，帮助他们在开发冲刺的最后阶段完成并上线游戏。这是面向独立开发者的扶持政策资讯，对中小团队的资金规划有一定参考价值。",
+      "url": "https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-16T13:00:00",
+      "fetched_at": "2026-11-17T00:41:22",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Valheim",
+          "desc": "维京题材的生存建造沙盒游戏，以合作探索、建造和战斗为特点。"
+        },
+        {
+          "name": "Hollow Knight: Silksong",
+          "desc": "手绘风格的类银河战士恶魔城动作冒险游戏，以高难度战斗和探索著称。"
+        },
+        {
+          "name": "Among Us",
+          "desc": "多人社交推理游戏，玩家在合作完成任务的同时找出隐藏的内鬼。"
+        }
+      ]
+    },
+    {
+      "id": "5ff09c9649",
+      "title": "Unity 推出 5 万美元资助计划，不占股、无需偿还",
+      "zh_desc": "Unity Fellowship 计划面向计划在未来 12 个月内发布游戏的独立开发者，提供 5 万美元无偿资助，不要求股权也不要求还款。内容与上一条为同一事件的另一来源报道，属于行业扶持资讯。",
+      "url": "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-16T13:00:00",
+      "fetched_at": "2026-11-17T00:41:22",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Coral Reef",
+          "desc": "Stairway Games 的独立游戏项目，文中仅提及获 Epic MegaGrants 资助，未说明具体类型。"
+        },
+        {
+          "name": "Little Bird",
+          "desc": "Chris Perry 的独立游戏项目，文中仅提及获 Epic MegaGrants 资助，未说明具体类型。"
+        },
+        {
+          "name": "No Captain Allowed",
+          "desc": "9heads Game Studios 的独立游戏项目，文中仅提及获 Epic MegaGrants 资助，未说明具体类型。"
+        }
+      ]
+    },
+    {
+      "id": "532417757b",
+      "title": "招聘动态汇总：Stillfront、SciPlay、Scopely、King、Zynga、Playtika 等公司高层变动",
+      "zh_desc": "本期汇总涵盖 Stillfront、SciPlay、Scopely、King、Zynga、Playtika、Dream 等公司的人事变动，并涉及 Moonton、Voodoo、Tripledot、Belka Games、SuperPlay 等厂商。对关注休闲和手游赛道组织架构与人才流动的从业者，可作为了解竞争格局的参考。",
+      "url": "https://mobilegamer.biz/jobs-digest-big-moves-at-stillfront-sciplay-scopely-king-zynga-playtika-and-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-16T10:11:30",
+      "fetched_at": "2026-11-17T00:41:22",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Royal Match",
+          "desc": "Dream Games 开发的皇家主题三消益智手游。"
+        },
+        {
+          "name": "Mobile Legends: Bang Bang",
+          "desc": "Moonton 开发的团队竞技 MOBA 手游。"
+        },
+        {
+          "name": "Hole.io",
+          "desc": "Voodoo 的休闲竞技手游，玩家操控黑洞吞噬场景中的物体。"
+        }
+      ]
+    },
     {
       "id": "e4d181050b",
       "title": "“玩家不讨厌广告，只讨厌糟糕的广告”——EA 与 Xbox 为何在游戏中植入广告",
