@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-16T14:53:36",
+  "updated_at": "2026-11-16T15:59:54",
   "articles": [
+    {
+      "id": "da33fccabe",
+      "title": "广告 ARPDAU 正在上升：头部产品涨幅达 54%",
+      "zh_desc": "GameAnalytics 数据显示，2026 年移动市场各层级广告 ARPDAU 均上升，头部产品涨幅最快达 54%。文章分析推动广告变现效率提升的主要因素，为休闲手游广告变现与买量回收提供基准参考。",
+      "url": "https://www.gameanalytics.com/blog/ad-arpdau-is-rising-2026",
+      "source": "GameAnalytics",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-16T07:57:02",
+      "fetched_at": "2026-11-16T15:59:54",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "0549458010",
       "title": "Discord 的 IPO 之路需要游戏开发者",
