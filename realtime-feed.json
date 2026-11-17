@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-17T09:39:18",
+  "updated_at": "2026-11-17T10:44:49",
   "articles": [
+    {
+      "id": "4ea542756a",
+      "title": "Coffee Stain 从破产的 Raw Power Games 收购《Chronicles: Medieval》IP",
+      "zh_desc": "Coffee Stain Group 已同意从破产的 Raw Power Games 收购《Chronicles: Medieval》的 IP 及相关资产。该交易反映游戏行业 IP 资产流转，对三消/消除类手游的直接参考有限，但可作为中小团队资产处置的行业动态关注。",
+      "url": "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-16T17:56:40",
+      "fetched_at": "2026-11-17T10:44:49",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Chronicles: Medieval",
+          "desc": "一款围绕建造和指挥军队的沙盒游戏，自2022年开始开发，并位列Steam愿望单前30。"
+        }
+      ]
+    },
     {
       "id": "9a04a6baad",
       "title": "Sensor Tower：GTA 6 预购额超 14 亿美元，其中 87% 为终极版",
