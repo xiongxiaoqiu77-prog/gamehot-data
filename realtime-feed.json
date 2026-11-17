@@ -1,6 +1,332 @@
 {
-  "updated_at": "2026-11-17T15:06:37",
+  "updated_at": "2026-11-18T07:37:46",
   "articles": [
+    {
+      "id": "5e1038d69b",
+      "title": "艺术家与两次死亡杀死了西方游戏开发，但我们能拯救它",
+      "zh_desc": "文章讨论生成式AI对西方游戏开发的影响，指出日本和中国已有86%采用，并分析差距背后的“两次死亡”及追赶路径。对从业者而言，可了解AI采用地域差异与产业观点，但与休闲玩法设计关联有限。",
+      "url": "https://www.deconstructoroffun.com/blog/artists-killed-western-game-development",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T13:08:23",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Arc Raiders",
+          "desc": "Embark Studios 的科幻 PvPvE 撤离射击游戏，文中称其因使用生成式AI语音而遭争议并重录语音。"
+        },
+        {
+          "name": "Clair Obscur",
+          "desc": "小团队制作的回合制RPG，文中称其本应成为拥抱新技术的范例，却被独立游戏奖撤销年度游戏。"
+        }
+      ]
+    },
+    {
+      "id": "a20450d254",
+      "title": "AI驱动的可玩世界如何重塑叙事",
+      "zh_desc": "Naavik播客讨论AI角色扮演正从聊天机器人演化为持久互动世界，Goodwater Capital的Jin Oh解释投资WRTN的理由及“可玩世界”这一新兴品类。对从业者而言，可观察AI互动叙事趋势，但非休闲三消直接设计分析。",
+      "url": "https://naavik.co/podcast/how-ai-powered-playable-worlds-are-reinventing-storytelling/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T14:16:39",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "abbf1904cc",
+      "title": "欧洲游戏工人工会发布宣言，警告不受约束的AI使用",
+      "zh_desc": "爱尔兰、西班牙和米兰的工会成员联合提出对生成式AI的担忧、问题与解决方案。对从业者而言，可了解欧洲劳工侧对AI治理的态度与行业动向。",
+      "url": "https://www.gamedeveloper.com/production/europe-s-game-worker-unions-publish-a-manifesto-warning-against-unchecked-ai-usage",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T21:21:17",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Witcher 3",
+          "desc": "CD Projekt Red 的开放世界动作RPG，文中关联链接提到开发者用AI帮助波兰配音演员在中风后重演杰洛特。"
+        }
+      ]
+    },
+    {
+      "id": "e7f3311475",
+      "title": "Take-Two在Grand Theft Auto VI发售前夕裁员Firaxis员工",
+      "zh_desc": "Firaxis是Take-Two旗下Rockstar的兄弟工作室，以Sid Meier's Civilization VII和Marvel's Midnight Suns闻名。对从业者而言，可关注大厂成本调整对工作室的影响。",
+      "url": "https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T16:07:35",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Sid Meier's Civilization VII",
+          "desc": "Firaxis 的回合制4X策略游戏，文中称其是工作室的核心策略游戏代表作之一。"
+        },
+        {
+          "name": "Marvel's Midnight Suns",
+          "desc": "Firaxis 的战术角色扮演游戏，结合漫威角色与卡牌战斗。"
+        },
+        {
+          "name": "XCOM",
+          "desc": "Firaxis 的回合制战术游戏系列，以小队战术和永久死亡机制著称。"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar Games 的开放世界动作冒险游戏，文中称其发售前夕 Take-Two 裁撤 Firaxis 员工。"
+        }
+      ]
+    },
+    {
+      "id": "c06a532617",
+      "title": "报道：Civilization开发商Firaxis裁员三分之一员工",
+      "zh_desc": "据Bloomberg的Jason Schreier报道，Firaxis裁员60人、占三分之一，工作室负责人Heather Hazen将离职。对从业者而言，可了解老牌策略工作室的重组动向。",
+      "url": "https://www.gamesindustry.biz/report-civilization-dev-firaxis-lays-off-a-third-of-its-staff-following-development-difficulties-with-xcom-sequel",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T17:33:10",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Civilization",
+          "desc": "Firaxis 的4X策略游戏系列，文中称工作室以《文明》和《XCOM》闻名。"
+        },
+        {
+          "name": "XCOM",
+          "desc": "Firaxis 的回合制战术游戏系列，文中称新作开发遇挫并可能因裁员调整。"
+        },
+        {
+          "name": "Enemy Unknown 2",
+          "desc": "文中提到的上一部 XCOM 作品（实际为 XCOM 2），2016 年发售的回合制战术游戏。"
+        },
+        {
+          "name": "Civilization VII",
+          "desc": "Firaxis 去年推出的4X策略游戏，文中作为工作室近期作品提及。"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar Games 的开放世界动作冒险游戏，文中称其预购额已超14亿美元、远超预期。"
+        }
+      ]
+    },
+    {
+      "id": "bb9ef384a6",
+      "title": "认识这家为西方IP寻找中国游戏开发者的公司",
+      "zh_desc": "Yodo1 Games与AMC Global Media达成战略数字授权合作，将寻找并支持中国开发者基于AMC旗下影视IP制作游戏。对从业者而言，可观察IP授权与中外合作模式。",
+      "url": "https://www.gamesindustry.biz/meet-the-company-that-finds-chinese-game-developers-to-work-on-western-ip",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T16:24:30",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Genshin Impact",
+          "desc": "米哈游的开放世界动作RPG/抽卡游戏，文中作为中国游戏进入欧美市场的代表。"
+        },
+        {
+          "name": "Human: Fall Flat",
+          "desc": "物理模拟解谜平台游戏，文中称其在中国走红并达到6000万玩家。"
+        }
+      ]
+    },
+    {
+      "id": "7c0f011140",
+      "title": "英国法庭驳回20亿英镑PlayStation集体诉讼，该诉讼指控PlayStation Store 30%抽成不公平定价",
+      "zh_desc": "长期集体诉讼指控Sony垄断和价格操纵，英国竞争机构在审判后予以驳回。对从业者而言，可关注平台抽成争议与相关法律风险动态。",
+      "url": "https://www.gamesindustry.biz/uk-tribunal-dismisses-2bn-playstation-class-action-suit-which-alleged-unfair-pricing-over-30-cut-on-playstation-store",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T16:17:40",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "d3d81318f6",
+      "title": "Roblox推出创作者计划，开发者可免费将游戏带到其平台",
+      "zh_desc": "Roblox新计划允许开发者免费将现有游戏转换到Roblox平台。对从业者而言，可关注UGC平台的获客与移植机会，但与三消玩法设计关联有限。",
+      "url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T15:07:20",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台，推出免费代理转换工具让开发者将现有游戏带到该平台。"
+        }
+      ]
+    },
+    {
+      "id": "3dfa576925",
+      "title": "IWGB游戏工人工会牵头发布行业生成式AI使用宣言",
+      "zh_desc": "六个欧洲游戏工人工会发布宣言，审视生成式AI在游戏行业的使用及影响。对从业者而言，可了解AI治理与劳工诉求的最新动向。",
+      "url": "https://www.gamesindustry.biz/iwgb-game-workers-union-leads-manifesto-on-generative-ai-use-in-the-industry",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T14:28:00",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "40dd4a4d9d",
+      "title": "Unity收购3D资产创作者Synty Studios；艺术家创作内容将整合进AI游戏创作平台Unity Spark",
+      "zh_desc": "Unity收购新西兰低多边形3D资产工作室Synty Studios，并将艺术家创作内容整合到Unity Spark。对从业者而言，可关注开发工具与AI创作管线变化。",
+      "url": "https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studios-artist-created-content-to-be-integrated-into-ai-game-creation-platform-unity-spark",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T09:53:30",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "11da8be12b",
+      "title": "里斯本Studio Bravarda关闭，因最新作Extremely Powerful Capybaras未能收回开发成本",
+      "zh_desc": "独立开发商Studio Bravarda宣布关闭，第二作Extremely Powerful Capybaras三年未能回本。对从业者而言，是独立游戏商业风险的案例参考。",
+      "url": "https://www.gamesindustry.biz/lisbon-based-studio-bravarda-closes-down-after-failing-to-recoup-dev-costs-on-its-most-recent-title-extremely-powerful-capybaras",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T08:55:00",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Extremely Powerful Capybaras",
+          "desc": "Bravarda 的多人游戏，曾获 Gamescom Latam 最佳多人，但发售时在线稳定性问题导致未收回成本。"
+        },
+        {
+          "name": "Sky Caravan",
+          "desc": "Bravarda 2022年5月发行的首款叙事冒险游戏。"
+        }
+      ]
+    },
+    {
+      "id": "13bb1da3eb",
+      "title": "新一波单人AI游戏制作者赚钱了吗？并没有",
+      "zh_desc": "用Claude Code等AI工具制作的游戏正涌入应用商店，但很少有可观收入或下载。对从业者而言，提醒AI降低制作门槛不等于获客与变现成功，对休闲手游赛道有参考价值。",
+      "url": "https://mobilegamer.biz/are-the-new-wave-of-solo-ai-game-makers-making-any-money-no-not-really/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-17T16:19:43",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "38-0-0",
+          "desc": "足球选秀/组队游戏，曾登英国 App Store 榜首，靠广告和IAP变现。"
+        },
+        {
+          "name": "Tennis Tycoon",
+          "desc": "网球经营模拟游戏，由退休网球选手用 Claude 制作，销售额约3000美元。"
+        },
+        {
+          "name": "Sprout: Cozy Idle Garden",
+          "desc": "Claude 制作的休闲放置花园游戏，下载量和收入极低。"
+        },
+        {
+          "name": "Zen Ten Match",
+          "desc": "使用 Claude Code 等工具制作的匹配益智游戏，玩家数和收入都很少。"
+        }
+      ]
+    },
+    {
+      "id": "9aa37d8597",
+      "title": "Netflix Games裁员，团队“转变做游戏的方式”",
+      "zh_desc": "Netflix确认少量游戏员工被裁，团队调整游戏制作方式。对从业者而言，可关注订阅平台游戏战略与组织变化。",
+      "url": "https://mobilegamer.biz/netflix-games-lays-off-staff-as-team-shifts-how-it-approaches-making-games/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T11:59:05",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Squid Game Unleashed",
+          "desc": "Netflix 基于《鱿鱼游戏》IP 的游戏，由已被关闭的 Boss Fight 开发。"
+        }
+      ]
+    },
+    {
+      "id": "16f6198a4e",
+      "title": "虚假移动游戏广告：英国监管机构加强监测，美国机构保持不介入",
+      "zh_desc": "文章询问英美广告监管机构如何应对虚假移动游戏广告，英国加强监测而美国机构较少介入。对从业者而言，可关注买量素材合规与平台监管风险。",
+      "url": "https://mobilegamer.biz/fake-mobile-game-ads-uk-regulator-steps-up-monitoring-while-us-agencies-stay-hands-off/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-17T10:24:47",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Farm Heroes Saga",
+          "desc": "King 的农场主题三消手游，因广告展示与实际玩法不符被 ASA 点名。"
+        },
+        {
+          "name": "Pixel Flow",
+          "desc": "被 ASA 点名涉及虚假广告的移动游戏。"
+        },
+        {
+          "name": "Dark War Survival",
+          "desc": "Omnilojo 发行的末日生存策略手游，因虚假广告被 ASA 禁止。"
+        },
+        {
+          "name": "Genshin Impact",
+          "desc": "米哈游的开放世界动作RPG/抽卡游戏，文中提到 FTC 对 Cognosphere 的抽奖概率指控。"
+        },
+        {
+          "name": "Solitaire Smash",
+          "desc": "Play Perfect 的纸牌接龙游戏，是 NAD 2024 年处理的移动游戏案例之一。"
+        },
+        {
+          "name": "Solitaire Arena",
+          "desc": "Mobile Fox 的纸牌接龙游戏，是 NAD 2024 年处理的移动游戏案例之一。"
+        }
+      ]
+    },
+    {
+      "id": "ba225cdc8f",
+      "title": "Unity收购Synty Studios，POLYGON资产线创作者",
+      "zh_desc": "Unity宣布收购新西兰低多边形3D资产工作室Synty Studios。对从业者而言，可关注开发工具与资产生态变化，但与休闲玩法设计关联有限。",
+      "url": "https://gameworldobserver.com/2026/11/17/unity-has-acquired-synty-studios-the-creators-of-the-polygon-asset-line",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T14:16:23",
+      "fetched_at": "2026-11-18T07:37:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Dispatch",
+          "desc": "使用 Synty Studios 资产的游戏之一，文中作为 POLYGON 资产应用案例提及。"
+        },
+        {
+          "name": "Tabletop Tavern",
+          "desc": "使用 Synty Studios 资产的桌面酒馆题材游戏，文中作为 POLYGON 资产应用案例提及。"
+        }
+      ]
+    },
     {
       "id": "7ab5c75f9f",
       "title": "Newzoo：GTA 6 预购玩家是典型主机用户但以男性为主；游戏将“扩大市场而非简单重新分配”",
