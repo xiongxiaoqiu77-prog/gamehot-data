@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-17T10:44:49",
+  "updated_at": "2026-11-17T15:06:37",
   "articles": [
+    {
+      "id": "7ab5c75f9f",
+      "title": "Newzoo：GTA 6 预购玩家是典型主机用户但以男性为主；游戏将“扩大市场而非简单重新分配”",
+      "zh_desc": "Newzoo独家数据显示，GTA 6预购者以高消费男性主机玩家为主，且大多有系列付费史。报告认为该作会扩大整体市场，而非仅从其他游戏分流用户；对休闲三消从业者参考有限，但可关注用户画像与市场扩容逻辑。",
+      "url": "https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-are-archetypal-console-players-but-overwhelmingly-male-game-will-grow-the-market-rather-than-simply-redistribute-it",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T07:00:00",
+      "fetched_at": "2026-11-17T15:06:37",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "《GTA》系列新作，文章分析其预购玩家以高消费主机用户为主并将扩大市场。"
+        },
+        {
+          "name": "GTA 5",
+          "desc": "《GTA》系列前作，文章提到部分GTA 6预购者曾购买其完整游戏。"
+        },
+        {
+          "name": "GTA Online",
+          "desc": "《GTA 5》的在线多人模式，文章提到部分GTA 6预购者曾在其上消费。"
+        }
+      ]
+    },
     {
       "id": "4ea542756a",
       "title": "Coffee Stain 从破产的 Raw Power Games 收购《Chronicles: Medieval》IP",
