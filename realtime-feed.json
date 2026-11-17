@@ -1,6 +1,80 @@
 {
-  "updated_at": "2026-11-17T06:13:16",
+  "updated_at": "2026-11-17T09:39:18",
   "articles": [
+    {
+      "id": "9a04a6baad",
+      "title": "Sensor Tower：GTA 6 预购额超 14 亿美元，其中 87% 为终极版",
+      "zh_desc": "Sensor Tower 估算 GTA 6 预购收入已超过 14 亿美元，且 87% 的订单为价格更高的终极版。对从业者而言，这是观察头部 3A 产品版本分层与高客单价付费结构的一个参考案例，但与休闲消除品类关联有限。",
+      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T01:00:00",
+      "fetched_at": "2026-11-17T09:39:18",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI（GTA 6）",
+          "desc": "开放世界动作冒险游戏，Rockstar Games 的《侠盗猎车手》系列新作，文中重点分析其预购表现与市场影响。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "战术竞技与大逃杀及建造玩法结合的多人射击游戏，文中被视为受 GTA 6 分流风险较高的作品。"
+        },
+        {
+          "name": "GTA Online",
+          "desc": "《侠盗猎车手》系列的多人线上模式，文中被列为可能受 GTA 6 分流影响的游戏之一。"
+        },
+        {
+          "name": "Grand Theft Auto V（GTA 5）",
+          "desc": "开放世界动作冒险游戏，文中用其与 Fortnite 的用户重叠情况分析 GTA 6 影响。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容与多人社交游戏平台，文中称其玩家群相对不易被 GTA 6 分流。"
+        },
+        {
+          "name": "Monster Hunter Wilds",
+          "desc": "动作角色扮演狩猎游戏，文中列为近期发行作品之一。"
+        },
+        {
+          "name": "Oblivion Remastered",
+          "desc": "开放世界角色扮演游戏《上古卷轴4：湮灭》的重制版，文中列为近期发行作品之一。"
+        },
+        {
+          "name": "Resident Evil Requiem",
+          "desc": "生存恐怖游戏，文中列为近期发行作品之一。"
+        },
+        {
+          "name": "Crimson Desert",
+          "desc": "开放世界动作冒险角色扮演游戏，文中列为近期发行作品之一。"
+        },
+        {
+          "name": "First Light",
+          "desc": "文中列为近期发行作品之一，具体类型未在文中展开说明。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "第一人称射击游戏系列，文中被列为 GTA 6 发售期可能流失玩家的作品。"
+        },
+        {
+          "name": "Battlefield",
+          "desc": "第一人称射击游戏系列，文中被列为可能受 GTA 6 影响的作品。"
+        },
+        {
+          "name": "Apex Legends",
+          "desc": "英雄战术竞技射击游戏，文中被列为可能受 GTA 6 影响的作品。"
+        },
+        {
+          "name": "EA Sports FC",
+          "desc": "足球体育游戏系列，文中被列为可能受 GTA 6 影响的作品。"
+        },
+        {
+          "name": "NBA 2K",
+          "desc": "篮球体育游戏系列，文中被列为可能受 GTA 6 影响的作品。"
+        }
+      ]
+    },
     {
       "id": "ee8c6f5478",
       "title": "宫本茂成为 DICE Awards 首个 Legend Award 得主",
