@@ -1,6 +1,32 @@
 {
-  "updated_at": "2026-11-18T08:11:09",
+  "updated_at": "2026-11-18T09:55:56",
   "articles": [
+    {
+      "id": "91b57231d1",
+      "title": "Xbox 的 Project Helix「不是一台也能玩主机游戏的 PC」",
+      "zh_desc": "Xbox 次世代副总裁 Jason Ronald 澄清 Project Helix 的定位是「能玩游戏的游戏主机」，而非「能玩主机游戏的 PC」。属于主机硬件与平台战略资讯，对休闲手游的直接参考有限。",
+      "url": "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T11:44:00",
+      "fetched_at": "2026-11-18T09:55:56",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "83903bbab2",
+      "title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
+      "zh_desc": "报道国区 App Store 将 AIGC 合规设为上架必填项，以及 OpenAI GPT-6.2 Astra、iPhone Duo 人脸解锁、松下 SHX1 等科技动态。App Store 合规变化对使用 AIGC 的移动游戏团队有间接提醒价值，但文章整体为综合科技早报。",
+      "url": "https://sspai.com/post/119210",
+      "source": "少数派",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-18T00:46:03",
+      "fetched_at": "2026-11-18T09:55:56",
+      "lang": "zh",
+      "games": []
+    },
     {
       "id": "101fa158ee",
       "title": "Zelda 与 Grand Theft Auto 领衔 2027 Game Awards 提名",
