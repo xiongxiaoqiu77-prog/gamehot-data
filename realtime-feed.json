@@ -1,6 +1,90 @@
 {
-  "updated_at": "2026-11-19T00:04:16",
+  "updated_at": "2026-11-19T01:12:15",
   "articles": [
+    {
+      "id": "9331148111",
+      "title": "关于GTA 6的18条未经请求的第三方统计数据",
+      "zh_desc": "文章汇总GTA 6发售前后涌现的第三方营销统计与媒体数据，反映这款大作引发的全球关注。对休闲游戏从业者而言，更多是行业热点观察，而非可直接借鉴的玩法或商业化分析。",
+      "url": "https://www.gamesindustry.biz/18-unsolicited-third-party-statistics-about-gta-6",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-18T17:03:10",
+      "fetched_at": "2026-11-19T01:12:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar备受期待的开放世界动作冒险新作，文章围绕其发售带来的玩家行为、预载与市场影响展开。"
+        }
+      ]
+    },
+    {
+      "id": "a81a2ae311",
+      "title": "Sam Houser：在GTA 6中，Rockstar“试图创造一种超越期待并展示该媒介潜力的体验”",
+      "zh_desc": "Rockstar总裁兼联合创始人Sam Houser在GTA 6发售时发表罕见声明，庆祝游戏首发及媒体口碑。内容属于头部大作发布动态，对休闲手游的直接参考价值有限。",
+      "url": "https://www.gamesindustry.biz/sam-houser-with-gta-6-rockstar-tried-to-create-an-experience-that-will-exceed-your-expectations-while-showing-what-this-medium-is-capable-of",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-18T15:56:30",
+      "fetched_at": "2026-11-19T01:12:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar开放世界动作冒险系列新作，背景设定在Leonida与现代Vice City，强调叙事与世界体验。"
+        }
+      ]
+    },
+    {
+      "id": "9960be321d",
+      "title": "GTA 6尚未全面发售便创下媒体评分与直播观众纪录",
+      "zh_desc": "文章报道GTA 6在欧洲和美国等主要市场正式发售前，已刷新媒体评分和直播观看纪录。属于重大新游发布资讯，与休闲消除品类的设计运营关联较弱。",
+      "url": "https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-18T15:24:20",
+      "fetched_at": "2026-11-19T01:12:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar开放世界动作冒险新作，发售前便创下媒体评分与直播观众纪录。"
+        },
+        {
+          "name": "Valorant",
+          "desc": "Riot的战术射击游戏，其2020年封测曾保持直播同时观看人数纪录。"
+        },
+        {
+          "name": "The Legend of Zelda: Ocarina of Time",
+          "desc": "任天堂经典动作冒险游戏，1998年原版在Metacritic以22篇评测获得99分。"
+        }
+      ]
+    },
+    {
+      "id": "35127336bb",
+      "title": "分析师：第三季度主机出货量同比下降36.5%至640万台，正值大作发售前",
+      "zh_desc": "S&P Global Market Intelligence Kagan数据显示，第三季度主机出货量同比下滑36.5%至640万台。文章提供硬件市场数据，可作为行业大盘参考，但与休闲手游的直接关联有限。",
+      "url": "https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-units-during-q3-on-run-up-to-major-releases",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-18T10:58:50",
+      "fetched_at": "2026-11-19T01:12:15",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "Rockstar开放世界动作冒险大作，分析认为其可短期提振硬件销售但受主机高价限制。"
+        },
+        {
+          "name": "The Legend of Zelda: Ocarina of Time remake",
+          "desc": "《塞尔达传说：时之笛》重制版，文章提及此类大作可能临时带动硬件销量。"
+        }
+      ]
+    },
     {
       "id": "6a32dccd75",
       "title": "GTA 6 媒体共识：历经 13 年等待后获得普遍赞誉",
