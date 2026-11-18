@@ -1,6 +1,154 @@
 {
-  "updated_at": "2026-11-19T01:46:05",
+  "updated_at": "2026-11-19T03:54:59",
   "articles": [
+    {
+      "id": "3774508d4a",
+      "title": "《Clair Obscur: Expedition 33》叙事主管希望改变游戏资金分配方式",
+      "zh_desc": "《Clair Obscur: Expedition 33》叙事主管 Jennifer Svedberg-Yen 在获奖后呼吁重新思考游戏资金优先事项。该文属游戏行业观点新闻，对休闲游戏玩法、数值与变现的直接参考有限。",
+      "url": "https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrative-lead-wants-to-change-game-funding",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-18T19:02:15",
+      "fetched_at": "2026-11-19T03:54:59",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Clair Obscur: Expedition 33",
+          "desc": "2025年广受好评、获奖众多的叙事驱动游戏，其叙事主管正推动改变游戏资金分配方式。"
+        }
+      ]
+    },
+    {
+      "id": "e2998966d3",
+      "title": "Build a Rocket Boy 起诉所谓“破坏者”以偿还 6170 万英镑债务",
+      "zh_desc": "MindsEye 开发商 Build a Rocket Boy 负债 6170 万英镑，计划通过起诉所谓“破坏者”追偿。该文属公司经营与诉讼动态，与休闲游戏设计运营无直接关系。",
+      "url": "https://www.gamesindustry.biz/build-a-rocket-boy-pursuing-litigation-against-alleged-saboteurs-to-repay-617m-in-debt",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-18T14:56:40",
+      "fetched_at": "2026-11-19T03:54:59",
+      "lang": "en",
+      "games": [
+        {
+          "name": "MindsEye",
+          "desc": "Build a Rocket Boy于2025年发行的游戏，其商业表现引发争议并成为诉讼与债务追偿话题的一部分。"
+        }
+      ]
+    },
+    {
+      "id": "4233954382",
+      "title": "GTA 6 以八项提名领跑 2026 年 The Game Awards",
+      "zh_desc": "GTA 6 获得 2026 年 The Game Awards 八项提名，包括年度游戏。该文属头部主机/PC 游戏奖项新闻，对休闲手游从业者参考有限。",
+      "url": "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-18T09:12:10",
+      "fetched_at": "2026-11-19T03:54:59",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "Rockstar Games的开放世界动作冒险游戏，以八项提名领跑2026年TGA并入围年度游戏。"
+        },
+        {
+          "name": "Control Resonant",
+          "desc": "Remedy/Annapurna的科幻动作游戏，获六项提名并入围年度游戏。"
+        },
+        {
+          "name": "Resident Evil Requiem",
+          "desc": "Capcom的生存恐怖游戏，获六项提名并入围年度游戏。"
+        },
+        {
+          "name": "The Legend of Zelda: Ocarina of Time",
+          "desc": "任天堂的经典动作冒险游戏，获四项提名并入围年度游戏。"
+        },
+        {
+          "name": "007 First Light",
+          "desc": "IO Interactive的詹姆斯·邦德题材动作冒险游戏，获四项提名并入围年度游戏。"
+        },
+        {
+          "name": "Big Walk",
+          "desc": "House House的合作步行冒险游戏，获四项提名。"
+        },
+        {
+          "name": "Clair Obscur: Expedition 33",
+          "desc": "2025年TGA九项大奖得主，曾获12项提名并夺得年度游戏的叙事驱动RPG。"
+        },
+        {
+          "name": "Phantom Blade Zero",
+          "desc": "S-GAME的动作RPG，获年度游戏和最佳游戏指导等提名。"
+        },
+        {
+          "name": "Pragmata",
+          "desc": "Capcom的科幻动作冒险游戏，获最佳游戏指导提名。"
+        },
+        {
+          "name": "The Blood of Dawnwalker",
+          "desc": "Rebel Wolves/Bandai Namco的黑暗奇幻动作RPG，获最佳叙事提名。"
+        },
+        {
+          "name": "Mouse: P.I. For Hire",
+          "desc": "Fumi/PlaySide的卡通风格侦探射击游戏，获最佳艺术指导提名。"
+        },
+        {
+          "name": "Ace Combat 8: Wings of Theve",
+          "desc": "Bandai Namco Aces/Bandai Namco的空战游戏，获最佳配乐和最佳音效设计提名。"
+        },
+        {
+          "name": "Mixtape",
+          "desc": "Beethoven & Dinosaur/Annapurna的音乐叙事冒险游戏，获最佳配乐提名。"
+        },
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "Fuse Games/Secret Mode的星球大战题材赛车游戏，获最佳音效设计提名。"
+        },
+        {
+          "name": "Assassin's Creed Black Flag Resynced",
+          "desc": "Ubisoft Singapore/Ubisoft的刺客信条黑旗重制版，获无障碍创新提名。"
+        },
+        {
+          "name": "Forza Horizon 6",
+          "desc": "Playground Games/Xbox Game Studios的开放世界赛车游戏，获无障碍创新提名。"
+        },
+        {
+          "name": "Gears of War: E-Day",
+          "desc": "The Coalition/Xbox Game Studios的第三人称射击游戏，获无障碍创新提名。"
+        },
+        {
+          "name": "Marvel's Wolverine",
+          "desc": "Insomniac/Sony Interactive的超级英雄动作冒险游戏，获无障碍创新提名。"
+        },
+        {
+          "name": "Rhythm Heaven Groove",
+          "desc": "任天堂的节奏游戏，获无障碍创新提名。"
+        }
+      ]
+    },
+    {
+      "id": "ca67aeb548",
+      "title": "如何在动荡时期打造有归属感的公司文化",
+      "zh_desc": "文章讨论游戏行业动荡期如何建设积极的公司文化。属组织管理话题，对休闲游戏团队管理有一般性启发，但并非玩法、变现或 LiveOps 分析。",
+      "url": "https://www.gamesindustry.biz/how-to-build-a-welcoming-company-culture-in-times-of-turmoil",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-18T08:30:00",
+      "fetched_at": "2026-11-19T03:54:59",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Rogue Fortune",
+          "desc": "Glowmade当前正在开发的新作，文中作为工作室文化讨论背景提及。"
+        },
+        {
+          "name": "King of Meat",
+          "desc": "Glowmade此前开发的游戏，文中作为工作室过往作品提及。"
+        }
+      ]
+    },
     {
       "id": "a962448615",
       "title": "Arknights: Endfield 获评 Google Play 2026 年度最佳游戏",
