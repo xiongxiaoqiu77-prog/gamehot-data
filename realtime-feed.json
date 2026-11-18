@@ -1,6 +1,102 @@
 {
-  "updated_at": "2026-11-18T07:37:46",
+  "updated_at": "2026-11-18T08:11:09",
   "articles": [
+    {
+      "id": "101fa158ee",
+      "title": "Zelda 与 Grand Theft Auto 领衔 2027 Game Awards 提名",
+      "zh_desc": "2027 Game Awards 提名名单公布，Grand Theft Auto VI 与 The Legend of Zelda: Ocarina of Time 主导多个奖项。该文属于主机/PC 游戏奖项资讯，对休闲三消从业者仅有行业风向参考，没有玩法、数值或变现层面的分析。",
+      "url": "https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headline-the-nominees-for-the-2027-game-awards",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T19:29:31",
+      "fetched_at": "2026-11-18T08:11:09",
+      "lang": "en",
+      "games": [
+        {
+          "name": "007 First Light",
+          "desc": "IO Interactive 的詹姆斯·邦德题材动作冒险游戏，入围年度游戏与最佳叙事等奖项。"
+        },
+        {
+          "name": "Control Resonant",
+          "desc": "Remedy/Annapurna 的超自然动作游戏，入围年度游戏与最佳游戏指导等奖项。"
+        },
+        {
+          "name": "Phantom Blade Zero",
+          "desc": "S-Game 的武侠/暗黑功夫动作RPG，入围年度游戏与最佳游戏指导等奖项。"
+        },
+        {
+          "name": "Resident Evil Requiem",
+          "desc": "Capcom 的生存恐怖新作，入围年度游戏、最佳叙事和最佳表演等奖项。"
+        },
+        {
+          "name": "The Legend of Zelda: Ocarina of Time",
+          "desc": "任天堂1998年经典动作冒险游戏的重制版，在本届提名中获四项提名。"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar 的开放世界犯罪题材大作，获七项提名且文章发布时尚未发售。"
+        },
+        {
+          "name": "Pragmata",
+          "desc": "Capcom 的科幻动作游戏，入围最佳游戏指导。"
+        },
+        {
+          "name": "The Blood of Dawnwalker",
+          "desc": "Rebel Wolves/Bandai Namco 的黑暗奇幻动作RPG，入围最佳叙事。"
+        },
+        {
+          "name": "Marvel's Wolverine",
+          "desc": "Insomniac/Sony 的金刚狼超级英雄动作冒险游戏，入围最佳表演与无障碍创新。"
+        },
+        {
+          "name": "Saros",
+          "desc": "入围最佳表演奖的动作游戏。"
+        },
+        {
+          "name": "Assassin's Creed Black Flag Resynced",
+          "desc": "Ubisoft 的海盗题材开放世界动作冒险重制/同步版，入围无障碍创新。"
+        },
+        {
+          "name": "Forza Horizon 6",
+          "desc": "Playground Games/Xbox Game Studios 的开放世界竞速游戏，入围无障碍创新。"
+        },
+        {
+          "name": "Gears of War: E-Day",
+          "desc": "The Coalition/Xbox Game Studios 的第三人称射击前传，入围无障碍创新。"
+        },
+        {
+          "name": "Rhythm Heaven Groove",
+          "desc": "任天堂的节奏音乐游戏，入围无障碍创新。"
+        }
+      ]
+    },
+    {
+      "id": "eccd110996",
+      "title": "Tanuki: Pon's Summer 希望在 Ocarina of Time 与 GTA 6 之间成为“可爱的小黑马”",
+      "zh_desc": "报道 Denkiworks 首作 Tanuki: Pon's Summer 选择在 Ocarina of Time 重制版与 GTA 6 的发售窗口之间上线，讨论小团队错峰发行的策略。属于独立游戏发行资讯，对休闲游戏发行排期有一定参考，但缺少玩法与商业化拆解。",
+      "url": "https://www.gamesindustry.biz/tanuki-pons-summer-is-hoping-to-be-a-lovely-little-underdog-between-ocarina-of-time-and-gta-6",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-17T15:01:00",
+      "fetched_at": "2026-11-18T08:11:09",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Tanuki: Pon's Summer",
+          "desc": "Denkiworks 的舒适开放世界冒险游戏，玩家扮演骑 BMX 的狸猫 Pon 送包裹并修复神社。"
+        },
+        {
+          "name": "The Legend of Zelda: Ocarina of Time",
+          "desc": "任天堂经典动作冒险游戏的重制版，是 Tanuki 发售窗口的主要竞品之一。"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar 的开放世界犯罪大作，Tanuki 团队刻意避开其首发档期。"
+        }
+      ]
+    },
     {
       "id": "5e1038d69b",
       "title": "艺术家与两次死亡杀死了西方游戏开发，但我们能拯救它",
