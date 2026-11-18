@@ -1,6 +1,260 @@
 {
-  "updated_at": "2026-11-18T21:21:13",
+  "updated_at": "2026-11-19T00:04:16",
   "articles": [
+    {
+      "id": "6a32dccd75",
+      "title": "GTA 6 媒体共识：历经 13 年等待后获得普遍赞誉",
+      "zh_desc": "文章汇总 GTA 6 在 13 年等待后获得普遍好评，并提到超 1700 万预购和 16 亿美元收入。它展示顶级 IP 的市场表现，但对休闲游戏设计的直接参考有限。",
+      "url": "https://www.gamesindustry.biz/grand-theft-auto-6-critical-consensus",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-18T14:38:20",
+      "fetched_at": "2026-11-19T00:04:16",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6（GTA 6）",
+          "desc": "开放世界动作冒险游戏，背景设定在Rockstar的Leonida，围绕Jason和Lucia展开，媒体评分99并获普遍赞誉。"
+        },
+        {
+          "name": "The Legend of Zelda: The Ocarina of Time",
+          "desc": "N64经典动作冒险游戏，被文章作为GTA 6之前Metacritic史上最佳游戏对比提及。"
+        }
+      ]
+    },
+    {
+      "id": "37828aaf74",
+      "title": "Rockstar 的 GTA 手游收入突破 9500 万美元，免费游玩竞品涌现",
+      "zh_desc": "文章指出 Rockstar 的 GTA 手游累计收入超过 9500 万美元，并介绍 Tencent、Chillbase、Hotta Studio 等免费游玩竞品借势 GTA VI 热度。对手游市场竞品观察有一定参考，但非休闲消除品类深度分析。",
+      "url": "https://mobilegamer.biz/rockstars-mobile-gta-games-pass-95m-as-free-to-play-contenders-emerge/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-18T15:01:16",
+      "fetched_at": "2026-11-19T00:04:16",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6（GTA VI）",
+          "desc": "即将发售的开放世界动作冒险游戏，文章提及Rockstar与Netflix合作揭示其首段实机画面。"
+        },
+        {
+          "name": "Grand Theft Auto: San Andreas",
+          "desc": "Rockstar的开放世界动作冒险GTA手游，文章列为GTA手游收入最高约5600万美元、790万下载。"
+        },
+        {
+          "name": "GTA: Vice City – Definitive",
+          "desc": "GTA罪恶都市重制版手游，文章列为约1660万美元收入、1250万下载。"
+        },
+        {
+          "name": "Bully: Anniversary Edition",
+          "desc": "Rockstar校园题材开放世界动作冒险手游周年纪念版，文章列为约880万美元收入。"
+        },
+        {
+          "name": "Grand Theft Auto III",
+          "desc": "GTA系列开放世界动作冒险手游，文章列为约750万美元收入。"
+        },
+        {
+          "name": "GTA: Liberty City Stories",
+          "desc": "GTA自由城故事手游，文章列为约500万美元收入和4200万下载。"
+        },
+        {
+          "name": "Grand Theft Auto: The Trilogy",
+          "desc": "经典GTA三部曲合集手游，文章列为约440万美元收入。"
+        },
+        {
+          "name": "GTA: Chinatown Wars",
+          "desc": "俯视角GTA掌机/手游作品，文章列为约370万美元收入和1650万下载。"
+        },
+        {
+          "name": "Max Payne Mobile",
+          "desc": "Rockstar第三人称射击游戏Max Payne的手游版，文章列为约230万美元收入。"
+        },
+        {
+          "name": "GTA: San Andreas – Definitive",
+          "desc": "圣安地列斯重制版手游，文章列为约190万美元收入。"
+        },
+        {
+          "name": "Red Dead Redemption",
+          "desc": "Rockstar西部题材开放世界动作冒险游戏手游版，文章列为约110万美元收入。"
+        },
+        {
+          "name": "GTA III – Definitive",
+          "desc": "GTA III重制版手游，文章列为约47.7万美元收入。"
+        },
+        {
+          "name": "NTE: Neverness to Everness",
+          "desc": "Hotta Studio开发的“动漫版GTA”风格开放世界RPG，跨PC/PS5/iOS/Android，手游收入约4640万美元。"
+        },
+        {
+          "name": "OneState RP: Role Play Online",
+          "desc": "Chillbase的GTA式开放世界角色扮演手游，2022年推出后估算收入约9020万美元。"
+        },
+        {
+          "name": "Tower of Fantasy",
+          "desc": "Hotta开发的开放世界RPG，作为NTE开发团队前作被提及。"
+        }
+      ]
+    },
+    {
+      "id": "a62898d9a4",
+      "title": "数据摘要：Pixel Flow、Monster Hunter、10 月热门游戏、Nintendo 数据等",
+      "zh_desc": "本周数据摘要汇总 Pixel Flow、Monster Hunter、10 月热门游戏、Nintendo 数据及多家公司业务更新。它可帮助从业者快速扫视手游与行业动态，但缺少对休闲玩法或变现的深度拆解。",
+      "url": "https://mobilegamer.biz/data-digest-pixel-flow-monster-hunter-octobers-top-games-nintendo-numbers-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-18T11:24:41",
+      "fetched_at": "2026-11-19T00:04:16",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Pixel Flow",
+          "desc": "Loom Games的混合休闲解谜游戏，2026年Q3以3130万美元IAP收入位居同类榜首。"
+        },
+        {
+          "name": "Colony Flow",
+          "desc": "以蚂蚁殖民地为机制的混合休闲解谜游戏，10月排名上升并反超Pixel Flow。"
+        },
+        {
+          "name": "Block Out",
+          "desc": "Grand Games的混合休闲解谜游戏，进入前十且下载量超过2890万。"
+        },
+        {
+          "name": "Monster Hunter Outlanders",
+          "desc": "腾讯Level Infinite和Garena发行的开放世界RPG怪物猎人手游，上线两周多IAP收入超1020万美元。"
+        },
+        {
+          "name": "Monster Hunter Now",
+          "desc": "Scopely的怪物猎人手游，自2023年以来收入1.936亿美元。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容游戏平台，10月移动端收入排名第一。"
+        },
+        {
+          "name": "Honor of Kings",
+          "desc": "腾讯MOBA手游，10月收入排名靠前。"
+        },
+        {
+          "name": "Gossip Harbor",
+          "desc": "合并解谜与剧情结合的手游，10月收入排名靠前。"
+        },
+        {
+          "name": "Royal Match",
+          "desc": "三消解谜手游，10月收入排名靠前。"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "冰雪生存策略手游，10月收入排名靠前。"
+        },
+        {
+          "name": "Free Fire",
+          "desc": "大逃杀射击手游，10月下载量第一。"
+        },
+        {
+          "name": "Block Blast",
+          "desc": "方块解谜手游，10月下载量排名靠前。"
+        },
+        {
+          "name": "Rotate Rings",
+          "desc": "旋转圆环解谜手游，8月上线后下载量1870万，10月下载第七。"
+        }
+      ]
+    },
+    {
+      "id": "9414991807",
+      "title": "Google Play 2026 年度最佳：Arknights: Endfield、Subway Surfers City 和 Zenless Zone Zero 获奖",
+      "zh_desc": "Google Play 公布 2026 年度最佳游戏，Arknights: Endfield、Subway Surfers City、Zenless Zone Zero 等获奖，Warframe、Sea of Stars、Deep Rock Galactic: Survivor 也在列。该文是平台奖项资讯，对观察手游品类趋势有轻度参考。",
+      "url": "https://mobilegamer.biz/google-plays-best-of-2026-arknights-endfield-subway-surfers-city-and-zenless-zone-zero-among-winners/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-18T09:27:19",
+      "fetched_at": "2026-11-19T00:04:16",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Arknights: Endfield",
+          "desc": "Gryphline的跨设备游戏，获Google Play 2026年度最佳游戏（除日韩外多数市场），并因Sidekick与PC跨端游玩受关注。"
+        },
+        {
+          "name": "Hololive Dreams",
+          "desc": "在日本区获得Google Play 2026年度最佳游戏的作品。"
+        },
+        {
+          "name": "MapleStory: Idle RPG",
+          "desc": "Nexon的放置RPG，获韩国区Google Play 2026年度最佳游戏。"
+        },
+        {
+          "name": "Moonlight Peaks",
+          "desc": "XSeed Games的吸血鬼农场模拟游戏，获最佳跨设备游戏。"
+        },
+        {
+          "name": "Neverness to Everness",
+          "desc": "Perfect World的跨设备游戏，在亚洲多个市场获最佳跨设备游戏。"
+        },
+        {
+          "name": "Warframe",
+          "desc": "Digital Extremes的多人游戏，获最佳多人游戏。"
+        },
+        {
+          "name": "Subway Surfers City",
+          "desc": "Sybo的即拿即玩游戏，获最佳即拿即玩游戏。"
+        },
+        {
+          "name": "Deep Rock Galactic: Survivor",
+          "desc": "Ghost Ship Publishing的独立游戏，获最佳独立游戏。"
+        },
+        {
+          "name": "Sea of Stars",
+          "desc": "Playdigious发行手游版，获最佳剧情游戏。"
+        },
+        {
+          "name": "Zenless Zone Zero",
+          "desc": "MiHoYo的持续运营动作游戏，获美洲和欧洲最佳持续运营游戏。"
+        },
+        {
+          "name": "Scarfall 2.0",
+          "desc": "Blast+ Games的印度制造游戏，获印度区最佳。"
+        },
+        {
+          "name": "Tukang Sate VS Ojol Rush",
+          "desc": "Own Games的印尼制造游戏，获印尼区最佳。"
+        },
+        {
+          "name": "Monster Hunter Outlanders",
+          "desc": "入围TGA 2026最佳移动游戏的开放世界RPG怪物猎人手游。"
+        },
+        {
+          "name": "Pokémon Champions",
+          "desc": "Pokémon系列对战游戏，入围TGA 2026最佳移动游戏。"
+        },
+        {
+          "name": "Where Winds Meet",
+          "desc": "开放世界武侠动作游戏，入围TGA 2026最佳移动游戏。"
+        }
+      ]
+    },
+    {
+      "id": "4961112530",
+      "title": "“史上最伟大游戏”：GTA VI 获现象级评价之际，Take-Two 市值上涨",
+      "zh_desc": "文章报道 GTA VI 获得现象级媒体评价后 Take-Two 市值上涨。它体现头部大作对资本市场的影响，但与休闲手游的设计和运营关联较弱。",
+      "url": "https://gameworldobserver.com/2026/11/18/the-greatest-game-of-all-time-amid-phenomenal-reviews-of-gta-vi-take-twos-market-value-rises",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-18T14:36:14",
+      "fetched_at": "2026-11-19T00:04:16",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA VI（GTA 6）",
+          "desc": "Rockstar开放世界动作冒险新作，媒体评分99并被称为“史上最伟大游戏”，推动Take-Two市值上涨。"
+        }
+      ]
+    },
     {
       "id": "0c14ad66b6",
       "title": "解读 SayGames 的 Barbie 联动与 My Perfect Hotel 背后的 LiveOps 策略",
