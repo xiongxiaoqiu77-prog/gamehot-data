@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-19T03:54:59",
+  "updated_at": "2026-11-19T04:28:20",
   "articles": [
+    {
+      "id": "75e142fa20",
+      "title": "PlayStation在26亿美元数字垄断诉讼中胜诉",
+      "zh_desc": "英国一项指控PlayStation利用数字垄断设定过高且不公平价格的26亿美元诉讼被驳回，且不会继续推进。该消息属于主机平台法律与商业动态，对三消/休闲手游从业者的直接参考价值有限。",
+      "url": "https://www.gamedeveloper.com/console/playstation-emerges-victorious-in-a-2-6-billion-lawsuit-alleging-a-digital-monopoly",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-18T18:14:35",
+      "fetched_at": "2026-11-19T04:28:20",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "3774508d4a",
       "title": "《Clair Obscur: Expedition 33》叙事主管希望改变游戏资金分配方式",
