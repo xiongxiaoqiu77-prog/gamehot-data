@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-18T09:55:56",
+  "updated_at": "2026-11-18T21:21:13",
   "articles": [
+    {
+      "id": "0c14ad66b6",
+      "title": "解读 SayGames 的 Barbie 联动与 My Perfect Hotel 背后的 LiveOps 策略",
+      "zh_desc": "文章拆解 SayGames 与 Barbie 的品牌联动，以及 My Perfect Hotel 的 LiveOps 运营策略。对休闲手游团队理解联动活动、长线运营与留存变现设计有参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWpSc29hYTF6RkNLYnEtQXFpenVKWDNWVU02cWRfaThJR0YydHQyNmlEeFJoRHB3NlBtUVhoVzBUV014NnZqV2hibXZGRzNRdklFbjJSckltdkwzV3RvaEhXTzhLMU1ha3RHRHk5Z0VLNTI5a2FFRjgxVGZtZkZvLTF6a0Y1NUxHa01Ub1ZCX3A3dWZBbEtDbWk0b3luVlA0QVY5SlkzbGZxSWVRWTRnY1NVMDhqQQ?oc=5",
+      "source": "Google News",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-11-18T12:29:00",
+      "fetched_at": "2026-11-18T21:21:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "My Perfect Hotel",
+          "desc": "SayGames 旗下酒店模拟经营游戏，标题提及围绕其展开 LiveOps 策略分析。"
+        }
+      ]
+    },
     {
       "id": "91b57231d1",
       "title": "Xbox 的 Project Helix「不是一台也能玩主机游戏的 PC」",
