@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-11-19T13:38:13",
+  "updated_at": "2026-11-20T02:11:28",
   "articles": [
+    {
+      "id": "f831f68692",
+      "title": "为何批准 Dressmaker 立项并不容易",
+      "zh_desc": "Free Lives 在预制作数据不看好受众的情况下仍推进 Dressmaker，并最终取得商业成功。文章讨论数据驱动立项与创作直觉之间的取舍，对休闲游戏立项和预制作评估有间接参考。",
+      "url": "https://www.gamedeveloper.com/marketing/why-greenlighting-dressmaker-wasn-t-an-easy-decision-to-make",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-19T15:57:43",
+      "fetched_at": "2026-11-20T02:11:28",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a965226aa8",
+      "title": "美国参议院听证会审视 Roblox 儿童安全，并考虑两党法案绕过强制仲裁",
+      "zh_desc": "美国参议院小组委员会就 Roblox 儿童安全举行听证会，并考虑允许家庭和受害者绕过强制仲裁的两党法案。该动态对面向儿童和青少年用户的移动游戏平台合规有间接参考。",
+      "url": "https://www.gamesindustry.biz/us-senate-hearing-examines-child-safety-on-roblox-considers-bipartisan-bill-to-bypass-forced-arbitration",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-19T11:52:10",
+      "fetched_at": "2026-11-20T02:11:28",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "1c1a1a2a9e",
+      "title": "新“反编译”视频称 Monopoly Go 借鉴老虎机机制，Royal Kingdom 暗中提高关卡难度",
+      "zh_desc": "数据科学家兼内容创作者 Ayoships 通过视频拆解称，Monopoly Go 的奖励与随机机制借鉴老虎机，而 Royal Kingdom 会动态提高关卡难度。该内容在 Instagram 获得百万级播放，对三消/消除类游戏的变现、难度曲线与伦理设计有直接参考价值。",
+      "url": "https://mobilegamer.biz/new-decompiling-videos-allege-monopoly-go-borrows-from-slot-machines-and-royal-kingdom-secretly-makes-levels-harder/",
+      "source": "Mobile Gamer Biz",
+      "category": "深度拆解",
+      "score": 9,
+      "published_at": "2026-11-19T13:44:48",
+      "fetched_at": "2026-11-20T02:11:28",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "8f173c3fa4",
+      "title": "Apple 公布 App Store Awards 入围名单，Arknights: Endfield、Dave the Diver 和 Ball x Pit 在列",
+      "zh_desc": "Apple 公布六大类别共 21 款游戏入围名单，获奖者将在未来几周揭晓。该资讯可用于观察移动游戏品质与平台推荐趋势，但与休闲消除玩法的直接关联有限。",
+      "url": "https://mobilegamer.biz/arknights-endfield-dave-the-diver-and-ball-x-pit-among-apples-app-store-awards-finalists/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-19T09:35:17",
+      "fetched_at": "2026-11-20T02:11:28",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "358b36159a",
+      "title": "前 Take-Two 负责人解释现代 AAA 游戏开发为何不可持续：就像把钱和人埋进土里",
+      "zh_desc": "前 Take-Two 负责人 Ben Feder 在采访中批评现代 AAA 游戏开发成本高企、不可持续，称其像把钱和人埋进土里。该观点有助于理解游戏产业成本结构，但与休闲手游的直接关联有限。",
+      "url": "https://gameworldobserver.com/2026/11/19/its-like-burying-money-and-people-in-the-ground-the-former-head-of-take-two-explained-why-developing-modern-aaa-games-is-unprofitable",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-19T14:18:25",
+      "fetched_at": "2026-11-20T02:11:28",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "1e6eec1d9a",
       "title": "腾讯2026低调新游DAU破1000万：榜单Top 1常客，专为日子人设计",
