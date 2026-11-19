@@ -1,6 +1,92 @@
 {
-  "updated_at": "2026-11-19T04:28:20",
+  "updated_at": "2026-11-19T09:49:41",
   "articles": [
+    {
+      "id": "9fb93aa91a",
+      "title": "派早报：Apple 年度应用与 TGA 2026 入围名单公布等",
+      "zh_desc": "汇总 Apple 年度应用、TGA 2026 入围名单、AMD 更新虚幻引擎 FSR 插件以及 Google Wallet 登陆 iOS 等消息。覆盖游戏与科技行业动态，但对休闲消除手游的设计和运营只有一般性资讯价值。",
+      "url": "https://sspai.com/post/119239",
+      "source": "少数派",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-19T00:29:30",
+      "fetched_at": "2026-11-19T09:49:41",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "BALL x PIT",
+          "desc": "文章列为年度 iPhone 游戏入围作品，属移动端游戏候选。"
+        },
+        {
+          "name": "潜水员戴夫",
+          "desc": "文章列为年度 iPhone 游戏入围作品，属移动端游戏候选。"
+        },
+        {
+          "name": "Gambonanza",
+          "desc": "文章列为年度 iPhone 游戏入围作品，属移动端游戏候选。"
+        },
+        {
+          "name": "伊莫",
+          "desc": "文章列为年度 iPad 游戏入围作品，属平板端游戏候选。"
+        },
+        {
+          "name": "明日方舟：终末地",
+          "desc": "文章列为年度 iPad 游戏入围作品，属平板端游戏候选。"
+        },
+        {
+          "name": "燕云十六声",
+          "desc": "文章列为年度 iPad 游戏入围作品，属平板端游戏候选。"
+        },
+        {
+          "name": "Big Walk",
+          "desc": "文章列为年度 Mac 游戏入围作品，属 Mac 平台游戏候选。"
+        },
+        {
+          "name": "Blue Prince",
+          "desc": "文章列为年度 Mac 游戏入围作品，属 Mac 平台游戏候选。"
+        },
+        {
+          "name": "Crimson Desert",
+          "desc": "文章列为年度 Mac 游戏入围作品，属 Mac 平台游戏候选。"
+        },
+        {
+          "name": "Perchang World",
+          "desc": "文章列为 Apple Arcade 年度游戏入围作品，属订阅制游戏候选。"
+        },
+        {
+          "name": "PowerWash Simulator",
+          "desc": "文章列为 Apple Arcade 年度游戏入围作品，属订阅制游戏候选。"
+        },
+        {
+          "name": "Pusheen’s Place",
+          "desc": "文章列为 Apple Arcade 年度游戏入围作品，属订阅制游戏候选。"
+        },
+        {
+          "name": "and Roger",
+          "desc": "文章列为文化影响类别入围游戏，属文化影响类游戏候选。"
+        },
+        {
+          "name": "Consume Me",
+          "desc": "文章列为文化影响类别入围游戏，属文化影响类游戏候选。"
+        },
+        {
+          "name": "PancitoMerge",
+          "desc": "文章列为文化影响类别入围游戏，属文化影响类游戏候选。"
+        },
+        {
+          "name": "Sago Mini Jinja’s Garden",
+          "desc": "文章列为文化影响类别入围游戏，属文化影响类游戏候选。"
+        },
+        {
+          "name": "Spilled!",
+          "desc": "文章列为文化影响类别入围游戏，属文化影响类游戏候选。"
+        },
+        {
+          "name": "Tiny Bookshop",
+          "desc": "文章列为文化影响类别入围游戏，属文化影响类游戏候选。"
+        }
+      ]
+    },
     {
       "id": "75e142fa20",
       "title": "PlayStation在26亿美元数字垄断诉讼中胜诉",
