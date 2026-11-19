@@ -1,6 +1,88 @@
 {
-  "updated_at": "2026-11-20T02:11:28",
+  "updated_at": "2026-11-20T06:36:07",
   "articles": [
+    {
+      "id": "d946182817",
+      "title": "Ubisoft 在加拿大蒙特利尔和魁北克城裁员 166 人",
+      "zh_desc": "Ubisoft 宣布在蒙特利尔与魁北克城工作室裁减 166 个岗位，理由为让资源与当前制作优先级和业务需求对齐。这两个工作室长期享受加拿大政府补贴，此次裁员反映欧美大厂收缩与成本重组的持续趋势，对休闲游戏从业者而言属于间接的行业环境信号。",
+      "url": "https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-19T17:53:00",
+      "fetched_at": "2026-11-20T06:36:07",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Assassin's Creed",
+          "desc": "开放世界动作冒险与潜行刺杀系列。"
+        },
+        {
+          "name": "Far Cry",
+          "desc": "开放世界第一人称射击系列。"
+        },
+        {
+          "name": "Rainbow Six",
+          "desc": "注重战术配合的射击游戏系列。"
+        }
+      ]
+    },
+    {
+      "id": "e311c545a0",
+      "title": "Ubisoft 蒙特利尔与魁北克工作室裁员 166 人",
+      "zh_desc": "同一事件的另一篇报道，确认 Ubisoft 在两大加拿大工作室裁撤 166 个职位。内容为常规公司动态，与三消/消除品类设计运营无直接关联，可作为了解大厂组织调整的参考。",
+      "url": "https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-19T15:15:00",
+      "fetched_at": "2026-11-20T06:36:07",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Assassin's Creed",
+          "desc": "开放世界动作冒险与潜行刺杀系列。"
+        },
+        {
+          "name": "Far Cry",
+          "desc": "开放世界第一人称射击系列。"
+        },
+        {
+          "name": "Rainbow Six",
+          "desc": "注重战术配合的射击游戏系列。"
+        }
+      ]
+    },
+    {
+      "id": "c55dc8bc73",
+      "title": "10 月手游畅销榜：Honor of Kings、Roblox、Monopoly Go、Gossip Harbor 等",
+      "zh_desc": "汇总 10 月全球手游畅销榜排名，涵盖 Honor of Kings、Roblox、Monopoly Go、Gossip Harbor 等多款产品，可用于观察休闲与合并品类的收入位次与头部格局。对从业者的价值在于快速把握竞品与赛道收入动向，但缺少玩法与数值层面的拆解。",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMXIwcHZ4ZWNyZmduMmJIVE1RZV9KYnJHTTExNDI1YXR3QTFVYU82UkhjQy0yVU1tMU12LTBxanltM2V3V21JamRwcDE3QXVKUXhFUVBNbk93bkNkaDFjakFxOXVvUi14OUE1dm84a3FUUFItZ1I0Zmg5eFFzZTJOb01jNHoxOG1nNHpZNmh5Tm56OUtvSUVFamdTZUEwV21BbGFqcllxRkxPSEhINkVSNW1UNmpwblY3?oc=5",
+      "source": "重点游戏-Gossip Harbor",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-16T11:37:21",
+      "fetched_at": "2026-11-20T06:36:07",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Honor of Kings",
+          "desc": "多人在线战术竞技（MOBA）手游。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容平台，玩家可创建并游玩多种多人体验。"
+        },
+        {
+          "name": "Monopoly Go",
+          "desc": "基于大富翁IP的移动端休闲棋盘游戏。"
+        },
+        {
+          "name": "Gossip Harbor",
+          "desc": "移动端合并解谜与剧情装修游戏。"
+        }
+      ]
+    },
     {
       "id": "f831f68692",
       "title": "为何批准 Dressmaker 立项并不容易",
