@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-11-20T10:23:25",
+  "updated_at": "2026-11-20T16:54:05",
   "articles": [
+    {
+      "id": "181bcab677",
+      "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+      "zh_desc": "汇总科技与平台动态，其中 Google Play 折叠屏适配要求、网易 UU 远程付费会员等与手游分发和服务有一定关联。整体偏资讯汇总，缺少休闲游戏玩法或变现层面的深入分析。",
+      "url": "https://sspai.com/post/119311",
+      "source": "少数派",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-20T00:34:31",
+      "fetched_at": "2026-11-20T16:54:05",
+      "lang": "zh",
+      "games": []
+    },
+    {
+      "id": "8d4f0e0511",
+      "title": "基于石头剪刀布的休闲对战游戏 Bunny Royal 上线 - 게임메카",
+      "zh_desc": "报道一款基于石头剪刀布玩法的休闲对战游戏 Bunny Royal 上线。内容属于新游发布资讯，信息量有限，未展开玩法、数值或变现分析。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wREd0QndXVUdWS3hhQzlzeDBhSmdJc215enQ3U3B3Ui1DeUNYZVNaMTRtMDNmX1dNX3RfdXpWUm9jRE1KWklyaEZJQVpjQ1RFdDZrMFhSckVWZw?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-20T05:49:19",
+      "fetched_at": "2026-11-20T16:54:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Bunny Royal",
+          "desc": "一款基于石头剪刀布玩法的休闲对战游戏。"
+        }
+      ]
+    },
     {
       "id": "b6d3489100",
       "title": "Rockstar 与 IWGB 成员在就业法庭审理结束后发表结案陈词",
