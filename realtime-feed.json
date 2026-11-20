@@ -1,6 +1,142 @@
 {
-  "updated_at": "2026-11-20T06:36:07",
+  "updated_at": "2026-11-20T08:13:31",
   "articles": [
+    {
+      "id": "c2d75313ba",
+      "title": "007 First Light 获 2026 TIGA Awards 年度游戏，Dovetail Games 揽获四项大奖包括最佳发行商",
+      "zh_desc": "2026 TIGA Awards 结果公布，IO Interactive 的 007 First Light 获得年度游戏，Dovetail Games 获得四项大奖，包括最佳发行商和 Train Sim World 6 的最佳教育、严肃或模拟游戏奖。对休闲三消/消除手游的设计、运营与变现无直接参考，仅作行业奖项动态。",
+      "url": "https://www.gamesindustry.biz/007-first-light-wins-goty-at-2026-tiga-awards-dovetail-games-takes-home-four-accolades-including-best-publisher",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-19T14:55:30",
+      "fetched_at": "2026-11-20T08:13:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "007 First Light",
+          "desc": "IO Interactive 出品、获 2026 TIGA 年度游戏奖的特工题材动作冒险游戏。"
+        },
+        {
+          "name": "Train Sim World 6",
+          "desc": "Dovetail Games 出品、获最佳教育/严肃/模拟游戏奖的火车模拟游戏。"
+        },
+        {
+          "name": "Maid of Sker VR",
+          "desc": "Wales Interactive 出品、获最佳 VR/AR/XR/MR 游戏奖的 VR 恐怖游戏。"
+        },
+        {
+          "name": "The Mermaid Mask",
+          "desc": "SFB Games 出品、获创意与最佳叙事/ storytelling 奖的独立叙事游戏。"
+        },
+        {
+          "name": "Crimson Desert",
+          "desc": "Pearl Abyss 出品、获最佳动作与冒险游戏奖的动作冒险作品。"
+        },
+        {
+          "name": "Ghost of Yōtei",
+          "desc": "Sucker Punch Productions/Sony Interactive Entertainment 出品、获最佳视觉设计奖的动作冒险游戏。"
+        },
+        {
+          "name": "Roco Kingdom",
+          "desc": "Morefun Studios 与 Postred 合作、获最佳音频设计奖的游戏。"
+        },
+        {
+          "name": "Home Invasion",
+          "desc": "Soul Assembly 出品、获最佳街机游戏奖的街机作品。"
+        },
+        {
+          "name": "PowerWash Simulator 2 – Star Wars Pack",
+          "desc": "FuturLab 出品、获最佳授权使用奖的《PowerWash Simulator 2》星球大战授权扩展包。"
+        },
+        {
+          "name": "Gridwalker",
+          "desc": "London College of Communication 与 Crawicks Studio 合作、获最佳休闲游戏奖的休闲作品。"
+        },
+        {
+          "name": "OpenDrive",
+          "desc": "SpecialEffect 出品、获游戏多样性奖的作品。"
+        },
+        {
+          "name": "Nutmeg",
+          "desc": "Sumo Digital/Secret Mode 出品、获游戏传承奖的作品。"
+        },
+        {
+          "name": "Perchang World",
+          "desc": "Perchang 出品、获最佳解谜游戏奖的解谜作品。"
+        },
+        {
+          "name": "Directive 8020",
+          "desc": "Supermassive Games 出品、获最佳社交游戏奖的作品。"
+        },
+        {
+          "name": "Broken Arrow",
+          "desc": "Slitherine Ltd 出品、获最佳策略游戏奖的策略作品。"
+        }
+      ]
+    },
+    {
+      "id": "f5aaaf4351",
+      "title": "Call of Duty: Modern Warfare 4 成为 2026 年 10 月美国最畅销游戏",
+      "zh_desc": "Circana 数据显示 Call of Duty: Modern Warfare 4 领跑 2026 年 10 月美国游戏销量，Call of Duty 系列连续第 19 年在首发月成为最畅销游戏。内容偏向头部主机/PC IP 销售动态，对休闲消除品类从业者参考有限。",
+      "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-19T14:00:00",
+      "fetched_at": "2026-11-20T08:13:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Call of Duty: Modern Warfare 4",
+          "desc": "《使命召唤》系列射击新作，成为 2026 年 10 月美国最畅销游戏。"
+        },
+        {
+          "name": "Gears of War: E-Day",
+          "desc": "10 月美国销量第二的《战争机器》系列新作。"
+        },
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "10 月美国销量第三的星球大战题材竞速新作。"
+        },
+        {
+          "name": "EA Sports FC 27",
+          "desc": "EA 足球体育游戏，位列 10 月美国销量第四。"
+        },
+        {
+          "name": "NBA 2K27",
+          "desc": "篮球体育游戏，位列 10 月美国销量第五。"
+        },
+        {
+          "name": "Final Fantasy Resonance",
+          "desc": "《最终幻想》系列新作，位列 10 月美国销量第六。"
+        },
+        {
+          "name": "Madden NFL 27",
+          "desc": "美式橄榄球体育游戏，位列 10 月美国销量第七。"
+        },
+        {
+          "name": "Control: Resonant",
+          "desc": "Remedy 出品并成为其最快畅销作品的游戏，10 月销量升至第八。"
+        },
+        {
+          "name": "Kingdom Hearts Collection 2 – 3",
+          "desc": "《王国之心》合集作品，位列 10 月美国销量第九。"
+        },
+        {
+          "name": "Nintendo Switch Sports Resort",
+          "desc": "任天堂 Switch 体育休闲游戏，位列 10 月美国销量第十。"
+        },
+        {
+          "name": "Battlefield 6",
+          "desc": "前一期重点发售的射击游戏，被提及影响 10 月主机内容支出。"
+        },
+        {
+          "name": "Pokémon Legends: Z-A",
+          "desc": "前一期重点发售的宝可梦系列游戏，被提及影响 10 月主机内容支出。"
+        }
+      ]
+    },
     {
       "id": "d946182817",
       "title": "Ubisoft 在加拿大蒙特利尔和魁北克城裁员 166 人",
