@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-20T09:50:43",
+  "updated_at": "2026-11-20T10:23:25",
   "articles": [
+    {
+      "id": "b6d3489100",
+      "title": "Rockstar 与 IWGB 成员在就业法庭审理结束后发表结案陈词",
+      "zh_desc": "Rockstar 与英国独立工人联合会（IWGB）成员的就业法庭审理已结束，双方发表了结案陈词。该文属于游戏公司劳动关系与法律动态，对关注海外工作室运营的从业者有一般参考价值，但与休闲游戏设计运营关联较弱。",
+      "url": "https://www.gamesindustry.biz/rockstar-and-iwgb-members-issue-closing-arguments-following-conclusion-of-employment-tribunal",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-19T10:03:40",
+      "fetched_at": "2026-11-20T10:23:25",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar 的开放世界动作冒险游戏，文中提及未发布功能与发售时间信息。"
+        }
+      ]
+    },
     {
       "id": "a992c49873",
       "title": "英国游戏业的未来不止于游戏 | 观点",
