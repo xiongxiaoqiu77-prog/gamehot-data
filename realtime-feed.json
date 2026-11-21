@@ -1,6 +1,98 @@
 {
-  "updated_at": "2026-11-21T09:03:10",
+  "updated_at": "2026-11-22T05:12:05",
   "articles": [
+    {
+      "id": "89db9cad45",
+      "title": "《Grand Theft Auto VI》成为史上规模最大的游戏首发",
+      "zh_desc": "Take-Two 公布 GTA 6 首日零售额达 37.9 亿美元、预售 3250 万份，创下娱乐产品首发纪录。属于头部 3A 买断制产品的市场里程碑，可作为对照理解休闲手游在用户获取与变现效率上的差异，但与三消/消除品类的直接关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/grand-theft-auto-vi-is-officially-the-biggest-video-game-launch-ever",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-20T21:50:59",
+      "fetched_at": "2026-11-22T05:12:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI（GTA VI）",
+          "desc": "开放世界动作冒险游戏，首日零售额37.9亿美元、预售3250万份，被称为史上最大娱乐产品首发。"
+        },
+        {
+          "name": "Grand Theft Auto V",
+          "desc": "开放世界动作冒险游戏，2013年首日销售额约8.15亿美元，并长期主导Take-Two营收。"
+        },
+        {
+          "name": "NBA 2K27",
+          "desc": "篮球体育游戏，文章称其表现不佳部分因玩家在等待《GTA VI》。"
+        },
+        {
+          "name": "Grand Theft Auto Online",
+          "desc": "《GTA》系列的多人线上模式，文章提及未来将推出更新形态。"
+        }
+      ]
+    },
+    {
+      "id": "a87a74a895",
+      "title": "GTA 6 首日吸金 37.9 亿美元，成为「史上最大娱乐产品首发」",
+      "zh_desc": "Rockstar 官方宣布 GTA 6 首日零售销售额 37.9 亿美元，称创下跨媒介娱乐产品首发新纪录。是行业级市场数据点，可用于观察头部买断制产品与 F2P 休闲手游在收入结构上的根本差异。",
+      "url": "https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-20T20:24:00",
+      "fetched_at": "2026-11-22T05:12:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6（Grand Theft Auto VI）",
+          "desc": "开放世界动作冒险游戏，首日零售额37.9亿美元并预售3250万份，收入超过报道中的开发预算。"
+        }
+      ]
+    },
+    {
+      "id": "4a8296fed8",
+      "title": "GTA 6：第一款十亿美元级游戏，或许也是最后一款｜观点",
+      "zh_desc": "评论文章围绕 GTA 6 高达十亿至二十亿美元级的开发成本，讨论超大规模 3A 制作的商业可持续性。对理解研发投入与回报模型有启发，但与休闲消除品类的轻量研发、长线 LiveOps 模式基本无关。",
+      "url": "https://www.gamesindustry.biz/gta-6-the-first-billion-dollar-game-may-also-be-the-last",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-20T15:02:20",
+      "fetched_at": "2026-11-22T05:12:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "开放世界动作冒险游戏，文章讨论其巨额开发成本与商业成功，并称其可能是最后一款十亿美元级游戏。"
+        },
+        {
+          "name": "GTA Online",
+          "desc": "《GTA》系列的多人线上实时服务游戏，文章将其作为早期实时服务潮流的代表提及。"
+        }
+      ]
+    },
+    {
+      "id": "c0bfe69bbf",
+      "title": "《E.T.》创作者将 AI 生成游戏泛滥比作 1983 年雅达利大崩溃前的劣质品潮",
+      "zh_desc": "资深设计师 Howard Scott Warshaw 在 DevGAMM Lisbon 演讲中警告 AI 量产游戏可能导致内容供给过载与品质崩塌。对休闲品类而言，提醒在买量素材与关卡内容规模化生产中需要守住品质与留存底线。",
+      "url": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-20T11:13:00",
+      "fetched_at": "2026-11-22T05:12:05",
+      "lang": "en",
+      "games": [
+        {
+          "name": "E.T. the Extra-Terrestrial",
+          "desc": "雅达利2600电影改编游戏，因质量差被列为1983年美国游戏业大崩溃的因素之一。"
+        },
+        {
+          "name": "Yars' Revenge",
+          "desc": "雅达利2600经典射击游戏，是Howard Scott Warshaw的代表作之一。"
+        }
+      ]
+    },
     {
       "id": "7e1c57c9ef",
       "title": "Ubisoft 业绩不及预期，重押 AI 开发",
