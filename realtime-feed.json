@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-22T05:12:05",
+  "updated_at": "2026-11-22T10:45:41",
   "articles": [
+    {
+      "id": "e3120f0d7c",
+      "title": "IGN 与 Rockstar 合作推出 GTA 6 官方攻略指南",
+      "zh_desc": "IGN 与 Rockstar 合作发布 GTA 6 官方在线攻略指南，包含互动地图、任务清单追踪及机制详解。属于大 IP 配套内容运营新闻，对休闲游戏从业者直接参考价值一般。",
+      "url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-20T10:07:40",
+      "fetched_at": "2026-11-22T10:45:41",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "备受期待的开放世界动作冒险游戏，拥有广阔世界、任务与复杂机制。"
+        }
+      ]
+    },
     {
       "id": "89db9cad45",
       "title": "《Grand Theft Auto VI》成为史上规模最大的游戏首发",
