@@ -1,6 +1,100 @@
 {
-  "updated_at": "2026-11-22T10:45:41",
+  "updated_at": "2026-11-22T11:19:04",
   "articles": [
+    {
+      "id": "fb2ab456ba",
+      "title": "Amanita Design 的 Phonopolis 荣获 DevGAMM Awards 大奖",
+      "zh_desc": "报道 DevGAMM Awards 在里斯本 DevGAMM 大会期间颁出，Phonopolis 获得 Grand Prize。属于一般性游戏行业奖项资讯，可作为独立游戏与展会动态参考，但与休闲手游设计关联有限。",
+      "url": "https://www.gamesindustry.biz/phonopolis-from-amanita-design-wins-grand-prize-at-the-devgamm-awards",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-20T09:44:20",
+      "fetched_at": "2026-11-22T11:19:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Phonopolis",
+          "desc": "Amanita Design 的纸艺风格冒险解谜游戏，讲述垃圾收集员在战间前卫艺术世界中对抗独裁者，获 DevGAMM 大奖和最佳视觉艺术奖。"
+        },
+        {
+          "name": "Dead As Disco",
+          "desc": "Brain Jar Games 的独立游戏，获最佳音频和 Epic Games Store 独立 spotlight 奖。"
+        },
+        {
+          "name": "Echoes of Mystralia",
+          "desc": "Borealys Games 的独立游戏，入围 DevGAMM 大奖。"
+        },
+        {
+          "name": "Mortal Shell 2",
+          "desc": "Cold Symmetry 的类魂动作 RPG 续作，获最佳虚幻引擎游戏奖。"
+        },
+        {
+          "name": "Mouse: PI For Hire",
+          "desc": "Fumi Games 的独立游戏，入围 DevGAMM 大奖。"
+        },
+        {
+          "name": "Machinarium",
+          "desc": "Amanita Design 的经典点击式冒险解谜游戏。"
+        },
+        {
+          "name": "Pilgrims",
+          "desc": "Amanita Design 的冒险游戏。"
+        },
+        {
+          "name": "Creaks",
+          "desc": "Amanita Design 的解谜冒险游戏。"
+        },
+        {
+          "name": "Desktop Explorer",
+          "desc": "Recurring Dream 的独立游戏，获最佳游戏设计奖。"
+        },
+        {
+          "name": "Ledgerbound",
+          "desc": "OmniMegaSuperCorp 的独立游戏，获最佳叙事奖。"
+        },
+        {
+          "name": "Gambonanza",
+          "desc": "Blukulele 的移动游戏，获最佳移动游戏奖。"
+        },
+        {
+          "name": "Crop",
+          "desc": "Carbonara Games 的独立游戏，获最受期待游戏奖。"
+        },
+        {
+          "name": "Hold Your Dragons",
+          "desc": "Igor Krutov 的早期开发游戏，获最佳早期开发游戏奖。"
+        },
+        {
+          "name": "Moldrise",
+          "desc": "Raffaele Picca 的小团队游戏，获最佳小团队游戏奖。"
+        },
+        {
+          "name": "As Long As You're Here",
+          "desc": "Autoscopia 的独立游戏，获有意义游戏奖。"
+        },
+        {
+          "name": "War Doctor",
+          "desc": "Red Pine Studios 的葡萄牙游戏，获最佳葡萄牙游戏奖。"
+        },
+        {
+          "name": "InKonbini: One Store. Many Stories",
+          "desc": "Nagai Industries 的独立游戏，获 DevGAMM Choice 奖。"
+        },
+        {
+          "name": "Rewindead",
+          "desc": "Spellwork AB 的独立游戏，获 TinyBuild 最佳独立游戏奖。"
+        },
+        {
+          "name": "Tempus Vitae",
+          "desc": "Whiteboard Games 的 Unity 游戏，获最佳 Unity 游戏奖。"
+        },
+        {
+          "name": "Burn With Me",
+          "desc": "Nozomu Games 的 Godot 游戏，获最佳 Godot 游戏奖。"
+        }
+      ]
+    },
     {
       "id": "e3120f0d7c",
       "title": "IGN 与 Rockstar 合作推出 GTA 6 官方攻略指南",
