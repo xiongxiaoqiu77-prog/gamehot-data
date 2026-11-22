@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-22T11:19:04",
+  "updated_at": "2026-11-23T05:41:00",
   "articles": [
+    {
+      "id": "b7e0ba0207",
+      "title": "NHN 在 170 多个国家正式推出全新益智游戏《[OSHI NO KO]Puzzle Star》",
+      "zh_desc": "NHN 宣布在全球 170 多个国家正式上线全新益智游戏《[OSHI NO KO]Puzzle Star》，属于基于动漫 IP 的休闲益智新游发行消息。对从业者而言，可关注其 IP 联动、全球发行策略及益智赛道布局，但文章本身没有玩法、数值或变现层面的拆解。",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNDBDQ1NZZ1pCNm1zNnhpbkdvUGJ3OW53YXdZTVNpNXJBbHRKc3BLXzk2eDlhbTFCajRBNzhfcTJ2eTdLU3lnVnZuSmZlczc5czllVTN6Snd6SktXdnF5ZmZoQzRSS2JNdUVBVGZpWDNvQnk4TTFVQ2prSF9VTTlqNC10a2NEdndyUHE5VHFPeDNvenpHQUo0Q2M1Yk1WV29laDJZMjZ5THRNcWh4N3BhQ2s4eWlIQXV6SFdXRzFoQ1VqeWtkdnlhQjh4dTdmX19FQjNJNkdMYktGRHA2aXRCY3k0Q0E?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-18T14:00:00",
+      "fetched_at": "2026-11-23T05:41:00",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "fb2ab456ba",
       "title": "Amanita Design 的 Phonopolis 荣获 DevGAMM Awards 大奖",
