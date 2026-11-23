@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-11-24T00:44:58",
+  "updated_at": "2026-11-24T01:51:33",
   "articles": [
+    {
+      "id": "5c2f7f7974",
+      "title": "欧盟就《数字公平法案》展开咨询",
+      "zh_desc": "欧盟委员会就拟议的《数字公平法案》公开征求意见，该法案将对战利品箱、虚拟货币和儿童游戏内购引入新规。对休闲游戏变现策略与合规运营有重要参考价值。",
+      "url": "https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-23T17:33:10",
+      "fetched_at": "2026-11-24T01:51:33",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "cc13de7f53",
+      "title": "Plug in Digital收购News Tower发行商Twin Sails Interactive，组建新发行集团以在高度竞争市场中角逐",
+      "zh_desc": "法国发行商Plug in Digital收购巴黎独立发行商Twin Sails Interactive，双方将合并组建独立游戏分销与发行集团。属于一般行业并购资讯，与休闲游戏直接关联有限。",
+      "url": "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T15:15:10",
+      "fetched_at": "2026-11-24T01:51:33",
+      "lang": "en",
+      "games": [
+        {
+          "name": "News Tower",
+          "desc": "一款报纸经营管理模拟游戏，由Twin Sails Interactive发行。"
+        },
+        {
+          "name": "Caravan SandWitch",
+          "desc": "一款广受好评的叙事探索冒险游戏，由Dear Villagers发行。"
+        },
+        {
+          "name": "Fabledom",
+          "desc": "一款由Dear Villagers发行的城市建造/殖民地模拟游戏。"
+        }
+      ]
+    },
     {
       "id": "ebe9875bed",
       "title": "Circana：美国超过半数主机玩家在 GTA 6 发售首日游玩",
