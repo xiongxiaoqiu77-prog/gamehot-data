@@ -1,6 +1,59 @@
 {
-  "updated_at": "2026-11-24T02:24:14",
+  "updated_at": "2026-11-24T05:36:31",
   "articles": [
+    {
+      "id": "f0ae174a82",
+      "title": "Epic Games不再计划在Unreal Engine 6中包含Blueprints或Actor Gameplay Framework",
+      "zh_desc": "Epic Games调整Unreal Engine 6计划，放弃Blueprints和Actor Gameplay Framework，转向AI驱动工具。该变化对使用Unreal Engine的开发者有工具链影响，但与休闲手游核心玩法分析关联有限。",
+      "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T19:50:33",
+      "fetched_at": "2026-11-24T05:36:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Clair Obscur: Expedition 33",
+          "desc": "获奖游戏，开发者称其95%使用Blueprints构建。"
+        },
+        {
+          "name": "EVE: Frontier",
+          "desc": "相关报道提及采用高端环境光遮蔽技术的游戏。"
+        }
+      ]
+    },
+    {
+      "id": "f21b547539",
+      "title": "Activision申请专利：用神经网络从游戏内语音聊天训练NPC",
+      "zh_desc": "Activision提交专利，计划利用神经网络和大语言模型从游戏内语音聊天中训练NPC。该方向对AI NPC与社交交互有潜在启发，但与三消/消除类休闲游戏的核心设计关联较弱。",
+      "url": "https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T15:09:50",
+      "fetched_at": "2026-11-24T05:36:31",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a508c19a4d",
+      "title": "Epic Games将在Unreal Engine 6发布时放弃Blueprints",
+      "zh_desc": "Epic Games修订Unreal Engine 6计划，不再支持Blueprints和Actor Gameplay Framework，改用基于Verse的Scene Graph游戏系统。该调整对Unreal Engine开发者有工具链迁移影响，但与休闲手游核心设计关联有限。",
+      "url": "https://gameworldobserver.com/2026/11/23/epic-games-will-abandon-blueprints-right-at-the-launch-of-unreal-engine-6",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T11:58:58",
+      "fetched_at": "2026-11-24T05:36:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic的多人射击/大逃杀游戏，拥有大量Blueprints，并被用于AI转换至Verse的测试。"
+        }
+      ]
+    },
     {
       "id": "a10c6e6f34",
       "title": "Monopoly Go 推出 Avengers: Doomsday 赛季，为 Scopely 第三次 Marvel 联动",
