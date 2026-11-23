@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-11-24T06:42:09",
+  "updated_at": "2026-11-24T07:14:29",
   "articles": [
+    {
+      "id": "aaf167d976",
+      "title": "Nvidia 在黄仁勋辞职数周后恢复其 CEO 职位",
+      "zh_desc": "Nvidia 董事会在与美国政府高级官员磋商后，于黄仁勋离任不到两周便将其重新任命为 CEO。属于公司治理层面的行业人事新闻，与休闲游戏玩法或变现无直接关联，从业者仅需了解平台与硬件厂商的动向。",
+      "url": "https://www.gamedeveloper.com/business/nvidia-reinstates-jensen-huang-as-ceo",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T21:07:02",
+      "fetched_at": "2026-11-24T07:14:29",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "文中提及的《侠盗猎车手》系列新作，相关报道称其已成为史上最大规模游戏发布。"
+        },
+        {
+          "name": "Brazen Blaze",
+          "desc": "文中作为日本 VR 工作室 MyDearest 的最新作品提及，未展开玩法类型。"
+        }
+      ]
+    },
+    {
+      "id": "e8d86611c7",
+      "title": "黄仁勋因婚外情指控后获恢复 Nvidia CEO 与总裁职务",
+      "zh_desc": "Nvidia 董事会一致投票通过，恢复黄仁勋的 CEO 与总裁职务。属于公司高层人事与治理新闻，与休闲游戏赛道关联较弱，可作为硬件与平台生态观察的背景信息。",
+      "url": "https://www.gamesindustry.biz/jensen-huang-reinstated-as-nvidia-ceo-and-president-following-affair-allegations",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T14:33:30",
+      "fetched_at": "2026-11-24T07:14:29",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "af26dd7081",
       "title": "Nicalis 在玩家反弹后从 The Binding of Isaac: Repentance+ 中移除 AI 生成音乐",
