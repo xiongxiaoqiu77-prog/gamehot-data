@@ -1,6 +1,91 @@
 {
-  "updated_at": "2026-11-23T20:19:17",
+  "updated_at": "2026-11-24T00:10:34",
   "articles": [
+    {
+      "id": "ffb1db65c9",
+      "title": "抵御 AI 克隆的一种方法？缩短公布与上线之间的间隔",
+      "zh_desc": "Tinybuild 负责人 Alex Nichiporchik 认为，缩短公布到发售的时间是应对 AI 快速克隆的手段，并预测未来半年行业将更关注上市速度。对休闲游戏团队有发行节奏参考，但非玩法或变现拆解。",
+      "url": "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T15:07:00",
+      "fetched_at": "2026-11-24T00:10:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Needle in a Haystack Simulator",
+          "desc": "一款以“大海捞针”为主题的模拟游戏，未发售视频爆红后出现多个Steam仿品。"
+        },
+        {
+          "name": "ReStory: Chill Electronic Repairs",
+          "desc": "一款以电子设备维修为主题的休闲模拟游戏，采用接近公布即上线的短周期发行方式。"
+        },
+        {
+          "name": "Probably Stolen",
+          "desc": "一款赛博朋克题材的商店模拟经营游戏，公布到上线仅约三个月且销量已破百万。"
+        }
+      ]
+    },
+    {
+      "id": "5e2e96dd60",
+      "title": "得益于 GTA VI，Rockstar 移动游戏下载量增长超过四倍",
+      "zh_desc": "GTA VI 的热度带动 Rockstar 移动游戏下载量增长逾四倍，目前日均下载超过 60 万次。该案例说明跨平台 IP 联动对移动端获量的价值，对休闲手游发行有参考意义。",
+      "url": "https://mobilegamer.biz/rockstars-mobile-downloads-more-than-quadrupled-thanks-to-gta-vi/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-23T14:57:32",
+      "fetched_at": "2026-11-24T00:10:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "一款开放世界犯罪动作游戏，其主机发售带动Rockstar旗下多款移动端旧作下载量激增。"
+        },
+        {
+          "name": "Grand Theft Auto: Vice City",
+          "desc": "一款开放世界犯罪题材移动端移植作，原版与免费Definitive版合计下载量在GTA 6发售前后大幅上升。"
+        },
+        {
+          "name": "GTA: Liberty City Stories",
+          "desc": "一款开放世界犯罪题材移动端移植作，近30天下载量随GTA 6热度明显攀升。"
+        },
+        {
+          "name": "Chinatown Wars",
+          "desc": "一款采用俯视视角的开放世界犯罪题材移动端游戏，下载量在GTA 6发售前后上涨。"
+        },
+        {
+          "name": "Bully: Anniversary Edition",
+          "desc": "一款校园题材开放世界动作冒险移动端作品，下载量随Rockstar旧作回热而上升。"
+        },
+        {
+          "name": "GTA III – Definitive",
+          "desc": "一款开放世界犯罪题材重制版移动端作品，下载量在GTA 6发售前后增长。"
+        },
+        {
+          "name": "Grand Theft Auto: San Andreas",
+          "desc": "一款开放世界犯罪题材移动端移植作，重回美国iPhone付费榜前列且收入上升。"
+        },
+        {
+          "name": "San Andreas – Definitive",
+          "desc": "一款《圣安地列斯》重制版移动端作品，日收入在GTA 6发售前后约翻两番。"
+        }
+      ]
+    },
+    {
+      "id": "53107d1ade",
+      "title": "为什么节假日并不像你想象的那样驱动移动游戏支出——GameAnalytics",
+      "zh_desc": "GameAnalytics 基于 Black Friday、Cyber Monday、Christmas 等节点数据，说明移动游戏收入受节假日零售促销的影响远小于多数厂商预期。文章帮助休闲手游团队重新校准活动排期与变现预期，避免照搬电商日历。",
+      "url": "https://www.gameanalytics.com/blog/holiday-seasons-and-monetization",
+      "source": "GameAnalytics",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-11-23T09:58:43",
+      "fetched_at": "2026-11-24T00:10:34",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "5da91d0ca5",
       "title": "Fortis Games 出了什么问题？",
