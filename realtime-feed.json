@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-23T05:41:00",
+  "updated_at": "2026-11-23T15:25:25",
   "articles": [
+    {
+      "id": "7df2837221",
+      "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+      "zh_desc": "汇总 AI、科技与游戏领域的多条简讯，包括 GTA 6 首日销售额近 40 亿美元等动态。内容以行业快讯为主，对从业者了解市场热点有一定帮助，但缺乏对休闲游戏设计的深度分析。",
+      "url": "https://sspai.com/post/119418",
+      "source": "少数派",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-22T23:34:27",
+      "fetched_at": "2026-11-23T15:25:25",
+      "lang": "zh",
+      "games": [
+        {
+          "name": "GTA 6（Grand Theft Auto VI）",
+          "desc": "《侠盗猎车手 6》是由 Rockstar Games 发行的开放世界动作冒险游戏，文章提及其发售首日销售额近 40 亿美元并创下娱乐产品首日销售纪录。"
+        }
+      ]
+    },
     {
       "id": "b7e0ba0207",
       "title": "NHN 在 170 多个国家正式推出全新益智游戏《[OSHI NO KO]Puzzle Star》",
