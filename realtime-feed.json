@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-24T05:36:31",
+  "updated_at": "2026-11-24T06:42:09",
   "articles": [
+    {
+      "id": "af26dd7081",
+      "title": "Nicalis 在玩家反弹后从 The Binding of Isaac: Repentance+ 中移除 AI 生成音乐",
+      "zh_desc": "Nicalis 在玩家发现最新更新包含 AI 生成音乐并引发大量 Steam 差评后，将其从 The Binding of Isaac: Repentance+ 中移除。该事件反映玩家对 AI 内容的敏感度，对内容制作与社区运营有一般参考价值。",
+      "url": "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T20:56:00",
+      "fetched_at": "2026-11-24T06:42:09",
+      "lang": "en",
+      "games": [
+        {
+          "name": "The Binding of Isaac: Repentance+",
+          "desc": "《以撒的结合》版本，因最新更新加入 AI 生成音乐引发玩家差评，随后移除相关音乐文件。"
+        },
+        {
+          "name": "The Binding of Isaac: Repentance",
+          "desc": "《以撒的结合》扩展/版本，文章提及其 Steam 页面目前未披露 AI 使用。"
+        },
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "文章提及的开放世界游戏，其发售日与引发争议的 GTA 6 主题 run 相关。"
+        },
+        {
+          "name": "Mewgenics",
+          "desc": "Edmund McMillen 于今年早些时候发布的最新游戏。"
+        }
+      ]
+    },
     {
       "id": "f0ae174a82",
       "title": "Epic Games不再计划在Unreal Engine 6中包含Blueprints或Actor Gameplay Framework",
