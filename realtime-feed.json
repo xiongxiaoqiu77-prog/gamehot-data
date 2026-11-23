@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-23T15:25:25",
+  "updated_at": "2026-11-23T20:19:17",
   "articles": [
+    {
+      "id": "5da91d0ca5",
+      "title": "Fortis Games 出了什么问题？",
+      "zh_desc": "文章梳理 Fortis Games 在拉斯维加斯金沙集团停止注资后关停、400 多人失业的经过，并回溯其首款软发布产品 Twilight Towers 因留存不足而关闭。对关注手游软发布、留存指标与工作室经营的从业者具有案例参考价值。",
+      "url": "https://naavik.co/weekly-digest/what-went-wrong-at-fortis-games/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-22T11:37:37",
+      "fetched_at": "2026-11-23T20:19:17",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Twilight Towers",
+          "desc": "Fortis Games 的首款软发布游戏，因玩家留存不足而宣布关闭。"
+        }
+      ]
+    },
     {
       "id": "7df2837221",
       "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
