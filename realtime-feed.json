@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-24T01:51:33",
+  "updated_at": "2026-11-24T02:24:14",
   "articles": [
+    {
+      "id": "a10c6e6f34",
+      "title": "Monopoly Go 推出 Avengers: Doomsday 赛季，为 Scopely 第三次 Marvel 联动",
+      "zh_desc": "Monopoly Go 上线 Avengers: Doomsday 主题赛季，这是 Scopely 自 2024 年以来第三次引入 Marvel IP。该案例展示了头部休闲手游如何通过高频大 IP 联动驱动 LiveOps 节奏与商业化，对做联动排期和 IP 谈判的从业者有参考价值。",
+      "url": "https://mobilegamer.biz/monopoly-go-gets-an-avengers-doomsday-season-in-scopelys-third-marvel-crossover/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-23T18:00:13",
+      "fetched_at": "2026-11-24T02:24:14",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "一款由 Scopely 发行的移动端大富翁主题休闲棋盘游戏，常通过影视/IP 联动赛季和收集活动扩展内容。"
+        }
+      ]
+    },
     {
       "id": "5c2f7f7974",
       "title": "欧盟就《数字公平法案》展开咨询",
