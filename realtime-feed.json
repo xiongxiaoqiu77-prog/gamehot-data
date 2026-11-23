@@ -1,6 +1,44 @@
 {
-  "updated_at": "2026-11-24T00:10:34",
+  "updated_at": "2026-11-24T00:44:58",
   "articles": [
+    {
+      "id": "ebe9875bed",
+      "title": "Circana：美国超过半数主机玩家在 GTA 6 发售首日游玩",
+      "zh_desc": "Circana 数据显示，美国超过一半的主机玩家在 GTA 6 发售首日进行了游玩。该数据体现头部大作的 launch 影响力，属于一般性市场动态，与休闲消除手游的关联度一般。",
+      "url": "https://www.gamesindustry.biz/over-half-of-console-players-in-the-us-played-gta-6-on-launch-day-according-to-circana",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T10:57:20",
+      "fetched_at": "2026-11-24T00:44:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI（GTA 6）",
+          "desc": "开放世界动作冒险游戏，文章重点分析其发售首日玩家参与度、销量与收入表现。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "多人在线大逃杀/射击游戏，文章称其在GTA 6发售首日参与度排名第二。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "第一人称射击游戏系列，文章列为GTA 6玩家发售首日同时游玩的游戏之一。"
+        },
+        {
+          "name": "Grand Theft Auto 5 (Remastered)",
+          "desc": "开放世界动作冒险游戏的重制版，文章列为GTA 6玩家同时游玩的游戏之一。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容与多人创作游戏平台，文章列为GTA 6玩家同时游玩的游戏之一。"
+        },
+        {
+          "name": "NBA 2K27",
+          "desc": "篮球体育模拟游戏，文章列为GTA 6玩家同时游玩的游戏之一。"
+        }
+      ]
+    },
     {
       "id": "ffb1db65c9",
       "title": "抵御 AI 克隆的一种方法？缩短公布与上线之间的间隔",
