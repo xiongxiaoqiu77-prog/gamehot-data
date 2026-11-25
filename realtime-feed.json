@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-26T02:17:55",
+  "updated_at": "2026-11-26T04:26:04",
   "articles": [
+    {
+      "id": "9c27f464c0",
+      "title": "Ubisoft 员工在提案中若不使用生成式 AI 须说明理由，报道称",
+      "zh_desc": "报道称 Ubisoft 要求新项目提案团队说明生成式 AI 如何帮助加快游戏制作，若不计划使用则需给出详细理由。这反映大型厂商对 AI 生产工具的流程化推进，对关注研发效率与成本控制的从业者有参考意义，但与三消/消除玩法设计关联有限。",
+      "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-25T20:19:40",
+      "fetched_at": "2026-11-26T04:26:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Teammates",
+          "desc": "Ubisoft 首个可玩的生成式 AI 体验，属于实验性生成式 AI 游戏/体验。"
+        }
+      ]
+    },
     {
       "id": "81f3db510a",
       "title": "EGDF：欧洲工作室正把重心从「过度饱和」的移动市场转向 PC",
