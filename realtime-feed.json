@@ -1,6 +1,302 @@
 {
-  "updated_at": "2026-11-24T14:14:00",
+  "updated_at": "2026-11-25T09:57:13",
   "articles": [
+    {
+      "id": "04c73b825c",
+      "title": "最后一个计费工时：西方客户为“去AI化”支付溢价，再把工作收回内部",
+      "zh_desc": "Deconstructor of Fun 访谈 Amber CEO，讨论西方发行商为在联合开发中排除 AI 而额外付费，随后又为降本将工作收回内部的行业趋势。对理解外包与联合开发成本结构有一定参考，但与休闲游戏设计关联较弱。",
+      "url": "https://www.deconstructoroffun.com/blog/the-last-billable-hour",
+      "source": "Deconstructor of Fun",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T09:34:24",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "64562a2d7c",
+      "title": "评论：GTA VI 与 World of Warcraft: Forever 证明“平淡”正当其时",
+      "zh_desc": "文章认为今年两款大作都证明节奏放缓、留白与日常感同样能构成吸引力。属于设计观点类内容，对休闲游戏节奏设计有间接启发，但缺乏具体机制拆解。",
+      "url": "https://www.gamedeveloper.com/design/grand-theft-auto-vi-and-world-of-warcraft-forever-show-that-mundanity-is-having-a-moment",
+      "source": "Game Developer",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-11-24T15:42:06",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto VI",
+          "desc": "Rockstar 的开放世界动作冒险新作，文章称其把刷墙、摆家具等日常模拟琐事做成可玩内容。"
+        },
+        {
+          "name": "World of Warcraft: Forever",
+          "desc": "Blizzard 的《魔兽世界》复兴/怀旧版本，文章分析其保留等地铁72秒等慢节奏设计仍具吸引力。"
+        },
+        {
+          "name": "World of Warcraft",
+          "desc": "经典 MMORPG，作者20年后回归的怀旧对象。"
+        },
+        {
+          "name": "Grand Theft Auto V",
+          "desc": "开放世界动作冒险游戏，作者过去只注意到射击和驾驶，如今被拿来对照 GTA VI 的生活模拟。"
+        },
+        {
+          "name": "Red Dead Redemption 2",
+          "desc": "Rockstar 的西部开放世界动作冒险游戏，文章称其为 GTA VI 模拟技术的前期实验。"
+        }
+      ]
+    },
+    {
+      "id": "5a2406c495",
+      "title": "“风险仍 100% 由你承担”——Cairn 开发商 The Game Bakers 谈独立工作室为何应自主发行",
+      "zh_desc": "The Game Bakers 联合创始人 Audrey Leprince 论证独立团队应以自主发行为主、仅在有明确需求（如营销）时借助第三方。属于发行策略层面的行业观点，对手游团队商业化路径有参考价值。",
+      "url": "https://www.gamesindustry.biz/you-are-still-taking-100-of-the-risk-why-cairn-dev-the-game-bakers-backs-self-publishing-for-all-but-the-smallest-developers",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T15:28:00",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Cairn",
+          "desc": "The Game Bakers 今年推出的攀岩生存冒险独立游戏，是 Leprince 自主发行演讲的核心案例。"
+        },
+        {
+          "name": "Squids",
+          "desc": "The Game Bakers 的回合制战术 RPG 独立热门作品之一。"
+        },
+        {
+          "name": "Furi",
+          "desc": "The Game Bakers 的动作/ Boss Rush 独立热门作品，累计约380万玩家。"
+        },
+        {
+          "name": "Haven",
+          "desc": "The Game Bakers 的叙事 RPG/恋爱冒险独立热门作品，累计约200万玩家。"
+        }
+      ]
+    },
+    {
+      "id": "0c1127cc87",
+      "title": "英国手游开发者现可申请 2.6 亿英镑 Google 和解金中属于自己的份额",
+      "zh_desc": "2018 年 8 月至 2026 年 7 月期间在 Google Play 上线内容的英国开发者可申请集体诉讼和解金。对手游发行商属于直接可操作的收入/法务信息。",
+      "url": "https://www.gamesindustry.biz/uk-mobile-developers-can-now-apply-for-their-share-of-a-260-million-google-settlement",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T10:50:00",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "82d08a9204",
+      "title": "Google 3.38 亿美元英国开发者和解案开放申领",
+      "zh_desc": "报道称每位符合条件的开发者至少可获 260 美元（200 英镑）。与第 6 条为同一事件的不同来源报道，对英国区手游团队有实际价值。",
+      "url": "https://mobilegamer.biz/googles-338m-uk-developer-settlement-opens-for-claims/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T10:34:17",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "933a5e8c46",
+      "title": "英国开发者现可申领 2.6 亿英镑 Google 和解金",
+      "zh_desc": "案件核心指控 Google Play 30% 抽成过高并违反竞争法，2026 年 9 月 16 日获法庭批准和解。属于手游渠道分成相关的重要行业资讯。",
+      "url": "https://www.pocketgamer.biz/uk-developers-can-now-claim-part-of-260m-google-settlement/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T18:04:00",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "6d8b1c1830",
+      "title": "2026 年 10 月手游榜：Top Lords 起飞、Tencent 下滑 11%、AI 侧耳倾听",
+      "zh_desc": "基于 AppMagic 数据的 10 月全球手游下载与收入榜及月度趋势解读，涵盖新品爆发与厂商格局变化。对判断休闲品类竞争态势有参考价值。",
+      "url": "https://www.pocketgamer.biz/october-2026-mobile-game-charts-top-lords-takes-off-tencent-falls-11-and-ai-listens-in/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-24T15:54:00",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "SD Gundam G Generation Eternal",
+          "desc": "Bandai Namco 的高达题材手游，靠1.5周年活动在10月收入排名升至39位。"
+        },
+        {
+          "name": "Top Lords",
+          "desc": "Game Spark 的移动军队建造/射击游戏，玩家在屏幕底部组建军队射击敌人，10月收入900万美元并快速上升。"
+        },
+        {
+          "name": "Last War",
+          "desc": "移动策略/军队射击游戏，文中以“Last War-esque”类比 Top Lords 的玩法。"
+        }
+      ]
+    },
+    {
+      "id": "f626d9481e",
+      "title": "选择更多、清晰度更低：为什么 UA 融资要从一张白纸开始",
+      "zh_desc": "Mobile Finance Collective 创始人 Martin Macmillan 梳理 cohort financing 等买量融资模式的现状与选择困境。对手游团队规划 UA 资金结构有实操参考。",
+      "url": "https://www.pocketgamer.biz/more-choice-less-clarity-why-ua-financing-starts-with-a-blank-sheet-of-paper/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-24T15:53:00",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "2236a3ceeb",
+      "title": "Sensor Tower 推出网页商店收入估算工具",
+      "zh_desc": "Sensor Tower 新增 DTC 网页商店收入估算，补足 App Store 与 Google Play 之外的变现视角。对手游厂商评估官网直充与渠道结构变化有实用价值。",
+      "url": "https://www.pocketgamer.biz/sensor-tower-introduces-web-store-revenue-estimates/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-24T14:40:00",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "a00ed9c5af",
+      "title": "Angry Birds 2 通过游戏内新角色与 ASPCA 公益活动联动宣传 The Angry Birds Movie 3",
+      "zh_desc": "电影角色蜘蛛 Fuzzy 作为可玩角色上线，带来吐丝拉倒结构的新机制，并配合公益合作。是休闲游戏借影视 IP 做版本联动与拉新的典型案例。",
+      "url": "https://www.pocketgamer.biz/angry-birds-2-promotes-the-angry-birds-movie-3-with-in-game-character-and-aspca-charity-campaign/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-24T14:00:00",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Angry Birds 2",
+          "desc": "Rovio 的移动弹射益智游戏，新增电影角色 Fuzzy（吐网能力）并开展 ASPCA 慈善活动。"
+        }
+      ]
+    },
+    {
+      "id": "5a6a742008",
+      "title": "Supercell 用“金币利息”吸引 Clash Royale 流失玩家回归",
+      "zh_desc": "The Royale Interest 活动按离线时长给予最高 49.6% 的额外金币，是一种新颖的流失召回设计。对休闲/中核游戏的买回与回归激励设计有借鉴意义。",
+      "url": "https://www.pocketgamer.biz/supercell-offers-clash-royale-players-extra-gold-to-encourage-their-return/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-24T13:00:00",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Clash Royale",
+          "desc": "Supercell 的移动卡牌策略游戏，推出“Royale Interest”按离线时长给回归玩家额外金币。"
+        },
+        {
+          "name": "Clash Royale: The Grand Arena",
+          "desc": "Clash Royale IP 的桌游，与 Maestro Media 合作，Kickstarter 上线一小时达标。"
+        }
+      ]
+    },
+    {
+      "id": "b07ddae275",
+      "title": "GTA 6 发售致英国手游动作与策略品类支出下滑 24.5%",
+      "zh_desc": "AppsFlyer 数据显示 GTA 6 上线初期英国手游 IAP 收入环比下降 10.5%，会话仅降 2.8%。为判断大作档期对休闲手游买量与付费的挤出效应提供数据。",
+      "url": "https://www.pocketgamer.biz/uk-mobile-action-and-strategy-game-spending-falls-245-following-gta-6-launch/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-24T10:31:00",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar 的开放世界动作游戏，定价£80-100，发售初期使英国手游动作/策略品类 IAP 支出下降24.5%。"
+        }
+      ]
+    },
+    {
+      "id": "cdb6758498",
+      "title": "Scopely 联手 Marvel，为 Monopoly Go 推出 Avengers: Doomsday 联动",
+      "zh_desc": "新赛季紧贴 12 月 18 日上映的漫威电影做 IP 联动。是头部休闲手游借院线档期做版本节奏与商业化设计的代表性案例。",
+      "url": "https://www.pocketgamer.biz/scopely-partners-with-marvel-for-monopoly-go-and-avengers-doomsday-crossover/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-23T18:14:00",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "Scopely 的大富翁题材移动棋盘游戏，与 Marvel 的 Avengers: Doomsday 联动，加入漫威贴纸、代币和骰子。"
+        }
+      ]
+    },
+    {
+      "id": "906982430e",
+      "title": "独家：Monopoly Go 累计玩家支出突破 80 亿美元",
+      "zh_desc": "Scopely 确认该作累计流水自 2025 年的 60 亿美元升至 80 亿美元，收入来自 IAP 与网页端 Tycoon Club。是休闲大盘产品长线变现与 DTC 渠道结合的标杆数据。",
+      "url": "https://www.pocketgamer.biz/monopoly-go-surpasses-8-billion-in-lifetime-player-spending/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-23T15:54:00",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "Scopely 的大富翁题材移动游戏，累计玩家支出超80亿美元，通过 IAP 和网页 Tycoon Club 变现。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容平台/游戏，文章将其列为 Monopoly Go 在 Play Store 收入排名的对比对象。"
+        },
+        {
+          "name": "Royal Match",
+          "desc": "移动三消益智游戏，文章将其列为 Monopoly Go 的 Play Store 收入对比对象。"
+        },
+        {
+          "name": "Honor of Kings",
+          "desc": "移动 MOBA，文章将其列为 Monopoly Go 在 App Store 的竞争对比对象。"
+        },
+        {
+          "name": "Whiteout Survival",
+          "desc": "移动策略生存游戏，文章将其列为 Monopoly Go 在 App Store 的竞争对比对象。"
+        }
+      ]
+    },
+    {
+      "id": "6bee1a26dc",
+      "title": "GTA 6 发售当天美国手游支出跌至全年最低",
+      "zh_desc": "AppMagic 估算当日美国手游净收入仅 2840 万美元，截至 11 月 19 日的七天收入同比下滑 19.5%。对评估大作档期对休闲手游流水的冲击有直接参考。",
+      "url": "https://www.pocketgamer.biz/us-mobile-game-spending-plummets-to-lowest-of-the-year-on-gta-6-launch-day/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-23T14:00:00",
+      "fetched_at": "2026-11-25T09:57:13",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar North/Take-Two 的开放世界动作游戏，发售日让美国手游单日支出降至2026年最低的2840万美元。"
+        }
+      ]
+    },
     {
       "id": "aa1d32f4eb",
       "title": "GTA 6 泄露者据称发布了运行泄露 Xbox 版本所需文件",
