@@ -1,6 +1,101 @@
 {
-  "updated_at": "2026-11-25T09:57:13",
+  "updated_at": "2026-11-25T10:30:04",
   "articles": [
+    {
+      "id": "7014eb539c",
+      "title": "Unity CEO Matt Bromberg 与 Eric Seufert 将在 PGC London 谈 AI、发现与增长",
+      "zh_desc": "两位嘉宾将于 1 月 18-19 日在 Pocket Gamer Connects London 的超级专场讨论「更多游戏、更多玩家：手游的 AI 增长机会」，聚焦 AI 加速内容生产后如何解决曝光与获客难题。选题对买量与增长从业者有直接参考意义，但目前仅为活动预告。",
+      "url": "https://www.pocketgamer.biz/unity-ceo-matt-bromberg-and-eric-seufert-to-talk-ai-discovery-and-growth-at-pgc-london/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T15:55:00",
+      "fetched_at": "2026-11-25T10:30:04",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "8aa5783081",
+      "title": "「游戏必须与玩家共同成长」：Mobile Legends 十年教给 Moonton 的欧洲经验",
+      "zh_desc": "Mobile Legends: Bang Bang 迎来十周年、月活达 1.1 亿，制作人 Roger Yu 回顾从移动端竞技 MOBA 定位到欧洲市场本地化与长线运营的经验。属长线 LiveOps 与区域运营访谈，但品类为竞技 MOBA，与休闲消除的机制差异较大。",
+      "url": "https://www.pocketgamer.biz/what-10-years-of-mlbb-taught-moonton-about-europe/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T15:52:00",
+      "fetched_at": "2026-11-25T10:30:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mobile Legends: Bang Bang",
+          "desc": "一款移动端 MOBA 游戏，已运营十年并拥有约1.1亿月活玩家。"
+        }
+      ]
+    },
+    {
+      "id": "c39e5a5082",
+      "title": "GTA 6 大卖、Netflix Games 裁员与 Pikmin Bloom 的意外崛起｜一周手游播客",
+      "zh_desc": "PocketGamer.biz 第 111 期周播客复盘本周要闻，包括 GTA 6 的市场表现、Netflix Games 裁员以及 Pikmin Bloom 的长线逆袭。其中 Pikmin Bloom 的案例对休闲品类的长线运营有一定借鉴意义，但整体为综述性质。",
+      "url": "https://www.pocketgamer.biz/gta-6-goes-gangbusters-week-in-mobile-games-podcast/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T15:50:00",
+      "fetched_at": "2026-11-25T10:30:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar 的开放世界犯罪动作冒险游戏，文章讨论其大型首发及对行业的影响。"
+        },
+        {
+          "name": "Pikmin Bloom",
+          "desc": "基于皮克敏 IP 的手机游戏，文章讨论其在移动端面对大型 IP 联动时的意外崛起。"
+        }
+      ]
+    },
+    {
+      "id": "8fd801ddac",
+      "title": "Hot Five：GTA 6 首发、Jam City 裁员与 Google Play 2026 年度最佳",
+      "zh_desc": "周度精选盘点一周手游大事，涵盖 GTA 6 的首发数据、休闲大厂 Jam City 的裁员以及 Google Play Best of Play 2026 获奖名单。其中 Jam City 裁员与年度榜单对休闲品类从业者有直接参考价值，但为摘要式综述。",
+      "url": "https://www.pocketgamer.biz/hot-five-gta-6s-blockbuster-launch-layoffs-at-jam-city-and-google-plays-best-of-play-2026-winners/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T11:05:00",
+      "fetched_at": "2026-11-25T10:30:04",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "开放世界犯罪动作冒险游戏，文章讨论其预售与首发表现及对其他游戏玩家时长的冲击。"
+        },
+        {
+          "name": "Arknights: Endfield",
+          "desc": "获得 Google Play 2026 年度最佳游戏奖的《明日方舟》IP 3D RPG。"
+        },
+        {
+          "name": "Subway Surfers City",
+          "desc": "获得最佳随手玩奖的跑酷类手游。"
+        },
+        {
+          "name": "Sea of Stars",
+          "desc": "获得最佳剧情奖的回合制 RPG。"
+        },
+        {
+          "name": "Moonlight Peaks",
+          "desc": "获得最佳跨设备游戏奖的生活模拟游戏。"
+        },
+        {
+          "name": "Warframe",
+          "desc": "获得最佳多人游戏奖的科幻动作射击/刷宝游戏。"
+        },
+        {
+          "name": "Battle Bears Gold",
+          "desc": "一款赶在 GTA 6 前夕登陆 iOS、Android 和 Steam 的多人射击游戏。"
+        }
+      ]
+    },
     {
       "id": "04c73b825c",
       "title": "最后一个计费工时：西方客户为“去AI化”支付溢价，再把工作收回内部",
