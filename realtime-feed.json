@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-26T04:26:04",
+  "updated_at": "2026-11-26T07:06:12",
   "articles": [
+    {
+      "id": "54bf1a629b",
+      "title": "Roblox 与 PRS for Music 签署音乐授权协议",
+      "zh_desc": "Roblox 与英国音乐版权组织 PRS for Music 达成授权协议，为平台上使用的音乐作品开辟收入分成。该消息属于平台音乐版权与创作者变现动态，与三消/消除手游设计关联较弱。",
+      "url": "https://www.gamesindustry.biz/roblox-signs-licensing-deal-with-prs-for-music",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-25T18:03:10",
+      "fetched_at": "2026-11-26T07:06:12",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "一个用户生成内容的在线游戏平台，玩家可创建并体验多种虚拟世界。"
+        }
+      ]
+    },
     {
       "id": "9c27f464c0",
       "title": "Ubisoft 员工在提案中若不使用生成式 AI 须说明理由，报道称",
