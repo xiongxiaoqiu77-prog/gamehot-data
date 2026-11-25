@@ -5,96 +5,123 @@
     <link>https://gamehot-gray.vercel.app</link>
     <description>游戏行业每日精选资讯</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 07:00:21 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:00:14 +0800</lastBuildDate>
   <item>
-    <title>为什么节假日并不像你想象的那样驱动移动游戏支出——GameAnalytics</title>
-    <link>https://www.gameanalytics.com/blog/holiday-seasons-and-monetization</link>
-    <description>GameAnalytics 基于 Black Friday、Cyber Monday、Christmas 等节点数据，说明移动游戏收入受节假日零售促销的影响远小于多数厂商预期。文章帮助休闲手游团队重新校准活动排期与变现预期，避免照搬电商日历。</description>
-    <category>深度拆解</category>
-    <author>GameAnalytics</author>
-    <pubDate>Mon, 23 Nov 2026 09:58:43 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gameanalytics.com/blog/holiday-seasons-and-monetization</guid>
-  </item>
-  <item>
-    <title>欧盟就《数字公平法案》展开咨询</title>
-    <link>https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act</link>
-    <description>欧盟委员会就拟议的《数字公平法案》公开征求意见，该法案将对战利品箱、虚拟货币和儿童游戏内购引入新规。对休闲游戏变现策略与合规运营有重要参考价值。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 23 Nov 2026 17:33:10 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act</guid>
-  </item>
-  <item>
-    <title>Monopoly Go 推出 Avengers: Doomsday 赛季，为 Scopely 第三次 Marvel 联动</title>
-    <link>https://mobilegamer.biz/monopoly-go-gets-an-avengers-doomsday-season-in-scopelys-third-marvel-crossover/</link>
-    <description>Monopoly Go 上线 Avengers: Doomsday 主题赛季，这是 Scopely 自 2024 年以来第三次引入 Marvel IP。该案例展示了头部休闲手游如何通过高频大 IP 联动驱动 LiveOps 节奏与商业化，对做联动排期和 IP 谈判的从业者有参考价值。</description>
+    <title>数据周报：Monopoly Go 收入达 80 亿美元，Block Blast 与 Vita Mahjong 领跑广告榜</title>
+    <link>https://mobilegamer.biz/data-digest-monopoly-go-hits-8bn-block-blast-and-vita-mahjong-lead-ad-charts-korea-stats-more/</link>
+    <description>汇总 Monopoly Go 累计 80 亿美元、Block Blast 与 Vita Mahjong 广告表现、Colony Flow 季度 1370 万美元、Tencent 的 Golden Spatula 等移动游戏数据。对休闲/消除品类观察头部产品收入、广告投放与市场格局有参考价值。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Mon, 23 Nov 2026 18:00:13 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/monopoly-go-gets-an-avengers-doomsday-season-in-scopelys-third-marvel-crossover/</guid>
+    <pubDate>Wed, 25 Nov 2026 13:06:53 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/data-digest-monopoly-go-hits-8bn-block-blast-and-vita-mahjong-lead-ad-charts-korea-stats-more/</guid>
   </item>
   <item>
-    <title>得益于 GTA VI，Rockstar 移动游戏下载量增长超过四倍</title>
-    <link>https://mobilegamer.biz/rockstars-mobile-downloads-more-than-quadrupled-thanks-to-gta-vi/</link>
-    <description>GTA VI 的热度带动 Rockstar 移动游戏下载量增长逾四倍，目前日均下载超过 60 万次。该案例说明跨平台 IP 联动对移动端获量的价值，对休闲手游发行有参考意义。</description>
+    <title>EGDF：欧洲工作室正把重心从「过度饱和」的移动市场转向 PC</title>
+    <link>https://mobilegamer.biz/european-studios-are-moving-focus-from-oversaturated-mobile-market-to-pc-says-egdf/</link>
+    <description>EGDF 负责人 Jari-Pekka Kaleva 指出欧洲工作室正从过度饱和的移动端转向 PC，行业裁员潮下整体人数仍大致持平。对判断手游市场竞争格局与团队流向有一定参考价值。</description>
     <category>行业资讯</category>
     <author>Mobile Gamer Biz</author>
-    <pubDate>Mon, 23 Nov 2026 14:57:32 +0800</pubDate>
-    <guid isPermaLink="true">https://mobilegamer.biz/rockstars-mobile-downloads-more-than-quadrupled-thanks-to-gta-vi/</guid>
+    <pubDate>Wed, 25 Nov 2026 17:43:23 +0800</pubDate>
+    <guid isPermaLink="true">https://mobilegamer.biz/european-studios-are-moving-focus-from-oversaturated-mobile-market-to-pc-says-egdf/</guid>
   </item>
   <item>
-    <title>Nicalis 在玩家反弹后从 The Binding of Isaac: Repentance+ 中移除 AI 生成音乐</title>
-    <link>https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash</link>
-    <description>Nicalis 在玩家发现最新更新包含 AI 生成音乐并引发大量 Steam 差评后，将其从 The Binding of Isaac: Repentance+ 中移除。该事件反映玩家对 AI 内容的敏感度，对内容制作与社区运营有一般参考价值。</description>
+    <title>BBC Studios 的 Marina Mello 确认出席 PGC London</title>
+    <link>https://www.pocketgamer.biz/bbc-studios-marina-mello-joins-pgc-london-speaker-lineup/</link>
+    <description>Marina Mello 将出席 Pocket Gamer Connects London，并介绍其负责的 Bluey 游戏与互动业务扩展。文中提到 Bluey 与 Halfbrick、StoryToys、Gameloft 的合作及下载表现，对家庭向休闲 IP 联动和手游发行有一定参考。</description>
+    <category>行业资讯</category>
+    <author>Pocket Gamer Biz</author>
+    <pubDate>Wed, 25 Nov 2026 15:51:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.pocketgamer.biz/bbc-studios-marina-mello-joins-pgc-london-speaker-lineup/</guid>
+  </item>
+  <item>
+    <title>Softgames CEO：依赖单一平台或单一模式风险很高</title>
+    <link>https://www.pocketgamer.biz/softgames-ceo-relying-on-one-platform-or-one-model-is-risky/</link>
+    <description>Softgames 庆祝成立 20 年，回顾从即时游戏到多平台/多商业模式转型，并计划扩张移动业务和收购休闲游戏。对休闲游戏平台策略、买量与多元化变现具有参考价值。</description>
+    <category>行业资讯</category>
+    <author>Pocket Gamer Biz</author>
+    <pubDate>Wed, 25 Nov 2026 15:52:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.pocketgamer.biz/softgames-ceo-relying-on-one-platform-or-one-model-is-risky/</guid>
+  </item>
+  <item>
+    <title>11 月合作速览：Monopoly Go 联动 Doomsday，Angry Birds 进入 Sonic Rumble，Duolingo 现身 Pokémon Go</title>
+    <link>https://www.pocketgamer.biz/november-2026-collabs-corner/</link>
+    <description>汇总移动游戏近期 IP 联动与品牌合作，包括 Monopoly Go、Sonic Rumble、Pokémon Go 等案例。对休闲手游 LiveOps 联动选题和品牌合作有资讯价值，但分析深度有限。</description>
+    <category>行业资讯</category>
+    <author>Pocket Gamer Biz</author>
+    <pubDate>Wed, 25 Nov 2026 15:50:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.pocketgamer.biz/november-2026-collabs-corner/</guid>
+  </item>
+  <item>
+    <title>Yes2Games 旗下 YouTube Playables 游戏组合播放量突破 2500 万</title>
+    <link>https://www.pocketgamer.biz/yes2games-surpasses-25-million-plays-across-its-youtube-playables-portfolio/</link>
+    <description>Yes2Games 通过 YouTube Playables 分发 Halfbrick 的 Fruit Ninja、Jetpack Joyride 等休闲游戏，累计超过 2500 万次游玩和 220 万小时。对 Web/平台型休闲游戏分发与轻量变现研究有参考意义。</description>
+    <category>行业资讯</category>
+    <author>Pocket Gamer Biz</author>
+    <pubDate>Wed, 25 Nov 2026 11:36:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.pocketgamer.biz/yes2games-surpasses-25-million-plays-across-its-youtube-playables-portfolio/</guid>
+  </item>
+  <item>
+    <title>Playgama 开发者在 2026 年前九个月收入超过 100 万美元</title>
+    <link>https://www.pocketgamer.biz/playgama-developers-earn-over-1m-in-first-nine-months-of-2026/</link>
+    <description>Playgama 公布平台开发者 2026 年 1-9 月合计收入超 100 万美元，周收入从 1.1 万美元增至 5 万美元以上。反映 Web 休闲游戏分发与变现增长，对轻量休闲游戏商业模式有参考。</description>
+    <category>行业资讯</category>
+    <author>Pocket Gamer Biz</author>
+    <pubDate>Wed, 25 Nov 2026 10:53:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.pocketgamer.biz/playgama-developers-earn-over-1m-in-first-nine-months-of-2026/</guid>
+  </item>
+  <item>
+    <title>Ubisoft 员工在提案中若不使用生成式 AI 须说明理由，报道称</title>
+    <link>https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims</link>
+    <description>报道称 Ubisoft 要求新项目提案团队说明生成式 AI 如何帮助加快游戏制作，若不计划使用则需给出详细理由。这反映大型厂商对 AI 生产工具的流程化推进，对关注研发效率与成本控制的从业者有参考意义，但与三消/消除玩法设计关联有限。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 23 Nov 2026 20:56:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash</guid>
+    <pubDate>Wed, 25 Nov 2026 20:19:40 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims</guid>
   </item>
   <item>
-    <title>Activision申请专利：用神经网络从游戏内语音聊天训练NPC</title>
-    <link>https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat</link>
-    <description>Activision提交专利，计划利用神经网络和大语言模型从游戏内语音聊天中训练NPC。该方向对AI NPC与社交交互有潜在启发，但与三消/消除类休闲游戏的核心设计关联较弱。</description>
+    <title>Unreal Engine 6将不再包含Blueprints和Actor Gameplay Framework</title>
+    <link>https://www.gamesindustry.biz/unreal-engine-6-wont-include-blueprints-or-actor-gameplay-framework</link>
+    <description>Unreal Engine 6将停用Blueprints和Actor Gameplay Framework，转向Verse与Scene Graph框架。该引擎技术变化对游戏开发者有实质影响，但并非休闲游戏设计拆解。</description>
     <category>行业资讯</category>
     <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 23 Nov 2026 15:09:50 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat</guid>
+    <pubDate>Wed, 25 Nov 2026 12:43:40 +0800</pubDate>
+    <guid isPermaLink="true">https://www.gamesindustry.biz/unreal-engine-6-wont-include-blueprints-or-actor-gameplay-framework</guid>
   </item>
   <item>
-    <title>Epic Games将在Unreal Engine 6发布时放弃Blueprints</title>
-    <link>https://gameworldobserver.com/2026/11/23/epic-games-will-abandon-blueprints-right-at-the-launch-of-unreal-engine-6</link>
-    <description>Epic Games修订Unreal Engine 6计划，不再支持Blueprints和Actor Gameplay Framework，改用基于Verse的Scene Graph游戏系统。该调整对Unreal Engine开发者有工具链迁移影响，但与休闲手游核心设计关联有限。</description>
+    <title>游戏行业已经成熟了吗？</title>
+    <link>https://naavik.co/podcast/is-gaming-a-mature-industry/</link>
+    <description>围绕游戏产业是否走向成熟、是否进入新的增长与颠覆期展开宏观讨论。内容偏行业趋势与资本视角，对休闲/消除手游的玩法、数值和变现设计直接帮助有限，可作为背景参考。</description>
+    <category>行业资讯</category>
+    <author>Naavik</author>
+    <pubDate>Wed, 25 Nov 2026 16:08:02 +0800</pubDate>
+    <guid isPermaLink="true">https://naavik.co/podcast/is-gaming-a-mature-industry/</guid>
+  </item>
+  <item>
+    <title>移动游戏与应用的增长机会在哪里——Google 将在 WN C-Level 峰会前分享</title>
+    <link>https://gameworldobserver.com/2026/11/25/where-to-find-growth-opportunities-in-mobile-games-and-apps-google-to-discuss-ahead-of-the-wn-c-level-summit</link>
+    <description>Google 将在12月9日 WN C-Level Summit 前举办移动市场专题会议，由负责中东欧移动游戏与应用业务的 Mariusz Gąsiewski 分享增长机会。内容偏活动预告，对关注手游获客与增长的高层从业者有议程参考，但缺少具体分析。</description>
     <category>行业资讯</category>
     <author>Game World Observer</author>
-    <pubDate>Mon, 23 Nov 2026 11:58:58 +0800</pubDate>
-    <guid isPermaLink="true">https://gameworldobserver.com/2026/11/23/epic-games-will-abandon-blueprints-right-at-the-launch-of-unreal-engine-6</guid>
+    <pubDate>Wed, 25 Nov 2026 11:53:10 +0800</pubDate>
+    <guid isPermaLink="true">https://gameworldobserver.com/2026/11/25/where-to-find-growth-opportunities-in-mobile-games-and-apps-google-to-discuss-ahead-of-the-wn-c-level-summit</guid>
   </item>
   <item>
-    <title>Plug in Digital收购News Tower发行商Twin Sails Interactive，组建新发行集团以在高度竞争市场中角逐</title>
-    <link>https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market</link>
-    <description>法国发行商Plug in Digital收购巴黎独立发行商Twin Sails Interactive，双方将合并组建独立游戏分销与发行集团。属于一般行业并购资讯，与休闲游戏直接关联有限。</description>
+    <title>Colossal Order CEO 谈数据、直觉与“面向所有人的游戏就是没有人的游戏”</title>
+    <link>https://www.pocketgamer.biz/colossal-order-mariina-hallikainen-data-gut-feeling-game-for-everyone/</link>
+    <description>Colossal Order CEO 分享如何结合数据与直觉选择能触达受众的游戏方向，强调不要试图取悦所有人。属于游戏产品策略访谈，对休闲手游的受众定位有一定启发，但非深度拆解。</description>
     <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 23 Nov 2026 15:15:10 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market</guid>
+    <author>Pocket Gamer Biz</author>
+    <pubDate>Wed, 25 Nov 2026 15:54:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.pocketgamer.biz/colossal-order-mariina-hallikainen-data-gut-feeling-game-for-everyone/</guid>
   </item>
   <item>
-    <title>Circana：美国超过半数主机玩家在 GTA 6 发售首日游玩</title>
-    <link>https://www.gamesindustry.biz/over-half-of-console-players-in-the-us-played-gta-6-on-launch-day-according-to-circana</link>
-    <description>Circana 数据显示，美国超过一半的主机玩家在 GTA 6 发售首日进行了游玩。该数据体现头部大作的 launch 影响力，属于一般性市场动态，与休闲消除手游的关联度一般。</description>
+    <title>GTA 6 发售带动系列手游下载量增长 4 倍</title>
+    <link>https://www.pocketgamer.biz/gta-6-launch-results-in-4x-downloads-boost-for-series-mobile-games/</link>
+    <description>据 AppMagic 估算，GTA 6 主机发售当周 GTA 手游下载量从 59 万增至 230 万。体现 IP 大作对移动端下载的带动效应，对休闲手游 IP 联动与用户获取有间接参考。</description>
     <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 23 Nov 2026 10:57:20 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/over-half-of-console-players-in-the-us-played-gta-6-on-launch-day-according-to-circana</guid>
-  </item>
-  <item>
-    <title>抵御 AI 克隆的一种方法？缩短公布与上线之间的间隔</title>
-    <link>https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch</link>
-    <description>Tinybuild 负责人 Alex Nichiporchik 认为，缩短公布到发售的时间是应对 AI 快速克隆的手段，并预测未来半年行业将更关注上市速度。对休闲游戏团队有发行节奏参考，但非玩法或变现拆解。</description>
-    <category>行业资讯</category>
-    <author>GamesIndustry.biz</author>
-    <pubDate>Mon, 23 Nov 2026 15:07:00 +0800</pubDate>
-    <guid isPermaLink="true">https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch</guid>
+    <author>Pocket Gamer Biz</author>
+    <pubDate>Wed, 25 Nov 2026 15:30:00 +0800</pubDate>
+    <guid isPermaLink="true">https://www.pocketgamer.biz/gta-6-launch-results-in-4x-downloads-boost-for-series-mobile-games/</guid>
   </item>
   </channel>
 </rss>
