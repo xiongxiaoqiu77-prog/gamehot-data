@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-26T01:45:33",
+  "updated_at": "2026-11-26T02:17:55",
   "articles": [
+    {
+      "id": "81f3db510a",
+      "title": "EGDF：欧洲工作室正把重心从「过度饱和」的移动市场转向 PC",
+      "zh_desc": "EGDF 负责人 Jari-Pekka Kaleva 指出欧洲工作室正从过度饱和的移动端转向 PC，行业裁员潮下整体人数仍大致持平。对判断手游市场竞争格局与团队流向有一定参考价值。",
+      "url": "https://mobilegamer.biz/european-studios-are-moving-focus-from-oversaturated-mobile-market-to-pc-says-egdf/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-25T17:43:23",
+      "fetched_at": "2026-11-26T02:17:55",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "e75c3ede7c",
       "title": "Unreal Engine 6将不再包含Blueprints和Actor Gameplay Framework",
