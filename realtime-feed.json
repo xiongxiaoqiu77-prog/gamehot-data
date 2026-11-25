@@ -1,6 +1,346 @@
 {
-  "updated_at": "2026-11-25T11:02:58",
+  "updated_at": "2026-11-25T12:09:24",
   "articles": [
+    {
+      "id": "d550a05ae8",
+      "title": "开发者现可应用 EVE: Frontier 中使用的高端环境光遮蔽技术",
+      "zh_desc": "介绍 Fenris Creations 开发者 Daniel Isheden 的个人编程项目 CORTAO，该技术已用于 EVE: Frontier，并可能用于更多游戏。文章偏向渲染技术分享，对休闲游戏玩法和变现分析帮助有限。",
+      "url": "https://www.gamedeveloper.com/programming/devs-can-now-utilize-high-end-ambient-occlusion-technique-seen-in-eve-frontier",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T15:10:00",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "EVE: Frontier",
+          "desc": "EVE Online 的衍生游戏，以动态玩家生成宇宙和广阔变化的太空场景为特点，并采用 CORTAO 环境光遮蔽技术。"
+        },
+        {
+          "name": "EVE Online",
+          "desc": "科幻太空游戏，其衍生作 EVE: Frontier 采用了 CORTAO 技术。"
+        }
+      ]
+    },
+    {
+      "id": "f54bdb2cec",
+      "title": "Splitscreen Croatia 会议为开发者提供向发行商和投资者展示未发布游戏的参会套餐",
+      "zh_desc": "Splitscreen Croatia 开放 Official Selection 展示申请，为有未发布游戏的开发者提供免费住宿和展位，以接触发行商与投资者。属于行业商务活动信息，与休闲游戏设计运营的直接关联较弱。",
+      "url": "https://www.gamesindustry.biz/splitscreen-croatia-conference-offers-free-travel-packages-for-developers-looking-to-showcase-unreleased-games-to-publishers-and-investors",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T12:18:30",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "2dc7da0abb",
+      "title": "GTA 6 成为 PlayStation 历史上最大规模发售，并发玩家数创历史新高",
+      "zh_desc": "Sony 称 GTA 6 在 11 月 19 日发售时创下 PlayStation 平台最高并发玩家纪录，但新主机游玩数量未达年末高点。该文是主机大作市场动态，对休闲手游设计与变现参考有限。",
+      "url": "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T11:44:10",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar 的开放世界动作冒险游戏，在 PlayStation 平台创下最大发售规模和最高同时在线玩家纪录。"
+        }
+      ]
+    },
+    {
+      "id": "3d95ddec03",
+      "title": "提名你心中的 2026 社区奖行业英雄",
+      "zh_desc": "Mobile Gamer Biz 开放 2026 社区奖提名，表彰移动游戏行业从业者，获奖者将获得实体奖杯。属于行业社区活动信息，不涉及休闲游戏设计或运营分析。",
+      "url": "https://mobilegamer.biz/nominate-your-work-heroes-in-our-2026-community-awards/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T15:43:38",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "8afab87ddd",
+      "title": "Plug In Digital 收购 Twin Sails Interactive",
+      "zh_desc": "发行商 Plug In Digital 收购 Twin Sails Interactive，意在整合全球分发网络、业务拓展与出版业务。该交易属于游戏行业公司动态，与休闲手游具体设计运营关联较弱。",
+      "url": "https://www.pocketgamer.biz/plug-in-digital-acquires-twin-sails-interactive/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T15:10:00",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "News Tower",
+          "desc": "报纸/媒体经营模拟游戏，由 Twin Sails 发行。"
+        },
+        {
+          "name": "Ember Knights",
+          "desc": "动作 roguelike 游戏，由 Twin Sails 发行。"
+        },
+        {
+          "name": "Survival: Fountain of Youtube",
+          "desc": "生存冒险游戏，文中列为 Twin Sails 发行的作品之一。"
+        },
+        {
+          "name": "Gloomhaven",
+          "desc": "基于桌游的战术 RPG/地牢探险游戏，由 Twin Sails 发行。"
+        },
+        {
+          "name": "Fabledom",
+          "desc": "童话风格的城市建造/殖民模拟游戏，属于 Dear Villagers 产品组合。"
+        }
+      ]
+    },
+    {
+      "id": "3a6ec79d94",
+      "title": "ITV Studios 旗下 Metavision 将把 Thunderbirds IP 带入 Roblox",
+      "zh_desc": "Metavision 计划今年晚些时候在 Roblox 首次推出基于 1960 年代剧集 Thunderbirds 的体验，还原经典元素与载具设计。该文是 IP 与平台合作资讯，对休闲消除手游的直接参考有限。",
+      "url": "https://www.pocketgamer.biz/itv-studios-metavision-to-bring-thunderbirds-ip-to-roblox/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T12:35:00",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Thunderbirds",
+          "desc": "基于 1960 年代原版电视剧的 Roblox 体验，将重现 Tracy Island 和经典救援元素。"
+        },
+        {
+          "name": "Hell’s Kitchen",
+          "desc": "Metavision 此前基于同名电视节目制作的 Roblox 体验。"
+        },
+        {
+          "name": "The Great British Bake Off",
+          "desc": "Metavision 此前基于同名烘焙节目制作的 Roblox 体验。"
+        },
+        {
+          "name": "One Piece",
+          "desc": "在 Fortnite 中基于《海贼王》IP 制作的体验。"
+        },
+        {
+          "name": "The Traitors",
+          "desc": "在 Fortnite 中基于同名真人秀制作的体验。"
+        }
+      ]
+    },
+    {
+      "id": "42a5320a7f",
+      "title": "Epic Games 将在 Unreal Engine 6 中移除 Blueprints，AI 重塑迁移计划",
+      "zh_desc": "Epic 宣布 Unreal Engine 6 不再支持 Blueprints 可视化脚本和 Actor Gameplay Framework，改用 Verse 语言与 Scene Graph 框架，并借助 AI 辅助迁移。该文面向引擎开发者，与休闲手游玩法设计关联较弱。",
+      "url": "https://www.pocketgamer.biz/epic-games-to-drop-blueprints-from-unreal-engine-6-as-ai-reshapes-migration-plans/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T11:35:00",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic 的大逃杀游戏，其 Battle Royale Blueprints 已被 AI 转换为约 300 万行 Verse 代码。"
+        }
+      ]
+    },
+    {
+      "id": "c092517fbc",
+      "title": "你将在 PG Connects London 2027 遇见谁？",
+      "zh_desc": "PG Connects London 2027 将于 1 月 18-19 日举行，预计超 3000 名来自 70 多国的从业者参与，其中近七成为游戏制作者。文章主要介绍参会阵容与商务社交价值，不涉及休闲游戏设计拆解。",
+      "url": "https://www.pocketgamer.biz/who-will-you-meet-at-pg-connects-london-2027/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T09:30:00",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "c92366c70e",
+      "title": "21 家中东北非初创公司从 Exel by Merak 第三期加速器毕业",
+      "zh_desc": "沙特加速器 Exel by Merak 第三期 Demo Day 展示 21 家中东北非游戏初创公司，并向发行商、投资者和开发者路演。该文是区域游戏生态动态，与休闲三消手游的玩法或变现分析关联较弱。",
+      "url": "https://www.pocketgamer.biz/21-mena-startups-graduate-from-the-third-exel-by-merak-accelerator-cohort/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T17:30:00",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Keko & the NightShard",
+          "desc": "3D 解谜平台游戏，海盗猫与一块夜空碎片共用一个身体。"
+        },
+        {
+          "name": "Najd",
+          "desc": "受纳季德文化启发的叙事冒险游戏，小女孩的辫子成为她的力量。"
+        },
+        {
+          "name": "Metro Surge",
+          "desc": "单人动作 RPG，玩家设计超级英雄并获得随机能力系统。"
+        },
+        {
+          "name": "Noctuaria",
+          "desc": "悬疑冒险游戏，背景设定在一个陷入时间循环的村庄。"
+        },
+        {
+          "name": "Bou's Revenge 2: Hunt Begins",
+          "desc": "恐怖续作，接续《Bou's Revenge》。"
+        },
+        {
+          "name": "Bou's Revenge",
+          "desc": "恐怖游戏，是《Bou's Revenge 2: Hunt Begins》的前作。"
+        },
+        {
+          "name": "Henkaa",
+          "desc": "将传统沙特游戏带到移动端的策略游戏，可对战朋友或 AI 对手。"
+        },
+        {
+          "name": "Renegade Brigade",
+          "desc": "第一人称射击与沉浸式模拟游戏，包含两种玩法和多路线任务。"
+        },
+        {
+          "name": "Sands of the First Kings",
+          "desc": "2.5D 叙事冒险游戏，设定在反应式阿拉伯世界并包含角色招募。"
+        },
+        {
+          "name": "Blindspot",
+          "desc": "非对称合作悬疑游戏，两名玩家看到不同现实，必须通过交谈找出真相。"
+        },
+        {
+          "name": "SYNERGY: Sanity Break",
+          "desc": "四人在线合作心理恐怖游戏，带有理智系统。"
+        },
+        {
+          "name": "Ice To Meet You",
+          "desc": "三消解谜游戏。"
+        }
+      ]
+    },
+    {
+      "id": "babb69e9c2",
+      "title": "Nintendo 的宫本茂将在 D.I.C.E. Awards 获得首届 Legend Award",
+      "zh_desc": "D.I.C.E. Awards 将于 2027 年 2 月 18 日颁发首届 Legend Award 给 Nintendo 的宫本茂，表彰其对互动娱乐的持续影响。该文是行业人物与奖项资讯，对休闲手游设计分析帮助有限。",
+      "url": "https://www.pocketgamer.biz/nintendos-shigeru-miyamoto-to-receive-inaugural-legend-award-at-dice-awards/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T12:27:00",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Mario",
+          "desc": "任天堂标志性平台游戏系列，相关作品已销售 40 余年。"
+        },
+        {
+          "name": "The Legend of Zelda",
+          "desc": "任天堂动作冒险系列，2026 年迎来 40 周年。"
+        },
+        {
+          "name": "Donkey Kong",
+          "desc": "任天堂街机游戏，已有 45 年历史，被视为最早由美术设计师创作的游戏。"
+        },
+        {
+          "name": "Pikmin",
+          "desc": "任天堂系列，2026 年迎来 25 周年并持续推出新内容。"
+        },
+        {
+          "name": "Pikmin 4",
+          "desc": "Pikmin 系列作品，推出了 Switch 2 版。"
+        },
+        {
+          "name": "Pikmin Bloom",
+          "desc": "Pikmin 移动游戏，获得了大型更新。"
+        }
+      ]
+    },
+    {
+      "id": "82458be183",
+      "title": "GTA 6 首日销售额达 37.9 亿美元，成为史上最大娱乐产品发售",
+      "zh_desc": "Take-Two 称 GTA 6 首日全球零售销售额约 37.9 亿美元，创下娱乐产品发售纪录。该文是主机大作商业表现新闻，与休闲消除手游的运营和变现关联较弱。",
+      "url": "https://www.pocketgamer.biz/gta-6-generates-379bn-in-day-one-sales-to-become-the-biggest-entertainment-launch-in-history/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T11:00:00",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar/Take-Two 的开放世界动作冒险游戏，首日零售额 37.9 亿美元并预售 3250 万份，创娱乐产品发售纪录。"
+        },
+        {
+          "name": "Grand Theft Auto V",
+          "desc": "GTA 系列前作，2013 年三天零售额 10 亿美元，曾是纪录保持者。"
+        }
+      ]
+    },
+    {
+      "id": "fb52939e6d",
+      "title": "充分利用 Pocket Gamer Connects London 2027 的五条建议",
+      "zh_desc": "文章为 2027 年 1 月 18-19 日举行的 Pocket Gamer Connects London 提供参会建议，强调市场洞察、人脉拓展与投资合作机会。属于行业活动指南，不涉及休闲游戏机制或数值拆解。",
+      "url": "https://www.pocketgamer.biz/five-tips-to-make-the-most-of-pocket-gamer-connects-london-2027/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T09:30:00",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "64353a0d07",
+      "title": "3900 万独立玩家与在线纪录：GTA VI 发售成为 PlayStation 历史最大规模",
+      "zh_desc": "Sony 公布截至 2026 年 11 月 22 日的 GTA VI 数据，称其有 3900 万独立玩家并创下在线纪录，是 PlayStation 史上最大发售。该文是主机大作市场数据，对休闲手游参考有限。",
+      "url": "https://gameworldobserver.com/2026/11/24/39-million-unique-players-and-record-online-attendance-the-release-of-gta-vi-became-the-largest-in-playstation-history",
+      "source": "Game World Observer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T14:22:31",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA VI",
+          "desc": "Rockstar 的开放世界动作冒险游戏，在 PlayStation 前四天吸引 3900 万独立玩家并创同时在线纪录。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "免费大逃杀多人游戏，其同时在线纪录被 GTA VI 超越。"
+        }
+      ]
+    },
+    {
+      "id": "7f36d06f74",
+      "title": "Take-Two 在 GTA VI 发售前经历疲软季度，全年展望保持不变",
+      "zh_desc": "报道 Take-Two 在 GTA VI 发售前季度业绩较弱，但维持全年业绩展望。属于游戏公司财务动态，与休闲游戏设计运营关联较弱，对休闲手游从业者直接参考价值有限。",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdzktOFlOTzRibWxyUEFxRFZUNjB1Tm9xV2VMdXktUWlTekhWLVBCbE43VG16TVNSYnF2Qy1vemM4Y014R0o4TUR1ZUtqSmN1LW5YNlM5U0xPc0cybnN3VTlQTG1ycTVSa19pdHBqSGdlLXRNRm5sc0JPWUpySE5VT2tQeTVSV01uMzNTeGt0dXd0TkFjUVRHdEQ2WVBMUEtITDNHUDFkcFFWZWlaNnZMUlVjclRUaU1WVVdabFRvQQ?oc=5",
+      "source": "重点游戏-Toon Blast",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-19T13:30:00",
+      "fetched_at": "2026-11-25T12:09:24",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA VI",
+          "desc": "Take-Two/Rockstar 的开放世界动作冒险游戏，标题提及其发售前季度业绩表现。"
+        }
+      ]
+    },
     {
       "id": "5f90d3a21c",
       "title": "沙特手游工作室 NJD Games 获 110 万美元投资",
