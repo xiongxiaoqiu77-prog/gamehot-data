@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-25T12:09:24",
+  "updated_at": "2026-11-25T17:33:31",
   "articles": [
+    {
+      "id": "a9579da9bb",
+      "title": "Nvidia 重新任命黄仁勋为总裁兼 CEO",
+      "zh_desc": "Nvidia 宣布恢复黄仁勋总裁兼 CEO 职务，并称董事会已收到美国政府高层意见，确认其不构成国家安全风险。该消息属于游戏硬件与科技公司人事动态，对休闲游戏玩法、变现研究参考有限。",
+      "url": "https://www.pocketgamer.biz/nvidia-reinstates-jensen-huang-as-president-and-ceo/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T14:25:00",
+      "fetched_at": "2026-11-25T17:33:31",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "开放世界动作冒险游戏，侠盗猎车手系列最新作。"
+        }
+      ]
+    },
     {
       "id": "d550a05ae8",
       "title": "开发者现可应用 EVE: Frontier 中使用的高端环境光遮蔽技术",
