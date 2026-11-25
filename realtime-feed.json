@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-26T01:11:54",
+  "updated_at": "2026-11-26T01:45:33",
   "articles": [
+    {
+      "id": "e75c3ede7c",
+      "title": "Unreal Engine 6将不再包含Blueprints和Actor Gameplay Framework",
+      "zh_desc": "Unreal Engine 6将停用Blueprints和Actor Gameplay Framework，转向Verse与Scene Graph框架。该引擎技术变化对游戏开发者有实质影响，但并非休闲游戏设计拆解。",
+      "url": "https://www.gamesindustry.biz/unreal-engine-6-wont-include-blueprints-or-actor-gameplay-framework",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-25T12:43:40",
+      "fetched_at": "2026-11-26T01:45:33",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fortnite",
+          "desc": "Epic Games 的多人射击/大逃杀游戏，文中提到其拥有大量 Blueprint，并被用于测试用 AI 将超 2 万个 Blueprint 转换为 Verse 代码。"
+        }
+      ]
+    },
     {
       "id": "49b382a1a3",
       "title": "游戏行业已经成熟了吗？",
