@@ -1,6 +1,58 @@
 {
-  "updated_at": "2026-11-25T10:30:04",
+  "updated_at": "2026-11-25T11:02:58",
   "articles": [
+    {
+      "id": "5f90d3a21c",
+      "title": "沙特手游工作室 NJD Games 获 110 万美元投资",
+      "zh_desc": "NJD Games 获 Mirac Capital 与 Impact46 领投的110万美元融资，计划将沙特和海湾汽车文化推向全球。属于手游市场与融资动态，对休闲品类从业者提供区域市场参考。",
+      "url": "https://www.pocketgamer.biz/saudi-mobile-studio-njd-games-secures-11m-investment/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-24T16:30:00",
+      "fetched_at": "2026-11-25T11:02:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "KOH (King of Hajwala)",
+          "desc": "NJD Games 的赛车手游，曾获得超过500万次安装，帮助工作室打开市场。"
+        },
+        {
+          "name": "Drift Toon",
+          "desc": "NJD Games 即将推出的赛车游戏之一。"
+        },
+        {
+          "name": "Hajwala Corsa 2",
+          "desc": "NJD Games 即将推出的赛车游戏之一。"
+        }
+      ]
+    },
+    {
+      "id": "b440df0323",
+      "title": "PUBG Mobile 与 Bentley 合作，将豪华车辆引入游戏",
+      "zh_desc": "合作从2026年11月20日持续至2027年1月12日，将三款 Bentley 车型加入 PUBG Mobile。属于手游 IP 与品牌联动及商业化动态，可作跨界合作案例参考。",
+      "url": "https://www.pocketgamer.biz/pubg-mobile-partners-with-bentley-to-bring-luxury-vehicles-to-the-game/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-23T11:58:00",
+      "fetched_at": "2026-11-25T11:02:58",
+      "lang": "en",
+      "games": [
+        {
+          "name": "PUBG Mobile",
+          "desc": "Krafton 的战术竞技手游，本次与 Bentley 合作加入三款豪华车型及定制外观。"
+        },
+        {
+          "name": "PUBG Mobile Flash",
+          "desc": "PUBG Mobile 的轻量版，于2026年11月12日在 iOS 和 Android 全球上线。"
+        },
+        {
+          "name": "PUBG",
+          "desc": "Krafton 的战术竞技游戏 IP，文中提到 Netflix 正开发其真人改编作品。"
+        }
+      ]
+    },
     {
       "id": "7014eb539c",
       "title": "Unity CEO Matt Bromberg 与 Eric Seufert 将在 PGC London 谈 AI、发现与增长",
