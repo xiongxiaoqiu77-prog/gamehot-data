@@ -1,6 +1,238 @@
 {
-  "updated_at": "2026-11-25T17:33:31",
+  "updated_at": "2026-11-26T00:36:03",
   "articles": [
+    {
+      "id": "9f1dcdd285",
+      "title": "数据周报：Monopoly Go 收入达 80 亿美元，Block Blast 与 Vita Mahjong 领跑广告榜",
+      "zh_desc": "汇总 Monopoly Go 累计 80 亿美元、Block Blast 与 Vita Mahjong 广告表现、Colony Flow 季度 1370 万美元、Tencent 的 Golden Spatula 等移动游戏数据。对休闲/消除品类观察头部产品收入、广告投放与市场格局有参考价值。",
+      "url": "https://mobilegamer.biz/data-digest-monopoly-go-hits-8bn-block-blast-and-vita-mahjong-lead-ad-charts-korea-stats-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-25T13:06:53",
+      "fetched_at": "2026-11-26T00:36:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "大富翁题材手游，累计玩家支出突破80亿美元。"
+        },
+        {
+          "name": "Block Blast",
+          "desc": "方块消除益智游戏，在iOS广告创意数量榜领先。"
+        },
+        {
+          "name": "Vita Mahjong",
+          "desc": "麻将题材益智游戏，在Android广告创意榜居前。"
+        },
+        {
+          "name": "Amaze Go",
+          "desc": "Oakever/Vita Studio发行的益智游戏，进入Android广告创意榜前三。"
+        },
+        {
+          "name": "Meowdoku",
+          "desc": "猫咪主题数独解谜游戏，进入广告创意榜前列。"
+        },
+        {
+          "name": "Tile Explorer",
+          "desc": "瓷砖消除类益智游戏，进入Android广告创意榜前五。"
+        },
+        {
+          "name": "Cash Club Casino",
+          "desc": "SpinX的赌场题材社交博彩游戏，在iOS广告创意榜排名第三。"
+        },
+        {
+          "name": "MapleStory",
+          "desc": "Nexon的MMORPG系列，被列为韩国厂商海外增长代表。"
+        },
+        {
+          "name": "Random Dice Defense",
+          "desc": "111%发行的随机骰子塔防游戏，被列为韩国厂商海外增长代表。"
+        },
+        {
+          "name": "Pizza Ready",
+          "desc": "Supercent的餐厅经营烹饪模拟游戏，被列为韩国厂商海外增长代表。"
+        },
+        {
+          "name": "Colony Flow",
+          "desc": "Onesoft的flow益智混合休闲游戏，Q3 IAP收入1370万美元。"
+        },
+        {
+          "name": "Cube Land",
+          "desc": "Rotatelab的3D flow益智游戏，Q3收入超990万美元。"
+        },
+        {
+          "name": "Pixel Flow",
+          "desc": "启发大量flow益智游戏的像素流玩法作品。"
+        }
+      ]
+    },
+    {
+      "id": "533c743404",
+      "title": "Colossal Order CEO 谈数据、直觉与“面向所有人的游戏就是没有人的游戏”",
+      "zh_desc": "Colossal Order CEO 分享如何结合数据与直觉选择能触达受众的游戏方向，强调不要试图取悦所有人。属于游戏产品策略访谈，对休闲手游的受众定位有一定启发，但非深度拆解。",
+      "url": "https://www.pocketgamer.biz/colossal-order-mariina-hallikainen-data-gut-feeling-game-for-everyone/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-25T15:54:00",
+      "fetched_at": "2026-11-26T00:36:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Cities in Motion",
+          "desc": "公共交通模拟经营游戏，Colossal Order早期作品。"
+        },
+        {
+          "name": "Cities in Motion 2",
+          "desc": "公共交通模拟续作，帮助工作室积累城市模拟经验。"
+        },
+        {
+          "name": "Cities: Skylines",
+          "desc": "现代城市建造模拟游戏，以模组支持著称并长期运营。"
+        },
+        {
+          "name": "Cities: Skylines 2",
+          "desc": "城市建造模拟续作，由Colossal Order开发。"
+        },
+        {
+          "name": "SimCity",
+          "desc": "经典城市建造模拟游戏，文中作为Skylines填补市场空白的参照。"
+        },
+        {
+          "name": "Transport Tycoon",
+          "desc": "经典运输模拟游戏，Cities in Motion曾以“SimCity规模上的Transport Tycoon”定位。"
+        }
+      ]
+    },
+    {
+      "id": "157715484f",
+      "title": "Softgames CEO：依赖单一平台或单一模式风险很高",
+      "zh_desc": "Softgames 庆祝成立 20 年，回顾从即时游戏到多平台/多商业模式转型，并计划扩张移动业务和收购休闲游戏。对休闲游戏平台策略、买量与多元化变现具有参考价值。",
+      "url": "https://www.pocketgamer.biz/softgames-ceo-relying-on-one-platform-or-one-model-is-risky/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-25T15:52:00",
+      "fetched_at": "2026-11-26T00:36:03",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "4bd99500a6",
+      "title": "11 月合作速览：Monopoly Go 联动 Doomsday，Angry Birds 进入 Sonic Rumble，Duolingo 现身 Pokémon Go",
+      "zh_desc": "汇总移动游戏近期 IP 联动与品牌合作，包括 Monopoly Go、Sonic Rumble、Pokémon Go 等案例。对休闲手游 LiveOps 联动选题和品牌合作有资讯价值，但分析深度有限。",
+      "url": "https://www.pocketgamer.biz/november-2026-collabs-corner/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-25T15:50:00",
+      "fetched_at": "2026-11-26T00:36:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monopoly Go",
+          "desc": "大富翁题材手游，与漫威《Avengers: Doomsday》联动推出Doomsday Go赛季。"
+        },
+        {
+          "name": "Angry Birds",
+          "desc": "弹弓物理益智游戏IP，其角色Red和Bomb进入Sonic Rumble。"
+        },
+        {
+          "name": "Sonic Rumble",
+          "desc": "Sega的多人派对竞技手游，加入Angry Birds主题角色和关卡。"
+        },
+        {
+          "name": "Pokémon Go",
+          "desc": "AR位置定位捉宠手游，标题提及Duolingo联动。"
+        },
+        {
+          "name": "Raid: Shadow Legends",
+          "desc": "Plarium的RPG手游，与《Conan the Barbarian》联动。"
+        },
+        {
+          "name": "Dragon Village 3",
+          "desc": "Highbrow的RPG手游，与K-pop女团Rescene联动。"
+        }
+      ]
+    },
+    {
+      "id": "3a313db050",
+      "title": "GTA 6 发售带动系列手游下载量增长 4 倍",
+      "zh_desc": "据 AppMagic 估算，GTA 6 主机发售当周 GTA 手游下载量从 59 万增至 230 万。体现 IP 大作对移动端下载的带动效应，对休闲手游 IP 联动与用户获取有间接参考。",
+      "url": "https://www.pocketgamer.biz/gta-6-launch-results-in-4x-downloads-boost-for-series-mobile-games/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-25T15:30:00",
+      "fetched_at": "2026-11-26T00:36:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Grand Theft Auto 6",
+          "desc": "Rockstar的开放世界动作冒险新作，其发售带动系列手游下载量增长。"
+        },
+        {
+          "name": "GTA: Vice City - Definitive",
+          "desc": "GTA系列手游复刻版，在GTA 6发售周新增下载超110万。"
+        },
+        {
+          "name": "GTA 5 Enhanced",
+          "desc": "GTA 5增强版，Steam日活因GTA 6发售增长1.77倍。"
+        },
+        {
+          "name": "GTA Legacy",
+          "desc": "GTA系列作品版本，Steam日活同期增长1.69倍。"
+        },
+        {
+          "name": "GTA 4: The Complete Edition",
+          "desc": "GTA 4完整版，Steam日活因GTA 6发售增长1.68倍。"
+        },
+        {
+          "name": "GTA Trilogy",
+          "desc": "GTA三部曲合集，曾在Netflix上线并创下系列手游下载高峰。"
+        }
+      ]
+    },
+    {
+      "id": "68e09d1d7d",
+      "title": "Yes2Games 旗下 YouTube Playables 游戏组合播放量突破 2500 万",
+      "zh_desc": "Yes2Games 通过 YouTube Playables 分发 Halfbrick 的 Fruit Ninja、Jetpack Joyride 等休闲游戏，累计超过 2500 万次游玩和 220 万小时。对 Web/平台型休闲游戏分发与轻量变现研究有参考意义。",
+      "url": "https://www.pocketgamer.biz/yes2games-surpasses-25-million-plays-across-its-youtube-playables-portfolio/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-25T11:36:00",
+      "fetched_at": "2026-11-26T00:36:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fruit Ninja",
+          "desc": "Halfbrick的水果切割动作游戏，通过Yes2SDK登陆YouTube Playables。"
+        },
+        {
+          "name": "Jetpack Joyride",
+          "desc": "Halfbrick的横版无尽跑酷游戏，进入Yes2Games的YouTube Playables组合。"
+        },
+        {
+          "name": "Dan the Man",
+          "desc": "Halfbrick的横版动作闯关游戏，进入Yes2Games的YouTube Playables组合。"
+        }
+      ]
+    },
+    {
+      "id": "c6d69c683f",
+      "title": "Playgama 开发者在 2026 年前九个月收入超过 100 万美元",
+      "zh_desc": "Playgama 公布平台开发者 2026 年 1-9 月合计收入超 100 万美元，周收入从 1.1 万美元增至 5 万美元以上。反映 Web 休闲游戏分发与变现增长，对轻量休闲游戏商业模式有参考。",
+      "url": "https://www.pocketgamer.biz/playgama-developers-earn-over-1m-in-first-nine-months-of-2026/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-25T10:53:00",
+      "fetched_at": "2026-11-26T00:36:03",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "a9579da9bb",
       "title": "Nvidia 重新任命黄仁勋为总裁兼 CEO",
