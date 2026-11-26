@@ -1,6 +1,49 @@
 {
-  "updated_at": "2026-11-26T08:10:25",
+  "updated_at": "2026-11-26T08:42:35",
   "articles": [
+    {
+      "id": "4b9edaf93a",
+      "title": "英国创意产业计划向游戏业投放逾 4500 万英镑资金",
+      "zh_desc": "作为总额 5 亿英镑的创意产业计划的一部分，八家游戏工作室将分享超过 4500 万英镑的政府与 UKRI 资金。这是游戏行业投融资与政策层面的资讯，对关注海外团队与出海环境的从业者有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/gaming-sector-to-benefit-from-funding-package-of-over-45m-as-part-of-creative-industries-sector-plan",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-25T14:55:50",
+      "fetched_at": "2026-11-26T08:42:35",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "97b44e367e",
+      "title": "黑色电影风格漫画冒险游戏《Frames of Mind》获 Big Indie Pitch 巴黎站冠军",
+      "zh_desc": "Ponpon Studio 的叙事向黑色电影风格作品《Frames of Mind》在巴黎游戏周的 Big Indie Pitch 中夺冠，10 家独立团队向评委路演。内容属于手游与独立游戏行业活动资讯，可了解海外独立团队的题材趋势，但缺乏设计拆解深度。",
+      "url": "https://www.pocketgamer.biz/noir-comic-adventure-frames-of-mind-wins-the-big-indie-pitchs-paris-debut/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-25T14:28:00",
+      "fetched_at": "2026-11-26T08:42:35",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Frames of Mind",
+          "desc": "Ponpon Studio 开发的故事驱动黑色电影风格漫画冒险/探索游戏，玩家在漫画分格间移动并通过对话选择改变剧情。"
+        },
+        {
+          "name": "West & Guns",
+          "desc": "Chonky Frog Studio 的参赛游戏，获 Big Indie Pitch 巴黎站第二名；文章未展开其类型或特点。"
+        },
+        {
+          "name": "Dust to Dust",
+          "desc": "Unlimited Spoons 的参赛游戏，获 Big Indie Pitch 巴黎站第三名；文章未展开其类型或特点。"
+        },
+        {
+          "name": "Resident Evil 1",
+          "desc": "经典生存恐怖游戏，文中被 Ponpon Studio 用作《Frames of Mind》漫画书内风格的类比。"
+        }
+      ]
+    },
     {
       "id": "4c6d8d2c0f",
       "title": "收藏日期：2027 年上半年你会在哪里参加 PG Connects？",
