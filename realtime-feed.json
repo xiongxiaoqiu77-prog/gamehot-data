@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-26T09:15:32",
+  "updated_at": "2026-11-26T16:48:03",
   "articles": [
+    {
+      "id": "c264c44fd2",
+      "title": "玩家已在 MONOPOLY GO! 上花费超过 80 亿美元",
+      "zh_desc": "报道 MONOPOLY GO! 累计玩家支出已突破 80 亿美元，体现头部休闲手游的商业化规模与变现天花板。对从业者可作为休闲品类市场空间和付费潜力参考，但原文未展开玩法、关卡或 LiveOps 拆解。",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hZjNISU8weDlOS1NlWmI2Um5DNFhRdGh1NmhDVDlXZzZaQzQ2ZWFRa2VBamYzTTU3ckVCR2VqQkRBNzloMWJVMXNuSklPeEU?oc=5",
+      "source": "重点游戏-MONOPOLY GO",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-24T19:26:13",
+      "fetched_at": "2026-11-26T16:48:03",
+      "lang": "en",
+      "games": [
+        {
+          "name": "MONOPOLY GO!",
+          "desc": "一款基于大富翁IP的移动棋盘社交休闲游戏，玩家通过掷骰子、建设地标和参与活动推进进度。"
+        }
+      ]
+    },
     {
       "id": "d5d689f3b0",
       "title": "Capcom 将于 2027 年 9 月关闭 Exoprimal 服务器",
