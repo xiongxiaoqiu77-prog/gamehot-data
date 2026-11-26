@@ -1,6 +1,19 @@
 {
-  "updated_at": "2026-11-26T07:06:12",
+  "updated_at": "2026-11-26T08:10:25",
   "articles": [
+    {
+      "id": "4c6d8d2c0f",
+      "title": "收藏日期：2027 年上半年你会在哪里参加 PG Connects？",
+      "zh_desc": "Pocket Gamer Biz 公布 PG Connects 2027 年上半年在伦敦、迪拜、赫尔辛基、胡志明市等地的活动排期。该资讯属于手游行业会议动态，对从业者了解交流节点有帮助，但不涉及休闲游戏设计拆解。",
+      "url": "https://www.pocketgamer.biz/save-the-date-where-will-you-catch-pg-connects-in-the-first-half-of-2027/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-25T09:30:00",
+      "fetched_at": "2026-11-26T08:10:25",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "54bf1a629b",
       "title": "Roblox 与 PRS for Music 签署音乐授权协议",
