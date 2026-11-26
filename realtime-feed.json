@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-26T08:42:35",
+  "updated_at": "2026-11-26T09:15:32",
   "articles": [
+    {
+      "id": "d5d689f3b0",
+      "title": "Capcom 将于 2027 年 9 月关闭 Exoprimal 服务器",
+      "zh_desc": "Capcom 宣布在线恐龙射击游戏 Exoprimal 将于 2027 年 9 月 29 日终止服务。可作为长线在线游戏生命周期与关服节奏的行业信息，但与休闲消除品类的玩法、数值和变现关联较弱。",
+      "url": "https://www.gamesindustry.biz/capcom-will-shut-down-exoprimal-servers-in-september-2027",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-25T17:19:20",
+      "fetched_at": "2026-11-26T09:15:32",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Exoprimal",
+          "desc": "一款在线恐龙射击游戏"
+        }
+      ]
+    },
     {
       "id": "4b9edaf93a",
       "title": "英国创意产业计划向游戏业投放逾 4500 万英镑资金",
