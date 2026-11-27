@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-27T09:58:28",
+  "updated_at": "2026-11-27T10:31:14",
   "articles": [
+    {
+      "id": "ba79dfff95",
+      "title": "World War Heroes 如何合并 1 亿+ 玩家账号并重塑匹配机制",
+      "zh_desc": "Last Level Games 分享将 iOS/Android 超1亿 World War Heroes 账号迁移至统一服务器的技术实践，涉及 ID 重叠、社交图谱、两小时停机、回滚和真实生产数据 QA。对 mobile game 后端运维与匹配系统有参考价值，但与休闲消除玩法无直接关系。",
+      "url": "https://www.pocketgamer.biz/how-world-war-heroes-merged-100m-player-accounts-and-reshaped-matchmaking/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-26T12:50:00",
+      "fetched_at": "2026-11-27T10:31:14",
+      "lang": "en",
+      "games": [
+        {
+          "name": "World War Heroes",
+          "desc": "一款在 iOS 与 Android 双平台运营的多人游戏，包含账号、社交/部落、武器及匹配机制。"
+        }
+      ]
+    },
     {
       "id": "f45589a1b7",
       "title": "GTA 6成功受限于主机装机量，未来增长寄望PC——分析师称“前所未见”",
