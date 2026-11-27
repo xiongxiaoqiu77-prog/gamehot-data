@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-27T13:44:40",
+  "updated_at": "2026-11-27T14:17:46",
   "articles": [
+    {
+      "id": "c299b808c1",
+      "title": "Sir Ian Livingstone将在PGC London发表演讲",
+      "zh_desc": "Pocket Gamer Connects London宣布Sir Ian Livingstone将发表演讲，介绍其在Games Workshop、Fighting Fantasy、Eidos和Hiro Capital的经历。该消息对手游行业活动和人脉动态有一般性参考，但不含设计或运营拆解。",
+      "url": "https://www.pocketgamer.biz/sir-ian-livingstone-to-speak-at-pgc-london/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-26T10:00:00",
+      "fetched_at": "2026-11-27T14:17:46",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Tomb Raider",
+          "desc": "由 Eidos 发行的动作冒险游戏系列，以考古探险家劳拉·克劳馥的冒险为核心。"
+        }
+      ]
+    },
     {
       "id": "4a8826729b",
       "title": "吟游诗人题材悬疑 RPG《Heart and Harmony》赢得 PGC Montreal 2026 Big Indie Pitch 冠军",
