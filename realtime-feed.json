@@ -1,6 +1,158 @@
 {
-  "updated_at": "2026-11-26T16:48:03",
+  "updated_at": "2026-11-27T09:58:28",
   "articles": [
+    {
+      "id": "f45589a1b7",
+      "title": "GTA 6成功受限于主机装机量，未来增长寄望PC——分析师称“前所未见”",
+      "zh_desc": "GTA 6首日销量3250万份、收入37.9亿美元，分析师肯定其空前附着率，但指出主机装机规模限制上限，未确认的PC版是最大扩展机会。对从业者理解3A大作发行节奏与平台策略有参考，但与休闲手游关联较弱。",
+      "url": "https://www.gamesindustry.biz/this-was-unlike-anything-else-weve-ever-seen-before-but-gta-6s-success-is-limited-by-the-console-install-base-and-its-future-rests-on-pc",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-26T16:53:20",
+      "fetched_at": "2026-11-27T09:58:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar 的开放世界动作冒险游戏，首发表现空前但受主机装机量限制，PC 版被视为后续增长关键。"
+        }
+      ]
+    },
+    {
+      "id": "f40a1535da",
+      "title": "NielsenIQ：GTA 6发售期推动英国游戏零售收入增长99%至1.42亿英镑",
+      "zh_desc": "GTA 6上市三天带动英国游戏零售收入周环比增长99%至1.42亿英镑。体现头部3A对零售市场的拉动，但与三消/休闲手游关联不大。",
+      "url": "https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-26T11:55:50",
+      "fetched_at": "2026-11-27T09:58:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar 的开放世界动作冒险游戏，英国首发三天实体销售 3200 万英镑并推动游戏零售收入环比增长 99%。"
+        },
+        {
+          "name": "GTA 5",
+          "desc": "GTA 系列前作，保持英国首周盒装收入最高纪录。"
+        },
+        {
+          "name": "GTA 4",
+          "desc": "GTA 系列前作，在英国首周盒装收入排名中位列第 11。"
+        }
+      ]
+    },
+    {
+      "id": "e089d51c86",
+      "title": "AppMagic：GTA 6发售推动系列手游移植版首周合计下载230万次",
+      "zh_desc": "GTA 6的热度外溢至系列移动端移植作品，首周合计下载230万次。对移动游戏IP联动和用户导流有参考价值，但不是休闲消除品类分析。",
+      "url": "https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-26T10:07:50",
+      "fetched_at": "2026-11-27T09:58:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar 的开放世界动作冒险游戏，发售首周带动系列手游移植版合计下载 230 万次。"
+        },
+        {
+          "name": "GTA: Vice City – Definitive Edition",
+          "desc": "GTA 系列手游移植版，在 GTA 6 发售周以超 110 万安装量成为下载最高的移植作品。"
+        },
+        {
+          "name": "GTA Trilogy",
+          "desc": "GTA 三部曲合集，2023 年登陆 Netflix 时曾推动系列手游下载达到 800 万峰值。"
+        },
+        {
+          "name": "GTA 5 – Enhanced Edition",
+          "desc": "GTA 5 的增强版，GTA 6 发售周 Steam 日活从 40.7 万升至 71.8 万。"
+        },
+        {
+          "name": "GTA Legacy",
+          "desc": "GTA 系列作品，GTA 6 发售周 Steam 日活从 29.3 万升至 49.4 万。"
+        },
+        {
+          "name": "GTA 4: The Complete Edition",
+          "desc": "GTA 4 完整版，GTA 6 发售周 Steam 日活从 6.8 万升至 11.5 万。"
+        }
+      ]
+    },
+    {
+      "id": "b7bac1131e",
+      "title": "Supercell射击游戏Boat Game重返限量测试",
+      "zh_desc": "Supercell的低调射击游戏Boat Game在美国、加拿大、墨西哥、马来西亚和菲律宾的App Store与Google Play重新开启限量测试。对手游测试发行有一般参考，但与三消/消除品类无关。",
+      "url": "https://mobilegamer.biz/supercell-shooter-boat-game-is-back-in-limited-testing/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-26T12:20:12",
+      "fetched_at": "2026-11-27T09:58:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Boat Game",
+          "desc": "Supercell 的撤离射击游戏，玩家进入奇异热带世界搜集物资并设法撤离，目前重启限量测试。"
+        },
+        {
+          "name": "Sea of Thieves",
+          "desc": "Rare 的海盗题材多人冒险游戏，文中用作 Boat Game 早期形态的类比。"
+        }
+      ]
+    },
+    {
+      "id": "1e96a4ac46",
+      "title": "195位行业领袖如何看待玩家留存与参与度挑战",
+      "zh_desc": "ZBD调查195位游戏行业领袖，发现以IAP为主要变现方式的开发者中仅36%认为变现与用户体验平衡是痛点，广告和混合变现分别为53%和59%。数据对休闲手游留存、广告与IAP混合变现策略有参考价值。",
+      "url": "https://www.pocketgamer.biz/what-195-industry-leaders-think-about-player-retention-and-engagement-challenges/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-26T15:50:00",
+      "fetched_at": "2026-11-27T09:58:28",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "eff369fe42",
+      "title": "Ludo.ai推出面向2D游戏开发的AI Tileset Generator",
+      "zh_desc": "Ludo.ai的Tileset Generator可通过文本描述生成2D地图瓦片，支持俯视与等距视角，并可指定草地、沙地、鹅卵石等风格。对2D休闲游戏美术生产有工具参考，但不涉及玩法或数值拆解。",
+      "url": "https://www.pocketgamer.biz/ludoai-launches-ai-powered-tileset-generator-for-2d-game-development/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-26T10:48:00",
+      "fetched_at": "2026-11-27T09:58:28",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "ef64c1f4b7",
+      "title": "FitNot的Abdallah Elshabrawy：“文化让游戏被看见，品质让玩家留下”",
+      "zh_desc": "FitNot结合埃及及MENA市场“玩家多、人均付费低”的特点开发游戏，并曾为MBC Group打造Fananees Ramadan题材作品。属区域手游市场与团队经验分享，对休闲游戏本地化有一般参考。",
+      "url": "https://www.pocketgamer.biz/fitnots-abdallah-elshabrawy-culture-gets-a-game-noticed-quality-keeps-players/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-26T10:30:00",
+      "fetched_at": "2026-11-27T09:58:28",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fananees titles",
+          "desc": "FitNot 为 MBC Group 在 2025 年斋月期间制作的游戏系列，文中未展开玩法细节。"
+        },
+        {
+          "name": "ALI",
+          "desc": "FitNot 开发的一款游戏，文中仅以图片说明提及，未展开类型细节。"
+        }
+      ]
+    },
     {
       "id": "c264c44fd2",
       "title": "玩家已在 MONOPOLY GO! 上花费超过 80 亿美元",
