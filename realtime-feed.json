@@ -1,6 +1,63 @@
 {
-  "updated_at": "2026-11-27T10:31:14",
+  "updated_at": "2026-11-27T13:44:40",
   "articles": [
+    {
+      "id": "4a8826729b",
+      "title": "吟游诗人题材悬疑 RPG《Heart and Harmony》赢得 PGC Montreal 2026 Big Indie Pitch 冠军",
+      "zh_desc": "在 Pocket Gamer Connects Montreal 的 Big Indie Pitch 上，12 家独立工作室以速配形式向评委路演，Fableware 的《Heart and Harmony》夺冠。对关注独立手游立项方向与发行机会的从业者有一定参考价值。",
+      "url": "https://www.pocketgamer.biz/bardic-mystery-rpg-heart-and-harmony-wins-the-big-indie-pitch-at-pgc-montreal-2026/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-26T16:45:00",
+      "fetched_at": "2026-11-27T13:44:40",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Heart and Harmony（现名 Between Strings）",
+          "desc": "Fableware 开发的吟游诗人题材悬疑 RPG，玩家扮演犬类吟游诗人 Caramel，通过吉他创作和演唱歌谣、追踪气味与线索来调查失踪案，计划 2028 年登陆 Switch、PlayStation、Xbox 和 PC。"
+        },
+        {
+          "name": "Impostor Syndrome",
+          "desc": "Triple Boris 的参赛游戏，在 PGC Montreal 2026 Big Indie Pitch 中获得第二名；文章未提供其类型或玩法特点。"
+        },
+        {
+          "name": "ROSETIA",
+          "desc": "Redshift Panda 的参赛游戏，在 PGC Montreal 2026 Big Indie Pitch 中获得第三名；文章未提供其类型或玩法特点。"
+        }
+      ]
+    },
+    {
+      "id": "8a181c6949",
+      "title": "Roblox 与 PRS for Music 签署音乐授权协议",
+      "zh_desc": "Roblox 与英国音乐版权机构 PRS for Music 达成授权合作，将从 2027 年起向词曲作者与出版方分配版税。体现了 UGC 平台在内容合规与版权变现上的路径，对平台型休闲产品有借鉴意义。",
+      "url": "https://www.pocketgamer.biz/roblox-signs-music-licensing-agreement-with-prs-for-music/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-26T11:33:00",
+      "fetched_at": "2026-11-27T13:44:40",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Roblox",
+          "desc": "用户生成内容（UGC）游戏平台，支持数百万游戏体验，并与 PRS for Music 签署音乐授权协议。"
+        }
+      ]
+    },
+    {
+      "id": "c9d85e99c9",
+      "title": "新活动：Co-Dev Summit 加入 PG Connects London",
+      "zh_desc": "PG Connects London 将于 2027 年 1 月 18—19 日在伦敦 The Brewery 举办，并新增 Co-Dev Summit 分论坛，290 位讲者参与。对手游团队寻找联合研发与外包合作资源有实用价值。",
+      "url": "https://www.pocketgamer.biz/new-event-co-dev-summit-joins-pg-connects-london/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-26T09:30:00",
+      "fetched_at": "2026-11-27T13:44:40",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "ba79dfff95",
       "title": "World War Heroes 如何合并 1 亿+ 玩家账号并重塑匹配机制",
