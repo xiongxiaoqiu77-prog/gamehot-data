@@ -1,6 +1,71 @@
 {
-  "updated_at": "2026-11-27T14:17:46",
+  "updated_at": "2026-11-27T15:28:59",
   "articles": [
+    {
+      "id": "04f1afcb03",
+      "title": "EA Sports FC 27 用 AI 重现已故解说员 John Motson 的声音",
+      "zh_desc": "EA 在 EA Sports FC 27 中结合档案录音与生成式AI，重现已故解说员 John Motson 的声音。案例体现AI在游戏音频内容生产中的应用，对休闲游戏音频制作与本地化有间接启发，但非核心设计分析。",
+      "url": "https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-25T20:48:20",
+      "fetched_at": "2026-11-27T15:28:59",
+      "lang": "en",
+      "games": [
+        {
+          "name": "EA Sports FC 27",
+          "desc": "足球模拟游戏，使用档案录音与生成式AI重现已故解说员John Motson的声音。"
+        },
+        {
+          "name": "FIFA 96",
+          "desc": "系列早期足球游戏，John Motson作为原创解说员首次参与的作品。"
+        },
+        {
+          "name": "FIFA 2005",
+          "desc": "足球游戏，Motson在该作之前持续担任系列解说员。"
+        },
+        {
+          "name": "FIFA 19",
+          "desc": "足球游戏，Motson曾短暂回归参与解说。"
+        }
+      ]
+    },
+    {
+      "id": "f2cb781b29",
+      "title": "“第一个项目就接这些太疯狂了，但我们已经走到这里”——Playground 如何让全新 Fable 终于成型",
+      "zh_desc": "Fable 在多次延期后定档2027年2月23日，文章讲述 Playground 接手这一全新项目的开发挑战。属于主机大作开发管理案例，对休闲游戏团队的项目排期与风险管理有间接参考。",
+      "url": "https://www.gamesindustry.biz/youd-be-nuts-to-take-on-all-of-that-in-the-first-project-and-yet-here-we-are-how-playground-is-finally-making-good-on-an-all-new-fable",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-25T15:48:30",
+      "fetched_at": "2026-11-27T15:28:59",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Fable",
+          "desc": "Playground Games开发的奇幻动作角色扮演游戏重启作，强调幽默、故事、战斗、任务与Albion世界模拟。"
+        },
+        {
+          "name": "Forza Horizon",
+          "desc": "Playground Games的开放世界竞速游戏系列，开发期间与Fable并行推进。"
+        }
+      ]
+    },
+    {
+      "id": "a85b43b190",
+      "title": "分析师：至少到2028年前不要指望硬件降价",
+      "zh_desc": "S&P Global Market Intelligence Kagan 判断，受AI需求推高DRAM价格及扩产周期影响，主机等硬件至少到2028年前难降价。该分析有助于理解平台硬件成本环境，但与休闲手游直接关联较弱。",
+      "url": "https://www.gamesindustry.biz/analyst-dont-expect-hardware-price-cuts-until-at-least-2028",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-25T13:09:40",
+      "fetched_at": "2026-11-27T15:28:59",
+      "lang": "en",
+      "games": []
+    },
     {
       "id": "c299b808c1",
       "title": "Sir Ian Livingstone将在PGC London发表演讲",
