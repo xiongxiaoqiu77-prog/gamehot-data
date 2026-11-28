@@ -1,6 +1,311 @@
 {
-  "updated_at": "2026-11-27T15:28:59",
+  "updated_at": "2026-11-28T09:33:34",
   "articles": [
+    {
+      "id": "af7fc5d483",
+      "title": "GTA 6 发售一周：它对行业的影响初步显现",
+      "zh_desc": "梳理 GTA 6 上市一周后对游戏行业的冲击，包括破纪录的首日收入、话题垄断效应，以及此前业界预期与焦虑是否成立。对休闲游戏团队而言，可借此判断头部大作对用户时长、买量成本与档期排布的溢出影响。",
+      "url": "https://www.gamesindustry.biz/one-week-on-heres-the-impact-gta-6s-launch-had-on-the-industry-so-far",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-27T16:38:10",
+      "fetched_at": "2026-11-28T09:33:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar 的开放世界犯罪动作游戏，发售首周成为行业主导话题并创下破纪录首日收入。"
+        },
+        {
+          "name": "Call of Duty",
+          "desc": "动视的 FPS 射击游戏系列，文中其 DAU 在 GTA 6 发售周下降 46%。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "Epic 的免费大逃杀/社交沙盒游戏，文中其 DAU 同期下降 25%。"
+        },
+        {
+          "name": "Just Volleyball",
+          "desc": "低价排球游戏，在 GTA 6 发售周 Steam 销量超过 20 万份。"
+        },
+        {
+          "name": "Melvor Idle 2",
+          "desc": "放置/Idle 游戏，同期 Steam 销量超过 10 万份。"
+        },
+        {
+          "name": "Volvy's Adventure: Reslimed",
+          "desc": "Devolver 发行、Doinsoft 开发的创意新作，选择与 GTA 6 同日上市并超出预期。"
+        },
+        {
+          "name": "Flame, Forest and Flood",
+          "desc": "Fairy Mount 开发、与 GTA 6 同日发售的独立新作，开发者称销量未受明显影响。"
+        },
+        {
+          "name": "Shipshaper",
+          "desc": "Tomas Sala 的 crafting 游戏，其多人更新与 GTA 6 同日上线并创下最佳销售表现。"
+        }
+      ]
+    },
+    {
+      "id": "63b24eae09",
+      "title": "《Modern Warfare 4》发售推动 Call of Duty HQ 登顶 Newzoo PC 收入榜",
+      "zh_desc": "Newzoo 数据显示《Modern Warfare 4》上线一周内将 Call of Duty HQ 推至 PC 收入榜第一、主机榜第二。可观察头部 IP 上线对平台收入结构的短期拉动作用。",
+      "url": "https://www.gamesindustry.biz/modern-warfare-4-launch-boosts-call-of-duty-hq-to-top-of-newzoos-pc-charts",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-27T09:24:20",
+      "fetched_at": "2026-11-28T09:33:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Call of Duty: Modern Warfare 4",
+          "desc": "动视《使命召唤》系列 FPS 新作，发售推动 Call of Duty HQ 收入登顶 Newzoo PC 榜。"
+        },
+        {
+          "name": "Call of Duty HQ",
+          "desc": "《使命召唤》系列启动器/平台，因 MW4 发售升至 PC 收入第一、主机第二。"
+        },
+        {
+          "name": "EA Sports FC 27",
+          "desc": "EA 足球体育模拟年货，10 月主机收入榜第一。"
+        },
+        {
+          "name": "NBA 2K27",
+          "desc": "2K 篮球体育模拟年货，主机收入榜第四且位列新游收入前列。"
+        },
+        {
+          "name": "EA Sports Madden NFL 27",
+          "desc": "EA 美式橄榄球体育年货，主机收入榜第五。"
+        },
+        {
+          "name": "Planet Zoo 3（榜单写作 Planet Zoo）",
+          "desc": "动物园经营模拟新作，进入 10 月 PC 收入榜前十。"
+        },
+        {
+          "name": "Star Wars: Galactic Racer",
+          "desc": "星战题材竞速游戏，进入 PC 与主机收入前十。"
+        },
+        {
+          "name": "Aion 2",
+          "desc": "MMORPG 续作，进入 10 月 PC 收入榜前十。"
+        },
+        {
+          "name": "Gears of War: E-Day",
+          "desc": "《战争机器》系列第三人称射击新作，PC 收入第 17 名。"
+        },
+        {
+          "name": "Phantom Blade Zero（榜单写作 Phantom Blade: Zero）",
+          "desc": "动作角色扮演游戏，进入 PC 与主机收入榜。"
+        },
+        {
+          "name": "Nintendo Switch Sports Resort",
+          "desc": "Switch 体感体育/派对游戏，进入主机收入榜前 20。"
+        },
+        {
+          "name": "BeamNG.drive",
+          "desc": "软体物理车辆模拟/驾驶沙盒，主机收入第 14 名。"
+        },
+        {
+          "name": "Ace Combat 8: Wings of Theve",
+          "desc": "空战射击/飞行模拟游戏，主机收入第 17 名。"
+        },
+        {
+          "name": "Deadlock",
+          "desc": "Valve 的邀请制英雄射击/第三人称 MOBA 实验作品，更新后进入 PC MAU 前十。"
+        },
+        {
+          "name": "Arc Raiders",
+          "desc": "多人撤离射击游戏，靠更新与折扣提升排名。"
+        },
+        {
+          "name": "Cyberpunk 2077",
+          "desc": "开放世界科幻 RPG，Edgerunners 2 更新后 PC 收入与 MAU 排名上升。"
+        },
+        {
+          "name": "Fortnite",
+          "desc": "Epic 的免费大逃杀/社交沙盒游戏，PC 收入第 2、主机第 3。"
+        },
+        {
+          "name": "Valorant",
+          "desc": "Riot 的战术 FPS，PC 收入第 4。"
+        },
+        {
+          "name": "League of Legends",
+          "desc": "Riot 的 MOBA，PC 收入第 5。"
+        },
+        {
+          "name": "World of Warcraft",
+          "desc": "暴雪的 MMORPG，PC 收入第 6。"
+        },
+        {
+          "name": "Counter-Strike 2",
+          "desc": "Valve 的战术 FPS/竞技射击，PC 收入第 7。"
+        },
+        {
+          "name": "Overwatch",
+          "desc": "暴雪的团队英雄射击游戏，PC 收入第 11。"
+        },
+        {
+          "name": "Wardogs",
+          "desc": "榜单中的 PC 收入第 12 名作品，正文未展开类型/特点。"
+        },
+        {
+          "name": "DressMaker",
+          "desc": "榜单中的 PC 收入第 14 名作品，正文未展开类型/特点。"
+        },
+        {
+          "name": "Minecraft",
+          "desc": "Mojang 的沙盒建造生存游戏，PC 第 15、主机第 7。"
+        },
+        {
+          "name": "The Sims 4",
+          "desc": "EA 的生活模拟游戏，PC 收入第 16。"
+        },
+        {
+          "name": "Marvel Rivals",
+          "desc": "漫威题材团队英雄射击游戏，PC 第 19、主机第 13。"
+        },
+        {
+          "name": "Dead by Daylight",
+          "desc": "非对称多人恐怖生存游戏，PC 收入第 20。"
+        },
+        {
+          "name": "Roblox",
+          "desc": "UGC 游戏平台/沙盒，主机收入第 6。"
+        },
+        {
+          "name": "Grand Theft Auto 5",
+          "desc": "Rockstar 的开放世界犯罪动作游戏，主机收入第 10。"
+        },
+        {
+          "name": "EA Sports College Football 27",
+          "desc": "EA 大学美式橄榄球体育年货，主机收入第 12。"
+        },
+        {
+          "name": "Disney Dreamlight Valley",
+          "desc": "迪士尼题材生活模拟/冒险游戏，主机收入第 15。"
+        },
+        {
+          "name": "Minecraft Dungeons 2",
+          "desc": "Minecraft 衍生动作地牢 crawler，主机收入第 16。"
+        },
+        {
+          "name": "Marvel's Wolverine",
+          "desc": "漫威金刚狼题材动作冒险游戏，主机收入第 18。"
+        },
+        {
+          "name": "Tom Clancy's Rainbow Six Siege",
+          "desc": "育碧的战术射击游戏，主机收入第 19。"
+        }
+      ]
+    },
+    {
+      "id": "2f5e38dac9",
+      "title": "新游速览：Digimon Alysion、Monster Hunter Rise、Field Day、Cruise Chefs 等",
+      "zh_desc": "本周手游新游汇总，包含 Digimon Alysion、Monster Hunter Rise、Field Day、Cruise Chefs，以及 Outfit7 的一款软发布产品。可用于快速扫描海外新游题材与软发布动向。",
+      "url": "https://mobilegamer.biz/new-game-digest-digimon-alysion-monster-hunter-rise-field-day-cruise-chefs-more/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-27T10:37:50",
+      "fetched_at": "2026-11-28T09:33:34",
+      "lang": "en",
+      "games": []
+    },
+    {
+      "id": "c073515c23",
+      "title": "手游市场的真实规模、GTA 6 的行业影响与 Moonton 的欧洲野心｜一周观点",
+      "zh_desc": "PocketGamer.biz 团队就手游市场真实体量、GTA 6 对移动端的连带影响以及 Moonton 欧洲扩张等话题展开讨论。属于有观点的行业观察，可作为市场判断的辅助参考。",
+      "url": "https://www.pocketgamer.biz/the-true-value-of-the-mobile-games-market-gta-6s-wider-industry-impact-and-moontons-european-ambitions-week-in-views/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-11-27T16:20:00",
+      "fetched_at": "2026-11-28T09:33:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "GTA 6",
+          "desc": "Rockstar 的开放世界犯罪动作游戏，文中讨论其发售对英国移动动作/策略游戏支出的影响。"
+        }
+      ]
+    },
+    {
+      "id": "c708dbd07c",
+      "title": "新游汇总：Monster Hunter Rise Netflix、Digimon Alysion、Field Day 等",
+      "zh_desc": "汇总近期值得关注的手游新品及其研发与发行背景，包括 Netflix 版 Monster Hunter Rise。适合作为新品监控与题材趋势扫描的入口。",
+      "url": "https://www.pocketgamer.biz/new-release-roundup-monster-hunter-rise-netflix-digimon-alysion-field-day-and-more/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-27T15:40:00",
+      "fetched_at": "2026-11-28T09:33:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Monster Hunter Rise Netflix",
+          "desc": "Capcom 动作 RPG 的 Netflix Games 移动版，含触控重设计与多人狩猎。"
+        },
+        {
+          "name": "Escape the Baby Alarm",
+          "desc": "舒适/密室逃脱风格解谜游戏，围绕新手父母的日常挑战展开。"
+        },
+        {
+          "name": "Everything is Crab",
+          "desc": "Odd Dreams Digital 开发、Secret Mode 发行的动物进化 roguelite，含 160 多种进化。"
+        },
+        {
+          "name": "Field Day",
+          "desc": "Bit Odd 的多人 extraction action 游戏，四人自由混战、打怪搜刮。"
+        },
+        {
+          "name": "Digimon Alysion",
+          "desc": "标题列入本周新游汇总的数码宝贝题材新作，正文截断未展开具体类型/特点。"
+        }
+      ]
+    },
+    {
+      "id": "a532260ec7",
+      "title": "揭秘：2026 年 Q3 游戏厂商直接面向消费者（D2C）收入究竟有多少",
+      "zh_desc": "基于最新财报拆解 2026 年 Q3 各发行商在 D2C（官网/自有支付）渠道的实际收入表现与趋势。对手游变现负责人评估 Web 商店、自有支付与商店抽成规避策略具有直接参考价值。",
+      "url": "https://www.pocketgamer.biz/revealed-how-much-direct-to-consumer-revenue-games-publishers-really-made-in-q3-2026/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-11-27T12:30:00",
+      "fetched_at": "2026-11-28T09:33:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Disney Solitaire",
+          "desc": "Playtika 旗下 Superplay 的迪士尼主题纸牌手游，其网页商店于 2026 年 11 月 18 日上线。"
+        },
+        {
+          "name": "June's Journey",
+          "desc": "Wooga 的寻物/剧情手游，文中作为 Playtika 旗下产品被提及。"
+        }
+      ]
+    },
+    {
+      "id": "3926587a29",
+      "title": "Melon Sandbox 创作者分成 2026 年增长 102% 至 137 万美元",
+      "zh_desc": "移动 UGC 平台 Melon Sandbox 公布 2026 年 1 至 11 月向创作者支付 137 万美元，同比增长 102%，10 月单月达 15.8 万美元。可观察移动端 UGC 与创作者经济的增长节奏。",
+      "url": "https://www.pocketgamer.biz/melon-sandbox-creator-payouts-rise-102-to-137m-in-2026/",
+      "source": "Pocket Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-11-27T12:19:00",
+      "fetched_at": "2026-11-28T09:33:34",
+      "lang": "en",
+      "games": [
+        {
+          "name": "Melon Sandbox",
+          "desc": "PlayDucky 发行的 UGC 沙盒平台，曾用名 Melon Playground，玩家可创作地图/世界并通过 workshop 变现。"
+        }
+      ]
+    },
     {
       "id": "04f1afcb03",
       "title": "EA Sports FC 27 用 AI 重现已故解说员 John Motson 的声音",
